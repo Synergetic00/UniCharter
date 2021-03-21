@@ -1,0 +1,109 @@
+# Crawler
+
+Needs:
+
+* `pip3 install requests`
+
+`Crawler.py`
+
+the request's json returns:
+
+```
+json
+    contentlets
+        element0
+            hostName
+            modDate
+            creditPoints
+            code
+            data
+            sysId
+            description
+            studyLevel
+            type
+            title
+            contentTypeLabel
+            baseType
+            inode
+            mode
+            archived
+            host
+            working
+            locked
+            stInode
+            contentType
+            live
+            academicOrg
+            owner
+            identifier
+            level
+            studyLevelValue
+            languageId
+            active
+            URL_MAP_FOR_CONTENT
+            teachingPeriod
+            version
+            parentAcademicOrg
+            url
+            titleImage
+            modUserName
+            implementationYear
+            urlMap
+            folder
+            hasTitleImage
+            publishedInHandbook
+            sortOrder
+            modUser
+            location
+            levelDisplay
+            effectiveDate
+            status
+        element1
+            hostName
+            modDate
+            creditPoints
+            code
+            data
+            sysId
+            description
+            studyLevel
+            type
+            title
+            contentTypeLabel
+            baseType
+            inode
+            mode
+            archived
+            host
+            working
+            locked
+            stInode
+            contentType
+            live
+            academicOrg
+            owner
+            identifier
+            level
+            studyLevelValue
+            languageId
+            active
+            URL_MAP_FOR_CONTENT
+            teachingPeriod
+            version
+            parentAcademicOrg
+            url
+            titleImage
+            modUserName
+            implementationYear
+            urlMap
+            folder
+            hasTitleImage
+            publishedInHandbook
+            sortOrder
+            modUser
+            location
+            levelDisplay
+            effectiveDate
+            status
+    esresponse
+```
