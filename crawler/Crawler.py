@@ -16,10 +16,10 @@ r = requests.post(url, data=json.dumps(data), headers=headers)
 if r.status_code == 200:
     output = r.json()
     contentlets = output.get('contentlets')
-    for a in contentlets:
-        for k,v in a.items():
-            value = (v[:25] + '..') if len(str(v)) > 25 else v
-            print(str(k)+': '  + str(len(str(v))))
-        print("\n\n\n--STOP--\n\n\n")
+    for element in contentlets:
+        data = element.get('data')
+        parsed = json.loads(data)
+        print(len(parsed))
+        print(parsed["title"])
 else:
     print("Error encountered: "+str(r.status_code))
