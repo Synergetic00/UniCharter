@@ -17,8 +17,9 @@ if r.status_code == 200:
     output = r.json()
     contentlets = output.get('contentlets')
     for a in contentlets:
-        for b in a:
-            print(str((b)))
+        for k,v in a.items():
+            value = (v[:25] + '..') if len(str(v)) > 25 else v
+            print(str(k)+': '  + str(len(str(v))))
         print("\n\n\n--STOP--\n\n\n")
 else:
     print("Error encountered: "+str(r.status_code))
