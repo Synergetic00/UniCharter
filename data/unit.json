@@ -1,148 +1,73 @@
 {
-    "COMP1000": {
+    "ABST3040": {
         "activities": {
             "non-scheduled": {
                 "0": {
-                    "name": "Class Preparation",
-                    "offerings": "Session 1-Weekday-North Ryde, Session 2-Weekday-North Ryde, Session 2-Special"
+                    "description": "Students will have weekly readings or audio visual media (film documentaries etc.) to complete.",
+                    "name": "Readings",
+                    "offerings": ""
+                },
+                "1": {
+                    "description": "Students will need to do their own research for online blogs and essay assessment tasks.",
+                    "name": "Research",
+                    "offerings": ""
                 }
             },
             "scheduled": {
                 "0": {
-                    "description": "Lectures build on prescribed readings which students are expected to read before attending class.",
-                    "name": "Lecture (on campus)",
-                    "offerings": "Session 2-Weekday-North Ryde, Session 1-Weekday-North Ryde"
+                    "description": "External students will listen to a recorded lecture each week via Echo or other recordings that are posted. A range of lecturers and guest speakers will present a lecture each week based on the weekly topic.",
+                    "name": "Lecture (online)",
+                    "offerings": ""
                 },
                 "1": {
-                    "description": "MUIC Lessons",
-                    "name": "Seminar",
-                    "offerings": "Session 3-Weekday-North Ryde, Session 3-Special"
+                    "description": "External students will activley engage with a range of questions related to the lecture and readings on the iLearn forum and interact with their peers weekly in an online tutorial",
+                    "name": "Tutorial (online)",
+                    "offerings": ""
                 },
                 "2": {
-                    "description": "A shared discovery opportunity for the student to work through prescribed exercises with a teacher present.",
-                    "name": "Workshop",
-                    "offerings": "Session 1-Weekday-North Ryde, Session 2-Weekday-North Ryde, Session 2-Special"
-                },
-                "3": {
-                    "description": "Online lecture resources to watch each week.",
-                    "name": "Lecture (online)",
-                    "offerings": "Session 2-Special"
+                    "description": "On campus students will attend a weekly three hour seminar which consists of lecture and tutorial activities, discussions, debates and engagement with peers.",
+                    "name": "Seminar",
+                    "offerings": ""
                 }
             }
         },
         "assessments": {
             "0": {
-                "description": "A number of exams spread through the semester. Students will have the opportunity to repeat any exam to improve their mark.",
+                "description": "Students will answer 30 online questions based on the set unit readings and lecture content.",
                 "hurdle": "No",
-                "offerings": "Session 2-Special",
-                "title": "Module Exams",
-                "type": "Examination",
-                "weighting": "60"
+                "title": "Final Online Quiz",
+                "type": "Quiz/Test",
+                "weighting": "20"
             },
             "1": {
-                "description": "Students are required to complete three coding exercises during the term\n</div>\n</div>\n</div>",
+                "description": "Students will answer 10 online multiple choice questions based on the set unit readings and lecture content in weeks 1 and 2.",
                 "hurdle": "No",
-                "offerings": "Session 3-Weekday-North Ryde, Session 3-Special",
-                "title": "Coding Exercises",
-                "type": "Programming Task",
-                "weighting": "15"
+                "title": "First Quiz",
+                "type": "Quiz/Test",
+                "weighting": "10"
             },
             "2": {
-                "description": "A semester-long programming task where students put all their skills to work creating a game or demo.",
+                "description": "Students will post a 250 word online blog in response to weekly questions based on lecture topic and readings. Students will post to an online group forum that enables group members to have online discussions. Students will choose 4 blogs of their own blogs to submit for grading.",
                 "hurdle": "No",
-                "offerings": "Session 1-Weekday-North Ryde, Session 2-Weekday-North Ryde, Session 2-Special",
-                "title": "Major Creative Work",
-                "type": "Programming Task",
-                "weighting": "40"
+                "title": "Weekly Online Blogs",
+                "type": "Participatory task",
+                "weighting": "30"
             },
             "3": {
-                "description": "Examination assessing material from the Variables and Conditions module. Offered three time with highest mark counting towards final grade.",
-                "hurdle": "Yes",
-                "offerings": "Session 2-Weekday-North Ryde, Session 1-Weekday-North Ryde",
-                "title": "Variables and Conditions Exam",
-                "type": "Examination",
-                "weighting": "10"
-            },
-            "4": {
-                "description": "Examination assessing material from the Loops module. Offered three times with the highest mark counting towards final grade.",
-                "hurdle": "Yes",
-                "offerings": "Session 2-Weekday-North Ryde, Session 1-Weekday-North Ryde",
-                "title": "Loops Exam",
-                "type": "Examination",
-                "weighting": "10"
-            },
-            "5": {
-                "description": "Students are required to complete a combination of problem solving and short-answer questions.\n</div>\n</div>\n</div>",
+                "description": "2000 word Analytical Essay drawing on 3 weekly topics. Students can create their own essay question.",
                 "hurdle": "No",
-                "offerings": "Session 3-Weekday-North Ryde, Session 3-Special",
-                "title": "Assignment 1",
-                "type": "Problem set",
-                "weighting": "10"
-            },
-            "6": {
-                "description": "Examination assessing material from the Functions module. Offered three times with the highest mark counting towards final grade.",
-                "hurdle": "Yes",
-                "offerings": "Session 2-Weekday-North Ryde, Session 1-Weekday-North Ryde",
-                "title": "Functions Exam",
-                "type": "Examination",
-                "weighting": "10"
-            },
-            "7": {
-                "description": "Examination assessing material from the Compound Data module. Offered three times with the highest mark counting towards the final grade.",
-                "hurdle": "Yes",
-                "offerings": "Session 2-Weekday-North Ryde, Session 1-Weekday-North Ryde",
-                "title": "Compound Data Exam",
-                "type": "Examination",
-                "weighting": "10"
-            },
-            "8": {
-                "description": "Students are required to complete four module examinations on Variables and Conditionals, Loops, Functions and Compound Data. The exams are conducted online during lessons.\n</div>\n</div>\n</div>",
-                "hurdle": "Yes",
-                "offerings": "Session 3-Weekday-North Ryde, Session 3-Special",
-                "title": "Module Exams",
-                "type": "Examination",
+                "title": "Analytical Essay",
+                "type": "Essay",
                 "weighting": "40"
-            },
-            "9": {
-                "description": "Examination assessing material from the Program Design and Problem Solving module. Offered two times with the highest mark counting towards the final grade.",
-                "hurdle": "No",
-                "offerings": "Session 2-Weekday-North Ryde, Session 1-Weekday-North Ryde",
-                "title": "Program Design and Problem Solving Exam",
-                "type": "Examination",
-                "weighting": "10"
-            },
-            "10": {
-                "description": "Students are required to complete a programming exercise that is designed to begin building competency in using a Processing language to solve problems.\n</div>\n</div>\n</div>",
-                "hurdle": "No",
-                "offerings": "Session 3-Weekday-North Ryde, Session 3-Special",
-                "title": "Assignment 2",
-                "type": "Programming Task",
-                "weighting": "15"
-            },
-            "11": {
-                "description": "Examination assessing material from the Foundations of Programming module. Offered twice with highest mark counting towards final grade.",
-                "hurdle": "No",
-                "offerings": "Session 2-Weekday-North Ryde, Session 1-Weekday-North Ryde",
-                "title": "Foundations of Programming Exam",
-                "type": "Examination",
-                "weighting": "10"
-            },
-            "12": {
-                "description": "Students are required to complete an advanced programming task.\n</div>\n</div>\n</div>",
-                "hurdle": "No",
-                "offerings": "Session 3-Weekday-North Ryde, Session 3-Special",
-                "title": "Assignment 3",
-                "type": "Programming Task",
-                "weighting": "20"
             }
         },
         "credits": "10",
-        "department": "Department of Computing ",
-        "description": "This unit is an introductory computer science unit, providing a practical introduction to basic computing and programming concepts. Students gain an understanding of, and practical experience in, computer programming; practical experience in implementing informal prose descriptions of problem solutions using an imperative language; an understanding of, and practical experience in, designing, coding, testing and debugging simple algorithms; and an understanding of the principle of incremental development. Other topics include: the concept of program correctness; the differences between high-level languages, assembly languages and machine languages; the role played by compilers; and the execution of programs by computer hardware.",
-        "faculty": "Faculty of Science and Engineering",
+        "department": "Department of Indigenous Studies ",
+        "description": "This unit provides a focused reflection and critical analysis on the political histories of Indigenous peoples in Australia. Students in this unit will study past and current social and political movements dedicated to achieving social justice through the pursuit of human rights, civil rights, and Indigenous rights. Students will learn about a range of approached to social and political movements striving for justice for past and present acts of colonial violence, protecting land and country, protecting sovereignty and asserting the political status of first peoples. Through a process of critical reflection embedded in the unit, students will also reflect on the social and political movements that have influenced their own lives or their family&#39;s life. This unit presents a thought provoking experience of learning about social and political movements in Australia from an Indigenous perspective.",
+        "faculty": "Faculty of Arts",
         "group": "Undergraduate",
-        "level": "1000",
-        "nccw": "COMP115",
+        "level": "3000",
+        "nccw": "ABST304",
         "offerings": {
             "0": {
                 "attendance": "Weekday attendance",
@@ -150,32 +75,19 @@
                 "period": "Session 1"
             },
             "1": {
-                "attendance": "Weekday attendance",
-                "location": "North Ryde",
-                "period": "Session 2"
-            },
-            "2": {
-                "attendance": "Special circumstances",
-                "period": "Session 2"
-            },
-            "3": {
-                "attendance": "Weekday attendance",
-                "location": "North Ryde",
-                "period": "Session 3"
-            },
-            "4": {
-                "attendance": "Special circumstances",
-                "period": "Session 3"
+                "attendance": "Fully online/virtual",
+                "period": "Session 1"
             }
         },
         "outcomes": {
-            "ULO1": "apply problem solving skills to develop algorithms that solve small to medium-sized computational problems",
-            "ULO2": "design and write code to implement a program description in an imperative programming language",
-            "ULO3": "use standard software engineering practices to document, debug and test their programs",
-            "ULO4": "understand and apply appropriately the concepts of variables, loops, functions, conditionals and compound data in the implementation of programmed systems",
-            "ULO5": "identify and describe ethical issues in an academic environment and demonstrate active engagement in the learning process"
+            "ULO1": "Demonstrate an appreciation of how Indigenous worldviews, Indigenous knowledges and diverse experiences with colonisation inform various approaches to social and political movements",
+            "ULO2": "Demonstrate knowledge and scholarly understanding of the relationship between Indigenous experiences of colonisation and the subsequent development of individual and structural agency",
+            "ULO3": "Ability to understand the emancipatory nature of Indigenous critiques of colonial discourses and how it informs the development of personal and structural agency",
+            "ULO4": "Demonstrate ability to produce effective critically engaged arguments through rigorous engagement with academic resources",
+            "ULO5": "Demonstrate an appreciation and knowledge of the leadership requirements for social change across a range of sectors and spheres of influence (or interest)."
         },
-        "title": "Introduction to Computer Programming",
+        "prerequisite": "130cp at 1000 level or above",
+        "title": "Indigenous Policy: Politics and Activism",
         "type": "Unit"
     }
 }

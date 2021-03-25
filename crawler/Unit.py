@@ -1,7 +1,7 @@
 import requests
 import json
 
-code = "COMP1000"
+code = "ABST3040"
 query = 'mq2_psubject.code: \"'+code+'\"'
 url = "https://coursehandbook.mq.edu.au/api/es/search"
 units = {"query":{"bool":{"must":[{"query_string":{"query":query}},{"term":{"live":"true"}}]}},"aggs":{"implementationYear":{"terms":{"field":"mq2_psubject.implementationYear_dotraw","size":100}},"availableInYears":{"terms":{"field":"mq2_psubject.availableInYears_dotraw","size":100}}},"size":100,"_source":{"includes":["versionNumber","availableInYears","implementationYear"]}}
