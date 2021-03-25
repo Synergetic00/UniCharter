@@ -3,7 +3,10 @@
     "ABST1000": {},
     "ABST1020": {},
     "ABST2020": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "ABST2035": {
         "original": "ABST1000 or ABST100 or ABST1030"
@@ -18,7 +21,10 @@
         "original": "20cp from ABST2035 or ABST2020 or ABST202 or ABST2060"
     },
     "ABST3040": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "ABST8990": {
         "original": "Admission to BPhil/MRes"
@@ -26,7 +32,10 @@
     "ABSX1000": {},
     "ABSX1020": {},
     "ABSX2020": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "ABSX2035": {
         "original": "ABSX1020 or ABSX1000"
@@ -41,32 +50,56 @@
         "original": "20cp from  ABSX2035 or ABSX2020  or ABSX2060"
     },
     "ABSX3040": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "ACCG1000": {},
     "ACCG1001": {
         "original": "ACCG100 or ACCG106 or ACCG1000"
     },
     "ACCG2000": {
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "1000"
+        },
         "original": "50cp at 1000 level or above including ACCG100 or ACCG1000 or ACCG106"
     },
     "ACCG2002": {
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "1000"
+        },
         "original": "50cp at 1000 level or above including BBA102 or MGMT1002"
     },
     "ACCG2024": {
         "original": "ACCG101 or ACCG1001"
     },
     "ACCG2050": {
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "1000"
+        },
         "original": "50cp at 1000 level or above including ACCG100 or ACCG1000 or ACCG106"
     },
     "ACCG2051": {
-        "original": "50cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "1000"
+        }
     },
     "ACCG2065": {
-        "original": "50cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "1000"
+        }
     },
     "ACCG2067": {
-        "original": "50cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "1000"
+        }
     },
     "ACCG3001": {
         "original": "(ACCG200 or ACCG2000) or 130cp at 1000 level or above"
@@ -81,15 +114,26 @@
         "original": "(20cp at 2000 level or above including (BUSL250 or BUSL251 or ACCG2051)) or 40cp in LAW units at 2000 level"
     },
     "ACCG3025": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "ACCG3030": {
         "original": "(ACCG200 or ACCG2000) and (ACCG301 or ACCG3001)"
     },
     "ACCG3040": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including (ACCG308 or ACCG3008) and (ACCG250 or ACCG2050)"
     },
     "ACCG3050": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including AFIN250 or AFIN2050 or AFIN252 or AFIN253 or AFIN2053"
     },
     "ACCG3055": {
@@ -141,12 +185,20 @@
         "original": "ACCG611 or ACCG6011 or (admission to MAdvProfAcc or MCyberSec or GradCertForAccg or GradDipForAccg or MForAccgFinCri)"
     },
     "ACCG8048": {
+        "generalCredits": {
+            "minCredits": "20",
+            "minLevel": "6000"
+        },
         "original": "20cp at 6000 level or above including ACCG611 or ACCG6011 or ACCG614 or ACCG6014 or MGNT603 or ACCG6003"
     },
     "ACCG8076": {
         "original": "ACCG6011 or ACCG611 or (admission to MActPrac or MBkgFin or MBusAnalytics or GradCertForAccg or GradDipForAccg or MForAccgFinCri)"
     },
     "ACCG8077": {
+        "generalCredits": {
+            "minCredits": "20",
+            "minLevel": "6000"
+        },
         "original": "20cp at 6000 level or above including ACCG611 or ACCG6011"
     },
     "ACCG8078": {
@@ -242,6 +294,10 @@
         "original": "Admission to BActStud or BActStudBSc or BAppFinBActStud or BActStudBProfPrac or BActStudProfPrac(Hons)"
     },
     "ACST2001": {
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "1000"
+        },
         "original": "50cp at 1000 level or above including [(ACST101 or ACST1001) and (STAT150 or STAT1250 or STAT170 or STAT1170 or STAT171 or STAT1371)]"
     },
     "ACST2002": {
@@ -269,6 +325,10 @@
         "original": "ACST358 or ACST3058"
     },
     "ACST3061": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including STAT272 or STAT2372"
     },
     "ACST4002": {
@@ -449,15 +509,30 @@
         "original": "ACST101 or ACST1001 or ACST152 or ACST1052 or WACT101 or WACT1001"
     },
     "AFIN2000": {
-        "original": "70cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "70",
+            "minLevel": "1000"
+        }
     },
     "AFIN2050": {
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "1000"
+        },
         "original": "50cp at 1000 level or above including ((AFIN100 or AFIN102 or AFIN1002 or ACST152 or ACST1052) and (ACCG100 or ACCG1000 or ACCG106) and (STAT150 or STAT1250 or STAT170 or STAT1170 or STAT171 or STAT1371)) or (ACST252 or ACST2052)"
     },
     "AFIN2053": {
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "1000"
+        },
         "original": "50cp at 1000 level or above including ((ACCG100 or ACCG1000 or ACCG106) and (STAT150 or STAT1250 or STAT170 or STAT1170 or STAT171 or STAT1371) and (ACST101 or ACST1001) and (ECON111 or ECON1020))"
     },
     "AFIN2070": {
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "1000"
+        },
         "original": "50cp at 1000 level or above including (AFIN100 or AFIN102 or AFIN1002 or ACST152 or ACST1052) and (STAT150 or STAT1250 or STAT170 or STAT1170 or STAT171 or STAT1171)"
     },
     "AFIN3010": {
@@ -585,7 +660,10 @@
         "original": "AHIS118 or AHIS218 or AHST207 or AHIS1120"
     },
     "AHIS2130": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "AHIS2140": {
         "original": "AHIS158 or AHIS1140 or AHIS258"
@@ -597,10 +675,16 @@
         "original": "AHIS168 or AHIS1160 or AHIS268"
     },
     "AHIS2210": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "AHIS2211": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "AHIS2225": {
         "original": "40cp"
@@ -612,10 +696,16 @@
         "original": "40cp from 1000 level units or above"
     },
     "AHIS2301": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "AHIS2302": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "AHIS3000": {
         "original": "Admission to BAncHist or to BArch and 130cp at 1000 level or above"
@@ -719,7 +809,10 @@
         "original": "40cp"
     },
     "AHIX2210": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "AHIX2211": {},
     "AHIX2225": {
@@ -733,7 +826,10 @@
     "AHIX3001": {},
     "AHIX3201": {},
     "AHIX3202": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "AHIX3241": {},
     "AHIX3251": {},
@@ -799,21 +895,40 @@
         "original": "(ANTH150 or ANTH1050) or 40cp at 1000 level or above"
     },
     "ANTH3008": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "ANTH3010": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "ANTH3021": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "ANTH3022": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "ANTH3023": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "ANTH3024": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including (30cp from ANTH units including (10cp from ANTH units at 3000 level))"
     },
     "ANTH7000": {
@@ -913,7 +1028,10 @@
     },
     "ARTX1000": {},
     "ARTX3500": {
-        "original": "170cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "170",
+            "minLevel": "1000"
+        }
     },
     "ASBA8990": {},
     "ASTR2020": {
@@ -949,39 +1067,79 @@
         "original": "(BIOL2230 or BIOL257) or (20cp from (BIOL1110 or BIOL115) and ((BIOL1210 or BIOL108) or (BIOL1310 or BIOL114) or (BIOL1320 or BIOL122) or (BIOL1610 or BIOL116))) or ((PSYU1104 or PSYC104) and (PSYU1105 or PSYC105)) or ((ANAT1001 or HLTH108) and (ANAT1002 or HLTH109))"
     },
     "BIOL2230": {
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "1000"
+        },
         "original": "50cp at 1000 level or above including [(BIOL2220 or BIOL247) or (20cp from (BIOL1110 or BIOL115) or (BIOL1210 or BIOL108) or (ANAT1001 or HLTH108) or (ANAT1002 or HLTH109) or (PSYU1104 or PSYC104  or PSYU1101) or (PSYU1105 or PSYC105 or PSYU1102) or (COGS1000 or COGS100))]"
     },
     "BIOL2310": {
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "1000"
+        },
         "original": "50cp at 1000 level or above including (BIOL1310 or BIOL114)"
     },
     "BIOL2410": {
         "original": "(50cp including [20cp from ((BIOL1310 or BIOL114) or (BIOL1110 or BIOL115) or BIOL121)] or [10cp from ((BIOL1310 or BIOL114) or (BIOL1110 or BIOL115) or BIOL121) and 10cp from (ENVE117 or (ENVS1017 or ENVS117) or GEOS117)] and [10cp from ((STAT1170 or STAT170) or (STAT1371 or STAT171) or FOSE1015)])"
     },
     "BIOL2610": {
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        },
         "original": "40cp at 1000 level or above including (((STAT1170 or STAT170(P)) or (STAT1250 or STAT150) or (STAT1371 or STAT171) or FOSE1015) and (10cp(P) in BBE or BIOL units))"
     },
     "BIOL3110": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including BIOL2110 or BIOL206"
     },
     "BIOL3120": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including BIOL2110 or BIOL206(P)"
     },
     "BIOL3210": {
         "original": "[(BIOL2220 or BIOL247) and ((BIOL2230 or BIOL257) or (MEDI2300 or MEDI204) or (admission to BHumanSc))] and 20cp at 2000 level including BIOL2220 or BIOL247"
     },
     "BIOL3310": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including (BIOL2510 or BIOL262) or BIOL208 or (BIOL2310 or BIOL228) or (BIOL2210 or BIOL229)"
     },
     "BIOL3410": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including ((BIOL2410 or BIOL227) or BIOL210 or (BIOL2310 or BIOL228) or (BIOL2210 or BIOL229) or (ENVS266 or ENVS2266))"
     },
     "BIOL3420": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including (BIOL2410 or BIOL227)"
     },
     "BIOL3440": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including (BIOL2410 or BIOL227) or (BIOL2310 or BIOL228) or (ENVS3239 or ENVS339)"
     },
     "BIOL3510": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including BIOL262 or BIOL208 or (BIOL2310 or BIOL228) or (BIOL2210 or BIOL229)"
     },
     "BIOL3520": {
@@ -1087,9 +1245,17 @@
         "original": "(40cp at 1000 level or above) including (BIOL1310 or BIOL114) or (BIOL1110 or BIOL115)"
     },
     "BIOX2310": {
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "1000"
+        },
         "original": "50cp at 1000 level or above including (BIOL1310 or BIOL114)"
     },
     "BIOX2610": {
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        },
         "original": "40cp at 1000 level or above including (((STAT1170 or STAT170(P)) or (STAT1250 or STAT150) or (STAT1371 or STAT171) or FOSE1015) and (10cp(P) in BBE or BIOL units))"
     },
     "BMOL1001": {
@@ -1102,15 +1268,31 @@
         "original": "CHEM1001 or CBMS107 or CBMS103"
     },
     "BMOL3201": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including BMOL2201 or CBMS201 or CBMS223"
     },
     "BMOL3202": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including CHEM2201 or CBMS200 or BMOL2201 or CBMS201"
     },
     "BMOL3401": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including BMOL2401 or CBMS215 or CBMS202"
     },
     "BMOL3402": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including BMOL2201 or CBMS201 or CBMS223"
     },
     "BMOL6201": {
@@ -1133,6 +1315,10 @@
         "original": "(STAT150 or STAT1250 or STAT170 or STAT1170 or STAT171 or STAT1371) and (COMP115 or COMP1000 or ISYS114 or COMP1350)"
     },
     "BUSA3015": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including (STAT150 or STAT1250 or STAT170 or STAT1170 or MKTG216 or MGMT2016)"
     },
     "BUSA3020": {
@@ -1409,6 +1595,10 @@
         "original": "CIVL1001"
     },
     "CIVL3101": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including MECH2002 or MECH202"
     },
     "CIVL4090": {
@@ -1430,7 +1620,10 @@
         "original": "COGS1000 or COGS100"
     },
     "COGS2010": {
-        "original": "60cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "60",
+            "minLevel": "1000"
+        }
     },
     "COGS2020": {
         "original": "STAT1170 or STAT170"
@@ -1506,6 +1699,10 @@
         "original": "(COMP1010 or COMP125) and 10cp from (MATH132-MATH136 or DMTH137 or MATH1007-MATH1025 or (STAT150 or STAT1250) or (STAT170 or STAT1170) or (STAT171 or STAT1371) or (STAT175 or STAT1175))"
     },
     "COMP2050": {
+        "generalCredits": {
+            "minCredits": "60",
+            "minLevel": "1000"
+        },
         "original": "60cp at 1000 level or above including COMP1010 or COMP125"
     },
     "COMP2100": {
@@ -1540,42 +1737,82 @@
         "original": "COMP1350 or ISYS114"
     },
     "COMP3000": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including COMP2010 or COMP225 or COMP2000 or COMP229"
     },
     "COMP3010": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including (COMP2010 or COMP225) and (MATH2907 or DMTH237)"
     },
     "COMP3100": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including (COMP2100 or COMP202) and (COMP2250 or COMP247)"
     },
     "COMP3120": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including COMP2110 or COMP249"
     },
     "COMP3130": {
         "original": "COMP229 or COMP2000 or COMP249 or COMP2110"
     },
     "COMP3150": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including COMP2150 or COMP260"
     },
     "COMP3151": {
         "original": "COMP3150 or COMP352"
     },
     "COMP3160": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including COMP2000 or COMP229 or COMP2010 or COMP225 or COMP2110 or COMP249 or COMP2160"
     },
     "COMP3170": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including COMP2000 or COMP229 or COMP2010 or COMP225 or COMP2160"
     },
     "COMP3180": {
         "original": "COMP2150 and COMP2160"
     },
     "COMP3210": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including COMP2200 or COMP257"
     },
     "COMP3220": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including COMP2110 or COMP249 or COMP2200 or COMP257"
     },
     "COMP3250": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including ((COMP1010 or COMP125) and (COMP2250 or COMP247)) and ((DMTH137 or MATH1007 or MATH2907 or DMTH237 or ELEC2040 or ELEC240))"
     },
     "COMP3260": {
@@ -1585,33 +1822,64 @@
         "original": "COMP2250 and COMP3260"
     },
     "COMP3300": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including (COMP1010 or COMP125) and (DMTH137 or MATH1007 or (MATH2907 or DMTH237))"
     },
     "COMP3320": {
         "original": "(130cp at 1000 level or above and (COMP1300 or COMP107) and (COMP1350 or ISYS114) and (COMP343 or COMP2300))"
     },
     "COMP3760": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including (COMP2350 or ISYS224) or (COMP2750 or ISYS254) or (COMP2050 or COMP255)"
     },
     "COMP3770": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including 20cp in COMP or ISYS or ACCG or STAT or BUS or BBA or MGMT units at 2000 level"
     },
     "COMP3780": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "COMP3850": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including ((COMP2250 or COMP247) or (COMP2110 or COMP249) or (COMP2050 or COMP255) or (COMP2200 or COMP257) or (COMP2750 or ISYS254))"
     },
     "COMP3900": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including COMP2900 and admission to BAdvIT"
     },
     "COMP4000": {
         "original": "(COMP3000 or COMP332) and (COMP3010 or COMP333)"
     },
     "COMP4050": {
+        "generalCredits": {
+            "minCredits": "200",
+            "minLevel": "1000"
+        },
         "original": "200cp at 1000 level or above including (COMP2050 or COMP255) and (COMP3010 or COMP333)"
     },
     "COMP4060": {
+        "generalCredits": {
+            "minCredits": "200",
+            "minLevel": "1000"
+        },
         "original": "200cp at 1000 level or above including (COMP2050 or COMP255) and (COMP3010 or COMP333)"
     },
     "COMP4092": {
@@ -1790,12 +2058,23 @@
     "ECHE1300": {},
     "ECHE1310": {},
     "ECHE2100": {
+        "generalCredits": {
+            "minCredits": "80",
+            "minLevel": "1000"
+        },
         "original": "80cp at 1000 level or above including ((ECH113 or ECHE1130 or ABEC120) and (ECHE120 or ECHE1200))"
     },
     "ECHE2180": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "ECHE2200": {
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        },
         "original": "40cp at 1000 level or above including (ECH113 or ECHE1130)"
     },
     "ECHE2310": {
@@ -1808,9 +2087,17 @@
         "original": "ECH232 or ECHE2320"
     },
     "ECHE3100": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including (ECH113 or ECHE1130 or ABEC120) and (ECH130 or ECHE1300)"
     },
     "ECHE3110": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including (ECHE220 or ECHE2200) and (ECHE118 or ECHE1180 or ABEC113)"
     },
     "ECHE3150": {
@@ -1820,7 +2107,10 @@
         "original": "(130cp at 1000 level or above) including (ECH131 or ECHE1310 or ECH129)"
     },
     "ECHE3260": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "ECHE3300": {
         "original": "(ECH130 or ECHE1300) and (ECHE340 or ECHE3400)"
@@ -1829,9 +2119,17 @@
         "original": "(130cp at 1000 level or above) including [(ECH218 or ECHE2180) or (ECH216 and admission to BTeach(0-5)) or admission to BTeach(ECS)]"
     },
     "ECHE3400": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including (ECH130 or ECHE1300) and (ECHP223 or ECHP2230)"
     },
     "ECHE4000": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including (ECH218 or ECHE2180 or ECH228)"
     },
     "ECHE4200": {
@@ -1844,6 +2142,10 @@
         "original": "130cp including ECH335 or ECHE2340 or ECHE234"
     },
     "ECHE4330": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including (ECH231 or ECHE2310 or ECH214)"
     },
     "ECHE4350": {
@@ -1856,7 +2158,10 @@
         "original": "130cp including (ECH228 or ECH218 or ECHE2180 or EDUC262 or EDUC2620 or PSY235 or PSYU2235)"
     },
     "ECHE4540": {
-        "original": "160cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "160",
+            "minLevel": "1000"
+        }
     },
     "ECHE6000": {
         "original": "Admission to MTeach(0-5) or GradCertEChild"
@@ -1953,30 +2258,62 @@
     },
     "ECON1031": {},
     "ECON2003": {
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "1000"
+        },
         "original": "50cp at 1000 level or above including ECON111 or ECON1021"
     },
     "ECON2004": {
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "1000"
+        },
         "original": "50cp at 1000 level or above including ECON110 or ECON1021"
     },
     "ECON2015": {
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "1000"
+        },
         "original": "50cp at 1000 level or above including ECON111 or ECON1020"
     },
     "ECON2032": {
         "original": "ECON241 or ECON2041 or STAT272 or STAT2372"
     },
     "ECON2035": {
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "1000"
+        },
         "original": "50cp at 1000 level or above including ECON110 or ECON111 or ECON1020"
     },
     "ECON2041": {
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "1000"
+        },
         "original": "50cp at 1000 level or above including ((STAT150 or STAT1250 or STAT170 or STAT1170 or STAT171 or STAT1371) and (ECON110 or ECON111 or ECON1020))"
     },
     "ECON2044": {
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "1000"
+        },
         "original": "50cp at 1000 level or above including ECON111 or ECON1020"
     },
     "ECON2050": {
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "1000"
+        },
         "original": "50cp at 1000 level or above including ECON110 or ECON111 or ECON1020"
     },
     "ECON3000": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including ((ECON110 or ECON111 or ECON1020) and 20cp at 2000 level or above)"
     },
     "ECON3009": {
@@ -1986,30 +2323,66 @@
         "original": "20cp at 2000 level including ECON204 or ECON2004"
     },
     "ECON3018": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including ((ECON110 or ECON111 or ECON1020) and 20cp at 2000 level or above)"
     },
     "ECON3020": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including ((ECON110 or ECON111 or ECON1020) and (20cp at 2000 level or above))"
     },
     "ECON3034": {
+        "generalCredits": {
+            "minCredits": "90",
+            "minLevel": "1000"
+        },
         "original": "90cp at 1000 level or above including ECON241 or ECON2041 or STAT272 or STAT2372"
     },
     "ECON3036": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including ((ECON110 or ECON111 or ECON1020) and 20cp at 2000 level or above)"
     },
     "ECON3056": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including ((ECON110 or ECON111 or ECON1020) and 20cp at 2000 level or above)"
     },
     "ECON3059": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including ((ECON110 or ECON111 or ECON1020) and 20cp at 2000 level or above)"
     },
     "ECON3060": {
+        "generalCredits": {
+            "minCredits": "20",
+            "minLevel": "2000"
+        },
         "original": "20cp at 2000 level or above including ECON203 or ECON2003 or ECON204 or ECON2004 or AFIN250 or AFIN2050"
     },
     "ECON3081": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including ((ECON203 or ECON2003) and (ECON204 or ECON2004))"
     },
     "ECON3098": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including ((ECON110 or ECON111 or ECON1020) and 20cp at 2000 level or above)"
     },
     "ECON6032": {
@@ -2114,22 +2487,42 @@
         "original": "ECHE1130 or ECH113"
     },
     "EDST2140": {
+        "generalCredits": {
+            "minCredits": "120",
+            "minLevel": "1000"
+        },
         "original": "120cp at 1000 level or above including ECHE1130 or ECH113"
     },
     "EDST2999": {},
     "EDST3000": {
+        "generalCredits": {
+            "minCredits": "160",
+            "minLevel": "1000"
+        },
         "original": "160cp at 1000 level or above including (EDST2000 or EDST200) and (EDST3110 or EDST311) and EDST2999"
     },
     "EDST3010": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including  EDST2999 and (EDST200 or EDST2000)"
     },
     "EDST3020": {
         "original": "(EDST2000 or EDST200 or EDST2010 or EDST201 or ECHP2220 or ECHP222) and (ECHE220 or ECHE2200)"
     },
     "EDST3100": {
+        "generalCredits": {
+            "minCredits": "160",
+            "minLevel": "1000"
+        },
         "original": "160cp at 1000 level or above including EDST2100 or EDST210"
     },
     "EDST3110": {
+        "generalCredits": {
+            "minCredits": "120",
+            "minLevel": "1000"
+        },
         "original": "120cp at 1000 level or above including (EDST2000 or EDST200) and (EDST2110 or EDST211)"
     },
     "EDST3140": {
@@ -2334,6 +2727,10 @@
         "original": "Admission to MTeach (Birth to five)"
     },
     "EDTE2480": {
+        "generalCredits": {
+            "minCredits": "80",
+            "minLevel": "1000"
+        },
         "original": "80cp at 1000 level or above including (EDUC107 or EDUC1070) or ((EDUC105 or EDUC1050) and (EDUC106 or EDUC1060))"
     },
     "EDTE2510": {
@@ -2377,6 +2774,10 @@
         "original": "130cp and (EDTE3880 or TEP388) or (EDST3140 and EDTE3010)"
     },
     "EDTE4210": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including ((EDTE3880 or TEP388) or  (EDTE3140 and  EDTE3010))"
     },
     "EDTE4220": {
@@ -2437,40 +2838,76 @@
     "EDUC1060": {},
     "EDUC1070": {},
     "EDUC2580": {
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        },
         "original": "40cp at 1000 level or above including ((EDUC1050 or EDUC105) or (EDUC1060 or EDUC106) or (EDUC1070 or EDUC107))"
     },
     "EDUC2600": {
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        },
         "original": "40cp at 1000 level or above including (EDUC1050 or EDUC105 or EDUC1060 or EDUC106) or (admission to BEd(ECE)(0-12) and (EDUC1060 or EDUC106 or ECH126))"
     },
     "EDUC2610": {
         "original": "80cp or (20cp of EDUC or EDST units)"
     },
     "EDUC2620": {
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        },
         "original": "40cp at 1000 level or above including (EDUC1050 or EDUC105 or EDUC1070 or EDUC107 or EDST1010 or EDST101)"
     },
     "EDUC2670": {
+        "generalCredits": {
+            "minCredits": "80",
+            "minLevel": "1000"
+        },
         "original": "80cp at 1000 level or above including (EDTE251 or EDTE2510 or EDUC105 or EDUC1050 or EDUC106 or EDUC1060 or EDUC107 or EDUC1070)"
     },
     "EDUC2920": {
+        "generalCredits": {
+            "minCredits": "80",
+            "minLevel": "1000"
+        },
         "original": "80cp at 1000 level or above including EDUC1070 or EDUC107"
     },
     "EDUC3620": {
         "original": "130cp at 1000 or above including 20cp of EDUC or EDST units at 2000 level"
     },
     "EDUC3650": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "EDUC3710": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including (EDUC2600 or EDUC260)"
     },
     "EDUC3730": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "EDUC3830": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "EDUC3880": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "EDUC3990": {},
     "EDUC7000": {
@@ -2603,6 +3040,10 @@
         "original": "Permission by special approval"
     },
     "ENGG4099": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including ENGG2000"
     },
     "ENGG4104": {
@@ -2621,7 +3062,10 @@
         "original": "ENGG805 or ENGG8090"
     },
     "ENGG8102": {
-        "original": "60cp at 4000 level or above"
+        "generalCredits": {
+            "minCredits": "60",
+            "minLevel": "4000"
+        }
     },
     "ENGG8103": {
         "original": "Admission to MEngMgt or MEngElecEng or MEngNetTeleEng"
@@ -2668,19 +3112,31 @@
         "original": "20cp at 2000 level including ENGL2033 or ENGL233"
     },
     "ENGL3010": {
-        "original": "130cps at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "ENGL3020": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "ENGL3031": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "ENGL3035": {
         "original": "20cp at 2000 level including ENGL2033 or ENGL233"
     },
     "ENGL3040": {
-        "original": "80cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "80",
+            "minLevel": "1000"
+        }
     },
     "ENGL3051": {
         "original": "ENGL1001 or ENGL1002 or ENGL120; and 20cp in ENGL units at 2000 level or above"
@@ -2753,13 +3209,19 @@
         "original": "20cp at 2000 level including ENGX2033 or ENGX233"
     },
     "ENGX3010": {
-        "original": "130cps at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "ENGX3020": {
         "original": "130 cp at 1000 level or above"
     },
     "ENGX3031": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "ENGX3035": {
         "original": "20 cp at 2000 level including ENGX2033 or ENGX233"
@@ -2806,16 +3268,25 @@
     "ENVS1017": {},
     "ENVS1018": {},
     "ENVS2115": {
-        "original": "60cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "60",
+            "minLevel": "1000"
+        }
     },
     "ENVS2237": {
-        "original": "60cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "60",
+            "minLevel": "1000"
+        }
     },
     "ENVS2266": {
         "original": "ENVE117 or ENVS117 or ENVS1017 or GEOS117 or GEOS112 or GEOS1110 or EESC1150"
     },
     "ENVS2364": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "ENVS2467": {
         "original": "GEOS114 or ENV118 or ENVS1018 or GEOS118 or ENVS117 or ENVS1017"
@@ -2836,9 +3307,17 @@
         "original": "(130cp at 1000 level or above) including (ENV264 or ENVS264 or ENVS2364 or GEOS264)"
     },
     "ENVS3439": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including ENVE266 or ENVS266 or ENVS2266 or GEOS266 or ENVS2237"
     },
     "ENVS3462": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including (ENV267 or ENVS2467 or ENVS214 or ENVS2115)"
     },
     "ENVS3463": {
@@ -2941,7 +3420,10 @@
         "original": "Admission to BPhil/MRes"
     },
     "FOHS3050": {
-        "original": "60cp at 2000 level or above"
+        "generalCredits": {
+            "minCredits": "60",
+            "minLevel": "2000"
+        }
     },
     "FOHS7000": {
         "original": "Admission to MRes"
@@ -3022,23 +3504,41 @@
     "GEND1000": {},
     "GEND1020": {},
     "GEND2020": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "GEND2030": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "GEND3010": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "GEND3030": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "GENX1000": {},
     "GENX2020": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "GENX3010": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "GEOP1010": {},
     "GEOP1030": {},
@@ -3047,19 +3547,31 @@
     },
     "GEOP1080": {},
     "GEOP2010": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "GEOP2040": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "GEOP2050": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "GEOP2060": {
         "original": "(GEOP1010 or GEOP111) and (GEOP2010 or GEOP201)"
     },
     "GEOP2070": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "GEOP2080": {
         "original": "GEOP1040"
@@ -3140,7 +3652,10 @@
         "original": "(GEOS206 or GEOS2130) and 120cp at 1000 level or above"
     },
     "GEOS3136": {
-        "original": "120cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "120",
+            "minLevel": "1000"
+        }
     },
     "GEOS3315": {
         "original": "10cp in GEOS units at 2000 level and 10cp in GEOS or MATH or PHYS units at 2000 level"
@@ -3298,7 +3813,10 @@
         "original": "GRMN3010 or GMN310"
     },
     "HLTH2000": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "HLTH2110": {
         "original": "Admission to BChiroSc and CHIR1101 or CHIR113 or ANAT1001 or HLTH108 or BIOL1210 or BIOL108"
@@ -3310,15 +3828,31 @@
         "original": "(120cp at 1000 level or above including HLTH2000 or HLTH200) or (130cp and admission to BHumanSc or BPsychBHumanSc or BPsych(Hons)BHumanSc) or (30cp in EDUC or ECHE units at 3000 level) or (130cp including 80cp of PSYU units and admission to BSc) and permission by special approval."
     },
     "HLTH3100": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including HLTH200 or HLTH2000) or 130cp and admission to BHumanSc"
     },
     "HLTH3140": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including 40cp at 2000 level"
     },
     "HLTH3302": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including HLTH2301 or HLTH215"
     },
     "HLTH3303": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including HLTH2301 or HLTH215"
     },
     "HLTH3500": {
@@ -3423,7 +3957,10 @@
         "original": "Permission by special approval"
     },
     "INTS2020": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "INTS2090": {
         "original": "40cp and permission by special approval"
@@ -3515,7 +4052,10 @@
         "original": "JPNS2010 or JPS201"
     },
     "JPNS2022": {
-        "original": "80cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "80",
+            "minLevel": "1000"
+        }
     },
     "JPNS2210": {
         "original": "JPNS1220"
@@ -3527,16 +4067,25 @@
         "original": "JPNS2020 or JPS202"
     },
     "JPNS3015": {
-        "original": "50cp at 2000 level or above"
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "2000"
+        }
     },
     "JPNS3020": {
         "original": "JPNS3010 or JPS301"
     },
     "JPNS3021": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "JPNS3050": {
-        "original": "50cp at 2000 level or above"
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "2000"
+        }
     },
     "JPNX1010": {},
     "JPNX1020": {
@@ -3562,6 +4111,10 @@
         "original": "60cp including LAWS1010 or LEX101 or LEX102 or PICT101 or PICT103 or PICT1030 or LAW109 or LAWS1300"
     },
     "LAWS2060": {
+        "generalCredits": {
+            "minCredits": "60",
+            "minLevel": "1000"
+        },
         "original": "60cp at 1000 level or above including LAWS1010 or LEX101 or LEX102 or LAWS1000 or LAW115"
     },
     "LAWS2100": {
@@ -3848,7 +4401,10 @@
     "LING1120": {},
     "LING1121": {},
     "LING2213": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "LING2214": {
         "original": "LING110 or LING111 or LING1111 or PSY104 or PSYC104 or PSYU1104 or PSYX104 or PSYX1104 or PSYU1101 or PSY105 or PSYC105 or PSYU1105 or PSYX105 or PSYX1105 or PSYU1102"
@@ -3860,39 +4416,68 @@
         "original": "10cp from LING units at 1000 level"
     },
     "LING2219": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "LING2220": {
         "original": "LING110 or LING111 or LING1111"
     },
     "LING2293": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "LING3300": {
         "original": "40cp from LING2210 - LING2230"
     },
     "LING3381": {
-        "original": "40cps at 2000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "2000"
+        }
     },
     "LING3383": {
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "2000"
+        },
         "original": "50cp at 2000 level or above including 10cp of LING units at 2000 level"
     },
     "LING3384": {
         "original": "20cp in LING units at 2000 level or above including (LING220 or LING2220)"
     },
     "LING3385": {
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "2000"
+        },
         "original": "50cp at 2000 level or above including 10cp from LING units at 2000 level"
     },
     "LING3386": {
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "2000"
+        },
         "original": "50cp at 2000 level or above including 10cp of LING units at 2000 level"
     },
     "LING3388": {
         "original": "50cp at 2000 level or above and permission by special approval"
     },
     "LING3390": {
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "2000"
+        },
         "original": "50cp at 2000 level or above including (LING2217 or LING217)"
     },
     "LING3391": {
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "2000"
+        },
         "original": "50cp at 2000 level or above including 10cp of LING units at 2000 level"
     },
     "LING7385": {
@@ -4085,12 +4670,20 @@
         "original": "Admission to BClinSc"
     },
     "MEDI2004": {
+        "generalCredits": {
+            "minCredits": "30",
+            "minLevel": "1000"
+        },
         "original": "30cp at 1000 level or above including (BMOL1001 or CBMS104 or CBMS107 or CHEM1001)"
     },
     "MEDI2005": {
         "original": "(50cp at 1000 level or above) and admission to BClinSc"
     },
     "MEDI2100": {
+        "generalCredits": {
+            "minCredits": "30",
+            "minLevel": "1000"
+        },
         "original": "30cp at 1000 level or above including ANAT1001 or HLTH108"
     },
     "MEDI2101": {
@@ -4109,6 +4702,10 @@
         "original": "(STAT170 or STAT1170) and FOSE1025"
     },
     "MEDI2300": {
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        },
         "original": "40cp at 1000 level or above including HLTH108 or ANAT1001"
     },
     "MEDI2301": {
@@ -4121,12 +4718,19 @@
         "original": "(CMBS104 or BMOL1001) and (PHYS149 or PHYS1210)"
     },
     "MEDI2900": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "MEDI3100": {
         "original": "(HLTH108 or ANAT1001) and 20cp from (MEDI204 or MEDI2300 or MEDI203 or MEDI2100 or HLTH213 or ANAT2003 or BIOL247 or BIOL2220)"
     },
     "MEDI3200": {
+        "generalCredits": {
+            "minCredits": "140",
+            "minLevel": "1000"
+        },
         "original": "140cp at 1000 level or above including (CBMS107 or CHEM1001 or CBMS104 or BMOL1001) and ((MEDI219 or MEDI2200) or ((BIOL206 or BIOL2110) and (CBMS202 or BMOL2401))"
     },
     "MEDI3300": {
@@ -4139,6 +4743,10 @@
         "original": "Admission to BClinSc and (MEDI206 or MEDI2400)"
     },
     "MEDI3401": {
+        "generalCredits": {
+            "minCredits": "140",
+            "minLevel": "1000"
+        },
         "original": "140cp at 1000 level or above including ((MEDI103 or MEDI1400) and (MEDI206 or MEDI2400))"
     },
     "MEDI3900": {
@@ -4246,31 +4854,50 @@
     "MGMT1007": {},
     "MGMT1011": {},
     "MGMT1020": {
-        "original": "30cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "30",
+            "minLevel": "1000"
+        }
     },
     "MGMT2002": {
+        "generalCredits": {
+            "minCredits": "70",
+            "minLevel": "1000"
+        },
         "original": "70cp at 1000 level or above including BUS201 or MGMT1005"
     },
     "MGMT2010": {
         "original": "MGMT1002 or BBA102"
     },
     "MGMT2016": {
-        "original": "70cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "70",
+            "minLevel": "1000"
+        }
     },
     "MGMT2018": {
         "original": "MGMT1002 or BBA102"
     },
     "MGMT2022": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "MGMT2025": {
         "original": "MGMT1020 or BBA220"
     },
     "MGMT2030": {
-        "original": "50cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "1000"
+        }
     },
     "MGMT2031": {
-        "original": "50cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "1000"
+        }
     },
     "MGMT2040": {
         "original": "HRM107 or MGMT1007"
@@ -4279,6 +4906,10 @@
         "original": "HRM107 or MGMT1007"
     },
     "MGMT2080": {
+        "generalCredits": {
+            "minCredits": "70",
+            "minLevel": "1000"
+        },
         "original": "70cp at 1000 level or above including BBA102 or MGMT1002"
     },
     "MGMT2901": {
@@ -4288,21 +4919,36 @@
         "original": "MGMT201 or MGMT2901"
     },
     "MGMT3000": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including (20cp in BBA or BUS or HRM or MGMT or MKTG units at 2000 level or above)"
     },
     "MGMT3001": {
+        "generalCredits": {
+            "minCredits": "20",
+            "minLevel": "2000"
+        },
         "original": "20cp at 2000 level or above including BUS202 or MGMT2002"
     },
     "MGMT3002": {
         "original": "(HRM201 or MGMT2040) and (HRM250 or MGMT2050)"
     },
     "MGMT3003": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "MGMT3007": {
         "original": "(HRM201 or MGMT2040) and (HRM250 or MGMT2050)"
     },
     "MGMT3011": {
+        "generalCredits": {
+            "minCredits": "140",
+            "minLevel": "1000"
+        },
         "original": "140cp at 1000 level or above including (BBA350 or MGMT305 or MGMT3050 or MGMT3905)"
     },
     "MGMT3015": {
@@ -4315,15 +4961,30 @@
         "original": "20cp at 2000 level including ((MGMT2010 or BBA310) and MGMT2018)"
     },
     "MGMT3028": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including (HRM201 or MGMT2040) and (HRM250 or MGMT2050)"
     },
     "MGMT3050": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "MGMT3051": {
+        "generalCredits": {
+            "minCredits": "150",
+            "minLevel": "1000"
+        },
         "original": "150cp at 1000 level or above including (HRM317 or MGMT3017)"
     },
     "MGMT3052": {
+        "generalCredits": {
+            "minCredits": "150",
+            "minLevel": "1000"
+        },
         "original": "150cp at 1000 level or above including (HRM317 or MGMT3017) and (BBA350 or MGMT3050)"
     },
     "MGMT3060": {
@@ -4339,6 +5000,10 @@
         "original": "Admission to BBusLeadCom and 150cp at 1000 level or above including MGMT304 or MGMT3904"
     },
     "MGMT3904": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including MGMT1020 or MGMT2080 or MGMT2901 or BBA220 or BBA280 or MGMT201"
     },
     "MGMT3905": {
@@ -4539,57 +5204,125 @@
     "MKTG1001": {},
     "MKTG1003": {},
     "MKTG2002": {
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        },
         "original": "40cp at 1000 level or above including MKTG1001 or MKTG101"
     },
     "MKTG2004": {
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        },
         "original": "40cp at 1000 level or above including MKTG1001 or MKTG101"
     },
     "MKTG2006": {
         "original": "Admission to BMktgMedia and 50cp at 1000 level or above including ((MKTG101 or MKTG1001) and (MKTG1003 or MKTG203))"
     },
     "MKTG2008": {
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        },
         "original": "40cp at 1000 level or above including MKTG1001 or MKTG101"
     },
     "MKTG2017": {
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        },
         "original": "40cp at 1000 level or above including MKTG1001 or MKTG101"
     },
     "MKTG3001": {
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "2000"
+        },
         "original": "40cp at 2000 level or above including MKTG2002 or MKTG202"
     },
     "MKTG3002": {
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "2000"
+        },
         "original": "40cp at 2000 level or above including MKTG2002 or MKTG202"
     },
     "MKTG3003": {
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "2000"
+        },
         "original": "40cp at 2000 level or above including MKTG2002 or MKTG202"
     },
     "MKTG3004": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including MKTG202 or MKTG2002"
     },
     "MKTG3006": {
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "2000"
+        },
         "original": "40cp at 2000 level or above including MKTG2002 or MKTG202"
     },
     "MKTG3007": {
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "2000"
+        },
         "original": "40cp at 2000 level or above including MKTG2002 or MKTG202"
     },
     "MKTG3008": {
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "2000"
+        },
         "original": "40cp at 2000 level or above including MKTG2002 or MKTG202"
     },
     "MKTG3009": {
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "2000"
+        },
         "original": "40cp at 2000 level or above including MKTG2002 or MKTG202"
     },
     "MKTG3010": {
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "2000"
+        },
         "original": "40cp at 2000 level or above including MKTG2002 or MKTG202"
     },
     "MKTG3011": {
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "2000"
+        },
         "original": "40cp at 2000 level or above including MKTG2002 or MKTG202"
     },
     "MKTG3012": {
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "2000"
+        },
         "original": "40cp at 2000 level or above including (MKTG2002 or MKTG202 or ACCG2002 or FOBE202)"
     },
     "MKTG3013": {
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "2000"
+        },
         "original": "40cp at 2000 level or above including MKTG2002 or MKTG202"
     },
     "MKTG3014": {
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "2000"
+        },
         "original": "40cp at 2000 level or above including MKTG2002 or MKTG202"
     },
     "MKTG6096": {
@@ -4770,76 +5503,144 @@
     "MMCC1050": {},
     "MMCC1110": {},
     "MMCC2000": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "MMCC2011": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "MMCC2012": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "MMCC2013": {
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        },
         "original": "40cp at 1000 level or above including (MAS 212 or MMCC2012)"
     },
     "MMCC2014": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "MMCC2015": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "MMCC2016": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "MMCC2020": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "MMCC2023": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "MMCC2030": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "MMCC2033": {
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        },
         "original": "40cp at 1000 level or above including (MUS 202 or MMCC2020)"
     },
     "MMCC2041": {
         "original": "(MAS240 or MMCC2140) or (COMP249 or COMP2110)"
     },
     "MMCC2057": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "MMCC2060": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "MMCC2061": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "MMCC2063": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "MMCC2065": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "MMCC2070": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "MMCC2077": {
         "original": "Pre-requisite\t40cp at 1000 level or above"
     },
     "MMCC2080": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "MMCC2090": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "MMCC2100": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "MMCC2110": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "MMCC2120": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "MMCC2125": {
         "original": "Pre-requisite\t40cp at 1000 level or above"
@@ -4848,88 +5649,159 @@
         "original": "Pre-requisite\t40cp at 1000 level or above"
     },
     "MMCC2130": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "MMCC2140": {
         "original": "40cp including ((20cp in MMCC or MAS units at 1000 level) or (COMP111 or COMP1150))"
     },
     "MMCC2160": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "MMCC3000": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including MUS203 or MMCC2033"
     },
     "MMCC3005": {
         "original": "Pre-requisite\t130cp at 1000 level or above"
     },
     "MMCC3011": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "MMCC3012": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including MAS213 or MMCC2013"
     },
     "MMCC3013": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including MAS213 or MMCC2013"
     },
     "MMCC3016": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "MMCC3020": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "MMCC3023": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "MMCC3025": {
         "original": "Pre-requisite\t130cp at 1000 level or above"
     },
     "MMCC3029": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including MAS240 or MMCC2140"
     },
     "MMCC3031": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "MMCC3032": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "MMCC3035": {
         "original": "Pre-requisite\t130cp at 1000 level or above"
     },
     "MMCC3037": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "MMCC3043": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "MMCC3045": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including MAS241 or MMCC2041"
     },
     "MMCC3046": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "MMCC3055": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "MMCC3060": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "MMCC3080": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "MMCC3090": {
         "original": "130cp at 1000 level or above and permission by special approval"
     },
     "MMCC3110": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "MMCC3121": {
         "original": "130cp at 1000 level or above and Permission by Special Approval"
     },
     "MMCC3130": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "MMCC3140": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "MMCC3150": {
         "original": "130cp at 1000 level or above and Permission by Special approval"
@@ -5173,40 +6045,76 @@
     "PHIL1032": {},
     "PHIL1037": {},
     "PHIL2010": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "PHIL2020": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "PHIL2026": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "PHIL2056": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "PHIL2060": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "PHIL2062": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "PHIL3041": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "PHIL3051": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "PHIL3052": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "PHIL3056": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "PHIL3057": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "PHIL3063": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "PHIL7000": {
         "original": "Admission to BPhil/MRes"
@@ -5221,38 +6129,71 @@
     "PHIX1032": {},
     "PHIX1037": {},
     "PHIX2010": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "PHIX2020": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "PHIX2026": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "PHIX2056": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "PHIX2060": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "PHIX2062": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "PHIX3041": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "PHIX3051": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "PHIX3052": {},
     "PHIX3056": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "PHIX3057": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "PHIX3063": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "PHTY2000": {
         "original": "((PSYC104 or PSYU1104) and (PSYC105 or PSYU1105)) or Admission to BClinSc"
@@ -5261,9 +6202,17 @@
         "original": "120cp including (HLTH108 or ANAT1001) and ((HLTH109 or ANAT1002) or (MEDI203 or MEDI2100 or MEDI211 or MEDI2101)) and (BIOL247 or BIOL2220)"
     },
     "PHTY3001": {
+        "generalCredits": {
+            "minCredits": "110",
+            "minLevel": "1000"
+        },
         "original": "110cp at 1000 level or above including ((HLTH108 or ANAT1001) and ((HLTH109 or ANAT1002) or (MEDI203 or MEDI2100)))"
     },
     "PHTY3002": {
+        "generalCredits": {
+            "minCredits": "120",
+            "minLevel": "1000"
+        },
         "original": "120cp at 1000 level or above including ((HLTH108 or ANAT1001) and ((HLTH109 or ANAT1002) or (MEDI203 or MEDI2100)) and (PHTY302 or PHTY3001))"
     },
     "PHTY8100": {
@@ -5433,40 +6382,76 @@
     "PICT1014": {},
     "PICT1030": {},
     "PICT2001": {
-        "original": "50cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "1000"
+        }
     },
     "PICT2010": {
-        "original": "50cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "1000"
+        }
     },
     "PICT2012": {
-        "original": "50cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "1000"
+        }
     },
     "PICT2013": {
-        "original": "50cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "1000"
+        }
     },
     "PICT2015": {
-        "original": "50cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "1000"
+        }
     },
     "PICT2020": {
-        "original": "50cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "1000"
+        }
     },
     "PICT3001": {
-        "original": "50cp at 2000 level or above"
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "2000"
+        }
     },
     "PICT3011": {
-        "original": "50cp at 2000 level or above"
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "2000"
+        }
     },
     "PICT3012": {
-        "original": "50cp at 2000 level or above"
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "2000"
+        }
     },
     "PICT3013": {
-        "original": "50cp at 2000 level or above"
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "2000"
+        }
     },
     "PICT3014": {
-        "original": "50cp at 2000 level or above"
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "2000"
+        }
     },
     "PICT3015": {
-        "original": "50cp at 2000 level or above"
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "2000"
+        }
     },
     "PICT3020": {
         "original": "[Admission to the Bachelor of Security Studies AND 50cp at 2000 level or above] OR [PICT1030 AND SOCI1030 AND 50 Cp at 2000 level including PICT2010 AND PICT2020 AND LAWS2050]"
@@ -5591,40 +6576,76 @@
     "PICX1014": {},
     "PICX1030": {},
     "PICX2001": {
-        "original": "50cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "1000"
+        }
     },
     "PICX2010": {
-        "original": "50cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "1000"
+        }
     },
     "PICX2012": {
-        "original": "50cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "1000"
+        }
     },
     "PICX2013": {
-        "original": "50cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "1000"
+        }
     },
     "PICX2015": {
-        "original": "50cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "1000"
+        }
     },
     "PICX2020": {
-        "original": "50cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "1000"
+        }
     },
     "PICX3001": {
-        "original": "50cp at 2000 level or above"
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "2000"
+        }
     },
     "PICX3011": {
-        "original": "50cp at 2000 level or above"
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "2000"
+        }
     },
     "PICX3012": {
-        "original": "50cp at 2000 level or above"
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "2000"
+        }
     },
     "PICX3013": {
-        "original": "50cp at 2000 level or above"
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "2000"
+        }
     },
     "PICX3014": {
-        "original": "50cp at 2000 level or above"
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "2000"
+        }
     },
     "PICX3015": {
-        "original": "50cp at 2000 level or above"
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "2000"
+        }
     },
     "PICX3020": {
         "original": "50cp at 2000 level or above and admission to BSecStud or BSecStudLLB or BBusAnalyticsBSecStud or admission to BSecStudMCTerrorism or BSecStudMCrim or BSecStudMCyberSecAnalysis or BSecStudMIntell or BSecStudMSecStrategicStud or/and permission by special approval"
@@ -5773,7 +6794,10 @@
         "original": "130cp at 1000 level or above OR (20cp in HIST or MHIS or POL or POIR or MHIX or POIX units at 2000 level)"
     },
     "POIR3220": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "POIR3920": {
         "original": "130cp at 1000 level or above OR (20cp in HIST or MHIS or POL or POIR or MHIX or POIX units at 2000 level)"
@@ -5871,9 +6895,17 @@
         "original": "(Admission to BProfPrac or BActStudProfPrac(Hons)) or permission by special approval"
     },
     "PROF3000": {
+        "generalCredits": {
+            "minCredits": "20",
+            "minLevel": "2000"
+        },
         "original": "20cp at 2000 level or above including PROF2000"
     },
     "PROF4000": {
+        "generalCredits": {
+            "minCredits": "60",
+            "minLevel": "2000"
+        },
         "original": "60cp at 2000 level or above including PROF3000"
     },
     "PSYB8960": {
@@ -6190,6 +7222,10 @@
         "original": "20cp from PSY or PSYC or PSYU or PSYX units at 2000 level including PSY248 or PSYU2248 or PSYX248 or PSYX2248"
     },
     "PSYU3338": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including ((PSYC104 or PSYU1104 or PSYX104 or PSYX1104 or PSYU1101 or PSYX1101) and (PSYC105 or PSYU1105 or PSYX105 or PSYX1105 or PSYU1102 or PSYX1102))"
     },
     "PSYU3339": {
@@ -6255,6 +7291,10 @@
         "original": "20cp from (PSYX or PSYU or PSY units at 2000 level) including PSYX248 or PSYX2248 or PSY248 or PSYU2248"
     },
     "PSYX3338": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including ((PSYC104 or PSYU1104 or PSYX104 or PSYX1104 or PSYU1101 or PSYX1101) and (PSYC105 or PSYU1105 or PSYX105 or PSYX1105 or PSYU1102 or PSYX1102))"
     },
     "PSYX3399": {
@@ -6324,42 +7364,80 @@
     "SOCI1010": {},
     "SOCI1030": {},
     "SOCI2000": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "SOCI2010": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "SOCI2030": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "SOCI2040": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "SOCI2070": {
         "original": "40 credit points at 1000 level"
     },
     "SOCI3015": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "SOCI3025": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including (10cp from SOC or SOCI or SSC or SSCI or GEN or GEND units at 2000 level)"
     },
     "SOCI3040": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "SOCI3050": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "SOCI3070": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "SOCI3080": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "SOCI3085": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "SOCI3090": {
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        },
         "original": "130cp at 1000 level or above including (10cp in SOC or SOCI units at 2000 level or above)"
     },
     "SOCI7000": {
@@ -6389,25 +7467,46 @@
     "SOCX1000": {},
     "SOCX1010": {},
     "SOCX2000": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "SOCX2010": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "SOCX2040": {
-        "original": "40cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "40",
+            "minLevel": "1000"
+        }
     },
     "SOCX3015": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "SOCX3025": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "SOCX3040": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "SOCX3090": {
-        "original": "130cp at 1000 level or above"
+        "generalCredits": {
+            "minCredits": "130",
+            "minLevel": "1000"
+        }
     },
     "SOCX8015": {
         "original": "Admission to MPSP or MPASR or GradCertPASR or GradDipPASR (OUA)"
@@ -6486,18 +7585,30 @@
         "original": "LING217 or LING2217"
     },
     "SPHL3300": {
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "2000"
+        },
         "original": "50cp at 2000 level or above including 20cp from (LING210-220 or LING2210-2240 OR PSY238 or PSYU2238)"
     },
     "SPHL3308": {
         "original": "(50cp at 2000 level or above including SPHL2216 or SPHL299 or SPH399) OR (Admission to DipSpCom and LING2217 or LING217)"
     },
     "SPHL3310": {
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "2000"
+        },
         "original": "50cp at 2000 level or above including LING2217 or LING217"
     },
     "SPHL3311": {
         "original": "20cp in LING or SPHL 2000 level including (LING220 or LING2220 or LING214 or LING2214 or LING217 or LING2217 or PSY238 or PSYU2238) or admission to BMedScs"
     },
     "SPHL3312": {
+        "generalCredits": {
+            "minCredits": "50",
+            "minLevel": "2000"
+        },
         "original": "50cp at 2000 level or above including LING2217 or LING217"
     },
     "SPTH8810": {
@@ -6757,7 +7868,10 @@
         "original": "200cp and (ELEC345 or TELE3350) and (ELEC321 or TELE3021) and (COMP347 or COMP3250)"
     },
     "TELE4093": {
-        "original": "20cp at 4000 level or above"
+        "generalCredits": {
+            "minCredits": "20",
+            "minLevel": "4000"
+        }
     },
     "TELE8081": {
         "original": "Admission to MEngNetTeleEng"
