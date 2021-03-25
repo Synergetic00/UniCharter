@@ -5,6 +5,9 @@ url = "https://coursehandbook.mq.edu.au/api/es/search"
 units = {"query":{"bool":{"must":[{"term":{"live":"true"}},[{"bool":{"minimum_should_match":"100%","should":[{"query_string":{"fields":["mq2_psubject.implementationYear"],"query":"*2021*"}}]}}]],"filter":[{"terms":{"contenttype":["mq2_psubject"]}}]}},"sort":[{"mq2_psubject.code_dotraw":{"order":"asc"}},{"mq2_psubject.title_dotraw":{"order":"asc"}}],"from":0,"size":2489,"track_scores":"true","_source":{"includes":["*.code","*.name","*.award_titles","*.keywords","urlmap","contenttype"],"excludes":["","null"]}}
 headers = {'content-type': 'application/json'}
 
+def parseTrim(string):
+    return string.replace('<p>','').replace('</p>','').replace('\u00a0',' ').replace('<div>\\n','').replace('<div>\n','').replace('<br />','').replace("\u2018", "'").replace("\u2019", "'").replace("\u2013", "-").replace("&amp;", "&").strip()
+
 formatted = {}
 
 r = requests.post(url, data=json.dumps(units), headers=headers)
@@ -20,7 +23,7 @@ if r.status_code == 200:
         formatted[parsed['code']]['credits'] = parsed['credit_points'].strip()
         formatted[parsed['code']]['group'] = parsed['special_unit_type'][0]['label'].strip()
         if parsed['description'] is not None:
-            desc = parsed['description'].replace('<p>','').replace('</p>','').replace('\u00a0',' ').replace('<div>\\n','').replace('<div>\n','').replace('<br />','').strip()
+            desc = parseTrim(parsed['description'])
             formatted[parsed['code']]['description'] = desc
         formatted[parsed['code']]['department'] = parsed['academic_org']['value'].strip()
         formatted[parsed['code']]['faculty'] = parsed['school']['value'].strip()
@@ -29,7 +32,7 @@ if r.status_code == 200:
         # Learning Outcomes
         formatted[parsed['code']]['outcomes'] = {}
         for ulo in parsed['unit_learning_outcomes']:
-            desc = ulo['description'].replace('<p>','').replace('</p>','').replace('\u00a0',' ').replace('<div>\\n','').replace('<div>\n','').replace('<br />','').strip()
+            desc = parseTrim(ulo['description'])
             formatted[parsed['code']]['outcomes'][ulo['code']] = desc
     
         # Offerings
@@ -52,7 +55,7 @@ if r.status_code == 200:
             if parsed['assessments'][i]['offerings'] != '':
                 formatted[parsed['code']]['assessments']['a'+str(i)]['offerings'] = parsed['assessments'][i]['offerings']
             if parsed['assessments'][i]['description'] is not None:
-                desc = parsed['assessments'][i]['description'].replace('<p>','').replace('</p>','').replace('\u00a0',' ').replace('<div>\\n','').replace('<div>\n','').replace('<br />','').strip()
+                desc = parseTrim(parsed['assessments'][i]['description'])
                 formatted[parsed['code']]['assessments']['a'+str(i)]['description'] = desc
 
         # Prerequisites
@@ -70,16 +73,16 @@ if r.status_code == 200:
             formatted[parsed['code']]['activities']['scheduled']['s'+str(i)] = {}
             # Name
             if parsed['scheduled_learning_activities'][i]['activity']['label'] is not None:
-                name = parsed['scheduled_learning_activities'][i]['activity']['label'].replace('<p>','').replace('</p>','').replace('\u00a0',' ').replace('<div>\\n','').replace('<div>\n','').replace('<br />','').strip()        
+                name = parseTrim(parsed['scheduled_learning_activities'][i]['activity']['label'])        
                 formatted[parsed['code']]['activities']['scheduled']['s'+str(i)]['name'] = name
             # Offerings
             if parsed['scheduled_learning_activities'][i]['offerings'] is not None:
-                offers = parsed['scheduled_learning_activities'][i]['offerings'].replace('<p>','').replace('</p>','').replace('\u00a0',' ').replace('<div>\\n','').replace('<div>\n','').replace('<br />','').strip()
+                offers = parseTrim(parsed['scheduled_learning_activities'][i]['offerings'])
                 formatted[parsed['code']]['activities']['scheduled']['s'+str(i)]['offerings'] = offers
             # Description
             if parsed['scheduled_learning_activities'][i]['description'] is not None:
                 if parsed['scheduled_learning_activities'][i]['description'] != '':
-                    desc = parsed['scheduled_learning_activities'][i]['description'].replace('<p>','').replace('</p>','').replace('\u00a0',' ').replace('<div>\\n','').replace('<div>\n','').replace('<br />','').strip()
+                    desc = parseTrim(parsed['scheduled_learning_activities'][i]['description'])
                     formatted[parsed['code']]['activities']['scheduled']['s'+str(i)]['description'] = desc
  
         # Non-Scheduled Activities
@@ -88,16 +91,16 @@ if r.status_code == 200:
             formatted[parsed['code']]['activities']['non-scheduled']['ns'+str(i)] = {}
             # Name
             if parsed['non_scheduled_learning_activities'][i]['activity']['label'] is not None:
-                name = parsed['non_scheduled_learning_activities'][i]['activity']['label'].replace('<p>','').replace('</p>','').replace('\u00a0',' ').replace('<div>\\n','').replace('<div>\n','').replace('<br />','').strip()        
+                name = parseTrim(parsed['non_scheduled_learning_activities'][i]['activity']['label'])        
                 formatted[parsed['code']]['activities']['non-scheduled']['ns'+str(i)]['name'] = name
             # Offerings
             if parsed['non_scheduled_learning_activities'][i]['offerings'] is not None:
-                offers = parsed['non_scheduled_learning_activities'][i]['offerings'].replace('<p>','').replace('</p>','').replace('\u00a0',' ').replace('<div>\\n','').replace('<div>\n','').replace('<br />','').strip()
+                offers = parseTrim(parsed['non_scheduled_learning_activities'][i]['offerings'])
                 formatted[parsed['code']]['activities']['non-scheduled']['ns'+str(i)]['offerings'] = offers
             # Description
             if parsed['non_scheduled_learning_activities'][i]['description'] is not None:
                 if parsed['non_scheduled_learning_activities'][i]['description'] != '':
-                    desc = parsed['non_scheduled_learning_activities'][i]['description'].replace('<p>','').replace('</p>','').replace('\u00a0',' ').replace('<div>\\n','').replace('<div>\n','').replace('<br />','').strip()
+                    desc = parseTrim(parsed['non_scheduled_learning_activities'][i]['description'])
                     formatted[parsed['code']]['activities']['non-scheduled']['ns'+str(i)]['description'] = desc
 
     with open('data/units.json', 'w') as outfile:
