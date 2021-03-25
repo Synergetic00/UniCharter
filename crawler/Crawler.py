@@ -21,11 +21,16 @@ if r.status_code == 200:
         formatted[parsed['code']]['credits'] = parsed['credit_points']
         formatted[parsed['code']]['type'] = parsed['content_type']
         formatted[parsed['code']]['group'] = parsed['special_unit_type'][0]['label']
-        formatted[parsed['code']]['description'] = parsed['description']
+        desc = parsed['description'].replace('<p>','').replace('</p>','')
+        formatted[parsed['code']]['description'] = desc
         formatted[parsed['code']]['department'] = parsed['academic_org']['value']
         formatted[parsed['code']]['faculty'] = parsed['school']['value']
         formatted[parsed['code']]['level'] = parsed['level']['value']
-        formatted[parsed['code']]['outcomes'] = parsed['unit_learning_outcomes']
+        formatted[parsed['code']]['outcomes'] = {}
+        for ulo in parsed['unit_learning_outcomes']:
+            desc = ulo['description'].replace('<p>','').replace('</p>','')
+            formatted[parsed['code']]['outcomes'][ulo['code']] = desc
+        formatted[parsed['code']]['outcomes'][ulo['code']] = desc
         formatted[parsed['code']]['offerings'] = parsed['unit_offering']
         formatted[parsed['code']]['assessments'] = parsed['assessments']
         formatted[parsed['code']]['prerequisites'] = parsed['enrolment_rules']
@@ -33,7 +38,7 @@ if r.status_code == 200:
         formatted[parsed['code']]['activities']['scheduled'] = parsed['scheduled_learning_activities']
         formatted[parsed['code']]['activities']['non-scheduled'] = parsed['non_scheduled_learning_activities']
 
-    with open('data.txt', 'w') as outfile:
-        json.dump(formatted, outfile)
+    with open('data/dump.json', 'w') as outfile:
+        json.dump(formatted, outfile, indent=4, sort_keys=True)
 else:
     print("Error encountered: "+str(r.status_code))

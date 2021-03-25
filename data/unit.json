@@ -1,0 +1,235 @@
+{
+    "COMP3100": {
+        "activities": {
+            "non-scheduled": [
+                {
+                    "activity": {
+                        "label": "Class\u00a0Preparation",
+                        "value": "class_preparation"
+                    },
+                    "applies_to_all_offerings": "No",
+                    "cl_id": "106048721b70ec1067fc4338dc4bcb08",
+                    "description": "Class preparation and readings",
+                    "offerings": ""
+                }
+            ],
+            "scheduled": [
+                {
+                    "activity": {
+                        "label": "Lecture (online)",
+                        "value": "lecture_online"
+                    },
+                    "applies_to_all_offerings": "No",
+                    "cl_id": "0f1fb7221b70ec1067fc4338dc4bcbbb",
+                    "description": "2 hours of lectures",
+                    "offerings": "Session 1-Special"
+                },
+                {
+                    "activity": {
+                        "label": "Workshop",
+                        "value": "workshop"
+                    },
+                    "applies_to_all_offerings": "No",
+                    "cl_id": "7230f72e1bfcac1067fc4338dc4bcbf2",
+                    "description": "Weekly workshop",
+                    "offerings": ""
+                },
+                {
+                    "activity": {
+                        "label": "Lecture (on campus)",
+                        "value": "lecture_on_campus"
+                    },
+                    "applies_to_all_offerings": "No",
+                    "cl_id": "fa30f72e1bfcac1067fc4338dc4bcbf1",
+                    "description": "2 hours of lectures",
+                    "offerings": "Session 1-Weekday-North Ryde"
+                }
+            ]
+        },
+        "assessments": [
+            {
+                "applies_to_all_offerings": "No",
+                "assessment_title": "Quizzes",
+                "cl_id": "0b30f72e1bfcac1067fc4338dc4bcbf5",
+                "description": "<p>Quizzes assess students\u2019 knowledge and understanding on distributed systems fundamentals including architectures, paradigms, principles and models of distributed systems.</p>",
+                "hurdle_task": "No",
+                "individual": {
+                    "label": "",
+                    "value": ""
+                },
+                "offerings": "",
+                "type": {
+                    "label": "Quiz/Test",
+                    "value": "quiz_test"
+                },
+                "weight": "10"
+            },
+            {
+                "applies_to_all_offerings": "No",
+                "assessment_title": "Practical tasks",
+                "cl_id": "0f30f72e1bfcac1067fc4338dc4bcbf3",
+                "description": "<p>Practical tasks help guide students to learn practical skills on distributed systems. In particular, they consist of preparatory steps and milestones for the project.</p>\n<p>The practical tasks are a\u00a0<strong>hurdle\u00a0</strong>in this unit.\u00a0 You must achieve at least 8 marks out of 20 in order to pass the unit.</p>",
+                "hurdle_task": "Yes",
+                "individual": {
+                    "label": "",
+                    "value": ""
+                },
+                "offerings": "",
+                "type": {
+                    "label": "Participatory task",
+                    "value": "participatory_task"
+                },
+                "weight": "20"
+            },
+            {
+                "applies_to_all_offerings": "No",
+                "assessment_title": "Major Assignment",
+                "cl_id": "8f30f72e1bfcac1067fc4338dc4bcbf4",
+                "description": "<p>A distributed system development task that requires composition to design and implement a realistic distributed system</p>",
+                "hurdle_task": "No",
+                "individual": {
+                    "label": "Individual and Group",
+                    "value": "Individual and Group"
+                },
+                "offerings": "",
+                "type": {
+                    "label": "Programming Task",
+                    "value": "programming_task"
+                },
+                "weight": "40"
+            },
+            {
+                "applies_to_all_offerings": "No",
+                "assessment_title": "Final Exam",
+                "cl_id": "b630f72e1bfcac1067fc4338dc4bcbf2",
+                "description": "<p>The final examination will assess your understanding of the unit content and your ability to integrate concepts learned throughout the unit to solve problems.</p>",
+                "hurdle_task": "No",
+                "individual": {
+                    "label": "",
+                    "value": ""
+                },
+                "offerings": "",
+                "type": {
+                    "label": "Examination",
+                    "value": "exam"
+                },
+                "weight": "30"
+            }
+        ],
+        "credits": "10",
+        "department": "Department of Computing ",
+        "description": "A distributed system traditionally refers to a group of networked computers; however, it should be today understood in a much wider sense including applications consisting of multiple processes. This unit studies the fundamentals of distributed systems from both hardware perspective and software perspective. The unit also gives some hands-on experience. Topics include distributed systems principles (concurrecy and scheduling), paradigms (cloud computing, mobile computing and Internet of Things), architectures (client-server model, peer-to-peer model and distributed file systems) and techniques (shared memory and message-passing).",
+        "faculty": "Faculty of Science and Engineering",
+        "group": "Undergraduate",
+        "level": "3000",
+        "offerings": [
+            {
+                "academic_item": {
+                    "cl_id": "7e30b72e1bfcac1067fc4338dc4bcbfe",
+                    "key": "code",
+                    "value": "COMP3100"
+                },
+                "attendance_mode": {
+                    "cl_id": "b2f79e4adbab1494bfe664a14a9619b1",
+                    "key": "description",
+                    "value": "Special circumstances"
+                },
+                "cl_id": "45def3221b70ec1067fc4338dc4bcb15",
+                "clarification_to_appear_in_handbook": "",
+                "course_restrictions": "",
+                "display_name": "Session 1-Special",
+                "fees_commonwealth": "",
+                "fees_domestic": "",
+                "fees_international": "",
+                "location": {
+                    "cl_id": null,
+                    "key": "name",
+                    "value": ""
+                },
+                "name": "COMP3100-unit_teaching_period-Special",
+                "order": "1",
+                "publish": "true",
+                "quota_limit": "",
+                "quota_number": "",
+                "self_enrol": "true",
+                "study_level": {
+                    "label": null,
+                    "value": null
+                },
+                "teaching_period": {
+                    "cl_id": "2833de25db903740bfe664a14a96190e",
+                    "key": "name",
+                    "value": "Session 1"
+                }
+            },
+            {
+                "academic_item": {
+                    "cl_id": "7e30b72e1bfcac1067fc4338dc4bcbfe",
+                    "key": "code",
+                    "value": "COMP3100"
+                },
+                "attendance_mode": {
+                    "cl_id": "4fc55ac6dbab1494bfe664a14a961946",
+                    "key": "description",
+                    "value": "Weekday attendance"
+                },
+                "cl_id": "b230f72e1bfcac1067fc4338dc4bcbed",
+                "clarification_to_appear_in_handbook": "",
+                "course_restrictions": "",
+                "display_name": "Session 1-Weekday-North Ryde",
+                "fees_commonwealth": "",
+                "fees_domestic": "",
+                "fees_international": "",
+                "location": {
+                    "cl_id": "7ebfa7fcdbdcb340bfe664a14a961950",
+                    "key": "name",
+                    "value": "North Ryde"
+                },
+                "name": "COMP3100-unit_teaching_period-Weekday-subject",
+                "order": "0",
+                "publish": "true",
+                "quota_limit": "",
+                "quota_number": "",
+                "self_enrol": "true",
+                "study_level": {
+                    "label": null,
+                    "value": null
+                },
+                "teaching_period": {
+                    "cl_id": "2833de25db903740bfe664a14a96190e",
+                    "key": "name",
+                    "value": "Session 1"
+                }
+            }
+        ],
+        "outcomes": {
+            "ULO1": "Describe the complexities of distributed system development and approaches to solve those complexities.",
+            "ULO2": "Apply theoretical principles and models to design distributed systems.",
+            "ULO3": "Explain important issues in modern distributed systems.",
+            "ULO4": "Identify applicability of technologies that support distributed applications.",
+            "ULO5": "Analyze and design distributed systems."
+        },
+        "prerequisites": [
+            {
+                "cl_id": "3630f72e1bfcac1067fc4338dc4bcbf0",
+                "description": "COMP335",
+                "order": 4,
+                "type": {
+                    "label": "NCCW (pre-2020 units)",
+                    "value": "nccw"
+                }
+            },
+            {
+                "cl_id": "3e30f72e1bfcac1067fc4338dc4bcbef",
+                "description": "130cp at 1000 level or above including (COMP2100 or COMP202) and (COMP2250 or COMP247)",
+                "order": 1,
+                "type": {
+                    "label": "Pre-requisite",
+                    "value": "prerequisite"
+                }
+            }
+        ],
+        "title": "Distributed Systems",
+        "type": "Unit"
+    }
+}
