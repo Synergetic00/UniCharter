@@ -1,7 +1,7 @@
 import requests
 import json
 
-code = "ABST3040"
+code = "AACG8990"
 query = 'mq2_psubject.code: \"'+code+'\"'
 url = "https://coursehandbook.mq.edu.au/api/es/search"
 units = {"query":{"bool":{"must":[{"query_string":{"query":query}},{"term":{"live":"true"}}]}},"aggs":{"implementationYear":{"terms":{"field":"mq2_psubject.implementationYear_dotraw","size":100}},"availableInYears":{"terms":{"field":"mq2_psubject.availableInYears_dotraw","size":100}}},"size":100,"_source":{"includes":["versionNumber","availableInYears","implementationYear"]}}
@@ -16,6 +16,7 @@ if r.status_code == 200:
     element = contentlets[len(contentlets)-1]
     data = element.get('data')
     parsed = json.loads(data)
+    print(parsed)
     formatted[parsed['code']] = {}
     formatted[parsed['code']]['title'] = parsed['title']
     formatted[parsed['code']]['credits'] = parsed['credit_points']

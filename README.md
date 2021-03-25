@@ -358,7 +358,6 @@ work_based_training_component
 ```
 
 ```
-academic_item_type
 accreditation_text_for_ahegs
 accredited_by_external_body
 active
