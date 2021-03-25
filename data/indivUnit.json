@@ -1,0 +1,93 @@
+{
+    "ABST3040": {
+        "activities": {
+            "non-scheduled": {
+                "0": {
+                    "description": "Students will have weekly readings or audio visual media (film documentaries etc.) to complete.",
+                    "name": "Readings",
+                    "offerings": ""
+                },
+                "1": {
+                    "description": "Students will need to do their own research for online blogs and essay assessment tasks.",
+                    "name": "Research",
+                    "offerings": ""
+                }
+            },
+            "scheduled": {
+                "0": {
+                    "description": "External students will listen to a recorded lecture each week via Echo or other recordings that are posted. A range of lecturers and guest speakers will present a lecture each week based on the weekly topic.",
+                    "name": "Lecture (online)",
+                    "offerings": ""
+                },
+                "1": {
+                    "description": "External students will activley engage with a range of questions related to the lecture and readings on the iLearn forum and interact with their peers weekly in an online tutorial",
+                    "name": "Tutorial (online)",
+                    "offerings": ""
+                },
+                "2": {
+                    "description": "On campus students will attend a weekly three hour seminar which consists of lecture and tutorial activities, discussions, debates and engagement with peers.",
+                    "name": "Seminar",
+                    "offerings": ""
+                }
+            }
+        },
+        "assessments": {
+            "0": {
+                "description": "Students will answer 30 online questions based on the set unit readings and lecture content.",
+                "hurdle": "No",
+                "title": "Final Online Quiz",
+                "type": "Quiz/Test",
+                "weighting": "20"
+            },
+            "1": {
+                "description": "Students will answer 10 online multiple choice questions based on the set unit readings and lecture content in weeks 1 and 2.",
+                "hurdle": "No",
+                "title": "First Quiz",
+                "type": "Quiz/Test",
+                "weighting": "10"
+            },
+            "2": {
+                "description": "Students will post a 250 word online blog in response to weekly questions based on lecture topic and readings. Students will post to an online group forum that enables group members to have online discussions. Students will choose 4 blogs of their own blogs to submit for grading.",
+                "hurdle": "No",
+                "title": "Weekly Online Blogs",
+                "type": "Participatory task",
+                "weighting": "30"
+            },
+            "3": {
+                "description": "2000 word Analytical Essay drawing on 3 weekly topics. Students can create their own essay question.",
+                "hurdle": "No",
+                "title": "Analytical Essay",
+                "type": "Essay",
+                "weighting": "40"
+            }
+        },
+        "credits": "10",
+        "department": "Department of Indigenous Studies ",
+        "description": "This unit provides a focused reflection and critical analysis on the political histories of Indigenous peoples in Australia. Students in this unit will study past and current social and political movements dedicated to achieving social justice through the pursuit of human rights, civil rights, and Indigenous rights. Students will learn about a range of approached to social and political movements striving for justice for past and present acts of colonial violence, protecting land and country, protecting sovereignty and asserting the political status of first peoples. Through a process of critical reflection embedded in the unit, students will also reflect on the social and political movements that have influenced their own lives or their family&#39;s life. This unit presents a thought provoking experience of learning about social and political movements in Australia from an Indigenous perspective.",
+        "faculty": "Faculty of Arts",
+        "group": "Undergraduate",
+        "level": "3000",
+        "nccw": "ABST304",
+        "offerings": {
+            "0": {
+                "attendance": "Weekday attendance",
+                "location": "North Ryde",
+                "period": "Session 1"
+            },
+            "1": {
+                "attendance": "Fully online/virtual",
+                "period": "Session 1"
+            }
+        },
+        "outcomes": {
+            "ULO1": "Demonstrate an appreciation of how Indigenous worldviews, Indigenous knowledges and diverse experiences with colonisation inform various approaches to social and political movements",
+            "ULO2": "Demonstrate knowledge and scholarly understanding of the relationship between Indigenous experiences of colonisation and the subsequent development of individual and structural agency",
+            "ULO3": "Ability to understand the emancipatory nature of Indigenous critiques of colonial discourses and how it informs the development of personal and structural agency",
+            "ULO4": "Demonstrate ability to produce effective critically engaged arguments through rigorous engagement with academic resources",
+            "ULO5": "Demonstrate an appreciation and knowledge of the leadership requirements for social change across a range of sectors and spheres of influence (or interest)."
+        },
+        "prerequisite": "130cp at 1000 level or above",
+        "title": "Indigenous Policy: Politics and Activism",
+        "type": "Unit"
+    }
+}

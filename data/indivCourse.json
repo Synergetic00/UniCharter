@@ -1,0 +1,446 @@
+{
+    "abbreviated_name": "",
+    "abbreviated_name_and_major": "",
+    "academic_item_type": "Course",
+    "academic_org": {
+        "cl_id": null,
+        "key": "name",
+        "value": ""
+    },
+    "accreditation_end": "",
+    "accreditation_end_date": "",
+    "accreditation_start_date": "",
+    "accreditation_text_for_ahegs": "",
+    "accredited_by_external_body": "false",
+    "accrediting_bodies": [],
+    "active": "true",
+    "additional_admission_points": [],
+    "additional_info": null,
+    "admission_requirements": "",
+    "admission_to_combined_double": "",
+    "ahegs": null,
+    "ahegs_award_text": "The Bachelor of Actuarial Studies is an undergraduate degree consisting of a minimum of 240 credit points, taught in English, which normally takes three years of full-time study. Admission requirements are normally based upon proven skills to undertake tertiary study. In the case of undergraduate courses this is generally determined by successful completion of secondary studies or by alternative pathways for non-current school leavers.",
+    "alternative_exits": null,
+    "any_double_degree_exclusions": "true",
+    "application_method": [
+        {
+            "cl_id": "550a470edba5e3001240456a3a9619ba",
+            "key": "label",
+            "value": "UAC (UG)"
+        }
+    ],
+    "application_method_other_details": "",
+    "aqf_level": {
+        "label": "Level 7",
+        "value": "level_7"
+    },
+    "are_there_additional_admission_points": "false",
+    "arrangements": "",
+    "articulation_arrangement": null,
+    "articulations": [],
+    "assessment": "<p>Most units in the program include regular tutorial exercises which are designed for students to test their own understanding. These are formative and are not assessed. There are also a range of assessment tasks which are used to determine students' grades.</p>\n<ul>\n<li>Final Exam: this program is accredited by the Actuaries Institute, the Australian professional actuarial body. To assist in meeting accreditation requirements, many units in the program have an assessment scheme strongly weighted towards a final exam. A unit's final examination is designed to assess a student's command of the entire unit's knowledge and skills. While multiple choice questions are used in some units, most exam questions require longer written answers, which may be either mathematical in nature or word-based. Actuaries do not work in isolation but rather need to be able to explain their results to members of other professions, so exam questions do include scenarios requiring non-technical explanations of the meaning of calculations.</li>\n<li>Tests: class tests are held during class time under normal exam conditions. They allow students to practice their exam skills in preparation for the final exam.</li>\n<li>Assignments: an assignment may take a variety of formats such as the analysis of data using a spreadsheet or statistical software, the development of a mathematical argument, or the production of a formal report explaining the results of any of the previous items.</li>\n<li>Quizzes: a quiz is an online assessment. Quizzes usually consist of a short series of questions which may be true/false, multiple choice, or require students to enter a numerical answer. Quizzes are usually computer-marked, their main advantage being their ability to provide fast feedback to students.</li>\n<li>Presentations: presentations may be conducted on an individual or group basis. Traditionally they have involved a live oral presentation with appropriate visual aids, but looking forward they may allow students to develop a video presentation.</li>\n</ul>",
+    "assessment_regulations": "",
+    "atar": "97",
+    "availableAOS": "",
+    "availableDoubles": "",
+    "availableInDoubles": "",
+    "award_abbreviation": "BActStud",
+    "award_titles": "",
+    "capstone_or_professional_practice": "",
+    "career_opportunities": null,
+    "cl_id": "3f2d5ce4db22e410a4b61f4f049619e1",
+    "class_name": "Course",
+    "code": "C000117",
+    "content_type": "Course",
+    "course_code": "C000117",
+    "course_data_updated": "2021-02-22T01:22:12",
+    "course_duration_in_years": {
+        "label": "Full time: 3 years",
+        "value": "ft3"
+    },
+    "course_notes": [],
+    "course_rules": [],
+    "course_search_title": "C000117 - Bachelor of Actuarial Studies",
+    "course_standards_and_quality": "",
+    "course_version": {
+        "cl_id": "3f2d5ce4db22e410a4b61f4f049619e1",
+        "key": "code",
+        "value": "C000117"
+    },
+    "credit_arrangements": null,
+    "credit_points": "240",
+    "credit_points_header": "240 credit points",
+    "cricos_code": "067838M",
+    "cricos_disclaimer_applicable": "false",
+    "cricos_status": {
+        "label": null,
+        "value": null
+    },
+    "degrees_awarded": null,
+    "delivery_with_third_party_provider": "false",
+    "description": null,
+    "does_undergraduate_principle_26_3_apply": "false",
+    "double_degrees": null,
+    "effective_date": "2021-01-01",
+    "english_language": "",
+    "entry": null,
+    "entry_guarantee": "false",
+    "entry_list": [],
+    "entry_pathways_and_adjustment_factors": [],
+    "entry_pathways_and_adjustment_factors_other_details": "",
+    "exclusively_an_exit_award": {
+        "label": "Available for admission",
+        "value": "available"
+    },
+    "exit": null,
+    "ext_id": "1",
+    "external_body": "",
+    "external_provider": "",
+    "fees": [
+        {
+            "applies_to_all_intakes": "true",
+            "cl_id": "bf2d5ce4db22e410a4b61f4f049619e9",
+            "estimated_annual_fee": "",
+            "fee_note": "",
+            "fee_per_credit_point": "",
+            "fee_type": {
+                "label": "Domestic CSP",
+                "value": "domestic_csp"
+            },
+            "intakes": [],
+            "other_fee_type": ""
+        },
+        {
+            "applies_to_all_intakes": "true",
+            "cl_id": "fb2d5ce4db22e410a4b61f4f049619e9",
+            "estimated_annual_fee": "",
+            "fee_note": "",
+            "fee_per_credit_point": "",
+            "fee_type": {
+                "label": "International Fee-paying",
+                "value": "international_fee_paying"
+            },
+            "intakes": [],
+            "other_fee_type": ""
+        }
+    ],
+    "fees_description": null,
+    "fitness_to_practice": "",
+    "formal_articulation_pathway_to_higher_award": "false",
+    "full_time": "false",
+    "full_time_duration": "",
+    "govt_special_course_type": {
+        "label": null,
+        "value": null
+    },
+    "graduate_destinations_and_employability": "<p>Career opportunities for actuaries exist in the fields of:</p>\n<ul>\n<li>Life, general or health insurance</li>\n<li>Superannuation</li>\n<li>Banking and finance</li>\n<li>Funds management</li>\n<li>Investment</li>\n<li>Risk management</li>\n<li>Bublic sector: Australian Prudential Regulation Authority, Australian Taxation Office</li>\n<li>Wealth management</li>\n<li>Energy and environment</li>\n<li>Management</li>\n<li>Non-traditional areas such as IT, e-commerce, climate change.</li>\n</ul>\n<p>Employers:</p>\n<ul>\n<li>Life insurance companies</li>\n<li>General insurance companies</li>\n<li>Health insurance companies</li>\n<li>Actuarial and superannuation consulting firms</li>\n<li>Banks and funds managers</li>\n<li>Accounting firms</li>\n</ul>",
+    "health_records_and_privacy": "false",
+    "higher_level_courses_that_students_may_exit_from": [],
+    "hours_per_week": "",
+    "how_does_this_course_deliver_a_capstone_experience": "",
+    "how_will_students_meet_clos_in_this_duration": "",
+    "ib_english": "",
+    "ib_maths": "",
+    "ib_other": "",
+    "ielts_listening_score": "6",
+    "ielts_overall_score": "6.5",
+    "ielts_reading_score": "6",
+    "ielts_speaking_score": "6",
+    "ielts_writing_score": "6",
+    "implementation_year": "2021",
+    "independent research": "",
+    "information_declaration": "false",
+    "inherent_requirements": [],
+    "international_students": "false",
+    "internship_placement": null,
+    "is_this_an_accelerated_course": "false",
+    "justify_capstone_unit": "",
+    "last_review_date": "",
+    "learning_and_teaching_methods": "<p>This course employs a mixture of lectures, tutorials and practicals to meet its learning outcomes.</p>\n<p>Lectures are oral presentations that are intended to present information or teach students about a particular subject. However, lectures are not purely passive experiences, and in many units students will be given problems to work on before the lecturer summarises the main issues of the problem.</p>\n<p>Tutorials are smaller classes where students get to work on various problems and seek feedback from their tutor. Tutorials allow a level of feedback not possible in the larger lectures.</p>\n<p>Practicals are usually held in computer laboratories and allow students to gain experience with relevant statistical software.</p>\n<p>While the majority of classes are taught by university staff, several units also employ presentations by industry practitioners. This is particularly so in the course's capstone unit, which is also a PACE (Participation and Community Engagement) unit. This unit involves extensive presentations by industry partners, who are also involved and assessing and providing feedback on a major assessment task where students tackle a real world project and provide a verbal presentation on their findings.</p>",
+    "learning_outcomes": [
+        {
+            "academic_item": {
+                "cl_id": "3f2d5ce4db22e410a4b61f4f049619e1",
+                "key": "code",
+                "value": "C000117"
+            },
+            "cl_id": "372d5ce4db22e410a4b61f4f049619e6",
+            "code": "CLO6",
+            "description": "<p>Communicate effectively in written and oral forms to actuaries and other audiences.</p>",
+            "ga_map": [],
+            "linking_id": "4ba83479db127f004ed764d3149619bd",
+            "lo_cl_id": "372d5ce4db22e410a4b61f4f049619e6",
+            "lo_domain": [],
+            "number": "6",
+            "offerings": [],
+            "order": "6"
+        },
+        {
+            "academic_item": {
+                "cl_id": "3f2d5ce4db22e410a4b61f4f049619e1",
+                "key": "code",
+                "value": "C000117"
+            },
+            "cl_id": "3b2d5ce4db22e410a4b61f4f049619e5",
+            "code": "CLO5",
+            "description": "<p>Solve business problems that involve financial and actuarial risk.</p>",
+            "ga_map": [],
+            "linking_id": "07a83479db127f004ed764d3149619bd",
+            "lo_cl_id": "3b2d5ce4db22e410a4b61f4f049619e5",
+            "lo_domain": [],
+            "number": "5",
+            "offerings": [],
+            "order": "5"
+        },
+        {
+            "academic_item": {
+                "cl_id": "3f2d5ce4db22e410a4b61f4f049619e1",
+                "key": "code",
+                "value": "C000117"
+            },
+            "cl_id": "732d5ce4db22e410a4b61f4f049619e6",
+            "code": "CLO4",
+            "description": "<p>Model and critically analyse scenarios involving financial risk.</p>",
+            "ga_map": [],
+            "linking_id": "cfa83479db127f004ed764d3149619bc",
+            "lo_cl_id": "732d5ce4db22e410a4b61f4f049619e6",
+            "lo_domain": [],
+            "number": "4",
+            "offerings": [],
+            "order": "4"
+        },
+        {
+            "academic_item": {
+                "cl_id": "3f2d5ce4db22e410a4b61f4f049619e1",
+                "key": "code",
+                "value": "C000117"
+            },
+            "cl_id": "772d5ce4db22e410a4b61f4f049619e5",
+            "code": "CLO3",
+            "description": "<p>Develop and apply survival models.</p>",
+            "ga_map": [],
+            "linking_id": "8ba83479db127f004ed764d3149619bc",
+            "lo_cl_id": "772d5ce4db22e410a4b61f4f049619e5",
+            "lo_domain": [],
+            "number": "3",
+            "offerings": [],
+            "order": "3"
+        },
+        {
+            "academic_item": {
+                "cl_id": "3f2d5ce4db22e410a4b61f4f049619e1",
+                "key": "code",
+                "value": "C000117"
+            },
+            "cl_id": "b32d5ce4db22e410a4b61f4f049619e5",
+            "code": "CLO1",
+            "description": "<p>Understand compound interest theory and practice.</p>",
+            "ga_map": [],
+            "linking_id": "8fa83479db127f004ed764d3149619bb",
+            "lo_cl_id": "b32d5ce4db22e410a4b61f4f049619e5",
+            "lo_domain": [],
+            "number": "1",
+            "offerings": [],
+            "order": "1"
+        },
+        {
+            "academic_item": {
+                "cl_id": "3f2d5ce4db22e410a4b61f4f049619e1",
+                "key": "code",
+                "value": "C000117"
+            },
+            "cl_id": "bf2d5ce4db22e410a4b61f4f049619e5",
+            "code": "CLO7",
+            "description": "<p>Address business challenges in an ethical manner.</p>",
+            "ga_map": [],
+            "linking_id": "8fa83479db127f004ed764d3149619bd",
+            "lo_cl_id": "bf2d5ce4db22e410a4b61f4f049619e5",
+            "lo_domain": [],
+            "number": "7",
+            "offerings": [],
+            "order": "7"
+        },
+        {
+            "academic_item": {
+                "cl_id": "3f2d5ce4db22e410a4b61f4f049619e1",
+                "key": "code",
+                "value": "C000117"
+            },
+            "cl_id": "fb2d5ce4db22e410a4b61f4f049619e5",
+            "code": "CLO8",
+            "description": "<p>Collaborate effectively to achieve diverse purposes in a range of contexts.</p>",
+            "ga_map": [],
+            "linking_id": "c3a83479db127f004ed764d3149619be",
+            "lo_cl_id": "fb2d5ce4db22e410a4b61f4f049619e5",
+            "lo_domain": [],
+            "number": "8",
+            "offerings": [],
+            "order": "8"
+        },
+        {
+            "academic_item": {
+                "cl_id": "3f2d5ce4db22e410a4b61f4f049619e1",
+                "key": "code",
+                "value": "C000117"
+            },
+            "cl_id": "ff2d5ce4db22e410a4b61f4f049619e4",
+            "code": "CLO2",
+            "description": "<p>Apply contingent payment techniques to determine actuarial present values.</p>",
+            "ga_map": [],
+            "linking_id": "47a83479db127f004ed764d3149619bc",
+            "lo_cl_id": "ff2d5ce4db22e410a4b61f4f049619e4",
+            "lo_domain": [],
+            "number": "2",
+            "offerings": [],
+            "order": "2"
+        }
+    ],
+    "level1_org_unit_data": [
+        {
+            "cl_id": "2706364cdb01a3003aa98a264a9619ec",
+            "name": "Macquarie Business School",
+            "parent": {
+                "cl_id": null,
+                "key": "name",
+                "value": ""
+            },
+            "url": ""
+        }
+    ],
+    "level2_org_unit_data": [],
+    "links": [],
+    "location": "",
+    "majors_minors": null,
+    "maximum_duration": "",
+    "minimum_entry_requirements": "",
+    "no_enrolment": "false",
+    "non_year_12_entry": "",
+    "number_of_weeks": "",
+    "offered_by_an_external_provider": "false",
+    "offering": [
+        {
+            "academic_item": {
+                "cl_id": "3f2d5ce4db22e410a4b61f4f049619e1",
+                "key": "code",
+                "value": "C000117"
+            },
+            "admission_calendar": {
+                "label": "Session 1",
+                "value": "Session 1"
+            },
+            "attendance_type": [],
+            "cl_id": "7b2d5ce4db22e410a4b61f4f049619e4",
+            "clarification_to_appear_in_handbook": "",
+            "comments": "",
+            "display_name": "Session 1-North Ryde",
+            "end_date": "",
+            "entry_point": "false",
+            "ext_id": "",
+            "language_of_instruction": {
+                "label": "English",
+                "value": "en"
+            },
+            "linking_id": "d9704531db527f004ed764d3149619ec",
+            "location": {
+                "cl_id": "ab096372db95270010e7c4048a9619fd",
+                "key": "name",
+                "value": "North Ryde"
+            },
+            "mode": {
+                "cl_id": null,
+                "key": "description",
+                "value": ""
+            },
+            "name": "C000117",
+            "offered": "false",
+            "order": "0",
+            "publish": "true",
+            "start_date": "",
+            "status": {
+                "label": null,
+                "value": null
+            },
+            "year": ""
+        }
+    ],
+    "on_campus": "false",
+    "online": "false",
+    "other": "false",
+    "other_description": "",
+    "other_double_degree_considerations": "",
+    "other_provider_name": "",
+    "other_requirements": [],
+    "outcomes": null,
+    "overview": null,
+    "overview_and_aims_of_the_course": "<p>Macquarie University has been teaching actuarial studies since 1968. It is the first actuarial studies program in the English speaking world, and is the longest running program of its type in Australia. One-third to one-half of qualified actuaries in Australia are Macquarie graduates.</p>\n<p>Actuaries analyse and manage the financial consequences of risky events. These risks include risk of death or sickness, risk of natural hazards (cyclone, earthquake, bushfire), and financial risks (shares, bonds, exchange rates). Actuaries analyse and manage the risks of financial contracts, insurance and retirement funds. They also help manage and control financial institutions. Actuaries relate numbers to real life.</p>\n<p>In this actuarial studies degree you&rsquo;ll learn to conduct mathematical, statistical, economic and financial analysis to a range of practical problems faced in long-term financial planning and management.</p>\n<p>Very strong industry links exist through capstone and professional subjects including the actuarial control cycle.</p>\n<p>Key features:</p>\n<ul>\n<li>Accredited by the Actuaries Institute, giving you a head start in your professional exams.</li>\n<li>Provides a comprehensive understanding in not only actuarial studies but also in economics, accounting, mathematics, statistics and finance. In your final year, your advanced skills will allow you to undertake actuarial projects on insurance liability and risk.</li>\n<li>Taught by the largest actuarial department in Australia, students will learn from highly experienced lecturers and members of the Actuaries Institute.</li>\n<li>Many Macquarie actuarial graduates hold senior positions in the financial services industry.</li>\n</ul>",
+    "part_time": "false",
+    "part_time_duration": "",
+    "participation_enrolment": null,
+    "partner_faculty": {
+        "label": null,
+        "value": null
+    },
+    "partner_org_unit_data": [
+        {}
+    ],
+    "police_check": "false",
+    "post_nominals": "",
+    "prior_learning_recognition": null,
+    "progress_to_masters": "",
+    "progression": null,
+    "prohibited_employment_declaration": "false",
+    "provider_name": {
+        "label": null,
+        "value": null
+    },
+    "provider_name_and_supporting_documentation": "",
+    "publication_information": "",
+    "published_in_handbook": {
+        "label": "Yes",
+        "value": "1"
+    },
+    "qualification_requirement": "",
+    "qualifications": "",
+    "related_associated_items": [],
+    "requirements": null,
+    "research_areas": null,
+    "school": {
+        "cl_id": "2706364cdb01a3003aa98a264a9619ec",
+        "key": "name",
+        "value": "Macquarie Business School"
+    },
+    "search_title": "Bachelor of Actuarial Studies",
+    "source": {
+        "cl_id": "4005337a1bbb985067fc4338dc4bcbe9",
+        "key": "",
+        "value": "4005337a1bbb985067fc4338dc4bcbe9"
+    },
+    "special_admission": null,
+    "specialisations": null,
+    "status": {
+        "label": "Approved",
+        "value": "Active"
+    },
+    "structure": null,
+    "study_modes": [],
+    "support_for_learning": "",
+    "title": "Bachelor of Actuarial Studies",
+    "type": {
+        "label": "Specialist Bachelor Degree",
+        "value": "specialist_bachelor_degree"
+    },
+    "vce_english": "",
+    "vce_maths": "",
+    "vce_other": "",
+    "version": "4",
+    "version_name": "2021.04",
+    "volume_of_learning": {
+        "label": "Equivalent to 3 years",
+        "value": "3"
+    },
+    "wam_required_for_progression": "",
+    "what_is_the_internal_structure_of_course_majors": "",
+    "work_based_training_component": "false",
+    "working_with_children_check": "false",
+    "year_12_prerequisites": ""
+}

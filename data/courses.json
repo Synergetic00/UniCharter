@@ -1,0 +1,1958 @@
+{
+    "C000001": {
+        "abbreviation": "BBioCons",
+        "aqf": "Level 7",
+        "atar": "80",
+        "credits": "240",
+        "cricos": "067848J",
+        "duration": "Full time: 3 years",
+        "title": "Bachelor of Biodiversity and Conservation",
+        "type": "Specialist Bachelor Degree",
+        "volume": "Equivalent to 3 years"
+    },
+    "C000003": {
+        "abbreviation": "BEnv",
+        "aqf": "Level 7",
+        "atar": "84",
+        "credits": "240",
+        "cricos": "067858G",
+        "duration": "Full time: 3 years",
+        "title": "Bachelor of Environment",
+        "type": "Generalist Bachelor Degree",
+        "volume": "Equivalent to 3 years"
+    },
+    "C000004": {
+        "abbreviation": "BA",
+        "aqf": "Level 7",
+        "atar": "75",
+        "credits": "240",
+        "cricos": "001357G",
+        "duration": "Full time: 3 years",
+        "title": "Bachelor of Arts",
+        "type": "Generalist Bachelor Degree",
+        "volume": "Equivalent to 3 years"
+    },
+    "C000005": {
+        "abbreviation": "BChiroSc",
+        "aqf": "Level 7",
+        "atar": "80",
+        "credits": "240",
+        "cricos": "028866G",
+        "duration": "Full time: 3 years",
+        "title": "Bachelor of Chiropractic Science",
+        "type": "Specialist Bachelor Degree",
+        "volume": "Equivalent to 3 years"
+    },
+    "C000006": {
+        "abbreviation": "BGDD",
+        "aqf": "Level 7",
+        "atar": "80",
+        "credits": "240",
+        "cricos": "099144K",
+        "duration": "Full time: 3 years",
+        "title": "Bachelor of Game Design and Development",
+        "type": "Specialist Bachelor Degree",
+        "volume": "Equivalent to 3 years"
+    },
+    "C000008": {
+        "abbreviation": "BPlan",
+        "aqf": "Level 7",
+        "atar": "75",
+        "credits": "320",
+        "cricos": "060724M",
+        "duration": "Full time: 4 years",
+        "title": "Bachelor of Planning",
+        "type": "Specialist Bachelor Degree",
+        "volume": "Equivalent to 4 years"
+    },
+    "C000009": {
+        "abbreviation": "BPsych",
+        "aqf": "Level 7",
+        "atar": "80",
+        "credits": "240",
+        "cricos": "099150A",
+        "duration": "Full time: 3 years",
+        "title": "Bachelor of Psychology",
+        "type": "Specialist Bachelor Degree",
+        "volume": "Equivalent to 3 years"
+    },
+    "C000010": {
+        "abbreviation": "BPsych(Hons)",
+        "aqf": "Level 8",
+        "atar": "94",
+        "credits": "320",
+        "cricos": "021498F",
+        "duration": "Full time: 4 years",
+        "title": "Bachelor of Psychology (Honours)",
+        "type": "Specialist Bachelor Honours Degree",
+        "volume": "Equivalent to 4 years"
+    },
+    "C000012": {
+        "abbreviation": "BTeach(ECE)",
+        "aqf": "Level 7",
+        "atar": "75",
+        "credits": "320",
+        "cricos": "083745E",
+        "duration": "Full time: 4 years",
+        "title": "Bachelor of Teaching (Early Childhood Education)",
+        "type": "Specialist Bachelor Degree",
+        "volume": "Equivalent to 4 years"
+    },
+    "C000013": {
+        "abbreviation": "BArch",
+        "aqf": "Level 7",
+        "atar": "80",
+        "credits": "240",
+        "cricos": "083740K",
+        "duration": "Full time: 3 years",
+        "title": "Bachelor of Archaeology",
+        "type": "Specialist Bachelor Degree",
+        "volume": "Equivalent to 3 years"
+    },
+    "C000014": {
+        "abbreviation": "BProfAccg",
+        "aqf": "Level 7",
+        "atar": "80",
+        "credits": "240",
+        "cricos": "099149E",
+        "duration": "Full time: 3 years",
+        "title": "Bachelor of Professional Accounting",
+        "type": "Specialist Bachelor Degree",
+        "volume": "Equivalent to 3 years"
+    },
+    "C000015": {
+        "abbreviation": "BSecStud",
+        "aqf": "Level 7",
+        "atar": "75",
+        "credits": "240",
+        "cricos": "083744F",
+        "duration": "Full time: 3 years",
+        "title": "Bachelor of Security Studies",
+        "type": "Specialist Bachelor Degree",
+        "volume": "Equivalent to 3 years"
+    },
+    "C000016": {
+        "abbreviation": "BBusAnalytics",
+        "aqf": "Level 7",
+        "atar": "80",
+        "credits": "240",
+        "cricos": "079306G",
+        "duration": "Full time: 3 years",
+        "title": "Bachelor of Business Analytics",
+        "type": "Specialist Bachelor Degree",
+        "volume": "Equivalent to 3 years"
+    },
+    "C000017": {
+        "abbreviation": "BAppFin",
+        "aqf": "Level 7",
+        "atar": "85",
+        "credits": "240",
+        "cricos": "027342M",
+        "duration": "Full time: 3 years",
+        "title": "Bachelor of Applied Finance",
+        "type": "Specialist Bachelor Degree",
+        "volume": "Equivalent to 3 years"
+    },
+    "C000019": {
+        "abbreviation": "BBA",
+        "aqf": "Level 7",
+        "atar": "80",
+        "credits": "240",
+        "cricos": "027343K",
+        "duration": "Full time: 3 years",
+        "title": "Bachelor of Business Administration",
+        "type": "Specialist Bachelor Degree",
+        "volume": "Equivalent to 3 years"
+    },
+    "C000020": {
+        "abbreviation": "BClinSc",
+        "aqf": "Level 7",
+        "atar": "90",
+        "credits": "240",
+        "cricos": "087679M",
+        "duration": "Full time: 2 years",
+        "title": "Bachelor of Clinical Science",
+        "type": "Specialist Bachelor Degree",
+        "volume": "Equivalent to 3 years"
+    },
+    "C000021": {
+        "abbreviation": "BMktgMedia",
+        "aqf": "Level 7",
+        "atar": "95",
+        "credits": "240",
+        "cricos": "074754A",
+        "duration": "Full time: 3 years",
+        "title": "Bachelor of Marketing and Media",
+        "type": "Specialist Bachelor Degree",
+        "volume": "Equivalent to 3 years"
+    },
+    "C000022": {
+        "abbreviation": "GradCertHSc",
+        "aqf": "Level 8",
+        "credits": "40",
+        "title": "Graduate Certificate of Hearing Sciences",
+        "type": "Graduate Certificate"
+    },
+    "C000023": {
+        "abbreviation": "MEnv",
+        "aqf": "Level 9",
+        "credits": "160",
+        "cricos": "084700K",
+        "duration": "Full time: 2 years",
+        "title": "Master of Environment",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000025": {
+        "abbreviation": "GradCertPhysHealth",
+        "aqf": "Level 8",
+        "credits": "40",
+        "title": "Graduate Certificate of Physical Health",
+        "type": "Graduate Certificate"
+    },
+    "C000026": {
+        "abbreviation": "MSpchLngPath",
+        "aqf": "Level 9",
+        "credits": "160",
+        "cricos": "037303B",
+        "duration": "Full time: 2 years",
+        "title": "Master of Speech and Language Pathology",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000028": {
+        "abbreviation": "GradDipBiotech",
+        "aqf": "Level 8",
+        "credits": "80",
+        "cricos": "097384K",
+        "duration": "Part time: 2 years",
+        "title": "Graduate Diploma of Biotechnology",
+        "type": "Graduate Diploma",
+        "volume": "Equivalent to 1 year"
+    },
+    "C000030": {
+        "abbreviation": "BMediaComm",
+        "aqf": "Level 7",
+        "atar": "75",
+        "credits": "240",
+        "cricos": "099147G",
+        "duration": "Full time: 3 years",
+        "title": "Bachelor of Media and Communications",
+        "type": "Generalist Bachelor Degree",
+        "volume": "Equivalent to 3 years"
+    },
+    "C000031": {
+        "abbreviation": "MClinPsych",
+        "aqf": "Level 9",
+        "credits": "160",
+        "cricos": "001396M",
+        "duration": "Full time: 2 years",
+        "title": "Master of Clinical Psychology",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000032": {
+        "abbreviation": "MClinNeuro",
+        "aqf": "Level 9",
+        "credits": "160",
+        "cricos": "027374C",
+        "duration": "Full time: 2 years",
+        "title": "Master of Clinical Neuropsychology",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000033": {
+        "abbreviation": "MPlan",
+        "aqf": "Level 9",
+        "credits": "160",
+        "cricos": "092011B",
+        "duration": "Full time: 2 years",
+        "title": "Master of Planning",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000034": {
+        "abbreviation": "MChiroprac",
+        "aqf": "Level 9",
+        "credits": "240",
+        "cricos": "084699J",
+        "duration": "Full time: 3 years",
+        "title": "Master of Chiropractic",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 3 years"
+    },
+    "C000036": {
+        "abbreviation": "MBiotech",
+        "aqf": "Level 9",
+        "credits": "160",
+        "cricos": "084698K",
+        "duration": "Full time: 2 years",
+        "title": "Master of Biotechnology",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000037": {
+        "abbreviation": "MAppLingTESOL",
+        "aqf": "Level 9",
+        "credits": "160",
+        "cricos": "083778G",
+        "duration": "Full time: 2 years",
+        "title": "Master of Applied Linguistics and TESOL",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000039": {
+        "abbreviation": "GradDipPhyHlth",
+        "aqf": "Level 8",
+        "credits": "80",
+        "title": "Graduate Diploma of Physical Health",
+        "type": "Graduate Diploma"
+    },
+    "C000041": {
+        "abbreviation": "GradDipHlthSc",
+        "aqf": "Level 8",
+        "credits": "80",
+        "title": "Graduate Diploma of Health Sciences",
+        "type": "Graduate Diploma"
+    },
+    "C000044": {
+        "abbreviation": "GMBA",
+        "aqf": "Level 9",
+        "credits": "120",
+        "duration": "Full time: 1.5 years",
+        "title": "Global Master of Business Administration",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 1.5 years"
+    },
+    "C000045": {
+        "abbreviation": "GradCertAppStat",
+        "aqf": "Level 8",
+        "credits": "40",
+        "cricos": "095110G",
+        "duration": "Full time: 0.5 years",
+        "title": "Graduate Certificate of Applied Statistics",
+        "type": "Graduate Certificate",
+        "volume": "Equivalent to 0.5 years"
+    },
+    "C000048": {
+        "abbreviation": "MOrgPsych",
+        "aqf": "Level 9",
+        "credits": "160",
+        "cricos": "030053E",
+        "duration": "Full time: 2 years",
+        "title": "Master of Organisational Psychology",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000049": {
+        "abbreviation": "MMktg",
+        "aqf": "Level 9",
+        "credits": "80",
+        "cricos": "099181E",
+        "duration": "Full time: 1 year",
+        "title": "Master of Marketing",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 1 year"
+    },
+    "C000050": {
+        "abbreviation": "GradCertCommDis",
+        "aqf": "Level 8",
+        "credits": "40",
+        "title": "Graduate Certificate of Communication Disability",
+        "type": "Graduate Certificate"
+    },
+    "C000051": {
+        "abbreviation": "GradCertConsBiol",
+        "aqf": "Level 8",
+        "credits": "40",
+        "cricos": "099152K",
+        "duration": "Part time: 1 year",
+        "title": "Graduate Certificate of Conservation Biology",
+        "type": "Graduate Certificate",
+        "volume": "Equivalent to 0.5 years"
+    },
+    "C000055": {
+        "abbreviation": "GradCertTESOL",
+        "aqf": "Level 8",
+        "credits": "40",
+        "cricos": "083010M",
+        "duration": "Full time: 0.5 years",
+        "title": "Graduate Certificate of TESOL",
+        "type": "Graduate Certificate",
+        "volume": "Equivalent to 0.5 years"
+    },
+    "C000056": {
+        "abbreviation": "GradDipAppLingTESOL",
+        "aqf": "Level 8",
+        "credits": "80",
+        "title": "Graduate Diploma of Applied Linguistics and TESOL",
+        "type": "Graduate Diploma"
+    },
+    "C000058": {
+        "abbreviation": "GradDipConsBiol",
+        "aqf": "Level 8",
+        "credits": "80",
+        "cricos": "086080F",
+        "duration": "Full time: 1 year",
+        "title": "Graduate Diploma of Conservation Biology",
+        "type": "Graduate Diploma",
+        "volume": "Equivalent to 1 year"
+    },
+    "C000061": {
+        "abbreviation": "MAccg",
+        "aqf": "Level 9",
+        "credits": "160",
+        "cricos": "091741J",
+        "duration": "Full time: 2 years",
+        "title": "Master of Accounting",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000062": {
+        "abbreviation": "MAppEc",
+        "aqf": "Level 9",
+        "credits": "160",
+        "cricos": "097429B",
+        "duration": "Full time: 2 years",
+        "title": "Master of Applied Economics",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000063": {
+        "abbreviation": "MConsBiol",
+        "aqf": "Level 9",
+        "credits": "160",
+        "cricos": "086079K",
+        "duration": "Full time: 2 years",
+        "title": "Master of Conservation Biology",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000064": {
+        "abbreviation": "MCrWrit",
+        "aqf": "Level 9",
+        "credits": "80",
+        "cricos": "099160K",
+        "duration": "Full time: 1 year",
+        "title": "Master of Creative Writing",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 1 year"
+    },
+    "C000068": {
+        "abbreviation": "MIndigenousEd",
+        "aqf": "Level 9",
+        "credits": "80",
+        "duration": "Full time: 1 year",
+        "title": "Master of Indigenous Education",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 1 year"
+    },
+    "C000069": {
+        "abbreviation": "GradDipEnv",
+        "aqf": "Level 8",
+        "credits": "80",
+        "cricos": "083760F",
+        "duration": "Full time: 1 year",
+        "title": "Graduate Diploma of Environment",
+        "type": "Graduate Diploma",
+        "volume": "Equivalent to 1 year"
+    },
+    "C000070": {
+        "abbreviation": "MIntBus",
+        "aqf": "Level 9",
+        "credits": "160",
+        "cricos": "083791K",
+        "duration": "Full time: 2 years",
+        "title": "Master of International Business",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000072": {
+        "abbreviation": "GradCertEnv",
+        "aqf": "Level 8",
+        "credits": "40",
+        "cricos": "083748B",
+        "duration": "Part time: 1 year",
+        "title": "Graduate Certificate of Environment",
+        "type": "Graduate Certificate",
+        "volume": "Equivalent to 0.5 years"
+    },
+    "C000073": {
+        "abbreviation": "GradCertLaw",
+        "aqf": "Level 8",
+        "credits": "40",
+        "cricos": "083754D",
+        "duration": "Part time: 1 year",
+        "title": "Graduate Certificate of Laws",
+        "type": "Graduate Certificate",
+        "volume": "Equivalent to 0.5 years"
+    },
+    "C000074": {
+        "abbreviation": "GradDipAppStat",
+        "aqf": "Level 8",
+        "credits": "80",
+        "cricos": "083759K",
+        "duration": "Part time: 2 years",
+        "title": "Graduate Diploma of Applied Statistics",
+        "type": "Graduate Diploma",
+        "volume": "Equivalent to 1 year"
+    },
+    "C000075": {
+        "abbreviation": "JD",
+        "aqf": "Level 9",
+        "credits": "240",
+        "cricos": "079539A",
+        "duration": "Full time: 3 years",
+        "title": "Juris Doctor",
+        "type": "Masters by Coursework Degree (Extended)",
+        "volume": "Equivalent to 3 years"
+    },
+    "C000076": {
+        "abbreviation": "MD",
+        "aqf": "Level 9",
+        "credits": "320",
+        "cricos": "095798D",
+        "duration": "Full time: 4 years",
+        "title": "Doctor of Medicine",
+        "type": "Masters by Coursework Degree (Extended)",
+        "volume": "Equivalent to 4 years"
+    },
+    "C000077": {
+        "abbreviation": "DPT",
+        "aqf": "Level 9",
+        "credits": "240",
+        "cricos": "075265K",
+        "duration": "Full time: 3 years",
+        "title": "Doctor of Physiotherapy",
+        "type": "Masters by Coursework Degree (Extended)",
+        "volume": "Equivalent to 3 years"
+    },
+    "C000078": {
+        "abbreviation": "MSusDev",
+        "aqf": "Level 9",
+        "credits": "160",
+        "cricos": "083810A",
+        "duration": "Full time: 2 years",
+        "title": "Master of Sustainable Development",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000080": {
+        "abbreviation": "MAncHist",
+        "aqf": "Level 9",
+        "credits": "120",
+        "cricos": "084544F",
+        "duration": "Part time: 3 years",
+        "title": "Master of Ancient History",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 1.5 years"
+    },
+    "C000081": {
+        "abbreviation": "MAppStat",
+        "aqf": "Level 9",
+        "credits": "160",
+        "cricos": "083779F",
+        "duration": "Full time: 2 years",
+        "title": "Master of Applied Statistics",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000082": {
+        "abbreviation": "MDataSc",
+        "aqf": "Level 9",
+        "credits": "160",
+        "cricos": "080284J",
+        "duration": "Full time: 2 years",
+        "title": "Master of Data Science",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000083": {
+        "abbreviation": "MProfAcc",
+        "aqf": "Level 9",
+        "credits": "160",
+        "cricos": "099183C",
+        "duration": "Full time: 2 years",
+        "title": "Master of Professional Accounting",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000084": {
+        "abbreviation": "GradCertAppPsychSc",
+        "aqf": "Level 8",
+        "credits": "40",
+        "title": "Graduate Certificate of Applied Psychological Science",
+        "type": "Graduate Certificate"
+    },
+    "C000086": {
+        "abbreviation": "GradCertDisabilityStud",
+        "aqf": "Level 8",
+        "credits": "40",
+        "title": "Graduate Certificate of Disability Studies",
+        "type": "Graduate Certificate"
+    },
+    "C000088": {
+        "abbreviation": "GradCertEditElecPub",
+        "aqf": "Level 8",
+        "credits": "40",
+        "duration": "Part time: 1 year",
+        "title": "Graduate Certificate of Editing and Electronic Publishing",
+        "type": "Graduate Certificate",
+        "volume": "Equivalent to 0.5 years"
+    },
+    "C000091": {
+        "abbreviation": "BMusic",
+        "aqf": "Level 7",
+        "atar": "75",
+        "credits": "240",
+        "cricos": "099148F",
+        "duration": "Full time: 3 years",
+        "title": "Bachelor of Music",
+        "type": "Specialist Bachelor Degree",
+        "volume": "Equivalent to 3 years"
+    },
+    "C000094": {
+        "abbreviation": "BAncHist",
+        "aqf": "Level 7",
+        "atar": "80",
+        "credits": "240",
+        "cricos": "079891G",
+        "duration": "Full time: 3 years",
+        "title": "Bachelor of Ancient History",
+        "type": "Specialist Bachelor Degree",
+        "volume": "Equivalent to 3 years"
+    },
+    "C000095": {
+        "abbreviation": "BHumanSc",
+        "aqf": "Level 7",
+        "atar": "80",
+        "credits": "240",
+        "cricos": "080285G",
+        "duration": "Full time: 3 years",
+        "title": "Bachelor of Human Sciences",
+        "type": "Generalist Bachelor Degree",
+        "volume": "Equivalent to 3 years"
+    },
+    "C000097": {
+        "abbreviation": "MMgmt",
+        "aqf": "Level 9",
+        "credits": "160",
+        "cricos": "083800C",
+        "duration": "Full time: 2 years",
+        "title": "Master of Management",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000098": {
+        "abbreviation": "GradCertEnvPlan",
+        "aqf": "Level 8",
+        "credits": "40",
+        "duration": "Part time: 1 year",
+        "title": "Graduate Certificate of Environmental Planning",
+        "type": "Graduate Certificate",
+        "volume": "Equivalent to 0.5 years"
+    },
+    "C000099": {
+        "abbreviation": "MClinAudiology",
+        "aqf": "Level 9",
+        "credits": "160",
+        "cricos": "027373D",
+        "duration": "Full time: 2 years",
+        "title": "Master of Clinical Audiology",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000101": {
+        "abbreviation": "MBkgFin",
+        "aqf": "Level 9",
+        "credits": "160",
+        "cricos": "087880K",
+        "duration": "Full time: 2 years",
+        "title": "Master of Banking and Finance",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000102": {
+        "abbreviation": "BCyberSec",
+        "aqf": "Level 7",
+        "atar": "80",
+        "credits": "240",
+        "cricos": "099143M",
+        "duration": "Full time: 3 years",
+        "title": "Bachelor of Cyber Security",
+        "type": "Specialist Bachelor Degree",
+        "volume": "Equivalent to 3 years"
+    },
+    "C000103": {
+        "abbreviation": "BSpHSc",
+        "aqf": "Level 7",
+        "atar": "83",
+        "credits": "240",
+        "cricos": "099151M",
+        "duration": "Full time: 3 years",
+        "title": "Bachelor of Speech and Hearing Sciences",
+        "type": "Specialist Bachelor Degree",
+        "volume": "Equivalent to 3 years"
+    },
+    "C000105": {
+        "abbreviation": "BIT",
+        "aqf": "Level 7",
+        "atar": "75",
+        "credits": "240",
+        "cricos": "047327M",
+        "duration": "Full time: 3 years",
+        "title": "Bachelor of Information Technology",
+        "type": "Generalist Bachelor Degree",
+        "volume": "Equivalent to 3 years"
+    },
+    "C000106": {
+        "abbreviation": "BLingLangSc",
+        "aqf": "Level 7",
+        "atar": "75",
+        "credits": "240",
+        "cricos": "099145J",
+        "duration": "Full time: 3 years",
+        "title": "Bachelor of Linguistics and Language Sciences",
+        "type": "Specialist Bachelor Degree",
+        "volume": "Equivalent to 3 years"
+    },
+    "C000107": {
+        "abbreviation": "BIntStud",
+        "aqf": "Level 7",
+        "atar": "78",
+        "credits": "240",
+        "cricos": "054336G",
+        "duration": "Full time: 3 years",
+        "title": "Bachelor of International Studies",
+        "type": "Specialist Bachelor Degree",
+        "volume": "Equivalent to 3 years"
+    },
+    "C000110": {
+        "abbreviation": "GradDipIT",
+        "aqf": "Level 8",
+        "credits": "50",
+        "cricos": "098528B",
+        "title": "Graduate Diploma of Information Technology",
+        "type": "Graduate Diploma"
+    },
+    "C000117": {
+        "abbreviation": "BActStud",
+        "aqf": "Level 7",
+        "atar": "97",
+        "credits": "240",
+        "cricos": "067838M",
+        "duration": "Full time: 3 years",
+        "title": "Bachelor of Actuarial Studies",
+        "type": "Specialist Bachelor Degree",
+        "volume": "Equivalent to 3 years"
+    },
+    "C000118": {
+        "abbreviation": "BActStudProfPrac(Hons)",
+        "aqf": "Level 8",
+        "atar": "NA",
+        "credits": "320",
+        "duration": "Full time: 4 years",
+        "title": "Bachelor of Actuarial Studies with Professional Practice (Honours)",
+        "type": "Specialist Bachelor Honours Degree",
+        "volume": "Equivalent to 4 years"
+    },
+    "C000119": {
+        "abbreviation": "BEc",
+        "aqf": "Level 7",
+        "atar": "80",
+        "credits": "240",
+        "cricos": "001362K",
+        "duration": "Full time: 3 years",
+        "title": "Bachelor of Economics",
+        "type": "Specialist Bachelor Degree",
+        "volume": "Equivalent to 3 years"
+    },
+    "C000120": {
+        "abbreviation": "MAppFin",
+        "aqf": "Level 9",
+        "credits": "120",
+        "cricos": "083777G",
+        "duration": "Full time: 1.5 years",
+        "title": "Master of Applied Finance",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 1.5 years"
+    },
+    "C000121": {
+        "abbreviation": "MCom",
+        "aqf": "Level 9",
+        "credits": "160",
+        "cricos": "083782M",
+        "duration": "Full time: 2 years",
+        "title": "Master of Commerce",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000122": {
+        "abbreviation": "BProfPrac",
+        "aqf": "Level 7",
+        "atar": "New Course",
+        "credits": "240",
+        "duration": "Full time: 3 years",
+        "title": "Bachelor of Professional Practice",
+        "type": "Generalist Bachelor Degree",
+        "volume": "Equivalent to 3 years"
+    },
+    "C000124": {
+        "abbreviation": "MInfoSysMgmt",
+        "aqf": "Level 9",
+        "credits": "160",
+        "cricos": "099171G",
+        "duration": "Full time: 2 years",
+        "title": "Master of Information Systems Management",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000125": {
+        "abbreviation": "MInfoTechCyberSec",
+        "aqf": "Level 9",
+        "credits": "160",
+        "cricos": "099172F",
+        "duration": "Full time: 2 years",
+        "title": "Master of Information Technology in Cyber Security",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000126": {
+        "abbreviation": "MInfoTechNetworking",
+        "aqf": "Level 9",
+        "credits": "160",
+        "cricos": "099173E",
+        "duration": "Full time: 2 years",
+        "title": "Master of Information Technology in Networking",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000127": {
+        "abbreviation": "GradCertAncHist",
+        "aqf": "Level 8",
+        "credits": "40",
+        "cricos": "084522A",
+        "duration": "Full time: 0.5 years",
+        "title": "Graduate Certificate of Ancient History",
+        "type": "Graduate Certificate",
+        "volume": "Equivalent to 0.5 years"
+    },
+    "C000128": {
+        "abbreviation": "DipAMediaComm",
+        "aqf": "Level 5",
+        "atar": "60",
+        "credits": "80",
+        "cricos": "099295F",
+        "duration": "Full time: 5 terms",
+        "title": "Diploma of Arts Media and Communications",
+        "type": "Diploma",
+        "volume": "Equivalent to 5 terms"
+    },
+    "C000129": {
+        "abbreviation": "BCogBrainSc",
+        "aqf": "Level 7",
+        "atar": "80",
+        "credits": "240",
+        "cricos": "099142A",
+        "duration": "Full time: 3 years",
+        "title": "Bachelor of Cognitive and Brain Sciences",
+        "type": "Specialist Bachelor Degree",
+        "volume": "Equivalent to 3 years"
+    },
+    "C000130": {
+        "abbreviation": "BCom",
+        "aqf": "Level 7",
+        "atar": "80",
+        "credits": "240",
+        "cricos": "048246D",
+        "duration": "Full time: 3 years",
+        "title": "Bachelor of Commerce",
+        "type": "Generalist Bachelor Degree",
+        "volume": "Equivalent to 3 years"
+    },
+    "C000131": {
+        "abbreviation": "BMedScs",
+        "aqf": "Level 7",
+        "atar": "85",
+        "credits": "240",
+        "cricos": "020161F",
+        "duration": "Full time: 3 years",
+        "title": "Bachelor of Medical Sciences",
+        "type": "Generalist Bachelor Degree",
+        "volume": "Equivalent to 3 years"
+    },
+    "C000132": {
+        "abbreviation": "LLB",
+        "aqf": "Level 7",
+        "atar": "96",
+        "credits": "320",
+        "cricos": "080288E",
+        "duration": "Full time: 4 years",
+        "title": "Bachelor of Laws",
+        "type": "Specialist Bachelor Degree",
+        "volume": "Equivalent to 4 years"
+    },
+    "C000133": {
+        "abbreviation": "BEng(Hons)",
+        "aqf": "Level 8",
+        "atar": "80",
+        "credits": "320",
+        "cricos": "087876F",
+        "duration": "Full time: 4 years",
+        "title": "Bachelor of Engineering (Honours)",
+        "type": "Specialist Bachelor Honours Degree",
+        "volume": "Equivalent to 4 years"
+    },
+    "C000135": {
+        "abbreviation": "DipCom",
+        "aqf": "Level 5",
+        "atar": "60",
+        "credits": "80",
+        "cricos": "099296E",
+        "duration": "Full time: 5 terms",
+        "title": "Diploma of Commerce",
+        "type": "Diploma",
+        "volume": "Equivalent to 5 terms"
+    },
+    "C000136": {
+        "abbreviation": "DipIT",
+        "aqf": "Level 5",
+        "atar": "60",
+        "credits": "80",
+        "cricos": "095021J",
+        "duration": "Full time: 5 terms",
+        "title": "Diploma of Information Technology",
+        "type": "Diploma",
+        "volume": "Equivalent to 5 terms"
+    },
+    "C000137": {
+        "abbreviation": "GradCertCom",
+        "aqf": "Level 8",
+        "credits": "40",
+        "title": "Graduate Certificate of Commerce",
+        "type": "Graduate Certificate"
+    },
+    "C000139": {
+        "abbreviation": "GradCertEChild",
+        "aqf": "Level 8",
+        "credits": "40",
+        "cricos": "083747C",
+        "duration": "Full time: 0.5 years",
+        "title": "Graduate Certificate of Early Childhood",
+        "type": "Graduate Certificate",
+        "volume": "Equivalent to 0.5 years"
+    },
+    "C000140": {
+        "abbreviation": "GradCertEd",
+        "aqf": "Level 8",
+        "credits": "40",
+        "cricos": "100138",
+        "duration": "Full time: 0.5 years",
+        "title": "Graduate Certificate of Education",
+        "type": "Graduate Certificate",
+        "volume": "Equivalent to 0.5 years"
+    },
+    "C000141": {
+        "abbreviation": "MEd",
+        "aqf": "Level 9",
+        "credits": "120",
+        "cricos": "083785G",
+        "duration": "Full time: 1.5 years",
+        "title": "Master of Education",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 1.5 years"
+    },
+    "C000143": {
+        "abbreviation": "MTeach(0-5)",
+        "aqf": "Level 9",
+        "credits": "160",
+        "cricos": "058390B",
+        "duration": "Full time: 2 years",
+        "title": "Master of Teaching (Birth to Five Years)",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000144": {
+        "abbreviation": "GradCertEdStud",
+        "aqf": "Level 8",
+        "credits": "40",
+        "cricos": "099153J",
+        "title": "Graduate Certificate of Educational Studies",
+        "type": "Graduate Certificate"
+    },
+    "C000145": {
+        "abbreviation": "GradCertFin",
+        "aqf": "Level 8",
+        "credits": "40",
+        "cricos": "099618C",
+        "duration": "Full time: 0.5 years",
+        "title": "Graduate Certificate of Finance",
+        "type": "Graduate Certificate",
+        "volume": "Equivalent to 0.5 years"
+    },
+    "C000146": {
+        "abbreviation": "DipEng",
+        "aqf": "Level 5",
+        "atar": "60",
+        "credits": "80",
+        "cricos": "095020K",
+        "duration": "Full time: 5 terms",
+        "title": "Diploma of Engineering",
+        "type": "Diploma",
+        "volume": "Equivalent to 5 terms"
+    },
+    "C000147": {
+        "abbreviation": "GradCertMgt",
+        "aqf": "Level 8",
+        "credits": "40",
+        "cricos": "083755C",
+        "duration": "Full time: 0.5 years",
+        "title": "Graduate Certificate of Management",
+        "type": "Graduate Certificate",
+        "volume": "Equivalent to 0.5 years"
+    },
+    "C000149": {
+        "abbreviation": "GradCertSecStudCr",
+        "aqf": "Level 8",
+        "credits": "40",
+        "cricos": "095111G",
+        "duration": "Full time: 0.5 years",
+        "title": "Graduate Certificate of Security Studies and Criminology",
+        "type": "Graduate Certificate",
+        "volume": "Equivalent to 0.5 years"
+    },
+    "C000150": {
+        "abbreviation": "IP",
+        "aqf": "Non AQF",
+        "credits": "40",
+        "cricos": "094320F",
+        "duration": "Full time: 2 terms",
+        "title": "Intensive Program",
+        "type": "Non AQF",
+        "volume": "Equivalent to 2 terms"
+    },
+    "C000152": {
+        "abbreviation": "GradDipAppFin",
+        "aqf": "Level 8",
+        "credits": "80",
+        "cricos": "099155G",
+        "duration": "Full time: 1 year",
+        "title": "Graduate Diploma of Applied Finance",
+        "type": "Graduate Diploma",
+        "volume": "Equivalent to 1 year"
+    },
+    "C000153": {
+        "abbreviation": "GradDipAuslEngInt",
+        "aqf": "Level 8",
+        "credits": "80",
+        "duration": "Part time: 2 years",
+        "title": "Graduate Diploma of Auslan-English Interpreting",
+        "type": "Graduate Diploma",
+        "volume": "Equivalent to 1 year"
+    },
+    "C000154": {
+        "abbreviation": "GradDipClinPsychSc",
+        "aqf": "Level 8",
+        "credits": "80",
+        "title": "Graduate Diploma of Clinical Psychological Science",
+        "type": "Graduate Diploma"
+    },
+    "C000155": {
+        "abbreviation": "GradDipCom",
+        "aqf": "Level 8",
+        "credits": "80",
+        "title": "Graduate Diploma of Commerce",
+        "type": "Graduate Diploma"
+    },
+    "C000156": {
+        "abbreviation": "GradDipEdStud",
+        "aqf": "Level 8",
+        "credits": "80",
+        "title": "Graduate Diploma of Educational Studies",
+        "type": "Graduate Diploma"
+    },
+    "C000157": {
+        "abbreviation": "GradDipMgt",
+        "aqf": "Level 8",
+        "credits": "80",
+        "cricos": "083764B",
+        "duration": "Full time: 1 year",
+        "title": "Graduate Diploma of Management",
+        "type": "Graduate Diploma",
+        "volume": "Equivalent to 1 year"
+    },
+    "C000158": {
+        "abbreviation": "GradDipNeuroSc",
+        "aqf": "Level 8",
+        "credits": "80",
+        "title": "Graduate Diploma of Neuropsychological Science",
+        "type": "Graduate Diploma"
+    },
+    "C000159": {
+        "abbreviation": "GradDipOrgBeh",
+        "aqf": "Level 8",
+        "credits": "80",
+        "title": "Graduate Diploma of Organisational Behaviour",
+        "type": "Graduate Diploma"
+    },
+    "C000160": {
+        "abbreviation": "GradDipPubHealth",
+        "aqf": "Level 8",
+        "credits": "80",
+        "title": "Graduate Diploma of Public Health",
+        "type": "Graduate Diploma"
+    },
+    "C000161": {
+        "abbreviation": "GradDipTransInter",
+        "aqf": "Level 8",
+        "credits": "80",
+        "cricos": "083771C",
+        "duration": "Full time: 1 year",
+        "title": "Graduate Diploma of Translating and Interpreting",
+        "type": "Graduate Diploma",
+        "volume": "Equivalent to 1 year"
+    },
+    "C000163": {
+        "abbreviation": "MActPrac",
+        "aqf": "Level 9",
+        "credits": "160",
+        "cricos": "083775K",
+        "duration": "Full time: 2 years",
+        "title": "Master of Actuarial Practice",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000165": {
+        "aqf": "Level 9",
+        "credits": "80",
+        "duration": "Part time: 2 years",
+        "title": "Master of Applied Finance (Beijing)",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 1 year"
+    },
+    "C000166": {
+        "abbreviation": "MBA",
+        "aqf": "Level 9",
+        "credits": "160",
+        "cricos": "083781A",
+        "duration": "Full time: 2 years",
+        "title": "Master of Business Administration",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000167": {
+        "abbreviation": "MConfInt",
+        "aqf": "Level 9",
+        "credits": "160",
+        "cricos": "097386G",
+        "duration": "Full time: 2 years",
+        "title": "Master of Conference Interpreting",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000168": {
+        "abbreviation": "MCTerrorism",
+        "aqf": "Level 9",
+        "credits": "120",
+        "cricos": "095113E",
+        "duration": "Full time: 1.5 years",
+        "title": "Master of Counter Terrorism",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 1.5 years"
+    },
+    "C000169": {
+        "abbreviation": "MDisabilityStud",
+        "aqf": "Level 9",
+        "credits": "80",
+        "duration": "Full time: 1 year",
+        "title": "Master of Disability Studies",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 1 year"
+    },
+    "C000170": {
+        "abbreviation": "MPH",
+        "aqf": "Level 9",
+        "credits": "160",
+        "cricos": "090596K",
+        "duration": "Full time: 2 years",
+        "title": "Master of Public Health",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000171": {
+        "abbreviation": "MCrInd",
+        "aqf": "Level 9",
+        "credits": "160",
+        "cricos": "099159C",
+        "duration": "Full time: 2 years",
+        "title": "Master of Creative Industries",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000172": {
+        "abbreviation": "MCrim",
+        "aqf": "Level 9",
+        "credits": "120",
+        "cricos": "092009G",
+        "duration": "Full time: 1.5 years",
+        "title": "Master of Criminology",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 1.5 years"
+    },
+    "C000173": {
+        "abbreviation": "MCyberSecAnalysis",
+        "aqf": "Level 9",
+        "credits": "120",
+        "cricos": "099508J",
+        "duration": "Full time: 1.5 years",
+        "title": "Master of Cyber Security Analysis",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 1.5 years"
+    },
+    "C000174": {
+        "abbreviation": "MEChild",
+        "aqf": "Level 9",
+        "credits": "120",
+        "cricos": "083783K",
+        "duration": "Full time: 1.5 years",
+        "title": "Master of Early Childhood",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 1.5 years"
+    },
+    "C000175": {
+        "abbreviation": "MEngElecEng",
+        "aqf": "Level 9",
+        "credits": "160",
+        "cricos": "099163G",
+        "duration": "Full time: 2 years",
+        "title": "Master of Engineering in Electronics Engineering",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000177": {
+        "abbreviation": "MEngMgt",
+        "aqf": "Level 9",
+        "credits": "160",
+        "cricos": "099168B",
+        "duration": "Full time: 2 years",
+        "title": "Master of Engineering Management",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000178": {
+        "abbreviation": "MIntell",
+        "aqf": "Level 9",
+        "credits": "120",
+        "cricos": "095115C",
+        "duration": "Full time: 1.5 years",
+        "title": "Master of Intelligence",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 1.5 years"
+    },
+    "C000179": {
+        "abbreviation": "MIntRel",
+        "aqf": "Level 9",
+        "credits": "80",
+        "cricos": "099175C",
+        "duration": "Full time: 1 year",
+        "title": "Master of International Relations",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 1 year"
+    },
+    "C000180": {
+        "abbreviation": "MBusAnalytics",
+        "aqf": "Level 9",
+        "credits": "160",
+        "cricos": "100139",
+        "duration": "Full time: 2 years",
+        "title": "Master of Business Analytics",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000183": {
+        "abbreviation": "MIntTrdeComLaw",
+        "aqf": "Level 9",
+        "credits": "80",
+        "cricos": "045284M",
+        "duration": "Full time: 1 year",
+        "title": "Master of International Trade and Commerce Law",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 1 year"
+    },
+    "C000184": {
+        "abbreviation": "LLM",
+        "aqf": "Level 9",
+        "credits": "80",
+        "cricos": "047337J",
+        "duration": "Full time: 1 year",
+        "title": "Master of Laws",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 1 year"
+    },
+    "C000186": {
+        "abbreviation": "MMediaComm",
+        "aqf": "Level 9",
+        "credits": "160",
+        "cricos": "099507K",
+        "duration": "Full time: 2 years",
+        "title": "Master of Media and Communications",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000187": {
+        "abbreviation": "MProfPsych",
+        "aqf": "Level 9",
+        "credits": "80",
+        "cricos": "083807G",
+        "duration": "Full time: 1 year",
+        "title": "Master of Professional Psychology",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 1 year"
+    },
+    "C000188": {
+        "abbreviation": "MPSP",
+        "aqf": "Level 9",
+        "credits": "80",
+        "cricos": "099509G",
+        "duration": "Full time: 1 year",
+        "title": "Master of Public and Social Policy",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 1 year"
+    },
+    "C000189": {
+        "abbreviation": "MSecStrategicStud",
+        "aqf": "Level 9",
+        "credits": "120",
+        "cricos": "095120F",
+        "duration": "Full time: 1.5 years",
+        "title": "Master of Security and Strategic Studies",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 1.5 years"
+    },
+    "C000190": {
+        "abbreviation": "MTeach(Prim)",
+        "aqf": "Level 9",
+        "credits": "160",
+        "cricos": "099189G",
+        "duration": "Full time: 2 years",
+        "title": "Master of Teaching (Primary)",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000191": {
+        "abbreviation": "MTeach(Sec)",
+        "aqf": "Level 9",
+        "credits": "160",
+        "cricos": "099190D",
+        "duration": "Full time: 2 years",
+        "title": "Master of Teaching (Secondary)",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000192": {
+        "abbreviation": "MTransInter",
+        "aqf": "Level 9",
+        "credits": "120",
+        "cricos": "083811M",
+        "duration": "Full time: 1.5 years",
+        "title": "Master of Translation and Interpreting Studies",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 1.5 years"
+    },
+    "C000193": {
+        "abbreviation": "MTransInter(Adv)",
+        "aqf": "Level 9",
+        "credits": "160",
+        "cricos": "099191C",
+        "duration": "Full time: 2 years",
+        "title": "Master of Translation and Interpreting Studies (Advanced)",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000194": {
+        "abbreviation": "MFin",
+        "aqf": "Level 9",
+        "credits": "80",
+        "cricos": "099169A",
+        "duration": "Full time: 1 year",
+        "title": "Master of Finance",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 1 year"
+    },
+    "C000195": {
+        "abbreviation": "LLB(Hons)",
+        "aqf": "Level 8",
+        "credits": "320",
+        "cricos": "0101874",
+        "duration": "Full time: 4 years",
+        "title": "Bachelor of Laws (Honours)",
+        "type": "Specialist Bachelor Honours Degree",
+        "volume": "Equivalent to 4 years"
+    },
+    "C000206": {
+        "abbreviation": "BSecStudMCTerrorism",
+        "aqf": "Level 7 & 9",
+        "atar": "80",
+        "credits": "320",
+        "duration": "Full time: 4 years",
+        "title": "Bachelor of Security Studies and Master of Counter Terrorism",
+        "type": "Combined Bachelor + Master Degree",
+        "volume": "Equivalent to 4 years"
+    },
+    "C000207": {
+        "abbreviation": "MSecStudMSecStrategicStud",
+        "aqf": "Level 7 & 9",
+        "atar": "80",
+        "credits": "320",
+        "duration": "Full time: 4 years",
+        "title": "Bachelor of Security Studies and Master of Security and Strategic Studies",
+        "type": "Combined Bachelor + Master Degree",
+        "volume": "Equivalent to 4 years"
+    },
+    "C000208": {
+        "abbreviation": "BSecStudMIntell",
+        "aqf": "Level 7 & 9",
+        "atar": "80",
+        "credits": "320",
+        "duration": "Full time: 4 years",
+        "title": "Bachelor of Security Studies and Master of Intelligence",
+        "type": "Combined Bachelor + Master Degree",
+        "volume": "Equivalent to 4 years"
+    },
+    "C000209": {
+        "abbreviation": "BSecStudMCyberSecAnalysis",
+        "aqf": "Level 7 & 9",
+        "atar": "80",
+        "credits": "320",
+        "duration": "Full time: 4 years",
+        "title": "Bachelor of Security Studies and Master of Cyber Security Analysis",
+        "type": "Combined Bachelor + Master Degree",
+        "volume": "Equivalent to 4 years"
+    },
+    "C000210": {
+        "abbreviation": "BSecStudMCrim",
+        "aqf": "Level 7 & 9",
+        "atar": "80",
+        "credits": "320",
+        "duration": "Full time: 4 years",
+        "title": "Bachelor of Security Studies and Master of Criminology",
+        "type": "Combined Bachelor + Master Degree",
+        "volume": "Equivalent to 4 years"
+    },
+    "C000211": {
+        "abbreviation": "SFND",
+        "aqf": "Non AQF",
+        "credits": "80",
+        "cricos": "085296J",
+        "duration": "Full time: 4 terms",
+        "title": "Standard Foundation Program",
+        "type": "Non AQF",
+        "volume": "Equivalent to 4 terms"
+    },
+    "C000212": {
+        "aqf": "Level 9",
+        "credits": "160",
+        "duration": "Full time: 2 years",
+        "title": "Bachelor of Philosophy/Master of Research (Arts)",
+        "type": "Masters by Research",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000213": {
+        "aqf": "Level 9",
+        "credits": "160",
+        "duration": "Full time: 2 years",
+        "title": "Bachelor of Philosophy/Master of Research (Business and Economics)",
+        "type": "Masters by Research",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000214": {
+        "aqf": "Level 9",
+        "credits": "160",
+        "duration": "Full time: 2 years",
+        "title": "Bachelor of Philosophy/Master of Research (Human Sciences)",
+        "type": "Masters by Research",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000215": {
+        "aqf": "Level 9",
+        "credits": "160",
+        "duration": "Full time: 2 years",
+        "title": "Bachelor of Philosophy/Master of Research (Medicine, Health and Human Sciences)",
+        "type": "Masters by Research",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000216": {
+        "aqf": "Level 9",
+        "credits": "160",
+        "duration": "Full time: 2 years",
+        "title": "Bachelor of Philosophy/Master of Research (Science and Engineering)",
+        "type": "Masters by Research",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000217": {
+        "abbreviation": "MRes (ART)",
+        "aqf": "Level 9",
+        "credits": "160",
+        "cricos": "087959C",
+        "duration": "Full time: 2 years",
+        "title": "Master of Research (Arts)",
+        "type": "Masters by Research",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000218": {
+        "abbreviation": "MRes (FBE)",
+        "aqf": "Level 9",
+        "credits": "160",
+        "cricos": "087960K",
+        "duration": "Full time: 2 years",
+        "title": "Master of Research (Business and Economics)",
+        "type": "Masters by Research",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000219": {
+        "abbreviation": "MRes (HUS)",
+        "aqf": "Level 9",
+        "credits": "160",
+        "cricos": "087961J",
+        "duration": "Full time: 2 years",
+        "title": "Master of Research (Human Sciences)",
+        "type": "Masters by Research",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000220": {
+        "abbreviation": "MRes (MHS)",
+        "aqf": "Level 9",
+        "credits": "160",
+        "cricos": "087964F",
+        "duration": "Full time: 2 years",
+        "title": "Master of Research (Medicine, Health and Human Sciences)",
+        "type": "Masters by Research",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000221": {
+        "abbreviation": "MRes (SCI)",
+        "aqf": "Level 9",
+        "credits": "160",
+        "cricos": "087963G",
+        "duration": "Full time: 2 years",
+        "title": "Master of Research (Science and Engineering)",
+        "type": "Masters by Research",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000223": {
+        "abbreviation": "GradCertAncHIst",
+        "aqf": "Level 8",
+        "credits": "40",
+        "duration": "Full time: 0.5 years",
+        "title": "Graduate Certificate of Ancient History (OUA)",
+        "type": "Graduate Certificate",
+        "volume": "Equivalent to 0.5 years"
+    },
+    "C000224": {
+        "abbreviation": "GradCertSecStud",
+        "aqf": "Level 8",
+        "credits": "40",
+        "duration": "Full time: 0.5 years",
+        "title": "Graduate Certificate of Security Studies and Criminology (OUA)",
+        "type": "Graduate Certificate",
+        "volume": "Equivalent to 0.5 years"
+    },
+    "C000225": {
+        "abbreviation": "MAncHist",
+        "aqf": "Level 9",
+        "credits": "120",
+        "duration": "Part time: 2 years",
+        "title": "Master of Ancient History (OUA)",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 1 year"
+    },
+    "C000226": {
+        "abbreviation": "MCTerrorism",
+        "aqf": "Level 9",
+        "credits": "120",
+        "duration": "Full time: 1.5 years",
+        "title": "Master of Counter Terrorism (OUA)",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 1.5 years"
+    },
+    "C000227": {
+        "abbreviation": "MCrim",
+        "aqf": "Level 9",
+        "credits": "120",
+        "duration": "Full time: 1.5 years",
+        "title": "Master of Criminology (OUA)",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 1.5 years"
+    },
+    "C000228": {
+        "abbreviation": "MCyberSecAnalysis ",
+        "aqf": "Level 9",
+        "credits": "120",
+        "duration": "Full time: 1.5 years",
+        "title": "Master of Cyber Security Analysis (OUA)",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 1.5 years"
+    },
+    "C000229": {
+        "abbreviation": "MIntell",
+        "aqf": "Level 9",
+        "credits": "120",
+        "duration": "Full time: 1.5 years",
+        "title": "Master of Intelligence (OUA)",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 1.5 years"
+    },
+    "C000230": {
+        "abbreviation": "MSecStrategicStud",
+        "aqf": "Level 9",
+        "credits": "120",
+        "duration": "Full time: 1.5 years",
+        "title": "Master of Security and Strategic Studies (OUA)",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 1.5 years"
+    },
+    "C000231": {
+        "abbreviation": " MTeach(0-5) ",
+        "aqf": "Level 9",
+        "credits": "160",
+        "duration": "Full time: 2 years",
+        "title": "Master of Teaching (Birth to Five Years) (OUA)",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000232": {
+        "abbreviation": "MPSP",
+        "aqf": "Level 9",
+        "credits": "80",
+        "duration": "Full time: 1 year",
+        "title": "Master of Public and Social Policy (OUA)",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 1 year"
+    },
+    "C000233": {
+        "abbreviation": "BA",
+        "aqf": "Level 7",
+        "credits": "240",
+        "duration": "Full time: 3 years",
+        "title": "Bachelor of Arts (OUA)",
+        "type": "Generalist Bachelor Degree",
+        "volume": "Equivalent to 3 years"
+    },
+    "C000234": {
+        "abbreviation": "BPsych",
+        "aqf": "Level 7",
+        "credits": "240",
+        "duration": "Full time: 3 years",
+        "title": "Bachelor of Psychology (OUA)",
+        "type": "Specialist Bachelor Degree",
+        "volume": "Equivalent to 3 years"
+    },
+    "C000235": {
+        "abbreviation": "BSecStud",
+        "aqf": "Level 7",
+        "credits": "240",
+        "duration": "Full time: 3 years",
+        "title": "Bachelor of Security Studies  (OUA)",
+        "type": "Specialist Bachelor Degree",
+        "volume": "Equivalent to 3 years"
+    },
+    "C000315": {
+        "abbreviation": " MPubHealth(Res) ",
+        "aqf": "Level 9",
+        "credits": "160",
+        "cricos": "092682G",
+        "duration": "Full time: 2 years",
+        "title": "Master of Public Health (Research)",
+        "type": "Masters by Research",
+        "volume": "Equivalent to 2 years"
+    },
+    "C000316": {
+        "abbreviation": "MBkgFin;ECNU",
+        "aqf": "Level 9",
+        "credits": "120",
+        "duration": "Full time: 1.5 years",
+        "title": "Master of Banking and Finance; ECNU",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 1.5 years"
+    },
+    "C000320": {
+        "abbreviation": "MCrWrit",
+        "aqf": "Level 9",
+        "credits": "80",
+        "cricos": "099160K",
+        "duration": "Full time: 1 year",
+        "title": "Master of Creative Writing (OUA)",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 1 year"
+    },
+    "C000321": {
+        "abbreviation": "DipLang(Chin)",
+        "aqf": "Level 5",
+        "credits": "80",
+        "duration": "Part time: 3 years",
+        "title": "Diploma of Languages (Chinese)",
+        "type": "Diploma",
+        "volume": "Equivalent to 1 year"
+    },
+    "C000323": {
+        "abbreviation": "DipLang(Fren)",
+        "aqf": "Level 5",
+        "credits": "80",
+        "duration": "Part time: 3 years",
+        "title": "Diploma of Languages (French)",
+        "type": "Diploma",
+        "volume": "Equivalent to 1 year"
+    },
+    "C000324": {
+        "abbreviation": "DipLang(Grmn)",
+        "aqf": "Level 5",
+        "credits": "80",
+        "duration": "Part time: 3 years",
+        "title": "Diploma of Languages (German)",
+        "type": "Diploma",
+        "volume": "Equivalent to 1 year"
+    },
+    "C000326": {
+        "abbreviation": "DipLang(Jpns)",
+        "aqf": "Level 5",
+        "credits": "80",
+        "duration": "Part time: 3 years",
+        "title": "Diploma of Languages (Japanese)",
+        "type": "Diploma",
+        "volume": "Equivalent to 1 year"
+    },
+    "C000330": {
+        "abbreviation": "DipLang(Span)",
+        "aqf": "Level 5",
+        "credits": "80",
+        "duration": "Part time: 3 years",
+        "title": "Diploma of Languages (Spanish)",
+        "type": "Diploma",
+        "volume": "Equivalent to 1 year"
+    },
+    "C000331": {
+        "aqf": "Level 8",
+        "credits": "40",
+        "duration": "Full time: 0.5 years",
+        "title": "Graduate Certificate of Finance (OUA)",
+        "type": "Graduate Certificate",
+        "volume": "Equivalent to 0.5 years"
+    },
+    "C000336": {
+        "aqf": "Level 5",
+        "credits": "40",
+        "duration": "Full time: 0.5 years",
+        "title": "Undergraduate Certificate of Engineering",
+        "type": "Diploma",
+        "volume": "Equivalent to 0.5 years"
+    },
+    "C000339": {
+        "aqf": "Level 5",
+        "credits": "40",
+        "duration": "Full time: 0.5 years",
+        "title": "Undergraduate Certificate of Information Technology",
+        "type": "Diploma",
+        "volume": "Equivalent to 0.5 years"
+    },
+    "C000343": {
+        "aqf": "Level 5",
+        "credits": "40",
+        "duration": "Full time: 0.5 years",
+        "title": "Undergraduate Certificate of Business Analytics",
+        "type": "Diploma",
+        "volume": "Equivalent to 0.5 years"
+    },
+    "C000346": {
+        "aqf": "Level 8",
+        "credits": "40",
+        "duration": "Full time: 0.5 years",
+        "title": "Graduate Certificate of Information Technology",
+        "type": "Graduate Certificate",
+        "volume": "Equivalent to 0.5 years"
+    },
+    "C000352": {
+        "abbreviation": "BSc",
+        "aqf": "Level 7",
+        "atar": "75",
+        "credits": "240",
+        "cricos": "001365G",
+        "duration": "Full time: 3 years",
+        "title": "Bachelor of Science",
+        "type": "Generalist Bachelor Degree",
+        "volume": "Equivalent to 3 years"
+    },
+    "C000353": {
+        "abbreviation": "BSc",
+        "aqf": "Level 7",
+        "atar": "75",
+        "credits": "240",
+        "duration": "Full time: 3 years",
+        "title": "Bachelor of Science (OUA)",
+        "type": "Generalist Bachelor Degree",
+        "volume": "Equivalent to 3 years"
+    },
+    "C000354": {
+        "aqf": "Level 9",
+        "credits": "120",
+        "duration": "Part time: 3 years",
+        "title": "Master of Inclusive and Special Education",
+        "type": "Masters by Coursework Degree",
+        "volume": "Equivalent to 1.5 years"
+    },
+    "C000355": {
+        "abbreviation": "GradCertIncSpecEd",
+        "aqf": "Level 8",
+        "credits": "80",
+        "duration": "Full time: 1 year",
+        "title": "Graduate Diploma of Inclusive and Special Education",
+        "type": "Graduate Diploma",
+        "volume": "Equivalent to 1 year"
+    },
+    "C000356": {
+        "abbreviation": "GradCertIncSpecEd",
+        "aqf": "Level 8",
+        "credits": "40",
+        "duration": "Full time: 0.5 years",
+        "title": "Graduate Certificate of Inclusive and Special Education",
+        "type": "Graduate Certificate",
+        "volume": "Equivalent to 0.5 years"
+    },
+    "C000357": {
+        "abbreviation": "BSocSci",
+        "aqf": "Level 7",
+        "atar": "75.0",
+        "credits": "240",
+        "cricos": "027337G",
+        "duration": "Full time: 3 years",
+        "title": "Bachelor of Social Science",
+        "type": "Specialist Bachelor Degree",
+        "volume": "Equivalent to 3 years"
+    },
+    "C000358": {
+        "abbreviation": "GradCertGlobalBusPrac",
+        "aqf": "Level 8",
+        "credits": "40",
+        "duration": "Full time: 0.5 years",
+        "title": "Graduate Certificate of Global Business Practice",
+        "type": "Graduate Certificate",
+        "volume": "Equivalent to 0.5 years"
+    },
+    "C000360": {
+        "aqf": "Level 5",
+        "credits": "40",
+        "duration": "Full time: 0.5 years",
+        "title": "Undergraduate Certificate of Game Design",
+        "type": "Diploma",
+        "volume": "Equivalent to 0.5 years"
+    },
+    "C000361": {
+        "aqf": "Level 5",
+        "credits": "40",
+        "duration": "Full time: 0.5 years",
+        "title": "Undergraduate Certificate of Cyber Security",
+        "type": "Diploma",
+        "volume": "Equivalent to 0.5 years"
+    },
+    "C000362": {
+        "aqf": "Level 5",
+        "credits": "40",
+        "duration": "Full time: 0.5 years",
+        "title": "Undergraduate Certificate of Accounting",
+        "type": "Diploma",
+        "volume": "Equivalent to 0.5 years"
+    },
+    "C000363": {
+        "aqf": "Level 5",
+        "credits": "40",
+        "title": "Undergraduate Certificate of Finance",
+        "type": "Diploma",
+        "volume": "Equivalent to 0.5 years"
+    },
+    "C000364": {
+        "aqf": "Level 5",
+        "credits": "40",
+        "duration": "Full time: 0.5 years",
+        "title": "Undergraduate Certificate of Actuarial Studies",
+        "type": "Diploma",
+        "volume": "Equivalent to 0.5 years"
+    },
+    "C000365": {
+        "aqf": "Level 5",
+        "credits": "40",
+        "duration": "Full time: 0.5 years",
+        "title": "Undergraduate Certificate of Business",
+        "type": "Diploma",
+        "volume": "Equivalent to 0.5 years"
+    },
+    "C000366": {
+        "aqf": "Level 5",
+        "credits": "40",
+        "duration": "Full time: 0.5 years",
+        "title": "Undergraduate Certificate of Marketing",
+        "type": "Diploma",
+        "volume": "Equivalent to 0.5 years"
+    },
+    "C000367": {
+        "aqf": "Level 5",
+        "credits": "40",
+        "duration": "Full time: 0.5 years",
+        "title": "Undergraduate Certificate of Media",
+        "type": "Diploma",
+        "volume": "Equivalent to 0.5 years"
+    },
+    "C000368": {
+        "aqf": "Level 5",
+        "credits": "40",
+        "title": "Undergraduate Certificate of Humanities",
+        "type": "Diploma",
+        "volume": "Equivalent to 0.5 years"
+    },
+    "D000003": {
+        "abbreviation": "BABEd(Sec)",
+        "aqf": "Level 7",
+        "atar": "75",
+        "credits": "320",
+        "cricos": "099535F",
+        "duration": "Full time: 4 years",
+        "title": "Bachelor of Arts and Bachelor of Education (Secondary)",
+        "type": "Generalist Bachelor Degree"
+    },
+    "D000006": {
+        "abbreviation": "BABEd(Prim)",
+        "aqf": "Level 7",
+        "atar": "75",
+        "credits": "320",
+        "cricos": "099534G",
+        "duration": "Full time: 4 years",
+        "title": "Bachelor of Arts and Bachelor of Education (Primary)",
+        "type": "Generalist Bachelor Degree"
+    },
+    "D000023": {
+        "abbreviation": "BComBEd(Sec)",
+        "aqf": "Level 7",
+        "atar": "80",
+        "credits": "320",
+        "cricos": "0101343",
+        "duration": "Full time: 4 years",
+        "title": "Bachelor of Commerce and Bachelor of Education (Secondary)",
+        "type": "Generalist Bachelor Degree"
+    },
+    "D000032": {
+        "abbreviation": "BEd(Prim(BPsych",
+        "aqf": "Level 7",
+        "atar": "80",
+        "credits": "320",
+        "cricos": "0101344",
+        "duration": "Full time: 4 years",
+        "title": "Bachelor of Education (Primary) and Bachelor of Psychology",
+        "type": "Generalist Bachelor Degree"
+    },
+    "D006298": {
+        "aqf": "Level 7",
+        "credits": "320",
+        "duration": "Full time: 4 years",
+        "title": "Bachelor of Science and Bachelor of Education (Secondary)",
+        "type": "Generalist Bachelor Degree",
+        "volume": "Equivalent to 4 years"
+    }
+}
