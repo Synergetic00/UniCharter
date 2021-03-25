@@ -16,7 +16,6 @@ if r.status_code == 200:
         data = element.get('data')
         parsed = json.loads(data)
         formatted[parsed['code']] = {}
-
         formatted[parsed['code']]['title'] = parsed['title']
         formatted[parsed['code']]['credits'] = parsed['credit_points']
         formatted[parsed['code']]['type'] = parsed['content_type']
