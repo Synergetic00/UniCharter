@@ -4,33 +4,8 @@ import re
 def parseTrim(string):
     return string.replace('<p>','').replace('</p>','').replace('\u00a0',' ').replace('<div>\\n','').replace('<div>\n','').replace('<br />','').replace("\u2018", "'").replace("\u2019", "'").replace("\u2013", "-").replace("&amp;", "&").strip()
 
-def parse_nested(text, left=r'[(]', right=r'[)]', sep=r','):
-    """ Based on https://stackoverflow.com/a/17141899/190597 (falsetru) """
-    pat = r'({}|{}|{})'.format(left, right, sep)
-    tokens = re.split(pat, text)    
-    stack = [[]]
-    for x in tokens:
-        if not x or re.match(sep, x): continue
-        if re.match(left, x):
-            stack[-1].append([])
-            stack.append(stack[-1][-1])
-        elif re.match(right, x):
-            stack.pop()
-            if not stack:
-                raise ValueError('error: opening bracket is missing')
-        else:
-            stack[-1].append(x)
-    if len(stack) > 1:
-        print(stack)
-        raise ValueError('error: closing bracket is missing')
-    return stack.pop()
-
-def traverse(a):
-    if not isinstance(a, list):
-        yield a
-    else:
-        for e in a:
-            yield from traverse(e)
+def splitParenstheses(string):
+    return string
 
 output = {}
 
