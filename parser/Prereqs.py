@@ -4,25 +4,33 @@ import re
 def parseTrim(string):
     return string.replace('<p>','').replace('</p>','').replace('\u00a0',' ').replace('<div>\\n','').replace('<div>\n','').replace('<br />','').replace("\u2018", "'").replace("\u2019", "'").replace("\u2013", "-").replace("&amp;", "&").strip()
 
-def make_tree(data):
-    items = re.findall(r"\(|\)|\w+", data)
+def parse_nested(text, left=r'[(]', right=r'[)]', sep=r','):
+    """ Based on https://stackoverflow.com/a/17141899/190597 (falsetru) """
+    pat = r'({}|{}|{})'.format(left, right, sep)
+    tokens = re.split(pat, text)    
+    stack = [[]]
+    for x in tokens:
+        if not x or re.match(sep, x): continue
+        if re.match(left, x):
+            stack[-1].append([])
+            stack.append(stack[-1][-1])
+        elif re.match(right, x):
+            stack.pop()
+            if not stack:
+                raise ValueError('error: opening bracket is missing')
+        else:
+            stack[-1].append(x)
+    if len(stack) > 1:
+        print(stack)
+        raise ValueError('error: closing bracket is missing')
+    return stack.pop()
 
-    def req(index):
-        result = []
-        item = items[index]
-        while item != ")":
-            if item == "(":
-                subtree, index = req(index + 1)
-                result.append(subtree)
-            else:
-                result.append(item)
-            index += 1
-            item = items[index]
-        return result, index
-
-    return req(1)[0]
-
-
+def traverse(a):
+    if not isinstance(a, list):
+        yield a
+    else:
+        for e in a:
+            yield from traverse(e)
 
 output = {}
 
@@ -42,8 +50,7 @@ for unit in data:
 
         original = parseTrim(data[str(unit)]['prerequisite'])
         if unit == 'EDTE3010':
-            tree = make_tree(original)
-            print(tree)
+            print("Started")
 
         #if re.match(adm, original):
             #print(original)
