@@ -4,6 +4,26 @@ import re
 def parseTrim(string):
     return string.replace('<p>','').replace('</p>','').replace('\u00a0',' ').replace('<div>\\n','').replace('<div>\n','').replace('<br />','').replace("\u2018", "'").replace("\u2019", "'").replace("\u2013", "-").replace("&amp;", "&").strip()
 
+def make_tree(data):
+    items = re.findall(r"\(|\)|\w+", data)
+
+    def req(index):
+        result = []
+        item = items[index]
+        while item != ")":
+            if item == "(":
+                subtree, index = req(index + 1)
+                result.append(subtree)
+            else:
+                result.append(item)
+            index += 1
+            item = items[index]
+        return result, index
+
+    return req(1)[0]
+
+
+
 output = {}
 
 # Regex
@@ -21,9 +41,12 @@ for unit in data:
         append = True
 
         original = parseTrim(data[str(unit)]['prerequisite'])
+        if unit == 'EDTE3010':
+            tree = make_tree(original)
+            print(tree)
 
-        if re.match(adm, original):
-            print(original)
+        #if re.match(adm, original):
+            #print(original)
         
         if re.match(cps, original):
             if re.match('^'+cps+'$', original):
