@@ -5,6 +5,13 @@ def parseTrim(string):
     return string.replace('<p>','').replace('</p>','').replace('\u00a0',' ').replace('<div>\\n','').replace('<div>\n','').replace('<br />','').replace("\u2018", "'").replace("\u2019", "'").replace("\u2013", "-").replace("&amp;", "&").strip()
 
 def splitParenstheses(string):
+    depth = 0
+    first = 0
+    ignoreNext = False
+
+    for i in range(len(string)):
+        char = string[i]
+        valid = (i - 1) > 0
     return string
 
 output = {}
