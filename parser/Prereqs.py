@@ -12,6 +12,14 @@ def splitParenstheses(string):
     for i in range(len(string)):
         char = string[i]
         valid = (i - 1) > 0
+        prev = string[i - 1] if valid else None
+
+        if (char == '('):
+            if (prev != None):
+                prevltr = prev.isalpha()
+                if prevltr:
+                    ignoreNext = True
+            if 
     return string
 
 output = {}
