@@ -10,6 +10,9 @@
 
 ## Discord Bot Presenter
 
+* pip3 install -U discord.py
+* pip3 install -U python-dotenv
+
 # Stage 4 - visualiser
 
 ## Graph Visualiser
