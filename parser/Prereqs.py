@@ -4,23 +4,22 @@ import re
 def parseTrim(string):
     return string.replace('<p>','').replace('</p>','').replace('\u00a0',' ').replace('<div>\\n','').replace('<div>\n','').replace('<br />','').replace("\u2018", "'").replace("\u2019", "'").replace("\u2013", "-").replace("&amp;", "&").strip()
 
-def splitParenstheses(string):
-    depth = 0
-    first = 0
-    ignoreNext = False
+def remove(string, start, length):
+    output = string[0 : start] + string[start + length:]
+    return output
 
-    for i in range(len(string)):
-        char = string[i]
-        valid = (i - 1) > 0
-        prev = string[i - 1] if valid else None
+def make_tree(data):
+    output = data.replace("(", "[")\
+             .replace(")", "]")\
+             .replace("] [", "], [")
+    return output
 
-        if (char == '('):
-            if (prev != None):
-                prevltr = prev.isalpha()
-                if prevltr:
-                    ignoreNext = True
-            if 
-    return string
+def splitData(string):
+    output = {}
+    andsplit1 = string.split(' and ')
+    for and1 in range(len(andsplit1)):
+        output['and'+str(and1)] = andsplit1[and1]
+    return output
 
 output = {}
 
@@ -40,10 +39,12 @@ for unit in data:
 
         original = parseTrim(data[str(unit)]['prerequisite'])
         if unit == 'EDTE3010':
-            print("Started")
+            print(splitData(original))
 
         #if re.match(adm, original):
             #print(original)
+
+        print(make_tree(original))
         
         if re.match(cps, original):
             if re.match('^'+cps+'$', original):
