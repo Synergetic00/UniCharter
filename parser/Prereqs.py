@@ -34,37 +34,8 @@ with open('data/units.json') as infile:
 for unit in data:
     output[unit] = {}
     if 'prerequisite' in data[str(unit)]:
-
-        append = True
-
         original = parseTrim(data[str(unit)]['prerequisite'])
-        if unit == 'EDTE3010':
-            print(splitData(original))
-
-        #if re.match(adm, original):
-            #print(original)
-
-        print(make_tree(original))
-        
-        if re.match(cps, original):
-            if re.match('^'+cps+'$', original):
-                output[unit]['generalCredits'] = {}
-                cpsArgs = original.split(' ')
-                output[unit]['generalCredits']['minCredits'] = re.sub(r'[a-z]+', '', cpsArgs[0], re.I)
-                output[unit]['generalCredits']['minLevel'] = re.sub(r'[a-z]+', '', cpsArgs[2], re.I)
-                append = False
-                #print(original)
-            if 'including' in original:
-                includes = original.split(' including ')
-                output[unit]['generalCredits'] = {}
-                cpsArgs = includes[0].split(' ')
-                output[unit]['generalCredits']['minCredits'] = re.sub(r'[a-z]+', '', cpsArgs[0], re.I)
-                output[unit]['generalCredits']['minLevel'] = re.sub(r'[a-z]+', '', cpsArgs[2], re.I)
-                #print(includes)
-        
-        # Save original string to file
-        if append:
-            output[unit]['original'] = original
+        output[unit]['original'] = original
 
 # Write to file
 with open('data/prereqs.json', 'w') as outfile:
