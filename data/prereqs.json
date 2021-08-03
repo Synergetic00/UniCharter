@@ -1,7 +1,13 @@
 {
-    "AACG8990": {},
-    "ABST1000": {},
-    "ABST1020": {},
+    "AACG8990": {
+        "original": ""
+    },
+    "ABST1000": {
+        "original": ""
+    },
+    "ABST1020": {
+        "original": ""
+    },
     "ABST2020": {
         "original": "40cp at 1000 level or above"
     },
@@ -23,8 +29,12 @@
     "ABST8990": {
         "original": "Admission to BPhil/MRes"
     },
-    "ABSX1000": {},
-    "ABSX1020": {},
+    "ABSX1000": {
+        "original": ""
+    },
+    "ABSX1020": {
+        "original": ""
+    },
     "ABSX2020": {
         "original": "40cp at 1000 level or above"
     },
@@ -43,7 +53,9 @@
     "ABSX3040": {
         "original": "130cp at 1000 level or above"
     },
-    "ACCG1000": {},
+    "ACCG1000": {
+        "original": ""
+    },
     "ACCG1001": {
         "original": "ACCG100 or ACCG106 or ACCG1000"
     },
@@ -236,8 +248,12 @@
     "ACCG8313": {
         "original": "(40cp at 6000 level and (ACCG921 or ACCG8121) and (ACCG923 or ACCG8123) and (ACCG926 or ACCG8126) and admission to MProfAcc or MProfAccgLead) or admission to MAdvProfAcc and 10cp at 8000 level"
     },
-    "ACOM1001": {},
-    "ACST1001": {},
+    "ACOM1001": {
+        "original": ""
+    },
+    "ACST1001": {
+        "original": ""
+    },
     "ACST1052": {
         "original": "Admission to BActStud or BActStudBSc or BAppFinBActStud or BActStudBProfPrac or BActStudProfPrac(Hons)"
     },
@@ -568,16 +584,36 @@
     "AFIN8099": {
         "original": "(Admission to MFin and 40cp at 8000 level) or (admission to (MBkgFin or MCom) and 60cp at 8000 level)"
     },
-    "AHIS1110": {},
-    "AHIS1120": {},
-    "AHIS1140": {},
-    "AHIS1150": {},
-    "AHIS1160": {},
-    "AHIS1200": {},
-    "AHIS1210": {},
-    "AHIS1250": {},
-    "AHIS1300": {},
-    "AHIS1301": {},
+    "AHIS1110": {
+        "original": ""
+    },
+    "AHIS1120": {
+        "original": ""
+    },
+    "AHIS1140": {
+        "original": ""
+    },
+    "AHIS1150": {
+        "original": ""
+    },
+    "AHIS1160": {
+        "original": ""
+    },
+    "AHIS1200": {
+        "original": ""
+    },
+    "AHIS1210": {
+        "original": ""
+    },
+    "AHIS1250": {
+        "original": ""
+    },
+    "AHIS1300": {
+        "original": ""
+    },
+    "AHIS1301": {
+        "original": ""
+    },
     "AHIS2110": {
         "original": "AHIS108 or AHIS1110 or AHIS208 or AHST205"
     },
@@ -710,33 +746,57 @@
     "AHIS8990": {
         "original": "Admission to BPhil/MRes"
     },
-    "AHIX1110": {},
-    "AHIX1120": {},
-    "AHIX1200": {},
-    "AHIX1210": {},
-    "AHIX1250": {},
+    "AHIX1110": {
+        "original": ""
+    },
+    "AHIX1120": {
+        "original": ""
+    },
+    "AHIX1200": {
+        "original": ""
+    },
+    "AHIX1210": {
+        "original": ""
+    },
+    "AHIX1250": {
+        "original": ""
+    },
     "AHIX2130": {
         "original": "40cp"
     },
     "AHIX2210": {
         "original": "40cp at 1000 level or above"
     },
-    "AHIX2211": {},
+    "AHIX2211": {
+        "original": ""
+    },
     "AHIX2225": {
         "original": "40cp"
     },
     "AHIX2250": {
         "original": "AHIX1250"
     },
-    "AHIX2251": {},
-    "AHIX3000": {},
-    "AHIX3001": {},
-    "AHIX3201": {},
+    "AHIX2251": {
+        "original": ""
+    },
+    "AHIX3000": {
+        "original": ""
+    },
+    "AHIX3001": {
+        "original": ""
+    },
+    "AHIX3201": {
+        "original": ""
+    },
     "AHIX3202": {
         "original": "130cp at 1000 level or above"
     },
-    "AHIX3241": {},
-    "AHIX3251": {},
+    "AHIX3241": {
+        "original": ""
+    },
+    "AHIX3251": {
+        "original": ""
+    },
     "AHIX6100": {
         "original": "Admission to GradCertAncHist (OUA)"
     },
@@ -752,9 +812,15 @@
     "AHIX8000": {
         "original": "Admission to MAncHist(OUA)"
     },
-    "AHIX8210": {},
-    "AHIX8211": {},
-    "AHIX8213": {},
+    "AHIX8210": {
+        "original": ""
+    },
+    "AHIX8211": {
+        "original": ""
+    },
+    "AHIX8213": {
+        "original": ""
+    },
     "AHIX8221": {
         "original": "Admission to MAncHist (OUA) or GradCertAncHist (OUA)"
     },
@@ -767,8 +833,12 @@
     "AHIX8320": {
         "original": "Admission to GradCertAncHist (OUA)"
     },
-    "AIHI8990": {},
-    "ANAT1001": {},
+    "AIHI8990": {
+        "original": ""
+    },
+    "ANAT1001": {
+        "original": ""
+    },
     "ANAT1002": {
         "original": "HLTH108 or ANAT1001"
     },
@@ -781,8 +851,12 @@
     "ANAT7911": {
         "original": "Admission to MRes"
     },
-    "ANTH1006": {},
-    "ANTH1050": {},
+    "ANTH1006": {
+        "original": ""
+    },
+    "ANTH1050": {
+        "original": ""
+    },
     "ANTH2002": {
         "original": "(ANTH150 or ANTH1050) or 40cp at 1000 level or above"
     },
@@ -834,11 +908,21 @@
     "ANTH8990": {
         "original": "Admission to BPhil/MRes"
     },
-    "ANTX1006": {},
-    "ANTX2002": {},
-    "ANTX2051": {},
-    "ANTX3008": {},
-    "APFN8990": {},
+    "ANTX1006": {
+        "original": ""
+    },
+    "ANTX2002": {
+        "original": ""
+    },
+    "ANTX2051": {
+        "original": ""
+    },
+    "ANTX3008": {
+        "original": ""
+    },
+    "APFN8990": {
+        "original": ""
+    },
     "APPL6000": {
         "original": "Admission to GradCertTESOL or MAppLingTESOL or MTransInterMAppLingTESOL"
     },
@@ -911,11 +995,15 @@
     "ARTS3500": {
         "original": "170cp at 1000 level or above and (admission to BArts or BABEd(Prim) or BABEd(Sec))"
     },
-    "ARTX1000": {},
+    "ARTX1000": {
+        "original": ""
+    },
     "ARTX3500": {
         "original": "170cp at 1000 level or above"
     },
-    "ASBA8990": {},
+    "ASBA8990": {
+        "original": ""
+    },
     "ASTR2020": {
         "original": "PHYS201 or PHYS2010"
     },
@@ -934,11 +1022,21 @@
     "ASTR7913": {
         "original": "Admission to MRes"
     },
-    "BIOL1110": {},
-    "BIOL1210": {},
-    "BIOL1310": {},
-    "BIOL1320": {},
-    "BIOL1620": {},
+    "BIOL1110": {
+        "original": ""
+    },
+    "BIOL1210": {
+        "original": ""
+    },
+    "BIOL1310": {
+        "original": ""
+    },
+    "BIOL1320": {
+        "original": ""
+    },
+    "BIOL1620": {
+        "original": ""
+    },
     "BIOL2110": {
         "original": "(BIOL1110 or BIOL115) and ((BIOL1310 or BIOL114) or (BIOL1210 or BIOL108) or (BIOL1610 or BIOL116) or (BIOL1620))"
     },
@@ -1074,12 +1172,24 @@
     "BIOL8870": {
         "original": "(BIOL8750 or BIOL875) or GSE804 or ENV808 or (ENVS8308 or ENVS808) or (admission to MMarScMgt or MConsBiol or GradDipConsBiol or GradCertConsBiol or MSc or MScInnovationBioConsMgmt or BBioConsMConsBiol)"
     },
-    "BIOL8990": {},
-    "BIOM8990": {},
-    "BIOX1110": {},
-    "BIOX1210": {},
-    "BIOX1310": {},
-    "BIOX1320": {},
+    "BIOL8990": {
+        "original": ""
+    },
+    "BIOM8990": {
+        "original": ""
+    },
+    "BIOX1110": {
+        "original": ""
+    },
+    "BIOX1210": {
+        "original": ""
+    },
+    "BIOX1310": {
+        "original": ""
+    },
+    "BIOX1320": {
+        "original": ""
+    },
     "BIOX2110": {
         "original": "(BIOL1110 or BIOL115) and ((BIOL1310 or BIOL114) or (BIOL1210 or BIOL108) or (BIOL1610 or BIOL116) or (BIOL1620))"
     },
@@ -1128,7 +1238,9 @@
     "BMOL6432": {
         "original": "Admission to GradDipBiotech or GradCertLabAQMgt or GradDipLabAQMgt or MBiotech or MBioBus or MLabAQMgt or MRadiopharmSc or MSc  or MScInnovationChemBiomolecularSc or (Admission to BMedScMBiotech and BMOL2201 or BMOL2401)"
     },
-    "BUSA1027": {},
+    "BUSA1027": {
+        "original": ""
+    },
     "BUSA2020": {
         "original": "(STAT150 or STAT1250 or STAT170 or STAT1170 or STAT171 or STAT1371) and (COMP115 or COMP1000 or ISYS114 or COMP1350)"
     },
@@ -1222,7 +1334,9 @@
     "CAUD8017": {
         "original": "CAUD813 or CAUD8013"
     },
-    "CHEM1001": {},
+    "CHEM1001": {
+        "original": ""
+    },
     "CHEM1002": {
         "original": "CHEM1001 or CBMS107 or CBMS103 or HSC Chemistry Band 5 and above"
     },
@@ -1259,8 +1373,12 @@
     "CHEM6801": {
         "original": "(Admission to GradDipBiotech or GradCertLabAQMgt or GradDipLabAQMgt or MBiotech or MBioBus or MLabAQMgt or MRadiopharmSc or MSc or MScInnovChemBioSc) and permission by special approval"
     },
-    "CHEX1001": {},
-    "CHIN1010": {},
+    "CHEX1001": {
+        "original": ""
+    },
+    "CHIN1010": {
+        "original": ""
+    },
     "CHIN1020": {
         "original": "CHIN1010 or CHN104 or as unit convener assessed and approved"
     },
@@ -1381,8 +1499,12 @@
     "CHIR8511": {
         "original": "Admission to MChiroprac and (CHIR3106 or CHIR316) or (CHIR6110 or CHIR602) and (CHIR6111 or CHIR603) and (CHIR6302 or CHIR604) and (CHIR6303 or CHIR605) and (CHIR6410 or CHIR606) and (CHIR6510 or CHIR608)"
     },
-    "CHIR8512": {},
-    "CHIR8513": {},
+    "CHIR8512": {
+        "original": ""
+    },
+    "CHIR8513": {
+        "original": ""
+    },
     "CHIR8514": {
         "original": "CHIR8511 and CHIR8513 and CHIR8401 and CHIR8101"
     },
@@ -1392,7 +1514,9 @@
     "CHIR8602": {
         "original": "CHIR8601 or CHIR896"
     },
-    "CHIR8990": {},
+    "CHIR8990": {
+        "original": ""
+    },
     "CIVL1001": {
         "original": "(PHYS1510 or PHYS140) and (MATH1010 or MATH135 or MATH1015 or MATH132)"
     },
@@ -1420,12 +1544,18 @@
     "CIVL6101": {
         "original": "Admission to MEngEnvSafetyEng"
     },
-    "CLIN8990": {},
-    "COGS1000": {},
+    "CLIN8990": {
+        "original": ""
+    },
+    "COGS1000": {
+        "original": ""
+    },
     "COGS1005": {
         "original": "COGS1000 or COGS100"
     },
-    "COGS1010": {},
+    "COGS1010": {
+        "original": ""
+    },
     "COGS2000": {
         "original": "COGS1000 or COGS100"
     },
@@ -1486,19 +1616,33 @@
     "COGS7050": {
         "original": "Admission to MRes"
     },
-    "COGS8990": {},
-    "COGX1010": {},
-    "COMP1000": {},
+    "COGS8990": {
+        "original": ""
+    },
+    "COGX1010": {
+        "original": ""
+    },
+    "COMP1000": {
+        "original": ""
+    },
     "COMP1010": {
         "original": "(COMP1000 or COMP115) or admission to (BActStud or BActStudBSc or BAppFinBActStud or BActStudBProfPrac)"
     },
     "COMP1050": {
         "original": "Enrolment in BEng degree"
     },
-    "COMP1150": {},
-    "COMP1300": {},
-    "COMP1350": {},
-    "COMP1750": {},
+    "COMP1150": {
+        "original": ""
+    },
+    "COMP1300": {
+        "original": ""
+    },
+    "COMP1350": {
+        "original": ""
+    },
+    "COMP1750": {
+        "original": ""
+    },
     "COMP2000": {
         "original": "COMP1010 or COMP125"
     },
@@ -1532,7 +1676,9 @@
     "COMP2310": {
         "original": "(COMP1010 or COMP125) and (COMP1350 or ISYS114)"
     },
-    "COMP2320": {},
+    "COMP2320": {
+        "original": ""
+    },
     "COMP2350": {
         "original": "COMP1350 or ISYS114"
     },
@@ -1620,11 +1766,15 @@
     "COMP4093": {
         "original": "20cp at 4000 level"
     },
-    "COMP6010": {},
+    "COMP6010": {
+        "original": ""
+    },
     "COMP6011": {
         "original": "COMP6010 or ITEC625"
     },
-    "COMP6100": {},
+    "COMP6100": {
+        "original": ""
+    },
     "COMP6102": {
         "original": "COMP6011 and permission by special approval"
     },
@@ -1637,28 +1787,42 @@
     "COMP6120": {
         "original": "COMP6110 or ITEC649"
     },
-    "COMP6200": {},
+    "COMP6200": {
+        "original": ""
+    },
     "COMP6210": {
         "original": "COMP6200 and Admission to MDataSc or MScInnovationIT or GradCertInfoTech or MBusAnalytics"
     },
-    "COMP6250": {},
+    "COMP6250": {
+        "original": ""
+    },
     "COMP6260": {
         "original": "COMP6250 or ITEC647"
     },
     "COMP6265": {
         "original": "COMP6250 and COMP6260"
     },
-    "COMP6300": {},
+    "COMP6300": {
+        "original": ""
+    },
     "COMP6320": {
         "original": "Admission to MInfoTechCyberSec or GradCertInfoTech"
     },
     "COMP6325": {
         "original": "Admission to MInfoTechCyberSec or GradCertInfoTech"
     },
-    "COMP6350": {},
-    "COMP6750": {},
-    "COMP6760": {},
-    "COMP6770": {},
+    "COMP6350": {
+        "original": ""
+    },
+    "COMP6750": {
+        "original": ""
+    },
+    "COMP6760": {
+        "original": ""
+    },
+    "COMP6770": {
+        "original": ""
+    },
     "COMP7000": {
         "original": "Admission to MRes"
     },
@@ -1755,8 +1919,12 @@
     "COMP8860": {
         "original": "(Admission to MInfoTechNetworking or MInfoSysMgmt or MInfoTechCyberSec and 60cp at 8000 level) and WAM>=75"
     },
-    "COMP8990": {},
-    "CROA1010": {},
+    "COMP8990": {
+        "original": ""
+    },
+    "CROA1010": {
+        "original": ""
+    },
     "CROA1020": {
         "original": "CRO150 or CROA1010"
     },
@@ -1784,11 +1952,21 @@
     "CROA3020": {
         "original": "CROA3010 or CRO350"
     },
-    "ECHE1130": {},
-    "ECHE1180": {},
-    "ECHE1200": {},
-    "ECHE1300": {},
-    "ECHE1310": {},
+    "ECHE1130": {
+        "original": ""
+    },
+    "ECHE1180": {
+        "original": ""
+    },
+    "ECHE1200": {
+        "original": ""
+    },
+    "ECHE1300": {
+        "original": ""
+    },
+    "ECHE1310": {
+        "original": ""
+    },
     "ECHE2100": {
         "original": "80cp at 1000 level or above including ((ECH113 or ECHE1130 or ABEC120) and (ECHE120 or ECHE1200))"
     },
@@ -1918,13 +2096,21 @@
     "ECHP4250": {
         "original": "ECHP324 or ECHP327 or ECHP3270 ECHP325 or ECHP3250"
     },
-    "ECHX6000": {},
-    "ECHX6010": {},
-    "ECHX6020": {},
+    "ECHX6000": {
+        "original": ""
+    },
+    "ECHX6010": {
+        "original": ""
+    },
+    "ECHX6020": {
+        "original": ""
+    },
     "ECHX6030": {
         "original": "(ECEX600 or ECHX600 or ECHX6000) and (ECEX601 or ECHX601 or ECHX6010) and (ECEX602 or ECHX602 or ECHX6020)"
     },
-    "ECHX8200": {},
+    "ECHX8200": {
+        "original": ""
+    },
     "ECHX8220": {
         "original": "ECHX8260 or ECHX826"
     },
@@ -1946,12 +2132,18 @@
     "ECHX8290": {
         "original": "ECHX825 or ECEX825 or ECHX8250"
     },
-    "ECNM8990": {},
-    "ECON1020": {},
+    "ECNM8990": {
+        "original": ""
+    },
+    "ECON1020": {
+        "original": ""
+    },
     "ECON1021": {
         "original": "ECON1020 or ECON110 or ECON111"
     },
-    "ECON1031": {},
+    "ECON1031": {
+        "original": ""
+    },
     "ECON2003": {
         "original": "50cp at 1000 level or above including ECON111 or ECON1021"
     },
@@ -2096,8 +2288,12 @@
     "EDIT8082": {
         "original": "Admission to GradCertEditElecPub or MTransInter or MCrWrit or GradDipCrWrit or MAccComm or MAdvTransInterStud"
     },
-    "EDST1000": {},
-    "EDST1010": {},
+    "EDST1000": {
+        "original": ""
+    },
+    "EDST1010": {
+        "original": ""
+    },
     "EDST2000": {
         "original": "80cp including (EDST100 or EDST1000) and (EDST1010 or EDST101) and (admission to BABEd(Prim) or BA-PsychBEd(Prim) or BABEd(Sec) or BScBEd(Sec) or BEd(Prim) or BEd(Sec))"
     },
@@ -2116,7 +2312,9 @@
     "EDST2140": {
         "original": "120cp at 1000 level or above including ECHE1130 or ECH113"
     },
-    "EDST2999": {},
+    "EDST2999": {
+        "original": ""
+    },
     "EDST3000": {
         "original": "160cp at 1000 level or above including (EDST2000 or EDST200) and (EDST3110 or EDST311) and EDST2999"
     },
@@ -2201,21 +2399,27 @@
     "EDST8201": {
         "original": "Admission to MTeach(Prim) or MTeach(Sec) or MEd or MEdLead or MEChild"
     },
-    "EDST8203": {},
+    "EDST8203": {
+        "original": ""
+    },
     "EDST8204": {
         "original": "EDST8203"
     },
     "EDST8205": {
         "original": "EDST8204 and EDST8211"
     },
-    "EDST8206": {},
+    "EDST8206": {
+        "original": ""
+    },
     "EDST8207": {
         "original": "EDST8206"
     },
     "EDST8208": {
         "original": "EDST8207"
     },
-    "EDST8209": {},
+    "EDST8209": {
+        "original": ""
+    },
     "EDST8210": {
         "original": "EDST8200"
     },
@@ -2279,7 +2483,9 @@
     "EDST8236": {
         "original": "EDST8237"
     },
-    "EDST8237": {},
+    "EDST8237": {
+        "original": ""
+    },
     "EDST8238": {
         "original": "EDST8237"
     },
@@ -2325,11 +2531,15 @@
     "EDST8990": {
         "original": "Admission to BPhil/MRes"
     },
-    "EDST8999": {},
+    "EDST8999": {
+        "original": ""
+    },
     "EDSX8000": {
         "original": "Admission to M Teaching (0 to 5) (OUA)"
     },
-    "EDSX8209": {},
+    "EDSX8209": {
+        "original": ""
+    },
     "EDSX8301": {
         "original": "Admission to MTeach (Birth to five)"
     },
@@ -2372,7 +2582,9 @@
     "EDTE4040": {
         "original": "(EDTE403 or EDTE4030(S)) and (EDTE455 or EDTE4550)"
     },
-    "EDTE4050": {},
+    "EDTE4050": {
+        "original": ""
+    },
     "EDTE4100": {
         "original": "130cp and (EDTE3880 or TEP388) or (EDST3140 and EDTE3010)"
     },
@@ -2433,9 +2645,15 @@
     "EDTE4560": {
         "original": "(EDTE403 or EDTE4030) and (EDTE455 or EDTE4550)"
     },
-    "EDUC1050": {},
-    "EDUC1060": {},
-    "EDUC1070": {},
+    "EDUC1050": {
+        "original": ""
+    },
+    "EDUC1060": {
+        "original": ""
+    },
+    "EDUC1070": {
+        "original": ""
+    },
     "EDUC2580": {
         "original": "40cp at 1000 level or above including ((EDUC1050 or EDUC105) or (EDUC1060 or EDUC106) or (EDUC1070 or EDUC107))"
     },
@@ -2472,7 +2690,9 @@
     "EDUC3880": {
         "original": "130cp at 1000 level or above"
     },
-    "EDUC3990": {},
+    "EDUC3990": {
+        "original": ""
+    },
     "EDUC7000": {
         "original": "Admission to MRes"
     },
@@ -2497,8 +2717,12 @@
     "EDUC8270": {
         "original": "Admission to MSpecEd or GradDipSpecEd or MInc&SpecEd or GradDipInc&SpecEd or GradCertInc&SpecEd or GradCertLearnDiffSuppTeach"
     },
-    "EESC1150": {},
-    "EESC1160": {},
+    "EESC1150": {
+        "original": ""
+    },
+    "EESC1160": {
+        "original": ""
+    },
     "EESC2150": {
         "original": "EESC1150 (or GEOS112 or GEOS1110 or GEOS125 or GEOS1120 or GEOS126 or GEOS1130)"
     },
@@ -2580,7 +2804,9 @@
     "ELEC8870": {
         "original": "Admission to MEngElecEng and 30cp at 3000 level or above"
     },
-    "ENGG1000": {},
+    "ENGG1000": {
+        "original": ""
+    },
     "ENGG1050": {
         "original": "ENGG1000"
     },
@@ -2641,11 +2867,21 @@
     "ENGG8401": {
         "original": "Admission to MEngEnvSafetyEng or MEngMgt"
     },
-    "ENGG8990": {},
-    "ENGL1001": {},
-    "ENGL1002": {},
-    "ENGL1021": {},
-    "ENGL1050": {},
+    "ENGG8990": {
+        "original": ""
+    },
+    "ENGL1001": {
+        "original": ""
+    },
+    "ENGL1002": {
+        "original": ""
+    },
+    "ENGL1021": {
+        "original": ""
+    },
+    "ENGL1050": {
+        "original": ""
+    },
     "ENGL2010": {
         "original": "ENGL1001 or ENGL120 or 40cps at 1000 level or above"
     },
@@ -2727,10 +2963,18 @@
     "ENGL8990": {
         "original": "Admission to BPhil/MRes"
     },
-    "ENGX1001": {},
-    "ENGX1002": {},
-    "ENGX1021": {},
-    "ENGX1050": {},
+    "ENGX1001": {
+        "original": ""
+    },
+    "ENGX1002": {
+        "original": ""
+    },
+    "ENGX1021": {
+        "original": ""
+    },
+    "ENGX1050": {
+        "original": ""
+    },
     "ENGX2010": {
         "original": "ENGX1001 or ENGX120"
     },
@@ -2803,8 +3047,12 @@
     "ENVS1000": {
         "original": "Admission to BEnv"
     },
-    "ENVS1017": {},
-    "ENVS1018": {},
+    "ENVS1017": {
+        "original": ""
+    },
+    "ENVS1018": {
+        "original": ""
+    },
     "ENVS2115": {
         "original": "60cp at 1000 level or above"
     },
@@ -2907,9 +3155,15 @@
     "ENVS8544": {
         "original": "(80cp at 8000 level and admission to MEnv or MSusDev or MEnvEd or MEnvMgt or MEnvStud or MEnvPlan or MPlan or MSocEntre) or (40cp at 8000 level and admission to MSc)"
     },
-    "ENVS8990": {},
-    "FOAR1000": {},
-    "FOAR1001": {},
+    "ENVS8990": {
+        "original": ""
+    },
+    "FOAR1000": {
+        "original": ""
+    },
+    "FOAR1001": {
+        "original": ""
+    },
     "FOAR7000": {
         "original": "Admission to BPhil/MRes"
     },
@@ -2964,9 +3218,15 @@
     "FOHS7230": {
         "original": "Admission to MRes"
     },
-    "FOSE1005": {},
-    "FOSE1015": {},
-    "FOSE1025": {},
+    "FOSE1005": {
+        "original": ""
+    },
+    "FOSE1015": {
+        "original": ""
+    },
+    "FOSE1025": {
+        "original": ""
+    },
     "FOSE2901": {
         "original": "Bachelor of Advanced Science and Permission by Special Approval"
     },
@@ -2985,13 +3245,21 @@
     "FOSE8110": {
         "original": "40cp at 8000 level including ((FOSC804 or FOSE8010) and (FOSC805 or FOSE8020))"
     },
-    "FOSX1015": {},
-    "FOSX1025": {},
+    "FOSX1015": {
+        "original": ""
+    },
+    "FOSX1025": {
+        "original": ""
+    },
     "FOSX3000": {
         "original": "Admission to BSc and 80cp at 2000 level or above"
     },
-    "FREN1000": {},
-    "FREN1010": {},
+    "FREN1000": {
+        "original": ""
+    },
+    "FREN1010": {
+        "original": ""
+    },
     "FREN1020": {
         "original": "(FRN122 or FREN1010) or HSC beginners Band 4 and above or equivalent"
     },
@@ -3019,8 +3287,12 @@
     "FREN3020": {
         "original": "FRN336 or FREN3010"
     },
-    "GEND1000": {},
-    "GEND1020": {},
+    "GEND1000": {
+        "original": ""
+    },
+    "GEND1020": {
+        "original": ""
+    },
     "GEND2020": {
         "original": "40cp at 1000 level or above"
     },
@@ -3033,19 +3305,27 @@
     "GEND3030": {
         "original": "130cp at 1000 level or above"
     },
-    "GENX1000": {},
+    "GENX1000": {
+        "original": ""
+    },
     "GENX2020": {
         "original": "40cp at 1000 level or above"
     },
     "GENX3010": {
         "original": "130cp at 1000 level or above"
     },
-    "GEOP1010": {},
-    "GEOP1030": {},
+    "GEOP1010": {
+        "original": ""
+    },
+    "GEOP1030": {
+        "original": ""
+    },
     "GEOP1040": {
         "original": "Admission to BPlan"
     },
-    "GEOP1080": {},
+    "GEOP1080": {
+        "original": ""
+    },
     "GEOP2010": {
         "original": "40cp at 1000 level or above"
     },
@@ -3193,7 +3473,9 @@
     "GEOS8823": {
         "original": "Permission by special approval"
     },
-    "GEOS8990": {},
+    "GEOS8990": {
+        "original": ""
+    },
     "GEOX8010": {
         "original": "Admission to MPASR (OUA) or GradDipPASR (OUA) or MPSP (OUA)"
     },
@@ -3269,7 +3551,9 @@
     "GMBA8124": {
         "original": "GMBA8121 and GMBA8122"
     },
-    "GRMN1010": {},
+    "GRMN1010": {
+        "original": ""
+    },
     "GRMN1020": {
         "original": "GMN104 or GRMN1010"
     },
@@ -3378,7 +3662,9 @@
     "HSYP8211": {
         "original": "Permission by special approval"
     },
-    "HSYP8990": {},
+    "HSYP8990": {
+        "original": ""
+    },
     "INDG7000": {
         "original": "Admission to BPhil/MRes"
     },
@@ -3409,7 +3695,9 @@
     "INED8050": {
         "original": "Admission to MIndigenousEd"
     },
-    "INTS1000": {},
+    "INTS1000": {
+        "original": ""
+    },
     "INTS1015": {
         "original": "Permission by special approval"
     },
@@ -3470,7 +3758,9 @@
     "INTS8990": {
         "original": "Admission to BPhil/MRes"
     },
-    "ITAL1010": {},
+    "ITAL1010": {
+        "original": ""
+    },
     "ITAL1020": {
         "original": "ITL102 or ITAL1010"
     },
@@ -3498,7 +3788,9 @@
     "ITAL3020": {
         "original": "ITAL3010 or ITL310"
     },
-    "JPNS1010": {},
+    "JPNS1010": {
+        "original": ""
+    },
     "JPNS1020": {
         "original": "JPS101 or JPNS1010, or HSC Japanese Beginners Band 4 and above"
     },
@@ -3538,14 +3830,18 @@
     "JPNS3050": {
         "original": "50cp at 2000 level or above"
     },
-    "JPNX1010": {},
+    "JPNX1010": {
+        "original": ""
+    },
     "JPNX1020": {
         "original": "JPS101 or JPNX101 or JPNX1010"
     },
     "LAWS1000": {
         "original": "Admission to LLB"
     },
-    "LAWS1010": {},
+    "LAWS1010": {
+        "original": ""
+    },
     "LAWS1100": {
         "original": "Admission to LLB"
     },
@@ -3843,10 +4139,18 @@
     "LAWS8990": {
         "original": "Admission to BPhil/MRes"
     },
-    "LING1109": {},
-    "LING1111": {},
-    "LING1120": {},
-    "LING1121": {},
+    "LING1109": {
+        "original": ""
+    },
+    "LING1111": {
+        "original": ""
+    },
+    "LING1120": {
+        "original": ""
+    },
+    "LING1121": {
+        "original": ""
+    },
     "LING2213": {
         "original": "40cp at 1000 level or above"
     },
@@ -3919,8 +4223,12 @@
     "LING8800": {
         "original": "Admission to MAccComm or MAppLing or MAppLingTESOL or MTransInter or MAdvTransInterStud"
     },
-    "LING8990": {},
-    "LINX1300": {},
+    "LING8990": {
+        "original": ""
+    },
+    "LINX1300": {
+        "original": ""
+    },
     "LINX2217": {
         "original": "LING1111 or LING111"
     },
@@ -3960,8 +4268,12 @@
     "LYMP8011": {
         "original": "LYMP8001 and LYMP8002"
     },
-    "MATH1000": {},
-    "MATH1007": {},
+    "MATH1000": {
+        "original": ""
+    },
+    "MATH1007": {
+        "original": ""
+    },
     "MATH1010": {
         "original": "(HSC Advanced Mathematics Band 4 and above or Extension 1 Band E2 and above or Extension 2) or MATH130 or MATH1000 or WFMA003 or WFMA0003 or WMAT123 or WMAT1000"
     },
@@ -4013,7 +4325,9 @@
     "MATH3909": {
         "original": "((MATH2010 or MATH235) and (MATH2020 or MATH236)) or MATH3901 or MATH3902 or MATH3905 or MATH3906 or MATH331 or MATH332 or MATH335 or MATH336"
     },
-    "MATH6904": {},
+    "MATH6904": {
+        "original": ""
+    },
     "MATH7900": {
         "original": "Admission to MRes"
     },
@@ -4035,7 +4349,9 @@
     "MATH7908": {
         "original": "Admission to MRes"
     },
-    "MATH8990": {},
+    "MATH8990": {
+        "original": ""
+    },
     "MECH1001": {
         "original": "(PHYS1510 or PHYS140) and (MATH135 or MATH132 or MATH1010 or MATH1015)"
     },
@@ -4153,11 +4469,15 @@
     "MEDI7000": {
         "original": "Admission to MRes"
     },
-    "MEDI7001": {},
+    "MEDI7001": {
+        "original": ""
+    },
     "MEDI7004": {
         "original": "Admission to MRes and ((MEDI204 or MEDI2300) or (BIOL257 or BIOL2230) or (PSY354 or PSYU3354))"
     },
-    "MEDI7007": {},
+    "MEDI7007": {
+        "original": ""
+    },
     "MEDI7010": {
         "original": "Admission to MRes and (MEDI705 or MEDI7001)"
     },
@@ -4239,12 +4559,18 @@
     "MEDI8403": {
         "original": "MEDI8400 and MEDI8401"
     },
-    "MGMT1002": {},
+    "MGMT1002": {
+        "original": ""
+    },
     "MGMT1005": {
         "original": "20cp at 1000 level"
     },
-    "MGMT1007": {},
-    "MGMT1011": {},
+    "MGMT1007": {
+        "original": ""
+    },
+    "MGMT1011": {
+        "original": ""
+    },
     "MGMT1020": {
         "original": "30cp at 1000 level or above"
     },
@@ -4422,8 +4748,12 @@
     "MGMT8080": {
         "original": "Permission by special approval"
     },
-    "MGMT8990": {},
-    "MGRK1010": {},
+    "MGMT8990": {
+        "original": ""
+    },
+    "MGRK1010": {
+        "original": ""
+    },
     "MGRK1020": {
         "original": "MGK101 or MGRK1010"
     },
@@ -4451,8 +4781,12 @@
     "MGRK3020": {
         "original": "MGRK2210"
     },
-    "MHIS1001": {},
-    "MHIS1002": {},
+    "MHIS1001": {
+        "original": ""
+    },
+    "MHIS1002": {
+        "original": ""
+    },
     "MHIS2000": {
         "original": "40cp at 1000 level or above OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
     },
@@ -4501,8 +4835,12 @@
     "MHIS7001": {
         "original": "Admission to BPhil/MRes"
     },
-    "MHIX1001": {},
-    "MHIX1002": {},
+    "MHIX1001": {
+        "original": ""
+    },
+    "MHIX1002": {
+        "original": ""
+    },
     "MHIX2000": {
         "original": "40cp at 1000 level or above OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
     },
@@ -4536,8 +4874,12 @@
     "MHPG8990": {
         "original": "Admission to BPhil/MRes"
     },
-    "MKTG1001": {},
-    "MKTG1003": {},
+    "MKTG1001": {
+        "original": ""
+    },
+    "MKTG1003": {
+        "original": ""
+    },
     "MKTG2002": {
         "original": "40cp at 1000 level or above including MKTG1001 or MKTG101"
     },
@@ -4652,7 +4994,9 @@
     "MKTG8080": {
         "original": "Admission to MMKtg and 40cp including ((MKTG820 or MKTG8020) and (MKTG815 or MKTG8015))"
     },
-    "MKTG8990": {},
+    "MKTG8990": {
+        "original": ""
+    },
     "MMBA8019": {
         "original": "MGSM820 or MMBA8020"
     },
@@ -4752,23 +5096,51 @@
     "MMBA8250": {
         "original": "Admission to MBA and (MGSM820 or MMBA8020) and (MGSM835 or MMBA8035) and (MGSM850 or MMBA8050 or MMBA8055) and (MMBA8006 or MMBA8075)"
     },
-    "MMCC1000": {},
-    "MMCC1005": {},
-    "MMCC1008": {},
-    "MMCC1011": {},
-    "MMCC1012": {},
+    "MMCC1000": {
+        "original": ""
+    },
+    "MMCC1005": {
+        "original": ""
+    },
+    "MMCC1008": {
+        "original": ""
+    },
+    "MMCC1011": {
+        "original": ""
+    },
+    "MMCC1012": {
+        "original": ""
+    },
     "MMCC1015": {
         "original": "Admission to BMediaComm"
     },
-    "MMCC1020": {},
-    "MMCC1025": {},
-    "MMCC1030": {},
-    "MMCC1032": {},
-    "MMCC1035": {},
-    "MMCC1040": {},
-    "MMCC1045": {},
-    "MMCC1050": {},
-    "MMCC1110": {},
+    "MMCC1020": {
+        "original": ""
+    },
+    "MMCC1025": {
+        "original": ""
+    },
+    "MMCC1030": {
+        "original": ""
+    },
+    "MMCC1032": {
+        "original": ""
+    },
+    "MMCC1035": {
+        "original": ""
+    },
+    "MMCC1040": {
+        "original": ""
+    },
+    "MMCC1045": {
+        "original": ""
+    },
+    "MMCC1050": {
+        "original": ""
+    },
+    "MMCC1110": {
+        "original": ""
+    },
     "MMCC2000": {
         "original": "40cp at 1000 level or above"
     },
@@ -5012,7 +5384,9 @@
     "MOLS3002": {
         "original": "120cp at 1000 level or above and permission by special approval"
     },
-    "MOLS3003": {},
+    "MOLS3003": {
+        "original": ""
+    },
     "MOLS7001": {
         "original": "Admission to MRes"
     },
@@ -5169,9 +5543,15 @@
     "MTRN4093": {
         "original": "20cp at 4000 level"
     },
-    "PHIL1031": {},
-    "PHIL1032": {},
-    "PHIL1037": {},
+    "PHIL1031": {
+        "original": ""
+    },
+    "PHIL1032": {
+        "original": ""
+    },
+    "PHIL1037": {
+        "original": ""
+    },
     "PHIL2010": {
         "original": "40cp at 1000 level or above"
     },
@@ -5217,9 +5597,15 @@
     "PHIL8990": {
         "original": "Admission to BPhil/MRes"
     },
-    "PHIX1031": {},
-    "PHIX1032": {},
-    "PHIX1037": {},
+    "PHIX1031": {
+        "original": ""
+    },
+    "PHIX1032": {
+        "original": ""
+    },
+    "PHIX1037": {
+        "original": ""
+    },
     "PHIX2010": {
         "original": "40cp at 1000 level or above"
     },
@@ -5244,7 +5630,9 @@
     "PHIX3051": {
         "original": "130cp at 1000 level or above"
     },
-    "PHIX3052": {},
+    "PHIX3052": {
+        "original": ""
+    },
     "PHIX3056": {
         "original": "130cp at 1000 level or above"
     },
@@ -5335,7 +5723,9 @@
     "PHTY8308": {
         "original": "(PHTY812 or PHTY8204) and (PHTY813 or PHTY8205) and (PHTY814 or PHTY8206) and (PHTY815 or PHTY8207)"
     },
-    "PHTY8990": {},
+    "PHTY8990": {
+        "original": ""
+    },
     "PHYS1010": {
         "original": "(HSC Advanced Mathematics Band 4 and above or Extension 1 Band E2 and above or Extension 2) or MATH1000 or MATH130 or WFMA003 or WFMA0003"
     },
@@ -5426,12 +5816,24 @@
     "PHYS8911": {
         "original": "Permission by special approval"
     },
-    "PHYS8990": {},
-    "PICT1010": {},
-    "PICT1011": {},
-    "PICT1012": {},
-    "PICT1014": {},
-    "PICT1030": {},
+    "PHYS8990": {
+        "original": ""
+    },
+    "PICT1010": {
+        "original": ""
+    },
+    "PICT1011": {
+        "original": ""
+    },
+    "PICT1012": {
+        "original": ""
+    },
+    "PICT1014": {
+        "original": ""
+    },
+    "PICT1030": {
+        "original": ""
+    },
     "PICT2001": {
         "original": "50cp at 1000 level or above"
     },
@@ -5585,11 +5987,21 @@
     "PICT8990": {
         "original": "Admission to BPhil/MRes"
     },
-    "PICX1010": {},
-    "PICX1011": {},
-    "PICX1012": {},
-    "PICX1014": {},
-    "PICX1030": {},
+    "PICX1010": {
+        "original": ""
+    },
+    "PICX1011": {
+        "original": ""
+    },
+    "PICX1012": {
+        "original": ""
+    },
+    "PICX1014": {
+        "original": ""
+    },
+    "PICX1030": {
+        "original": ""
+    },
     "PICX2001": {
         "original": "50cp at 1000 level or above"
     },
@@ -5743,8 +6155,12 @@
     "PLSH3025": {
         "original": "PLSH3010 or PLH324"
     },
-    "POIR1010": {},
-    "POIR1080": {},
+    "POIR1010": {
+        "original": ""
+    },
+    "POIR1080": {
+        "original": ""
+    },
     "POIR2010": {
         "original": "40cp at 1000 level or above OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
     },
@@ -5820,8 +6236,12 @@
     "POIR8990": {
         "original": "Admission to BPhil/MRes"
     },
-    "POIX1010": {},
-    "POIX1080": {},
+    "POIX1010": {
+        "original": ""
+    },
+    "POIX1080": {
+        "original": ""
+    },
     "POIX2010": {
         "original": "40cp at 1000 level or above OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
     },
@@ -5966,16 +6386,36 @@
     "PSYC8995": {
         "original": "(PSYC993 or PSYC8993) and (PSYC994 or PSYC8994)"
     },
-    "PSYH4418": {},
-    "PSYH4432": {},
-    "PSYH4439": {},
-    "PSYH4461": {},
-    "PSYH4462": {},
-    "PSYH4463": {},
-    "PSYH4464": {},
-    "PSYH4466": {},
-    "PSYH4468": {},
-    "PSYH4499": {},
+    "PSYH4418": {
+        "original": ""
+    },
+    "PSYH4432": {
+        "original": ""
+    },
+    "PSYH4439": {
+        "original": ""
+    },
+    "PSYH4461": {
+        "original": ""
+    },
+    "PSYH4462": {
+        "original": ""
+    },
+    "PSYH4463": {
+        "original": ""
+    },
+    "PSYH4464": {
+        "original": ""
+    },
+    "PSYH4466": {
+        "original": ""
+    },
+    "PSYH4468": {
+        "original": ""
+    },
+    "PSYH4499": {
+        "original": ""
+    },
     "PSYM7718": {
         "original": "Admission to MRes"
     },
@@ -6000,7 +6440,9 @@
     "PSYM7766": {
         "original": "Admission to MRes"
     },
-    "PSYM8990": {},
+    "PSYM8990": {
+        "original": ""
+    },
     "PSYN8808": {
         "original": "Admission to MClinNeuro or MClinPsych"
     },
@@ -6145,8 +6587,12 @@
     "PSYP8915": {
         "original": "Admission to MProfPsych"
     },
-    "PSYU1101": {},
-    "PSYU1102": {},
+    "PSYU1101": {
+        "original": ""
+    },
+    "PSYU1102": {
+        "original": ""
+    },
     "PSYU1104": {
         "original": "PSYU1105 or PSYX1105"
     },
@@ -6210,8 +6656,12 @@
     "PSYU3399": {
         "original": "[(60cp from PSY or PSYU or PSYX units at 2000 level) and (20cp from PSY or PSYC or PSYU or PSYX units at 3000 level)]  or [30cp from PSY or PSYU or PSYX units at 2000 level and 10cp from PSY or PSYC or PSYU or PSYX units at 3000 level and admission to BA or BHumanSc)]"
     },
-    "PSYX1101": {},
-    "PSYX1102": {},
+    "PSYX1101": {
+        "original": ""
+    },
+    "PSYX1102": {
+        "original": ""
+    },
     "PSYX1104": {
         "original": "PSYX1105 or PSYU1105"
     },
@@ -6260,7 +6710,9 @@
     "PSYX3399": {
         "original": "60cp from PSY or PSYU or PSYX units at 2000 level and 20cp from PSY or PSYC or PSYU or PSYX units at 3000 level and admission to BPsych (OUA)"
     },
-    "RUSS1010": {},
+    "RUSS1010": {
+        "original": ""
+    },
     "RUSS1020": {
         "original": "RSN150 or RUSS1010"
     },
@@ -6291,7 +6743,9 @@
     "RUSS3020": {
         "original": "RUSS3010 or RSN350"
     },
-    "SLAS1010": {},
+    "SLAS1010": {
+        "original": ""
+    },
     "SLAS1020": {
         "original": "SLAS1010 or SPN101, or SLAX1010"
     },
@@ -6319,10 +6773,18 @@
     "SLAS3020": {
         "original": "SLAS3010 or SPN301"
     },
-    "SLAX1010": {},
-    "SOCI1000": {},
-    "SOCI1010": {},
-    "SOCI1030": {},
+    "SLAX1010": {
+        "original": ""
+    },
+    "SOCI1000": {
+        "original": ""
+    },
+    "SOCI1010": {
+        "original": ""
+    },
+    "SOCI1030": {
+        "original": ""
+    },
     "SOCI2000": {
         "original": "40cp at 1000 level or above"
     },
@@ -6386,8 +6848,12 @@
     "SOCI8990": {
         "original": "Admission to BPhil/MRes"
     },
-    "SOCX1000": {},
-    "SOCX1010": {},
+    "SOCX1000": {
+        "original": ""
+    },
+    "SOCX1010": {
+        "original": ""
+    },
     "SOCX2000": {
         "original": "40cp at 1000 level or above"
     },
@@ -6424,7 +6890,9 @@
     "SOCX8080": {
         "original": "Admission to MPSP or MPASR or GradCertPASR or GradDipPASR (OUA)"
     },
-    "SPED1020": {},
+    "SPED1020": {
+        "original": ""
+    },
     "SPED8901": {
         "original": "(SPED823 or SPED8230) and (SPED824 or SPED8240) and (SPED825 or SPED8250) and SPED826 or SPED8260) and (SPED827 or SPED8270)"
     },
@@ -6539,7 +7007,9 @@
     "SPTH8838": {
         "original": "(SPTH8836 or SPHL836) and (SPTH8837 or SPHL837)"
     },
-    "SPTH8839": {},
+    "SPTH8839": {
+        "original": ""
+    },
     "SPTH8840": {
         "original": "SPTH8832"
     },
@@ -6558,7 +7028,9 @@
     "SPTH8854": {
         "original": "SPTH8836 and SPTH8837"
     },
-    "SSCI1000": {},
+    "SSCI1000": {
+        "original": ""
+    },
     "SSCI2010": {
         "original": "(40cp including SSC100, SSCI100 or SSCI1000)"
     },
@@ -6571,9 +7043,15 @@
     "SSCI3090": {
         "original": "(130cp at 1000 level or above) including (SSCI2010 and SSCI2020) OR (SOC224 and SSC200 or SSCI200)."
     },
-    "STAT1103": {},
-    "STAT1170": {},
-    "STAT1250": {},
+    "STAT1103": {
+        "original": ""
+    },
+    "STAT1170": {
+        "original": ""
+    },
+    "STAT1250": {
+        "original": ""
+    },
     "STAT1371": {
         "original": "(HSC Mathematics Extension 1 or Extension 2) or (10cp from MATH1000 or MATH1010-MATH1025 or MATH130-MATH136) or admission to BActStud or BActStudBSc or BAppFinBActStud or BActStudBProfPrac or BActStudProfPrac(Hons) or BMathSc"
     },
@@ -6739,8 +7217,12 @@
     "STAT8830": {
         "original": "Admission to MBiotech or (MSc or MScInnovation) or GradDipBioTech or MBiotechMCom or MBioBus or MLabQAMgt or GradDipLabQAMgt or GradCertLabQAMgt or MConsBiol or GradDipConsBiol or MMarScMgt or GradDipMarScMgt or MRadiopharm"
     },
-    "STAT8990": {},
-    "STAX1103": {},
+    "STAT8990": {
+        "original": ""
+    },
+    "STAX1103": {
+        "original": ""
+    },
     "TELE3001": {
         "original": "((ELEC2040 or ELEC240 or MATH235 or MATH2055) and completion of 130cp) or Admission to MEngNetTeleEng"
     },
@@ -6855,44 +7337,90 @@
     "TRAN8906": {
         "original": "TRAN822 or TRAN8022"
     },
-    "WACC1000": {},
-    "WACO1001": {},
-    "WACO1002": {},
-    "WACO1003": {},
-    "WACT1001": {},
-    "WART1000": {},
+    "WACC1000": {
+        "original": ""
+    },
+    "WACO1001": {
+        "original": ""
+    },
+    "WACO1002": {
+        "original": ""
+    },
+    "WACO1003": {
+        "original": ""
+    },
+    "WACT1001": {
+        "original": ""
+    },
+    "WART1000": {
+        "original": ""
+    },
     "WCIV1001": {
         "original": "(WPHY140 or WPHY1510) and (WMAT135 or WMAT1010)"
     },
-    "WCOM1000": {},
+    "WCOM1000": {
+        "original": ""
+    },
     "WCOM1010": {
         "original": "WCOM115 or WCOM1000"
     },
-    "WCOM1011": {},
-    "WCOM1300": {},
-    "WCOM1350": {},
-    "WCOM1750": {},
-    "WECO1020": {},
-    "WENG1000": {},
+    "WCOM1011": {
+        "original": ""
+    },
+    "WCOM1300": {
+        "original": ""
+    },
+    "WCOM1350": {
+        "original": ""
+    },
+    "WCOM1750": {
+        "original": ""
+    },
+    "WECO1020": {
+        "original": ""
+    },
+    "WENG1000": {
+        "original": ""
+    },
     "WENG1050": {
         "original": "WENG100 or WENG1000"
     },
-    "WFBG0001": {},
-    "WFEC0001": {},
-    "WFEN0001": {},
+    "WFBG0001": {
+        "original": ""
+    },
+    "WFEC0001": {
+        "original": ""
+    },
+    "WFEN0001": {
+        "original": ""
+    },
     "WFEN0002": {
         "original": "(WFEN001 or WFEN0001) or admission to IP"
     },
-    "WFIT0001": {},
-    "WFMA0001": {},
-    "WFMA0002": {},
-    "WFMA0003": {},
-    "WFMD0001": {},
+    "WFIT0001": {
+        "original": ""
+    },
+    "WFMA0001": {
+        "original": ""
+    },
+    "WFMA0002": {
+        "original": ""
+    },
+    "WFMA0003": {
+        "original": ""
+    },
+    "WFMD0001": {
+        "original": ""
+    },
     "WFRS0001": {
         "original": "WFEN002 or WFEN0002 or admission to IP"
     },
-    "WMAT1000": {},
-    "WMAT1007": {},
+    "WMAT1000": {
+        "original": ""
+    },
+    "WMAT1007": {
+        "original": ""
+    },
     "WMAT1010": {
         "original": "(HSC Mathematics Band 3 and above or HSC Mathematics Advanced Band 3 and above or HSC Mathematics Extension 1 Band E2 and above or HSC Mathematics Extension 2) or WMAT1000 or WFMA003 or WFMA0003 or WMAT123 (HD) or MATH1000"
     },
@@ -6902,19 +7430,37 @@
     "WMEC1001": {
         "original": "(WPHY140 or WPHY1510) and (WMAT135 or WMAT1010)"
     },
-    "WMGM1002": {},
-    "WMKT1001": {},
-    "WMMC1000": {},
-    "WMMC1015": {},
-    "WMMC1040": {},
-    "WMMC1050": {},
-    "WMMC1110": {},
-    "WPHL1037": {},
+    "WMGM1002": {
+        "original": ""
+    },
+    "WMKT1001": {
+        "original": ""
+    },
+    "WMMC1000": {
+        "original": ""
+    },
+    "WMMC1015": {
+        "original": ""
+    },
+    "WMMC1040": {
+        "original": ""
+    },
+    "WMMC1050": {
+        "original": ""
+    },
+    "WMMC1110": {
+        "original": ""
+    },
+    "WPHL1037": {
+        "original": ""
+    },
     "WPHY1510": {
         "original": "(HSC Mathematics Band 3 and above or Extension 1 Band E2 and above or Extension 2) or WMAT1000 or WMAT123 (HD) or WFMA003 or WFMA0003"
     },
     "WPHY1520": {
         "original": "WPHY1510 or WPHY140"
     },
-    "WSTA1250": {}
+    "WSTA1250": {
+        "original": ""
+    }
 }
