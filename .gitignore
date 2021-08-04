@@ -1,2 +1,2 @@
 *.DS_Store
-/bot/.env
+/bot/config.json
