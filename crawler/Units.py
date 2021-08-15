@@ -6,7 +6,7 @@ units = {"query":{"bool":{"must":[{"term":{"live":"true"}},[{"bool":{"minimum_sh
 headers = {'content-type': 'application/json'}
 
 def parseTrim(string):
-    return string.replace('<p>','').replace('</p>','').replace('\u00a0',' ').replace('<div>\\n','').replace('<div>\n','').replace('<br />','').replace("\u2018", "'").replace("\u2019", "'").replace("\u2013", "-").replace("&amp;", "&").strip()
+    return string.replace('<p>','').replace('</p>','').replace('\u00a0',' ').replace('<div>\\n','').replace('<div>\n','').replace('<br />','').replace("\u202f", " ").replace("\u2022", "•").replace("\u2026", "...").replace("\u2018", "'").replace("\u2019", "'").replace("\u201c", "\"").replace("\u201d", "\"").replace("\u2014", "-").replace("\u2013", "-").replace("\t", " ").replace("\n", " ").replace("  ", " ").replace("  ", " ").replace("&amp;", "&").strip()
 
 formatted = {}
 
@@ -19,15 +19,15 @@ if r.status_code == 200:
         parsed = json.loads(data)
         print(parsed['code'])
         formatted[parsed['code']] = {}
-        formatted[parsed['code']]['title'] = parsed['title'].strip()
-        formatted[parsed['code']]['credits'] = parsed['credit_points'].strip()
-        formatted[parsed['code']]['group'] = parsed['special_unit_type'][0]['label'].strip()
+        formatted[parsed['code']]['title'] = parseTrim(parsed['title'])
+        formatted[parsed['code']]['credits'] = parseTrim(parsed['credit_points'])
+        formatted[parsed['code']]['group'] = parseTrim(parsed['special_unit_type'][0]['label'])
         if parsed['description'] is not None:
             desc = parseTrim(parsed['description'])
             formatted[parsed['code']]['description'] = desc
-        formatted[parsed['code']]['department'] = parsed['academic_org']['value'].strip()
-        formatted[parsed['code']]['faculty'] = parsed['school']['value'].strip()
-        formatted[parsed['code']]['level'] = parsed['level']['value'].strip()
+        formatted[parsed['code']]['department'] = parseTrim(parsed['academic_org']['value'])
+        formatted[parsed['code']]['faculty'] = parseTrim(parsed['school']['value'])
+        formatted[parsed['code']]['level'] = parseTrim(parsed['level']['value'])
 
         # Learning Outcomes
         if len(parsed['unit_learning_outcomes']) != 0:
@@ -41,22 +41,22 @@ if r.status_code == 200:
             formatted[parsed['code']]['offerings'] = {}
             for offering in parsed['unit_offering']:
                 formatted[parsed['code']]['offerings']['o'+offering['order']] = {}
-                formatted[parsed['code']]['offerings']['o'+offering['order']]['period'] = offering['teaching_period']['value']
-                formatted[parsed['code']]['offerings']['o'+offering['order']]['attendance'] = offering['attendance_mode']['value']
+                formatted[parsed['code']]['offerings']['o'+offering['order']]['period'] = parseTrim(offering['teaching_period']['value'])
+                formatted[parsed['code']]['offerings']['o'+offering['order']]['attendance'] = parseTrim(offering['attendance_mode']['value'])
                 if offering['location']['value'] != '':
-                    formatted[parsed['code']]['offerings']['o'+offering['order']]['location'] = offering['location']['value']
+                    formatted[parsed['code']]['offerings']['o'+offering['order']]['location'] = parseTrim(offering['location']['value'])
     
         # Assessments
         if len(parsed['assessments']) != 0:
             formatted[parsed['code']]['assessments'] = {}
             for i in range(len(parsed['assessments'])):
                 formatted[parsed['code']]['assessments']['a'+str(i)] = {}
-                formatted[parsed['code']]['assessments']['a'+str(i)]['title'] = parsed['assessments'][i]['assessment_title']
-                formatted[parsed['code']]['assessments']['a'+str(i)]['type'] = parsed['assessments'][i]['type']['label']
-                formatted[parsed['code']]['assessments']['a'+str(i)]['weighting'] = parsed['assessments'][i]['weight']
-                formatted[parsed['code']]['assessments']['a'+str(i)]['hurdle'] = parsed['assessments'][i]['hurdle_task']
+                formatted[parsed['code']]['assessments']['a'+str(i)]['title'] = parseTrim(parsed['assessments'][i]['assessment_title'])
+                formatted[parsed['code']]['assessments']['a'+str(i)]['type'] = parseTrim(parsed['assessments'][i]['type']['label'])
+                formatted[parsed['code']]['assessments']['a'+str(i)]['weighting'] = parseTrim(parsed['assessments'][i]['weight'])
+                formatted[parsed['code']]['assessments']['a'+str(i)]['hurdle'] = parseTrim(parsed['assessments'][i]['hurdle_task'])
                 if parsed['assessments'][i]['offerings'] != '':
-                    formatted[parsed['code']]['assessments']['a'+str(i)]['offerings'] = parsed['assessments'][i]['offerings']
+                    formatted[parsed['code']]['assessments']['a'+str(i)]['offerings'] = parseTrim(parsed['assessments'][i]['offerings'])
                 if parsed['assessments'][i]['description'] is not None:
                     desc = parseTrim(parsed['assessments'][i]['description'])
                     formatted[parsed['code']]['assessments']['a'+str(i)]['description'] = desc
@@ -64,9 +64,9 @@ if r.status_code == 200:
         # Prerequisites
         for prereq in parsed['enrolment_rules']:
             if prereq['type']['value'] == 'nccw':
-                formatted[parsed['code']]['nccw'] = prereq['description']
+                formatted[parsed['code']]['nccw'] = parseTrim(prereq['description'])
             if prereq['type']['value'] == 'prerequisite':
-                formatted[parsed['code']]['prerequisite'] = prereq['description']
+                formatted[parsed['code']]['prerequisite'] = parseTrim(prereq['description'])
 
         # Scheduled Activities
         if len(parsed['scheduled_learning_activities']) != 0 and len(parsed['non_scheduled_learning_activities']) != 0:
