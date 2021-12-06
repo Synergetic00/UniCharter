@@ -27,19 +27,15 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "Session 1"
+                "period": "Session 2"
             },
             "o1": {
                 "location": "Off-campus",
                 "period": "Session 1"
             },
             "o2": {
-                "location": "Off-campus",
-                "period": "Session 2"
-            },
-            "o3": {
                 "location": "North Ryde",
-                "period": "Session 2"
+                "period": "Session 1"
             }
         },
         "outcomes": {
@@ -87,11 +83,11 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "Session 1"
+                "period": "Session 2"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "Session 2"
+                "period": "Session 1"
             }
         },
         "outcomes": {
@@ -315,11 +311,11 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "Session 1"
+                "period": "Session 2"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "Session 2"
+                "period": "Session 1"
             }
         },
         "outcomes": {
@@ -431,11 +427,11 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "Session 2"
+                "period": "Session 1"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "Session 1"
+                "period": "Session 2"
             }
         },
         "outcomes": {
@@ -548,11 +544,11 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "Session 1"
+                "period": "Session 2"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "Session 2"
+                "period": "Session 1"
             }
         },
         "outcomes": {
@@ -604,11 +600,11 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "Session 2"
+                "period": "Session 1"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "Session 1"
+                "period": "Session 2"
             }
         },
         "outcomes": {
@@ -653,15 +649,15 @@
         "offered_by_an_external_provider": "false",
         "offerings": {
             "o0": {
-                "location": "North Ryde",
-                "period": "Session 1"
+                "location": "Off-campus",
+                "period": "Session 2"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "Session 2"
+                "period": "Session 1"
             },
             "o2": {
-                "location": "Off-campus",
+                "location": "North Ryde",
                 "period": "Session 2"
             },
             "o3": {
@@ -715,11 +711,11 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "Session 1"
+                "period": "Session 2"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "Session 2"
+                "period": "Session 1"
             }
         },
         "outcomes": {
@@ -771,11 +767,11 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "Session 1"
+                "period": "Session 2"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "Session 2"
+                "period": "Session 1"
             }
         },
         "outcomes": {
@@ -1000,11 +996,11 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "Session 2"
+                "period": "Session 1"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "Session 1"
+                "period": "Session 2"
             }
         },
         "outcomes": {
@@ -1054,7 +1050,7 @@
     "C000026": {
         "accredited_by_external_body": "true",
         "active": "true",
-        "admission_requirements": "<ul>\n<li>AQF Level 7 bachelor's qualification or recognised equivalent with a WAM of 65, and</li>\n<li>Recent successful completion of prerequisite units at AQF Level 7 in each of the following areas: Language Development, Psychology, Phonetics, Phonology, Grammar/Syntax, Psycholinguistics.</li>\n</ul>",
+        "admission_requirements": "Minimum admission requirements include: \n<ul>\n<li>AQF Level 7 bachelor's qualification or recognised equivalent with a WAM of 65 </li>\n<li>Recent successful completion of specified prerequisite units in Linguistics and Psychology at AQF Level 7 </li>\n<li>English language requirement: IELTS of 7.0 overall with minimum 7.0 in each band </li>\n<li>A personal statement outlining their understanding of speech pathology as it practised in Australia, their reasons for wanting to enter the profession, and any other factors relevant to their application. </li>\n</ul>\nAdmission is competitive. Meeting the minimum requirements will not guarantee an offer of enrolment. \nAdditional admission information can be viewed at:  <a href=\"https://courses.mq.edu.au/2020/domestic/postgraduate/master-of-speech-and-language-pathology\">https://courses.mq.edu.au/2020/domestic/postgraduate/master-of-speech-and-language-pathology</a>",
         "ahegs": {
             "accreditation": "This course is accredited by the Speech Pathology Association of Australia.",
             "award": "The Master of Speech and Language Pathology is a postgraduate coursework award consisting of a minimum of 160 credit points, taught in English, which normally takes two years of full-time study. Admission requirements relate to recent previous tertiary study in cognate disciplines, student academic performance in prior tertiary study, and English-language competence. Students must complete both coursework and placement components to meet the requirements for the award."
@@ -1362,11 +1358,11 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "Session 2"
+                "period": "Session 1"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "Session 1"
+                "period": "Session 2"
             }
         },
         "outcomes": {
@@ -1476,11 +1472,11 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "Session 1"
+                "period": "Session 2"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "Session 2"
+                "period": "Session 1"
             }
         },
         "outcomes": {
@@ -1535,19 +1531,19 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "Session 2"
+                "period": "Session 1"
             },
             "o1": {
                 "location": "Online",
-                "period": "Session 2"
+                "period": "Session 1"
             },
             "o2": {
                 "location": "Online",
-                "period": "Session 1"
+                "period": "Session 2"
             },
             "o3": {
                 "location": "North Ryde",
-                "period": "Session 1"
+                "period": "Session 2"
             }
         },
         "outcomes": {
@@ -1666,15 +1662,15 @@
             },
             "o1": {
                 "location": "Online",
-                "period": "Coursera term 3"
+                "period": "Coursera term 1"
             },
             "o2": {
                 "location": "Online",
-                "period": "Coursera term 1"
+                "period": "Coursera term 2"
             },
             "o3": {
                 "location": "Online",
-                "period": "Coursera term 4"
+                "period": "Coursera term 3"
             },
             "o4": {
                 "location": "Online",
@@ -1682,7 +1678,7 @@
             },
             "o5": {
                 "location": "Online",
-                "period": "Coursera term 2"
+                "period": "Coursera term 4"
             }
         },
         "outcomes": {
@@ -1728,11 +1724,11 @@
         "offered_by_an_external_provider": "false",
         "offerings": {
             "o0": {
-                "location": "North Ryde",
+                "location": "Off-campus",
                 "period": "Session 1"
             },
             "o1": {
-                "location": "Off-campus",
+                "location": "North Ryde",
                 "period": "Session 1"
             }
         },
@@ -1920,19 +1916,15 @@
         "offered_by_an_external_provider": "false",
         "offerings": {
             "o0": {
-                "location": "Off-campus",
+                "location": "North Ryde",
                 "period": "Session 2"
             },
             "o1": {
-                "location": "North Ryde",
+                "location": "Off-campus",
                 "period": "Session 1"
             },
             "o2": {
                 "location": "North Ryde",
-                "period": "Session 2"
-            },
-            "o3": {
-                "location": "Off-campus",
                 "period": "Session 1"
             }
         },
@@ -1985,15 +1977,15 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "Session 1"
+                "period": "Session 2"
             },
             "o1": {
-                "location": "Off-campus",
+                "location": "North Ryde",
                 "period": "Session 1"
             },
             "o2": {
-                "location": "North Ryde",
-                "period": "Session 2"
+                "location": "Off-campus",
+                "period": "Session 1"
             },
             "o3": {
                 "location": "Off-campus",
@@ -2070,19 +2062,15 @@
         "offered_by_an_external_provider": "false",
         "offerings": {
             "o0": {
-                "location": "Off-campus",
+                "location": "North Ryde",
                 "period": "Session 2"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "Session 2"
+                "period": "Session 1"
             },
             "o2": {
                 "location": "Off-campus",
-                "period": "Session 1"
-            },
-            "o3": {
-                "location": "North Ryde",
                 "period": "Session 1"
             }
         },
@@ -2248,15 +2236,11 @@
                 "period": "Session 1"
             },
             "o1": {
-                "location": "North Ryde",
-                "period": "Session 2"
-            },
-            "o2": {
                 "location": "Off-campus",
                 "period": "Session 1"
             },
-            "o3": {
-                "location": "Off-campus",
+            "o2": {
+                "location": "North Ryde",
                 "period": "Session 2"
             }
         },
@@ -2306,11 +2290,11 @@
         "offered_by_an_external_provider": "false",
         "offerings": {
             "o0": {
-                "location": "Off-campus",
-                "period": "Session 2"
+                "location": "North Ryde",
+                "period": "Session 1"
             },
             "o1": {
-                "location": "North Ryde",
+                "location": "Off-campus",
                 "period": "Session 1"
             },
             "o2": {
@@ -2319,7 +2303,7 @@
             },
             "o3": {
                 "location": "Off-campus",
-                "period": "Session 1"
+                "period": "Session 2"
             }
         },
         "outcomes": {
@@ -2519,11 +2503,11 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "Session 2"
+                "period": "Session 1"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "Session 1"
+                "period": "Session 2"
             }
         },
         "outcomes": {
@@ -2571,11 +2555,11 @@
             },
             "o1": {
                 "location": "Off-campus",
-                "period": "Session 2"
+                "period": "Session 1"
             },
             "o2": {
                 "location": "Off-campus",
-                "period": "Session 1"
+                "period": "Session 2"
             },
             "o3": {
                 "location": "North Ryde",
@@ -2680,20 +2664,20 @@
         "offered_by_an_external_provider": "false",
         "offerings": {
             "o0": {
-                "location": "Off-campus",
-                "period": "Session 2"
+                "location": "North Ryde",
+                "period": "Session 1"
             },
             "o1": {
-                "location": "North Ryde",
-                "period": "Session 1"
-            },
-            "o2": {
-                "location": "North Ryde",
+                "location": "Off-campus",
                 "period": "Session 2"
             },
-            "o3": {
+            "o2": {
                 "location": "Off-campus",
                 "period": "Session 1"
+            },
+            "o3": {
+                "location": "North Ryde",
+                "period": "Session 2"
             }
         },
         "outcomes": {
@@ -2864,11 +2848,11 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "Session 2"
+                "period": "Session 1"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "Session 1"
+                "period": "Session 2"
             }
         },
         "outcomes": {
@@ -2970,14 +2954,14 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "Session 1"
-            },
-            "o1": {
-                "location": "Off-campus",
                 "period": "Session 2"
             },
-            "o2": {
+            "o1": {
                 "location": "North Ryde",
+                "period": "Session 1"
+            },
+            "o2": {
+                "location": "Off-campus",
                 "period": "Session 2"
             },
             "o3": {
@@ -3090,11 +3074,11 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "Session 2"
+                "period": "Session 1"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "Session 1"
+                "period": "Session 2"
             }
         },
         "outcomes": {
@@ -3184,11 +3168,11 @@
         "offerings": {
             "o0": {
                 "location": "Online",
-                "period": "Session 2"
+                "period": "Session 1"
             },
             "o1": {
                 "location": "Online",
-                "period": "Session 1"
+                "period": "Session 2"
             }
         },
         "outcomes": {
@@ -3238,11 +3222,11 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "Session 2"
+                "period": "Session 1"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "Session 1"
+                "period": "Session 2"
             }
         },
         "outcomes": {
@@ -3291,19 +3275,19 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "Session 2"
+                "period": "Session 1"
             },
             "o1": {
                 "location": "Off-campus",
                 "period": "Session 2"
             },
             "o2": {
-                "location": "North Ryde",
+                "location": "Off-campus",
                 "period": "Session 1"
             },
             "o3": {
-                "location": "Off-campus",
-                "period": "Session 1"
+                "location": "North Ryde",
+                "period": "Session 2"
             }
         },
         "outcomes": {
@@ -3479,7 +3463,7 @@
     "C000099": {
         "accredited_by_external_body": "true",
         "active": "true",
-        "admission_requirements": "<ul>\n<li>AQF level 7 bachelor's qualification or recognised equivalent with a WAM of 65, and</li>\n</ul>",
+        "admission_requirements": "<ul>\n<li>\nMinimum admission requirements include: \nAustralian Bachelor degree or recognised equivalent in fields such as, but not limited to: Speech and Hearing, Health Sciences, Psychology, Physiology, Neurosciences, Biological Sciences, Music Studies, Medical Sciences, Biomedical Sciences, Creative Technology, Audio production, Audio engineering, Behaviour Sciences, Veterinary Sciences, Speech Pathology, Sound and Music, teaching, Nursing. \n<ul>\n<li> Minimum WAM of 65 [Weighted Average Mark= Sum of (Mark x credit points for subjects) Sum of (Total credit points for subjects)]</li>\n</ul>\nAdmission is competitive. Meeting the minimum requirements will not guarantee an offer of enrolment. A 1-2 page Personal Statement is required as part of the application that details why they should be considered for the admission into the Masters of Clinical Audiology course.  \nAdditional admission information can be viewed at: <a href=\"https://courses.mq.edu.au/2021/domestic/postgraduate/master-of-clinical-audiology\">https://courses.mq.edu.au/2021/domestic/postgraduate/master-of-clinical-audiology</a> \n</li>\n</ul>",
         "ahegs": {
             "accreditation": "The course is professionally accredited by Audiology Australia.",
             "award": "The Master of Clinical Audiology is a postgraduate coursework degree consisting of a minimum of 160 credit points, taught in English, which normally takes two years of full-time study. Admission requirements are normally a bachelors degree with a minimum WAM of 65. In addition to coursework, graduates must complete a minimum of 250 hours of professional placements."
@@ -3566,11 +3550,11 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "Session 2"
+                "period": "Session 1"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "Session 1"
+                "period": "Session 2"
             }
         },
         "outcomes": {
@@ -3617,11 +3601,11 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "Session 2"
+                "period": "Session 1"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "Session 1"
+                "period": "Session 2"
             }
         },
         "outcomes": {
@@ -3724,11 +3708,11 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "Session 1"
+                "period": "Session 2"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "Session 2"
+                "period": "Session 1"
             }
         },
         "outcomes": {
@@ -4056,19 +4040,19 @@
         "offerings": {
             "o0": {
                 "location": "City",
-                "period": "AFC term 2"
+                "period": "AFC term 4"
             },
             "o1": {
                 "location": "Melbourne",
-                "period": "AFC term 2"
+                "period": "AFC term 4"
             },
             "o2": {
                 "location": "Melbourne",
-                "period": "AFC term 4"
+                "period": "AFC term 2"
             },
             "o3": {
                 "location": "City",
-                "period": "AFC term 4"
+                "period": "AFC term 2"
             }
         },
         "outcomes": {
@@ -4116,11 +4100,11 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "Session 2"
+                "period": "Session 1"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "Session 1"
+                "period": "Session 2"
             }
         },
         "outcomes": {
@@ -4382,20 +4366,20 @@
         "offered_by_an_external_provider": "false",
         "offerings": {
             "o0": {
-                "location": "North Ryde",
-                "period": "Session 2"
+                "location": "Off-campus",
+                "period": "Session 1"
             },
             "o1": {
                 "location": "Off-campus",
-                "period": "Session 1"
+                "period": "Session 2"
             },
             "o2": {
                 "location": "North Ryde",
-                "period": "Session 1"
+                "period": "Session 2"
             },
             "o3": {
-                "location": "Off-campus",
-                "period": "Session 2"
+                "location": "North Ryde",
+                "period": "Session 1"
             }
         },
         "outcomes": {
@@ -4443,15 +4427,15 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "MUIC term 5"
+                "period": "MUIC term 1"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "MUIC term 4"
+                "period": "MUIC term 5"
             },
             "o2": {
                 "location": "North Ryde",
-                "period": "MUIC term 1"
+                "period": "MUIC term 4"
             },
             "o3": {
                 "location": "North Ryde",
@@ -4555,11 +4539,11 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "Session 1"
+                "period": "Session 2"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "Session 2"
+                "period": "Session 1"
             }
         },
         "outcomes": {
@@ -4666,11 +4650,11 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "Session 1"
+                "period": "Session 2"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "Session 2"
+                "period": "Session 1"
             }
         },
         "outcomes": {
@@ -4725,11 +4709,11 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "Session 2"
+                "period": "Session 1"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "Session 1"
+                "period": "Session 2"
             }
         },
         "outcomes": {
@@ -4776,15 +4760,15 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "MUIC term 4"
+                "period": "MUIC term 1"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "MUIC term 1"
+                "period": "MUIC term 2"
             },
             "o2": {
                 "location": "North Ryde",
-                "period": "MUIC term 2"
+                "period": "MUIC term 4"
             },
             "o3": {
                 "location": "North Ryde",
@@ -4837,15 +4821,15 @@
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "MUIC term 1"
+                "period": "MUIC term 2"
             },
             "o2": {
                 "location": "North Ryde",
-                "period": "MUIC term 4"
+                "period": "MUIC term 1"
             },
             "o3": {
                 "location": "North Ryde",
-                "period": "MUIC term 2"
+                "period": "MUIC term 4"
             }
         },
         "outcomes": {
@@ -4914,11 +4898,11 @@
         "offered_by_an_external_provider": "false",
         "offerings": {
             "o0": {
-                "location": "Off-campus",
-                "period": "Session 1"
+                "location": "North Ryde",
+                "period": "Session 2"
             },
             "o1": {
-                "location": "North Ryde",
+                "location": "Off-campus",
                 "period": "Session 1"
             },
             "o2": {
@@ -4927,7 +4911,7 @@
             },
             "o3": {
                 "location": "North Ryde",
-                "period": "Session 2"
+                "period": "Session 1"
             }
         },
         "outcomes": {
@@ -4970,19 +4954,19 @@
         "offerings": {
             "o0": {
                 "location": "Online",
-                "period": "Session 1"
+                "period": "Session 2"
             },
             "o1": {
-                "location": "Online",
+                "location": "North Ryde",
                 "period": "Session 2"
             },
             "o2": {
-                "location": "North Ryde",
+                "location": "Online",
                 "period": "Session 1"
             },
             "o3": {
                 "location": "North Ryde",
-                "period": "Session 2"
+                "period": "Session 1"
             }
         },
         "outcomes": {
@@ -5024,20 +5008,20 @@
         "offered_by_an_external_provider": "false",
         "offerings": {
             "o0": {
-                "location": "North Ryde",
+                "location": "Online",
                 "period": "Session 1"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "Session 2"
+                "period": "Session 1"
             },
             "o2": {
                 "location": "Online",
                 "period": "Session 2"
             },
             "o3": {
-                "location": "Online",
-                "period": "Session 1"
+                "location": "North Ryde",
+                "period": "Session 2"
             }
         },
         "outcomes": {
@@ -5168,7 +5152,7 @@
         "offered_by_an_external_provider": "false",
         "offerings": {
             "o0": {
-                "location": "City",
+                "location": "Online",
                 "period": "AFC term 4"
             },
             "o1": {
@@ -5176,8 +5160,8 @@
                 "period": "AFC term 2"
             },
             "o2": {
-                "location": "Online",
-                "period": "AFC term 1"
+                "location": "City",
+                "period": "AFC term 2"
             },
             "o3": {
                 "location": "Online",
@@ -5185,11 +5169,11 @@
             },
             "o4": {
                 "location": "City",
-                "period": "AFC term 2"
+                "period": "AFC term 4"
             },
             "o5": {
                 "location": "Online",
-                "period": "AFC term 4"
+                "period": "AFC term 1"
             }
         },
         "outcomes": {
@@ -5209,7 +5193,7 @@
     "C000146": {
         "accredited_by_external_body": "false",
         "active": "true",
-        "admission_requirements": "<ul>\n<li>Year 12 (or equivalent) qualification with a minimum Selection Rank of 60; or</li>\n<li>HSC (or interstate) board exam with minimum average mark* of 60, and</li>\n<li>have HSC Mathematics Advanced Band 3 or above**</li>\n</ul>\nInternational students must be at least 17 years of age at the time of commencement and have a qualification equivalent to Australian Year 12 with an ATAR of 60. \n*Other factors including ATAR and other attempted studies are taken into consideration with the average mark. Achieving the average mark does not guarantee an offer. Only relevant State Board approved academic subjects are included when reviewing your average. For instance, in the New South Wales HSC, only results from Category A and B Board Developed courses are considered.\n**Applicable from term 4 2021",
+        "admission_requirements": "<ul>\n<li>Year 12 (or equivalent) qualification with a minimum Selection Rank of 60; or</li>\n<li>HSC (or interstate) board exam with minimum average mark* of 60, and</li>\n<li>have a minimum of HSC Mathematics Advanced Band 3 or equivalent**</li>\n</ul>\nInternational students must be at least 17 years of age at the time of commencement.\n*Other factors including ATAR and other attempted studies are taken into consideration with the average mark. Achieving the average mark does not guarantee an offer. Only relevant State Board approved academic subjects are included when reviewing your average. For instance, in the New South Wales HSC, only results from Category A and B Board Developed courses are considered.\n**Applicable from term 4 2021",
         "any_double_degree_exclusions": "false",
         "application": "UAC (UG)",
         "aqf": "Level 5",
@@ -5235,19 +5219,19 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "MUIC term 4"
+                "period": "MUIC term 5"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "MUIC term 1"
+                "period": "MUIC term 2"
             },
             "o2": {
                 "location": "North Ryde",
-                "period": "MUIC term 2"
+                "period": "MUIC term 1"
             },
             "o3": {
                 "location": "North Ryde",
-                "period": "MUIC term 5"
+                "period": "MUIC term 4"
             }
         },
         "outcomes": {
@@ -5290,36 +5274,36 @@
         "offered_by_an_external_provider": "false",
         "offerings": {
             "o0": {
-                "location": "Off-campus",
-                "period": "MGSM term 4"
+                "location": "North Ryde",
+                "period": "MGSM term 1"
             },
             "o1": {
-                "location": "North Ryde",
-                "period": "MGSM term 1"
-            },
-            "o2": {
-                "location": "Off-campus",
-                "period": "MGSM term 3"
-            },
-            "o3": {
-                "location": "North Ryde",
-                "period": "MGSM term 3"
-            },
-            "o4": {
-                "location": "Off-campus",
-                "period": "MGSM term 1"
-            },
-            "o5": {
                 "location": "Off-campus",
                 "period": "MGSM term 2"
             },
-            "o6": {
+            "o2": {
+                "location": "Off-campus",
+                "period": "MGSM term 1"
+            },
+            "o3": {
                 "location": "North Ryde",
+                "period": "MGSM term 2"
+            },
+            "o4": {
+                "location": "North Ryde",
+                "period": "MGSM term 3"
+            },
+            "o5": {
+                "location": "Off-campus",
+                "period": "MGSM term 3"
+            },
+            "o6": {
+                "location": "Off-campus",
                 "period": "MGSM term 4"
             },
             "o7": {
                 "location": "North Ryde",
-                "period": "MGSM term 2"
+                "period": "MGSM term 4"
             }
         },
         "outcomes": {
@@ -5366,12 +5350,12 @@
                 "period": "Session 2"
             },
             "o1": {
-                "location": "North Ryde",
-                "period": "Session 1"
-            },
-            "o2": {
                 "location": "Off-campus",
                 "period": "Session 2"
+            },
+            "o2": {
+                "location": "North Ryde",
+                "period": "Session 1"
             },
             "o3": {
                 "location": "Off-campus",
@@ -5400,7 +5384,7 @@
         "application": "UAC (UG)",
         "aqf": "Non AQF",
         "are_there_additional_admission_points": "false",
-        "assessment": "Assessment in the Foundation program closely mirrors assessment in tertiary studies to ensure students are adequately prepared for an undergraduate degree.\nA wide variety of assessment methods are implemented such as essays, presentations, formal examinations, group work, practical projects, experimental work, debates, and research reports. Clear instructions as well as assessment standards and criteria for each assessment task will be provided.Students will be given formative feedforward for each assessment task. This feedback will inform and guide their learning. Feedback may be provided in writing or verbally in discussion with peers and teachers.",
+        "assessment": "Assessment in the Intensive Program closely mirrors assessment in tertiary studies to ensure students are adequately prepared for an undergraduate degree.\nA wide variety of assessment methods are implemented such as essays, presentations, formal examinations, group work, practical projects, experimental work, debates, and research reports. Clear instructions as well as assessment standards and criteria for each assessment task will be provided.Students will be given formative feedforward for each assessment task. This feedback will inform and guide their learning. Feedback may be provided in writing or verbally in discussion with peers and teachers.",
         "credits": "40",
         "cricos": "094320F",
         "delivery_with_third_party_provider": "false",
@@ -5420,15 +5404,15 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "MUIC term 2"
+                "period": "MUIC term 5"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "MUIC term 1"
+                "period": "MUIC term 2"
             },
             "o2": {
                 "location": "North Ryde",
-                "period": "MUIC term 5"
+                "period": "MUIC term 1"
             }
         },
         "outcomes": {
@@ -5471,20 +5455,20 @@
         "offered_by_an_external_provider": "false",
         "offerings": {
             "o0": {
-                "location": "City",
+                "location": "Melbourne",
                 "period": "AFC term 2"
             },
             "o1": {
-                "location": "Melbourne",
+                "location": "City",
                 "period": "AFC term 4"
             },
             "o2": {
                 "location": "City",
-                "period": "AFC term 4"
+                "period": "AFC term 2"
             },
             "o3": {
                 "location": "Melbourne",
-                "period": "AFC term 2"
+                "period": "AFC term 4"
             }
         },
         "outcomes": {
@@ -5650,11 +5634,11 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "MGSM term 2"
+                "period": "MGSM term 1"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "MGSM term 1"
+                "period": "MGSM term 4"
             },
             "o2": {
                 "location": "North Ryde",
@@ -5662,7 +5646,7 @@
             },
             "o3": {
                 "location": "North Ryde",
-                "period": "MGSM term 4"
+                "period": "MGSM term 2"
             }
         },
         "outcomes": {
@@ -5771,7 +5755,7 @@
         "delivery_with_third_party_provider": "false",
         "duration": "Full time: 1 year",
         "external_body": "National Accreditation Authority for Translators and Interpreters (NAATI)",
-        "formal_articulation_pathway_to_higher_award": "false",
+        "formal_articulation_pathway_to_higher_award": "true",
         "graduateDestinations": "Graduates will be eligible to work as interpreters and/or translators in Australia as well as international markets. There is a constant demand for community interpreters and translators who can linguistically mediate for immigrants in such settings as court, education, and healthcare. Interpreters and translators are always in demand internationally as they expand exchanges with foreign countries in business and government sectors. Through rigorous training and intensive practices, graduates will demonstrate advanced language and communication skills to meet such demands successfully.",
         "ielts": {
             "listening": "6",
@@ -5785,16 +5769,16 @@
         "offered_by_an_external_provider": "false",
         "offerings": {
             "o0": {
-                "location": "North Ryde",
+                "location": "Korea",
                 "period": "Session 1"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "Session 2"
+                "period": "Session 1"
             },
             "o2": {
-                "location": "Korea",
-                "period": "Session 1"
+                "location": "North Ryde",
+                "period": "Session 2"
             },
             "o3": {
                 "location": "Korea",
@@ -5871,38 +5855,6 @@
         "volume": "Equivalent to 2 years",
         "work_based_training_component": "false"
     },
-    "C000165": {
-        "accredited_by_external_body": "false",
-        "active": "true",
-        "any_double_degree_exclusions": "false",
-        "aqf": "Level 9",
-        "are_there_additional_admission_points": "false",
-        "course_standards_and_quality": "At Macquarie Applied Finance Centre, we believe that active industry partnerships are crucial to the ongoing strength and relevance of our course. We regularly engage and consult with industry bodies and finance professionals to ensure that our services remain at the forefront of financial education in both Australia and throughout the Asia Pacific region. This means that we continue to create the best possible career outcomes for our graduates, as well as enhancing the reputation of the MAppFin qualification.",
-        "credits": "80",
-        "delivery_with_third_party_provider": "false",
-        "duration": "Part time: 2 years",
-        "formal_articulation_pathway_to_higher_award": "false",
-        "graduateDestinations": "There is a wide variety of career opportunities for successful graduates with roles within the finance industry and the corporate world both in China and overseas.\nPotential employers include banks, investment banks, corporates, insurance companies, investment managers, superannuation managers, brokers, venture capital firms, project finance companies, risk management firms, and advisory and consulting firms.",
-        "is_this_an_accelerated_course": "false",
-        "learningMethods": "The course incorporates a variety of learning and teaching methods including formal lectures, group discussions, group projects, online activities, experiential learning and industry-based projects.\nStudents are exposed to frameworks related to the fundamentals of management and strategy. These frameworks, combined with students' existing experience, form the basis for discussion and collaboration within the interactive environment of the classroom.\nWorking in groups and teams is common business practice today. Our syndicate groups replicate this same environment so you develop the everyday skills needed to succeed.\nHands-on learning and practical application lie at the heart of all MGSM courses. Issues and tasks from real cases are tackled in class, and expert industry leaders demonstrate and discuss how management theory comes to life in business.",
-        "offered_by_an_external_provider": "false",
-        "outcomes": {
-            "CLO1": "Understand advanced theories, concepts, models and recent developments in applied finance in areas such as financial strategy, financial markets and instruments, risk management, and valuation and pricing.",
-            "CLO2": "Apply advanced technical skills required to evaluate the key theories, concepts, models and recent developments in applied finance in areas such as financial strategy, financial markets and instruments, risk management, and valuation and pricing.",
-            "CLO3": "Apply research principles and methods as used in contemporary professional practice in applied finance.",
-            "CLO4": "Evaluate and synthesise established knowledge and critically analyse complex issues in applied finance.",
-            "CLO5": "Solve complex applied finance problems using professional judgment.",
-            "CLO6": "Address advanced issues in applied finance with independent research, personal autonomy and accountability.",
-            "CLO7": "Communicate effectively with specialist and non-specialist audiences.",
-            "CLO8": "Analyse contemporary industry challenges and ethical issues in a global financial context."
-        },
-        "overview": "The Master of Applied Finance (Beijing) course structure is based on the Master of Applied Finance offered in Sydney and Melbourne, one of the leading courses of its kind in the world, recognised and respected by industry in major financial centres. Delivered in Mandarin, the Master of Applied Finance (Beijing) features high quality face-to-face teaching, by lecturers with strong industry experience, to finance industry participants. Classes are held in block mode to suit work, study and lifestyle commitments.\nThe course is ideal for those students who have prior learning in the field, are working in the financial services industry, or are from a non-finance background and are seeking to transition into the finance sector. Students who have a non-finance background can enter via completion of the Tsinghua University Gateway course (or recognised equivalent).\nThe course is structured to allow students to develop excellence in a sharply focused field. They gain a thorough understanding of the field through their study of five compulsory units and have the opportunity to explore their areas of interest in greater detail from a range of perspectives through a selection of six specialised elective courses. Face-to-face teaching is supported by blended learning curriculum and assessment. The course is internationally recognised as one of the most rigorous and professional postgraduate finance courses available. Students who have completed the Master of Applied Finance have gone on to occupy senior positions within banking, corporate finance, stockbroking, investment management, venture capital, project finance, industrial, mining and risk management firms in Australia and overseas. The MAppFin is also recognised by a number of professional bodies (https://www.mafc.mq.edu.au/study/accreditation-and-career-development).",
-        "support_for_learning": "Further support, unique to the Master of Applied Finance, includes:\n<ul>\n<li>Orientation and induction sessions;</li>\n<li>Opportunities for membership of and interaction with professional associations (https://www.mafc.mq.edu.au/study/accreditation-and-career-development) and industry representatives at networking events open to students and alumni;</li>\n<li>Opportunities to engage with peer assisted learning/discipline specific student network groups/alumni;</li>\n<li>Professional networking opportunities through a private, member-only LinkedIn group for current students, facilitated by the Macquarie Applied Finance Centre. Once graduated, students are eligible to join the private, member-only, LinkedIn alumni group, also facilitated by the Macquarie Applied Finance Centre;</li>\n<li>Multiple industry prizes and awards are open to all students.</li>\n</ul>",
-        "title": "Master of Applied Finance (Beijing)",
-        "type": "Masters by Coursework Degree",
-        "volume": "Equivalent to 1 year",
-        "work_based_training_component": "false"
-    },
     "C000166": {
         "accredited_by_external_body": "false",
         "active": "true",
@@ -5933,28 +5885,29 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "MGSM term 3"
+                "period": "MGSM term 1"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "MGSM term 2"
+                "period": "MGSM term 4"
             },
             "o2": {
                 "location": "North Ryde",
-                "period": "MGSM term 1"
+                "period": "MGSM term 2"
             },
             "o3": {
                 "location": "North Ryde",
-                "period": "MGSM term 4"
+                "period": "MGSM term 3"
             }
         },
         "outcomes": {
             "CLO1": "Collaborate in diverse teams, evaluating the process and the outcomes.",
-            "CLO2": "Lead and motivate others using communication and interpersonal skills effectively.",
+            "CLO2": "<em>Lead and motivate using communication, personal, and interpersonal skills effectively.</em>",
             "CLO3": "Apply strategic thinking drawing on an integrated understanding of the core business disciplines.",
             "CLO4": "Demonstrate critical thinking skills to address business problems and opportunities.",
             "CLO5": "Integrate ethical, social, and environmental factors and responsible leadership principles into business decision-making and management practice.",
-            "CLO6": "Evaluate business scenarios and design research-informed, innovative solutions in response to change and disruption."
+            "CLO6": "Evaluate business scenarios and design research-informed, innovative solutions in response to change and disruption.",
+            "CLO7": "Demonstrate advanced and specialised business knowledge applied in or across the disciplines of Marketing, Management, Finance, and Economics"
         },
         "overview": "Whether you're a business leader or an entrepreneur, an MBA from Macquarie Business School is designed to challenge, transform, and empower you with the knowledge and skills demanded by leaders in an ever-evolving global economy. The course is designed for individuals in positions of responsibility with management and leadership potential, or those aspiring to senior management positions within an organisation.\nThe course covers all aspects of management education and includes an ideal mix of theory and real-world experience, from experiential learning in the classroom, to internships and exchange programs with our academic and corporate partners, both in Australia and globally. It aims to provide a strategic business perspective that focuses on sustainability and the competitive advantage of an enterprise with leadership at its core.\nThe course's flexible study options and choice of elective units let you tailor your studies to your interests, aspirations and lifestyle. Depending on commitments, you can choose to attend weekly lectures, block classes, or online interactive classes.",
         "support_for_learning": "Peer-assisted learning (PAL) is available to support learning in select units and the Student Representative Program ensures that students co-create support initiatives. Numerous tools and resources are available to support student learning including the Learning Skills Unit (LSU) and the Numeracy Centre, each offering services and online resources designed to enhance academic skills development and performance.",
@@ -6047,10 +6000,10 @@
         "offerings": {
             "o0": {
                 "location": "Off-campus",
-                "period": "Session 2"
+                "period": "Session 1"
             },
             "o1": {
-                "location": "North Ryde",
+                "location": "Off-campus",
                 "period": "Session 2"
             },
             "o2": {
@@ -6058,8 +6011,8 @@
                 "period": "Session 1"
             },
             "o3": {
-                "location": "Off-campus",
-                "period": "Session 1"
+                "location": "North Ryde",
+                "period": "Session 2"
             }
         },
         "outcomes": {
@@ -6107,11 +6060,11 @@
         "offerings": {
             "o0": {
                 "location": "Off-campus",
-                "period": "Session 2"
+                "period": "Session 1"
             },
             "o1": {
                 "location": "Off-campus",
-                "period": "Session 1"
+                "period": "Session 2"
             }
         },
         "outcomes": {
@@ -6273,12 +6226,12 @@
                 "period": "Session 2"
             },
             "o1": {
-                "location": "North Ryde",
-                "period": "Session 2"
-            },
-            "o2": {
                 "location": "Off-campus",
                 "period": "Session 1"
+            },
+            "o2": {
+                "location": "North Ryde",
+                "period": "Session 2"
             },
             "o3": {
                 "location": "North Ryde",
@@ -6327,20 +6280,20 @@
         "offered_by_an_external_provider": "false",
         "offerings": {
             "o0": {
-                "location": "Off-campus",
-                "period": "Session 1"
+                "location": "North Ryde",
+                "period": "Session 2"
             },
             "o1": {
-                "location": "North Ryde",
-                "period": "Session 1"
+                "location": "Off-campus",
+                "period": "Session 2"
             },
             "o2": {
                 "location": "Off-campus",
-                "period": "Session 2"
+                "period": "Session 1"
             },
             "o3": {
                 "location": "North Ryde",
-                "period": "Session 2"
+                "period": "Session 1"
             }
         },
         "outcomes": {
@@ -6387,11 +6340,11 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "Session 2"
+                "period": "Session 1"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "Session 1"
+                "period": "Session 2"
             }
         },
         "outcomes": {
@@ -6443,11 +6396,11 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "Session 1"
+                "period": "Session 2"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "Session 2"
+                "period": "Session 1"
             }
         },
         "outcomes": {
@@ -6553,12 +6506,12 @@
                 "period": "Session 2"
             },
             "o1": {
-                "location": "Off-campus",
-                "period": "Session 1"
-            },
-            "o2": {
                 "location": "North Ryde",
                 "period": "Session 2"
+            },
+            "o2": {
+                "location": "Off-campus",
+                "period": "Session 1"
             },
             "o3": {
                 "location": "North Ryde",
@@ -6608,14 +6561,14 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "Session 2"
-            },
-            "o1": {
-                "location": "Off-campus",
                 "period": "Session 1"
             },
-            "o2": {
+            "o1": {
                 "location": "North Ryde",
+                "period": "Session 2"
+            },
+            "o2": {
+                "location": "Off-campus",
                 "period": "Session 1"
             },
             "o3": {
@@ -6725,7 +6678,7 @@
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "Session 1"
+                "period": "Session 2"
             },
             "o2": {
                 "location": "Off-campus",
@@ -6733,7 +6686,7 @@
             },
             "o3": {
                 "location": "North Ryde",
-                "period": "Session 2"
+                "period": "Session 1"
             }
         },
         "outcomes": {
@@ -6780,19 +6733,19 @@
         "offered_by_an_external_provider": "false",
         "offerings": {
             "o0": {
-                "location": "North Ryde",
+                "location": "Off-campus",
                 "period": "Session 2"
             },
             "o1": {
-                "location": "North Ryde",
+                "location": "Off-campus",
                 "period": "Session 1"
             },
             "o2": {
-                "location": "Off-campus",
+                "location": "North Ryde",
                 "period": "Session 1"
             },
             "o3": {
-                "location": "Off-campus",
+                "location": "North Ryde",
                 "period": "Session 2"
             }
         },
@@ -6951,19 +6904,19 @@
         "offered_by_an_external_provider": "false",
         "offerings": {
             "o0": {
-                "location": "North Ryde",
-                "period": "Session 2"
+                "location": "Off-campus",
+                "period": "Session 1"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "Session 1"
+                "period": "Session 2"
             },
             "o2": {
                 "location": "Off-campus",
                 "period": "Session 2"
             },
             "o3": {
-                "location": "Off-campus",
+                "location": "North Ryde",
                 "period": "Session 1"
             }
         },
@@ -7014,19 +6967,19 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "Session 2"
+                "period": "Session 1"
             },
             "o1": {
                 "location": "Off-campus",
-                "period": "Session 2"
+                "period": "Session 1"
             },
             "o2": {
-                "location": "Off-campus",
-                "period": "Session 1"
+                "location": "North Ryde",
+                "period": "Session 2"
             },
             "o3": {
-                "location": "North Ryde",
-                "period": "Session 1"
+                "location": "Off-campus",
+                "period": "Session 2"
             }
         },
         "outcomes": {
@@ -7203,11 +7156,11 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "Session 2"
+                "period": "Session 1"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "Session 1"
+                "period": "Session 2"
             }
         },
         "outcomes": {
@@ -7415,16 +7368,16 @@
         "offered_by_an_external_provider": "false",
         "offerings": {
             "o0": {
-                "location": "North Ryde",
-                "period": "Session 2"
-            },
-            "o1": {
                 "location": "Off-campus",
                 "period": "Session 2"
             },
-            "o2": {
+            "o1": {
                 "location": "North Ryde",
                 "period": "Session 1"
+            },
+            "o2": {
+                "location": "North Ryde",
+                "period": "Session 2"
             },
             "o3": {
                 "location": "Off-campus",
@@ -7483,14 +7436,14 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "Session 2"
-            },
-            "o1": {
-                "location": "Off-campus",
                 "period": "Session 1"
             },
-            "o2": {
+            "o1": {
                 "location": "North Ryde",
+                "period": "Session 2"
+            },
+            "o2": {
+                "location": "Off-campus",
                 "period": "Session 1"
             },
             "o3": {
@@ -7548,20 +7501,20 @@
         "offered_by_an_external_provider": "false",
         "offerings": {
             "o0": {
-                "location": "North Ryde",
-                "period": "Session 1"
+                "location": "Off-campus",
+                "period": "Session 2"
             },
             "o1": {
-                "location": "Off-campus",
-                "period": "Session 1"
+                "location": "North Ryde",
+                "period": "Session 2"
             },
             "o2": {
                 "location": "Off-campus",
-                "period": "Session 2"
+                "period": "Session 1"
             },
             "o3": {
                 "location": "North Ryde",
-                "period": "Session 2"
+                "period": "Session 1"
             }
         },
         "outcomes": {
@@ -7618,7 +7571,7 @@
                 "period": "Session 1"
             },
             "o1": {
-                "location": "North Ryde",
+                "location": "Off-campus",
                 "period": "Session 2"
             },
             "o2": {
@@ -7626,7 +7579,7 @@
                 "period": "Session 1"
             },
             "o3": {
-                "location": "Off-campus",
+                "location": "North Ryde",
                 "period": "Session 2"
             }
         },
@@ -7689,11 +7642,11 @@
             },
             "o2": {
                 "location": "Off-campus",
-                "period": "Session 1"
+                "period": "Session 2"
             },
             "o3": {
                 "location": "Off-campus",
-                "period": "Session 2"
+                "period": "Session 1"
             }
         },
         "outcomes": {
@@ -7745,7 +7698,7 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "MUIC term 4"
+                "period": "MUIC term 5"
             },
             "o1": {
                 "location": "North Ryde",
@@ -7753,11 +7706,11 @@
             },
             "o2": {
                 "location": "North Ryde",
-                "period": "MUIC term 1"
+                "period": "MUIC term 4"
             },
             "o3": {
                 "location": "North Ryde",
-                "period": "MUIC term 5"
+                "period": "MUIC term 1"
             }
         },
         "outcomes": {
@@ -8116,7 +8069,7 @@
         "credits": "40",
         "delivery_with_third_party_provider": "false",
         "duration": "Full time: 0.5 years",
-        "external_provider": "OUA",
+        "external_provider": "Open Universities Australia",
         "formal_articulation_pathway_to_higher_award": "true",
         "graduateDestinations": "Graduates of this course receive a qualification that will enhance their employment opportunities in a variety of areas of the public service and private enterprise. In the face of unprecedented change and uncertainty at both a local and global level, organisations are seeking graduates who can think critically and react positively to these changes. Graduates of this course would be in a favourable position to meet this challenge with their ability to think independently, reason logically, and communicate clearly. This Graduate Certificate also provides a pathway to those who wish to attain a Master in Ancient History to further their professional goals.",
         "ielts": {
@@ -8172,7 +8125,7 @@
         "credits": "40",
         "delivery_with_third_party_provider": "false",
         "duration": "Full time: 0.5 years",
-        "external_provider": "OUA",
+        "external_provider": "Open Universities Australia",
         "formal_articulation_pathway_to_higher_award": "true",
         "graduateDestinations": "Graduates will be equipped to work in a range of government, non-government and private employment, including:\n<ul>\n<li>Department of Defence</li>\n<li>Department of Foreign Affairs and Trade</li>\n<li>Law Enforcement and Police</li>\n<li>Australian Border Force</li>\n<li>International/Regional organisations</li>\n<li>Think tanks and policy advising.</li>\n<li>Public Relations</li>\n<li>Defence and security related business and industry</li>\n<li>International Non-Government Organisations</li>\n</ul>",
         "ielts": {
@@ -8225,7 +8178,7 @@
         "credits": "120",
         "delivery_with_third_party_provider": "false",
         "duration": "Part time: 2 years",
-        "external_provider": "OUA",
+        "external_provider": "Open Universities Australia",
         "formal_articulation_pathway_to_higher_award": "false",
         "graduateDestinations": "Graduates of this course receive a qualification that will enhance their employment opportunities in all areas of the public service and private enterprise. In the face of unprecedented change and uncertainty at both a local and global level, organisations are seeking graduates who can think critically and react positively to these changes. Graduates are in an ideal position to meet this challenge with their ability to think independently, reason logically, and communicate clearly.\nOur graduates have gone on to become:\n<ul>\n<li>diplomats</li>\n<li>publishers</li>\n<li>writers</li>\n<li>museum curators</li>\n<li>journalists</li>\n<li>public servants</li>\n<li>consultants</li>\n<li>archivists</li>\n<li>librarians</li>\n<li>politicians</li>\n<li>public relations advisers</li>\n<li>media managers</li>\n<li>policy advisers</li>\n<li>marketing generalists</li>\n<li>producers</li>\n<li>researchers.</li>\n</ul>\nEmployers:\n<ul>\n<li>Media and production firms</li>\n<li>Multinational organisation</li>\n<li>Government</li>\n<li>Not-for-profit organisations and NGOs</li>\n<li>Research institutions</li>\n<li>Marketing and PR firms</li>\n<li>Museums and galleries</li>\n<li>Secondary, Tertiary and Continuing Education institutions</li>\n<li>Theatre and film production companies.</li>\n</ul>\nThe course also offers graduates the opportunity to undertake further research through the Macquarie Master of Research and higher degree research courses.",
         "ielts": {
@@ -8282,7 +8235,7 @@
         "credits": "120",
         "delivery_with_third_party_provider": "false",
         "duration": "Full time: 1.5 years",
-        "external_provider": "OUA",
+        "external_provider": "Open Universities Australia",
         "formal_articulation_pathway_to_higher_award": "false",
         "graduateDestinations": "Graduates will be equipped to work in a range of government, non-government and private employment, including:\n<ul>\n<li>Department of Defence</li>\n<li>Department of Foreign Affairs and Trade</li>\n<li>Law Enforcement and Police</li>\n<li>Australian Border Force</li>\n<li>International/Regional organisations</li>\n<li>Think tanks and policy advising.</li>\n<li>Public Relations</li>\n<li>Defence and security related business and industry</li>\n<li>International Non-Government Organisations</li>\n<li>Higher Degree Research including MRes and PhD programs in security studies</li>\n</ul>",
         "ielts": {
@@ -8336,7 +8289,7 @@
         "credits": "120",
         "delivery_with_third_party_provider": "false",
         "duration": "Full time: 1.5 years",
-        "external_provider": "OUA",
+        "external_provider": "Open Universities Australia",
         "formal_articulation_pathway_to_higher_award": "false",
         "graduateDestinations": "Graduates will be equipped to work in a range of government, non-government and private employment, including:\n<ul>\n<li>State and federal policing agencies</li>\n<li>Federal intelligence services</li>\n<li>Australian Border Force</li>\n<li>Criminal justice administration</li>\n<li>Corrective services</li>\n<li>Cyber security</li>\n<li>Higher Degree Research including MRes and PhD programs in security studies</li>\n</ul>",
         "ielts": {
@@ -8389,7 +8342,7 @@
         "credits": "120",
         "delivery_with_third_party_provider": "false",
         "duration": "Full time: 1.5 years",
-        "external_provider": "OUA",
+        "external_provider": "Open Universities Australia",
         "formal_articulation_pathway_to_higher_award": "false",
         "graduateDestinations": "Graduates will be equipped to work in a range of government, non-government and private employment, including:\n<ul>\n<li>Department of Defence</li>\n<li>Department of Foreign Affairs and Trade</li>\n<li>Law Enforcement and Police</li>\n<li>Australian Border Force</li>\n<li>International/Regional organisations</li>\n<li>Think tanks and policy advising</li>\n<li>Public Relations</li>\n<li>Cyber security-related business and industry, or Cyber security department of national and transnational corporations/organisations</li>\n<li>International Non-Government Organisations</li>\n<li>Banks and other financial institutions</li>\n<li>Telecommunication companies</li>\n<li>Network Architect</li>\n<li>Solutions Architect</li>\n<li>Security Specialist</li>\n<li>Network consultant</li>\n<li>Network security consultant</li>\n<li>Higher Degree Research including MRes and PhD programs in security studies</li>\n</ul>",
         "ielts": {
@@ -8443,7 +8396,7 @@
         "credits": "120",
         "delivery_with_third_party_provider": "false",
         "duration": "Full time: 1.5 years",
-        "external_provider": "OUA",
+        "external_provider": "Open Universities Australia",
         "formal_articulation_pathway_to_higher_award": "false",
         "graduateDestinations": "Graduates will be equipped to work in a range of government, non-government and private employment, including:\n<ul>\n<li>Department of Defence</li>\n<li>Department of Foreign Affairs and Trade</li>\n<li>Law Enforcement and Police</li>\n<li>Australian Border Force</li>\n<li>International/Regional organisations</li>\n<li>Think tanks and policy advising.</li>\n<li>Public Relations</li>\n<li>International Non-Government Organisations</li>\n<li>Higher Degree Research including MRes and PhD programs in security studies</li>\n</ul>",
         "ielts": {
@@ -8496,7 +8449,7 @@
         "credits": "120",
         "delivery_with_third_party_provider": "false",
         "duration": "Full time: 1.5 years",
-        "external_provider": "OUA",
+        "external_provider": "Open Universities Australia",
         "formal_articulation_pathway_to_higher_award": "false",
         "graduateDestinations": "Graduates will be equipped to work in a range of government, non-government and private employment, including:\n<ul>\n<li>Department of Defence</li>\n<li>Department of Foreign Affairs and Trade</li>\n<li>Australian Border Force</li>\n<li>International/Regional organizations</li>\n<li>Think tanks and policy advising.</li>\n<li>Public Relations</li>\n<li>Defence and security related business and industry</li>\n<li>International Non-Government Organisations</li>\n<li>Higher Degree Research including MRes and PhD programs in security studies</li>\n</ul>",
         "ielts": {
@@ -8556,7 +8509,7 @@
         "delivery_with_third_party_provider": "false",
         "duration": "Full time: 2 years",
         "external_body": "Australian Children's Education and Care Quality Authority (ACECQA)",
-        "external_provider": "OUA",
+        "external_provider": "Open Universities Australia",
         "formal_articulation_pathway_to_higher_award": "false",
         "graduateDestinations": "The Master of Teaching (Birth to Five years) degree is designed to enable graduates from diverse disciplines or professions to obtain an approved early childhood teacher qualification. This degree aligns well with the increasing professionalisation of the early childhood sector and the growing demand for early childhood educators with university qualifications. It will support students to develop practical teaching skills underpinned by a sound multidisciplinary knowledge base of early childhood studies, essential for employment and career growth as an early childhood specialist. All students complete three practicum placements in early childhood settings with children in the birth to five years age range. In particular, during ECED829 - the internship unit, students are scaffolded to demonstrate their capacity to work at an advanced level expected of early childhood teachers with a masters degree qualification.\nUpon successful completion, graduates from this degree can seek employment with a range of government agencies, non-government organisations as well as private and community owned early childhood settings, based within Australia or overseas. High performing graduates can also gain access to Macquarie University's higher degree research training course, the Master of Research.",
         "ielts": {
@@ -8608,7 +8561,7 @@
         "credits": "80",
         "delivery_with_third_party_provider": "false",
         "duration": "Full time: 1 year",
-        "external_provider": "OUA",
+        "external_provider": "Open Universities Australia",
         "formal_articulation_pathway_to_higher_award": "false",
         "graduateDestinations": "The Master of Public and Social Policy (OUA) equips students with skills and knowledge sought after in government and non-government agencies, and private research organisations, including consultancies. Students learn applied research skills and policy knowledge, and have opportunities to practice a wide range of the analytical, research and writing skills they will use in a work setting. Graduates may enter research, policy, advocacy and social service related roles, within a broad range of settings, including community-based organisations, trade unions, local government, marketing and social research organisations, private consultancies or government policy agencies.",
         "ielts": {
@@ -8665,7 +8618,7 @@
         "credits": "240",
         "delivery_with_third_party_provider": "false",
         "duration": "Full time: 3 years",
-        "external_provider": "OUA",
+        "external_provider": "Open Universities Australia",
         "formal_articulation_pathway_to_higher_award": "false",
         "graduateDestinations": "The Bachelor of Arts (OUA) course will provide you with core transferable skills alongside a range of disciplinary knowledge. Arts graduates are highly sought after by employers because arts courses ensure that you develop your adaptability and ability to help shape change and prepare you for a multifaceted career or further study. As a BA graduate you will turn your passion into a career and explore your interests in depth. Depending on the major chosen to study with the Bachelor of Arts, your career options could include:\narchivistarts managerbusiness managercommunications officerentrepreneurhistorianinternational development adviserjournalistlobbyistmultimedia specialistmuseum officerproject managersocial change activistsocial/market researcherteacher (after further study)television/film producerwriter",
         "ielts": {
@@ -8728,7 +8681,7 @@
         "delivery_with_third_party_provider": "false",
         "duration": "Full time: 3 years",
         "external_body": "Accredited by the Australian Psychological Accreditation Council for 2019 - 2023",
-        "external_provider": "OUA",
+        "external_provider": "Open Universities Australia",
         "formal_articulation_pathway_to_higher_award": "false",
         "graduateDestinations": "This course prepares students for employment in professional areas such as health and social welfare, social policy, market research, and various functions associated with human resources and services. It is also the basis for further studies where students are able to gain specialised vocational training in the professional practice of psychology such as clinical, organisational or forensic psychology, counselling, clinical neuropsychology, health and community psychology and research.",
         "ielts": {
@@ -8779,7 +8732,7 @@
         "credits": "240",
         "delivery_with_third_party_provider": "false",
         "duration": "Full time: 3 years",
-        "external_provider": "OUA",
+        "external_provider": "Open Universities Australia",
         "formal_articulation_pathway_to_higher_award": "false",
         "graduateDestinations": "Graduates may find employment across a range of Government agencies and professional bodies, including policing, intelligence, defence, and policy-based institutions and associations. Corporate sector employment opportunities also exist with a broad focus on global interests, particularly where security and offshore assets are involved.",
         "ielts": {
@@ -8854,11 +8807,11 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "Session 1"
+                "period": "Session 2"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "Session 2"
+                "period": "Session 1"
             }
         },
         "outcomes": {
@@ -8945,7 +8898,7 @@
         "cricos": "099160K",
         "delivery_with_third_party_provider": "false",
         "duration": "Full time: 1 year",
-        "external_provider": "OUA",
+        "external_provider": "Open Universities Australia",
         "formal_articulation_pathway_to_higher_award": "false",
         "graduateDestinations": "Graduates in the Master of Creative Writing have the skills and knowledge to work in Arts industries as writers, editors and creative content producers; as technical, professional and creative writers; in publishing, marketing and publicity. Expertise in written composition and analysis also make the graduates employable in government and public service positions, and in industries which require high level communication skills not normally associated with written composition, such as the banking and financial sectors. Expertise in learning and teaching of creative writing and the analysis of contemporary literature enables graduates to work in primary and secondary school settings and libraries as heads of subject and mentors with advanced knowledge of their field.\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div> </div>\n<div> </div>\n</div>\n</div>\n</div>",
         "ielts": {
@@ -8961,11 +8914,11 @@
         "offerings": {
             "o0": {
                 "location": "Online",
-                "period": "Session 1"
+                "period": "Session 2"
             },
             "o1": {
                 "location": "Online",
-                "period": "Session 2"
+                "period": "Session 1"
             }
         },
         "outcomes": {
@@ -9010,11 +8963,11 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "Session 2"
+                "period": "Session 1"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "Session 1"
+                "period": "Session 2"
             }
         },
         "outcomes": {
@@ -9059,15 +9012,15 @@
         "offered_by_an_external_provider": "false",
         "offerings": {
             "o0": {
-                "location": "North Ryde",
-                "period": "Session 1"
+                "location": "Off-campus",
+                "period": "Session 2"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "Session 2"
+                "period": "Session 1"
             },
             "o2": {
-                "location": "Off-campus",
+                "location": "North Ryde",
                 "period": "Session 2"
             },
             "o3": {
@@ -9121,12 +9074,12 @@
                 "period": "Session 2"
             },
             "o1": {
-                "location": "Off-campus",
-                "period": "Session 2"
-            },
-            "o2": {
                 "location": "North Ryde",
                 "period": "Session 1"
+            },
+            "o2": {
+                "location": "Off-campus",
+                "period": "Session 2"
             },
             "o3": {
                 "location": "Off-campus",
@@ -9175,16 +9128,16 @@
         "offered_by_an_external_provider": "false",
         "offerings": {
             "o0": {
-                "location": "North Ryde",
+                "location": "Off-campus",
                 "period": "Session 2"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "Session 1"
+                "period": "Session 2"
             },
             "o2": {
-                "location": "Off-campus",
-                "period": "Session 2"
+                "location": "North Ryde",
+                "period": "Session 1"
             },
             "o3": {
                 "location": "Off-campus",
@@ -9237,11 +9190,11 @@
                 "period": "Session 1"
             },
             "o1": {
-                "location": "North Ryde",
+                "location": "Off-campus",
                 "period": "Session 2"
             },
             "o2": {
-                "location": "Off-campus",
+                "location": "North Ryde",
                 "period": "Session 2"
             },
             "o3": {
@@ -9276,7 +9229,7 @@
         "credits": "40",
         "delivery_with_third_party_provider": "false",
         "duration": "Full time: 0.5 years",
-        "external_provider": "OUA",
+        "external_provider": "Open Universities Australia",
         "formal_articulation_pathway_to_higher_award": "true",
         "graduateDestinations": "There is a wide variety of career opportunities for successful candidates, especially those wishing to transfer to the finance sector, both in Australia and overseas.",
         "ielts": {
@@ -9324,7 +9277,7 @@
     "C000336": {
         "accredited_by_external_body": "false",
         "active": "false",
-        "admission_requirements": "<ul>\n<li>\nYear 12 (or equivalent) qualification with a minimum Selection Rank of 60, or\n</li>\n<li>\nHSC (or interstate) board exam with minimum average mark* of 60.\n</li>\n<li>HSC Mathematics Band 3 and above, or Extension 1 Band E2 and above, or Extension 2, or equivalent</li>\n</ul>\n*Other factors including ATAR and other attempted studies are taken into consideration with the average mark. Achieving the average mark does not guarantee an offer. Only relevant State Board approved academic subjects are included when reviewing your average. For instance, in the New South Wales HSC, only results from Category A and B Board Developed courses are considered.",
+        "admission_requirements": "<ul>\n<li>\nYear 12 (or equivalent) qualification with a minimum Selection Rank of 60; or\n</li>\n<li>\nHSC (or interstate) board exam with minimum average mark* of 60; and\n</li>\n<li>\nhave a minimum of HSC Mathematics Advanced Band 3 or equivalent**\n</li>\n</ul>\n* Other factors including ATAR and other attempted studies are taken into consideration with the average mark. Achieving the average mark does not guarantee an offer. Only relevant State Board approved academic subjects are included when reviewing your average. For instance, in the New South Wales HSC, only results from Category A and B Board Developed courses are considered.\n** Applicable from term 4 2021",
         "any_double_degree_exclusions": "false",
         "aqf": "Level 5",
         "are_there_additional_admission_points": "false",
@@ -9340,11 +9293,11 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "MUIC term 4"
+                "period": "MUIC term 5"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "MUIC term 1"
+                "period": "MUIC term 4"
             },
             "o2": {
                 "location": "North Ryde",
@@ -9352,7 +9305,7 @@
             },
             "o3": {
                 "location": "North Ryde",
-                "period": "MUIC term 5"
+                "period": "MUIC term 1"
             }
         },
         "outcomes": {
@@ -9387,19 +9340,19 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "MUIC term 2"
+                "period": "MUIC term 1"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "MUIC term 4"
+                "period": "MUIC term 5"
             },
             "o2": {
                 "location": "North Ryde",
-                "period": "MUIC term 1"
+                "period": "MUIC term 4"
             },
             "o3": {
                 "location": "North Ryde",
-                "period": "MUIC term 5"
+                "period": "MUIC term 2"
             }
         },
         "outcomes": {
@@ -9434,11 +9387,11 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "MUIC term 2"
+                "period": "MUIC term 1"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "MUIC term 1"
+                "period": "MUIC term 4"
             },
             "o2": {
                 "location": "North Ryde",
@@ -9446,7 +9399,7 @@
             },
             "o3": {
                 "location": "North Ryde",
-                "period": "MUIC term 4"
+                "period": "MUIC term 2"
             }
         },
         "outcomes": {
@@ -9536,19 +9489,19 @@
         "offered_by_an_external_provider": "false",
         "offerings": {
             "o0": {
-                "location": "North Ryde",
+                "location": "Off-campus",
                 "period": "Session 2"
             },
             "o1": {
-                "location": "Off-campus",
+                "location": "North Ryde",
                 "period": "Session 2"
             },
             "o2": {
-                "location": "Off-campus",
+                "location": "North Ryde",
                 "period": "Session 1"
             },
             "o3": {
-                "location": "North Ryde",
+                "location": "Off-campus",
                 "period": "Session 1"
             }
         },
@@ -9580,7 +9533,7 @@
         "credits": "240",
         "delivery_with_third_party_provider": "false",
         "duration": "Full time: 3 years",
-        "external_provider": "OUA",
+        "external_provider": "Open Universities Australia",
         "formal_articulation_pathway_to_higher_award": "false",
         "graduateDestinations": "A number of career options are available with a Bachelor of Science depending on the area of study students choose, or whether students combine it with another degree. As well as in-depth studies in their area of choice, all Bachelor of Science students will be taught competencies through Foundation, Capstone and PACE units. These units will equip them with key quantitative skills, employability and professional skills demonstrated through a portfolio, including presentation and interview skills, teamwork and leadership, and creativity.\nEMPLOYERS Some employers include but are not limited to:- Agricultural agencies- Consultancy firms- Environment protection authorities- Exploration and mining industries- Government departments- Hospitals- Medical research centres (especially laboratories)- National parks and conservation agencies- Research institutions",
         "ielts": {
@@ -9799,11 +9752,11 @@
         "offered_by_an_external_provider": "false",
         "offerings": {
             "o0": {
-                "location": "North Ryde",
-                "period": "Session 2"
+                "location": "Off-campus",
+                "period": "Session 1"
             },
             "o1": {
-                "location": "Off-campus",
+                "location": "North Ryde",
                 "period": "Session 1"
             },
             "o2": {
@@ -9812,7 +9765,7 @@
             },
             "o3": {
                 "location": "North Ryde",
-                "period": "Session 1"
+                "period": "Session 2"
             }
         },
         "outcomes": {
@@ -9860,19 +9813,19 @@
         "offerings": {
             "o0": {
                 "location": "Online",
-                "period": "Coursera term 6"
+                "period": "Coursera term 4"
             },
             "o1": {
                 "location": "Online",
-                "period": "Coursera term 5"
+                "period": "Coursera term 6"
             },
             "o2": {
                 "location": "Online",
-                "period": "Coursera term 4"
+                "period": "Coursera term 5"
             },
             "o3": {
                 "location": "Online",
-                "period": "Coursera term 1"
+                "period": "Coursera term 3"
             },
             "o4": {
                 "location": "Online",
@@ -9880,7 +9833,7 @@
             },
             "o5": {
                 "location": "Online",
-                "period": "Coursera term 3"
+                "period": "Coursera term 1"
             }
         },
         "outcomes": {
@@ -9915,19 +9868,19 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "MUIC term 4"
+                "period": "MUIC term 5"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "MUIC term 2"
+                "period": "MUIC term 1"
             },
             "o2": {
                 "location": "North Ryde",
-                "period": "MUIC term 1"
+                "period": "MUIC term 4"
             },
             "o3": {
                 "location": "North Ryde",
-                "period": "MUIC term 5"
+                "period": "MUIC term 2"
             }
         },
         "outcomes": {
@@ -9962,11 +9915,11 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "MUIC term 5"
+                "period": "MUIC term 2"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "MUIC term 1"
+                "period": "MUIC term 5"
             },
             "o2": {
                 "location": "North Ryde",
@@ -9974,7 +9927,7 @@
             },
             "o3": {
                 "location": "North Ryde",
-                "period": "MUIC term 2"
+                "period": "MUIC term 1"
             }
         },
         "outcomes": {
@@ -10009,11 +9962,11 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "MUIC term 5"
+                "period": "MUIC term 1"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "MUIC term 1"
+                "period": "MUIC term 2"
             },
             "o2": {
                 "location": "North Ryde",
@@ -10021,7 +9974,7 @@
             },
             "o3": {
                 "location": "North Ryde",
-                "period": "MUIC term 2"
+                "period": "MUIC term 5"
             }
         },
         "outcomes": {
@@ -10055,11 +10008,11 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "MUIC term 1"
+                "period": "MUIC term 4"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "MUIC term 4"
+                "period": "MUIC term 2"
             },
             "o2": {
                 "location": "North Ryde",
@@ -10067,7 +10020,7 @@
             },
             "o3": {
                 "location": "North Ryde",
-                "period": "MUIC term 2"
+                "period": "MUIC term 1"
             }
         },
         "outcomes": {
@@ -10141,19 +10094,19 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "MUIC term 1"
+                "period": "MUIC term 5"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "MUIC term 5"
+                "period": "MUIC term 4"
             },
             "o2": {
                 "location": "North Ryde",
-                "period": "MUIC term 2"
+                "period": "MUIC term 1"
             },
             "o3": {
                 "location": "North Ryde",
-                "period": "MUIC term 4"
+                "period": "MUIC term 2"
             }
         },
         "outcomes": {
@@ -10188,11 +10141,11 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "MUIC term 1"
+                "period": "MUIC term 5"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "MUIC term 5"
+                "period": "MUIC term 4"
             },
             "o2": {
                 "location": "North Ryde",
@@ -10200,7 +10153,7 @@
             },
             "o3": {
                 "location": "North Ryde",
-                "period": "MUIC term 4"
+                "period": "MUIC term 1"
             }
         },
         "outcomes": {
@@ -10235,19 +10188,19 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "MUIC term 4"
+                "period": "MUIC term 5"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "MUIC term 2"
+                "period": "MUIC term 1"
             },
             "o2": {
                 "location": "North Ryde",
-                "period": "MUIC term 1"
+                "period": "MUIC term 4"
             },
             "o3": {
                 "location": "North Ryde",
-                "period": "MUIC term 5"
+                "period": "MUIC term 2"
             }
         },
         "outcomes": {
@@ -10281,15 +10234,15 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "MUIC term 2"
+                "period": "MUIC term 4"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "MUIC term 5"
+                "period": "MUIC term 2"
             },
             "o2": {
                 "location": "North Ryde",
-                "period": "MUIC term 4"
+                "period": "MUIC term 5"
             },
             "o3": {
                 "location": "North Ryde",
