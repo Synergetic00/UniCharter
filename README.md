@@ -1,22 +1,21 @@
-# Stage 1 - crawler
+# Stage 1 - `crawler/`
 
 ## Website API to Formatted Json
 
-# Stage 2 - parser
+# Stage 2 - `parser/`
+
+`pip install requests`
 
 ## Prerequisite Parser
 
-# Stage 3 - bot
+# Stage 3 - `bot/`
 
 ## Discord Bot Presenter
 
-* pip3 install -U discord.py
-* pip3 install -U python-dotenv
-
-# Stage 4 - visualiser
+# Stage 4 - `visualiser/`
 
 ## Graph Visualiser
 
-# Stage 5 - site
+# Stage 5 - `site/`
 
 ## Web Degree Builder
