@@ -1,11 +1,11 @@
-FORCE_UPDATE=false
+FORCE_UPDATE=true
 
 if [ ! -e 'data/courses.json' ] || $FORCE_UPDATE ; then
     echo 'Downloaded courses json file'
-    python scraper/courses.py
+    python scrapers/courses.py
 fi
 
 if [ ! -e 'data/units.json' ] || $FORCE_UPDATE ; then
     echo 'Downloaded unit json file'
-    python scraper/units.py
+    python scrapers/units.py
 fi
