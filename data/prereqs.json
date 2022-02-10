@@ -9,7 +9,7 @@
         "prereqs": "None"
     },
     "ABST2020": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "ABST2035": {
         "prereqs": "ABST1000 or ABST100 or ABST1030"
@@ -24,7 +24,7 @@
         "prereqs": "20cp from ABST2035 or ABST2020 or ABST202 or ABST2060"
     },
     "ABST3040": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "ABST8990": {
         "prereqs": "Admission to MRes"
@@ -36,7 +36,7 @@
         "prereqs": "None"
     },
     "ABSX2020": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "ABSX2035": {
         "prereqs": "ABSX1020 or ABSX1000"
@@ -51,7 +51,7 @@
         "prereqs": "20cp from ABSX2035 or ABSX2020 or ABSX2060"
     },
     "ABSX3040": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "ACCG1000": {
         "prereqs": "None"
@@ -60,49 +60,49 @@
         "prereqs": "ACCG100 or ACCG106 or ACCG1000"
     },
     "ACCG2000": {
-        "prereqs": "50cp at 1000 level or above including ACCG100 or ACCG1000 or ACCG106"
+        "prereqs": "50cp at 1000 level minimum including ACCG100 or ACCG1000 or ACCG106"
     },
     "ACCG2002": {
-        "prereqs": "50cp at 1000 level or above including BBA102 or MGMT1002"
+        "prereqs": "50cp at 1000 level minimum including BBA102 or MGMT1002"
     },
     "ACCG2024": {
         "prereqs": "ACCG101 or ACCG1001"
     },
     "ACCG2050": {
-        "prereqs": "50cp at 1000 level or above including ACCG100 or ACCG1000 or ACCG106"
+        "prereqs": "50cp at 1000 level minimum including ACCG100 or ACCG1000 or ACCG106"
     },
     "ACCG2051": {
-        "prereqs": "50cp at 1000 level or above"
+        "prereqs": "50cp at 1000 level minimum"
     },
     "ACCG2065": {
-        "prereqs": "50cp at 1000 level or above"
+        "prereqs": "50cp at 1000 level minimum"
     },
     "ACCG2067": {
-        "prereqs": "50cp at 1000 level or above"
+        "prereqs": "50cp at 1000 level minimum"
     },
     "ACCG3001": {
-        "prereqs": "(ACCG200 or ACCG2000) or 130cp at 1000 level or above"
+        "prereqs": "(ACCG200 or ACCG2000) or 130cp at 1000 level minimum"
     },
     "ACCG3008": {
-        "prereqs": "(ACCG224 or ACCG2024) or 130cp at 1000 level or above"
+        "prereqs": "(ACCG224 or ACCG2024) or 130cp at 1000 level minimum"
     },
     "ACCG3015": {
         "prereqs": "160cp including ACCG200 or ACCG2000 or ACCG224 or ACCG2024 or ACCG250 or ACCG2050 or ACCG2065"
     },
     "ACCG3020": {
-        "prereqs": "(20cp at 2000 level or above including (BUSL250 or BUSL251 or ACCG2051)) or 40cp in LAW units at 2000 level"
+        "prereqs": "(20cp at 2000 level minimum including (BUSL250 or BUSL251 or ACCG2051)) or 40cp in LAW units at 2000 level"
     },
     "ACCG3025": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "ACCG3030": {
         "prereqs": "(ACCG200 or ACCG2000) and (ACCG301 or ACCG3001)"
     },
     "ACCG3040": {
-        "prereqs": "130cp at 1000 level or above including (ACCG308 or ACCG3008) and (ACCG250 or ACCG2050)"
+        "prereqs": "130cp at 1000 level minimum including (ACCG308 or ACCG3008) and (ACCG250 or ACCG2050)"
     },
     "ACCG3050": {
-        "prereqs": "130cp at 1000 level or above including AFIN250 or AFIN2050 or AFIN252 or AFIN253 or AFIN2053"
+        "prereqs": "130cp at 1000 level minimum including AFIN250 or AFIN2050 or AFIN252 or AFIN253 or AFIN2053"
     },
     "ACCG3055": {
         "prereqs": "ACCG250 or ACCG2050"
@@ -135,7 +135,7 @@
         "prereqs": "Admission to MRes"
     },
     "ACCG8022": {
-        "prereqs": "(10cp from ACCG or ACST or AFIN or BUS or ECON or MGMT or MKTG units at 6000 level or above) or (admission to GradCertForAccg or GradDipForAccg or MBusAnalytics or MForAccgFinCri or MCybergovMgnt)"
+        "prereqs": "(10cp from ACCG or ACST or AFIN or BUS or ECON or MGMT or MKTG units at 6000 level minimum) or (admission to GradCertForAccg or GradDipForAccg or MBusAnalytics or MForAccgFinCri or MCybergovMgnt)"
     },
     "ACCG8025": {
         "prereqs": "ACCG613 or ACCG921 or ACCG8121 or admission to MAdvProfAcc"
@@ -150,16 +150,16 @@
         "prereqs": "ACCG611 or ACCG6011 or (admission to MAdvProfAcc or MCyberSec or GradCertForAccg or GradDipForAccg or MForAccgFinCri)"
     },
     "ACCG8048": {
-        "prereqs": "20cp at 6000 level or above including ACCG611 or ACCG6011 or ACCG614 or ACCG6014 or MGNT603 or ACCG6003"
+        "prereqs": "20cp at 6000 level minimum including ACCG611 or ACCG6011 or ACCG614 or ACCG6014 or MGNT603 or ACCG6003"
     },
     "ACCG8076": {
         "prereqs": "ACCG6011 or ACCG611 or (admission to MActPrac or MBkgFin or MBusAnalytics or GradCertForAccg or GradDipForAccg or MForAccgFinCri)"
     },
     "ACCG8077": {
-        "prereqs": "20cp at 6000 level or above including ACCG611 or ACCG6011"
+        "prereqs": "20cp at 6000 level minimum including ACCG611 or ACCG6011"
     },
     "ACCG8078": {
-        "prereqs": "(20cp at 6000 level or above including ACCG611 or ACCG6011) or (admission to GradDipForAccg or MForAccgFinCri or MCybergovMgnt or MCTerrorism or MCrim or MCyberSecAnalysis or MIntell or MSecStrategicStud)"
+        "prereqs": "(20cp at 6000 level minimum including ACCG611 or ACCG6011) or (admission to GradDipForAccg or MForAccgFinCri or MCybergovMgnt or MCTerrorism or MCrim or MCyberSecAnalysis or MIntell or MSecStrategicStud)"
     },
     "ACCG8086": {
         "prereqs": "Admission to MCybergovMgnt or MForAccgFinCri or MCTerrorism or MCrim or MCyberSecAnalysis or MIntell or MSecStrategicStud or MInfoTechCyberSec or MInfoTechNetworking"
@@ -255,13 +255,13 @@
         "prereqs": "Admission to BActStud or BActStudBSc or BAppFinBActStud or BActStudBProfPrac or BActStudProfPrac(Hons)"
     },
     "ACST2001": {
-        "prereqs": "50cp at 1000 level or above including [(ACST101 or ACST1001) and (STAT150 or STAT1250 or STAT170 or STAT1170 or STAT171 or STAT1371)]"
+        "prereqs": "50cp at 1000 level minimum including [(ACST101 or ACST1001) and (STAT150 or STAT1250 or STAT170 or STAT1170 or STAT171 or STAT1371)]"
     },
     "ACST2002": {
-        "prereqs": "(ACST101(Cr) or ACST1001(Cr) or WACT101(Cr) or WACT1001(Cr) or ACST152 or ACST1052) and (MATH133 or MATH1025)"
+        "prereqs": "(ACST101>= 65 or ACST1001>= 65 or WACT101>= 65 or WACT1001>= 65 or ACST152 or ACST1052) and (MATH133 or MATH1025)"
     },
     "ACST2052": {
-        "prereqs": "(Admission to BActStud or BActStudBSc or BAppFinBActStud or BActStudBProfPrac or BActStudBProfPrac(Hons)) and 40cp at 1000 level or above"
+        "prereqs": "(Admission to BActStud or BActStudBSc or BAppFinBActStud or BActStudBProfPrac or BActStudBProfPrac(Hons)) and 40cp at 1000 level minimum"
     },
     "ACST2055": {
         "prereqs": "(Admission to BActStud or BActStudBSc or BAppFinBActStud or BActStudBProfPrac or BActStudBProfPrac(Hons)) and (ACST152 or ACST1052) and (ACST202 or ACST2002) and (STAT272 or STAT2372)"
@@ -282,7 +282,7 @@
         "prereqs": "ACST358 or ACST3058"
     },
     "ACST3061": {
-        "prereqs": "130cp at 1000 level or above including STAT272 or STAT2372"
+        "prereqs": "130cp at 1000 level minimum including STAT272 or STAT2372"
     },
     "ACST4002": {
         "prereqs": "(ACST357 or ACST3057) and (ACST358 or ACST3058)"
@@ -318,7 +318,7 @@
         "prereqs": "Admission to MActPrac and (STAT810 or STAT8310 or STAT806)"
     },
     "ACST8052": {
-        "prereqs": "Admission to MActPrac or (10cp in ACCG or ACST or AFIN or BUS or ECON or MKTG or MGMT units at 6000 level or above)"
+        "prereqs": "Admission to MActPrac or (10cp in ACCG or ACST or AFIN or BUS or ECON or MKTG or MGMT units at 6000 level minimum)"
     },
     "ACST8081": {
         "prereqs": "Admission to MActPrac"
@@ -459,16 +459,16 @@
         "prereqs": "ACST101 or ACST1001 or ACST152 or ACST1052 or WACT101 or WACT1001"
     },
     "AFIN2000": {
-        "prereqs": "70cp at 1000 level or above"
+        "prereqs": "70cp at 1000 level minimum"
     },
     "AFIN2050": {
-        "prereqs": "50cp at 1000 level or above including ((AFIN100 or AFIN102 or AFIN1002 or ACST152 or ACST1052) and (ACCG100 or ACCG1000 or ACCG106) and (STAT150 or STAT1250 or STAT170 or STAT1170 or STAT171 or STAT1371)) or (ACST252 or ACST2052)"
+        "prereqs": "50cp at 1000 level minimum including ((AFIN100 or AFIN102 or AFIN1002 or ACST152 or ACST1052) and (ACCG100 or ACCG1000 or ACCG106) and (STAT150 or STAT1250 or STAT170 or STAT1170 or STAT171 or STAT1371)) or (ACST252 or ACST2052)"
     },
     "AFIN2053": {
-        "prereqs": "50cp at 1000 level or above including ((ACCG100 or ACCG1000 or ACCG106) and (STAT150 or STAT1250 or STAT170 or STAT1170 or STAT171 or STAT1371) and (ACST101 or ACST1001) and (ECON111 or ECON1020))"
+        "prereqs": "50cp at 1000 level minimum including ((ACCG100 or ACCG1000 or ACCG106) and (STAT150 or STAT1250 or STAT170 or STAT1170 or STAT171 or STAT1371) and (ACST101 or ACST1001) and (ECON111 or ECON1020))"
     },
     "AFIN2070": {
-        "prereqs": "50cp at 1000 level or above including (AFIN100 or AFIN102 or AFIN1002 or ACST152 or ACST1052) and (STAT150 or STAT1250 or STAT170 or STAT1170 or STAT171 or STAT1171)"
+        "prereqs": "50cp at 1000 level minimum including (AFIN100 or AFIN102 or AFIN1002 or ACST152 or ACST1052) and (STAT150 or STAT1250 or STAT170 or STAT1170 or STAT171 or STAT1171)"
     },
     "AFIN3010": {
         "prereqs": "10cp in ACST or AFIN units at 3000 level"
@@ -522,7 +522,7 @@
         "prereqs": "(Admission to MActPrac or MFin) or (ACST603 or ACST6003 or AFIN6012 or ECON649 or ECON6049)"
     },
     "AFIN8005": {
-        "prereqs": "Admission to MFin or ((Admission to MCom in Finance or MBkgFin) and 30cp at 6000 level or above)"
+        "prereqs": "Admission to MFin or ((Admission to MCom in Finance or MBkgFin) and 30cp at 6000 level minimum)"
     },
     "AFIN8006": {
         "prereqs": "(Admission to MActPrac or MFin) or (ACST603 or ACST6003 or AFIN858)"
@@ -615,7 +615,7 @@
         "prereqs": "AHIS118 or AHIS218 or AHST207 or AHIS1120"
     },
     "AHIS2130": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "AHIS2140": {
         "prereqs": "AHIS158 or AHIS1140 or AHIS258"
@@ -627,34 +627,34 @@
         "prereqs": "AHIS168 or AHIS1160 or AHIS268"
     },
     "AHIS2210": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "AHIS2211": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "AHIS2225": {
         "prereqs": "40cp"
     },
     "AHIS2250": {
-        "prereqs": "40cp at 1000 level or above, including AHIS1250"
+        "prereqs": "40cp at 1000 level minimum, including AHIS1250"
     },
     "AHIS2251": {
-        "prereqs": "40cp from 1000 level units or above"
+        "prereqs": "40cp from 1000 level units minimum"
     },
     "AHIS2301": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "AHIS2302": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "AHIS3000": {
-        "prereqs": "Admission to BAncHist or to BArch and 130cp at 1000 level or above"
+        "prereqs": "Admission to BAncHist or to BArch and 130cp at 1000 level minimum"
     },
     "AHIS3001": {
-        "prereqs": "130cp at 1000 level or above or (10cp in AHIS or AHST units at 2000 level)"
+        "prereqs": "130cp at 1000 level minimum or (10cp in AHIS or AHST units at 2000 level)"
     },
     "AHIS3005": {
-        "prereqs": "120cp at 1000 level or above and permission by special approval"
+        "prereqs": "120cp at 1000 level minimum and permission by special approval"
     },
     "AHIS3100": {
         "prereqs": "Permission by special approval"
@@ -678,13 +678,13 @@
         "prereqs": "(20cp at 2000 level including AHIS279 or AHIS2150) or AHIS378"
     },
     "AHIS3201": {
-        "prereqs": "20cp in AHIS or AHST units at 2000 level or above"
+        "prereqs": "20cp in AHIS or AHST units at 2000 level minimum"
     },
     "AHIS3202": {
-        "prereqs": "130cp at 1000 level or above or (20cp in AHIS or AHST units at 2000 level)"
+        "prereqs": "130cp at 1000 level minimum or (20cp in AHIS or AHST units at 2000 level)"
     },
     "AHIS3241": {
-        "prereqs": "130cp at 1000 level or above or (20cp in AHIS or AHST units at 2000 level)"
+        "prereqs": "130cp at 1000 level minimum or (20cp in AHIS or AHST units at 2000 level)"
     },
     "AHIS3251": {
         "prereqs": "20cp at 2000 level including AHIS280 or AHIS2250 or AHIS261 or AHIS2253"
@@ -759,7 +759,7 @@
         "prereqs": "40cp"
     },
     "AHIX2210": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "AHIX2211": {
         "prereqs": "None"
@@ -783,7 +783,7 @@
         "prereqs": "None"
     },
     "AHIX3202": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "AHIX3241": {
         "prereqs": "None"
@@ -852,37 +852,37 @@
         "prereqs": "None"
     },
     "ANTH2002": {
-        "prereqs": "(ANTH150 or ANTH1050) or 40cp at 1000 level or above"
+        "prereqs": "(ANTH150 or ANTH1050) or 40cp at 1000 level minimum"
     },
     "ANTH2003": {
-        "prereqs": "(ANTH150 or ANTH1050) or (40cp at 1000 level or above"
+        "prereqs": "(ANTH150 or ANTH1050) or (40cp at 1000 level minimum"
     },
     "ANTH2008": {
-        "prereqs": "(ANTH150 or ANTH1050) or 40cp at 1000 level or above"
+        "prereqs": "(ANTH150 or ANTH1050) or 40cp at 1000 level minimum"
     },
     "ANTH2024": {
-        "prereqs": "(ANTH150 or ANTH1050) or 40cp at 1000 level or above"
+        "prereqs": "(ANTH150 or ANTH1050) or 40cp at 1000 level minimum"
     },
     "ANTH2051": {
-        "prereqs": "(ANTH150 or ANTH1050) or 40cp at 1000 level or above"
+        "prereqs": "(ANTH150 or ANTH1050) or 40cp at 1000 level minimum"
     },
     "ANTH3008": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "ANTH3010": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "ANTH3021": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "ANTH3022": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "ANTH3023": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "ANTH3024": {
-        "prereqs": "130cp at 1000 level or above including (30cp from ANTH units including (10cp from ANTH units at 3000 level))"
+        "prereqs": "130cp at 1000 level minimum including (30cp from ANTH units including (10cp from ANTH units at 3000 level))"
     },
     "ANTH7000": {
         "prereqs": "Admission to MRes"
@@ -897,7 +897,7 @@
         "prereqs": "Admission to MDevStud or MPH or MGlobalHlthDevStud or GradCertGlobalHlthDevStud or MDevStudGlobalHlth or GradCertDevStudGlobalHlth or MAppAnth or MDevCult or MSocEntre or GradCertSocEntre or MPASR or MPASRMDevStud or GradDipPASR or GradDipPP or MPPP or MPPPMDevStud or MPPPMPASR or 10cp in ANTH units at 8000 level"
     },
     "ANTH8032": {
-        "prereqs": "Admission to MDevStud or MPH or 30cp at 8000 level or above or (ANTH816 or ANTH8016)"
+        "prereqs": "Admission to MDevStud or MPH or 30cp at 8000 level minimum or (ANTH816 or ANTH8016)"
     },
     "ANTH8990": {
         "prereqs": "Admission to MRes"
@@ -984,16 +984,16 @@
         "prereqs": "80cp and permission by special approval"
     },
     "ARTS3000": {
-        "prereqs": "50cp at 2000 level or above and permission by special approval"
+        "prereqs": "50cp at 2000 level minimum and permission by special approval"
     },
     "ARTS3500": {
-        "prereqs": "170cp at 1000 level or above and (admission to BArts or BABEd(Prim) or BABEd(Sec))"
+        "prereqs": "170cp at 1000 level minimum and (admission to BArts or BABEd(Prim) or BABEd(Sec))"
     },
     "ARTX1000": {
         "prereqs": "None"
     },
     "ARTX3500": {
-        "prereqs": "170cp at 1000 level or above"
+        "prereqs": "170cp at 1000 level minimum"
     },
     "ASBA8990": {
         "prereqs": "None"
@@ -1035,52 +1035,52 @@
         "prereqs": "(BIOL1110 or BIOL115) and ((BIOL1310 or BIOL114) or (BIOL1210 or BIOL108) or (BIOL1610 or BIOL116) or (BIOL1620))"
     },
     "BIOL2210": {
-        "prereqs": "(40cp at 1000 level or above) including (BIOL1310 or BIOL114) or (BIOL1110 or BIOL115)"
+        "prereqs": "(40cp at 1000 level minimum) including (BIOL1310 or BIOL114) or (BIOL1110 or BIOL115)"
     },
     "BIOL2220": {
         "prereqs": "(BIOL2230 or BIOL257) or (20cp from (BIOL1110 or BIOL115) and ((BIOL1210 or BIOL108) or (BIOL1310 or BIOL114) or (BIOL1320 or BIOL122) or (BIOL1610 or BIOL116))) or ((PSYU1104 or PSYC104 or PSYU1101) and (PSYU1105 or PSYC105 or PSYU1102)) or ((ANAT1001 or HLTH108) and (ANAT1002 or HLTH109))"
     },
     "BIOL2230": {
-        "prereqs": "50cp at 1000 level or above including [(BIOL2220 or BIOL247) or (20cp from (BIOL1110 or BIOL115) or (BIOL1210 or BIOL108) or (ANAT1001 or HLTH108) or (ANAT1002 or HLTH109) or (PSYU1104 or PSYC104 or PSYU1101) or (PSYU1105 or PSYC105 or PSYU1102) or (COGS1000 or COGS100))]"
+        "prereqs": "50cp at 1000 level minimum including [(BIOL2220 or BIOL247) or (20cp from (BIOL1110 or BIOL115) or (BIOL1210 or BIOL108) or (ANAT1001 or HLTH108) or (ANAT1002 or HLTH109) or (PSYU1104 or PSYC104 or PSYU1101) or (PSYU1105 or PSYC105 or PSYU1102) or (COGS1000 or COGS100))]"
     },
     "BIOL2310": {
-        "prereqs": "50cp at 1000 level or above including (BIOL1310 or BIOL114)"
+        "prereqs": "50cp at 1000 level minimum including (BIOL1310 or BIOL114)"
     },
     "BIOL2320": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "BIOL2410": {
         "prereqs": "(50cp including [20cp from ((BIOL1310 or BIOL114) or (BIOL1110 or BIOL115) or BIOL121)] or [10cp from ((BIOL1310 or BIOL114) or (BIOL1110 or BIOL115) or BIOL121) and 10cp from (ENVE117 or (ENVS1017 or ENVS117) or GEOS117)] and [10cp from ((STAT1170 or STAT170) or (STAT1371 or STAT171) or FOSE1015)])"
     },
     "BIOL2610": {
-        "prereqs": "40cp at 1000 level or above including (((STAT1170 or STAT170(P)) or (STAT1250 or STAT150) or (STAT1371 or STAT171) or FOSE1015) and (10cp(P) in BBE or BIOL units))"
+        "prereqs": "40cp at 1000 level minimum including (((STAT1170 or STAT170>= 50) or (STAT1250 or STAT150) or (STAT1371 or STAT171) or FOSE1015) and (10cp>= 50 in BBE or BIOL units))"
     },
     "BIOL3110": {
-        "prereqs": "130cp at 1000 level or above including BIOL2110 or BIOL206"
+        "prereqs": "130cp at 1000 level minimum including BIOL2110 or BIOL206"
     },
     "BIOL3120": {
-        "prereqs": "130cp at 1000 level or above including BIOL2110 or BIOL206(P)"
+        "prereqs": "130cp at 1000 level minimum including BIOL2110 or BIOL206>= 50"
     },
     "BIOL3210": {
         "prereqs": "[(BIOL2220 or BIOL247) and ((BIOL2230 or BIOL257) or (MEDI2300 or MEDI204) or (admission to BHumanSc))] and 20cp at 2000 level including BIOL2220 or BIOL247"
     },
     "BIOL3310": {
-        "prereqs": "130cp at 1000 level or above including (BIOL2510 or BIOL262) or BIOL208 or (BIOL2310 or BIOL228) or (BIOL2210 or BIOL229)"
+        "prereqs": "130cp at 1000 level minimum including (BIOL2510 or BIOL262) or BIOL208 or (BIOL2310 or BIOL228) or (BIOL2210 or BIOL229)"
     },
     "BIOL3410": {
-        "prereqs": "130cp at 1000 level or above including ((BIOL2410 or BIOL227) or BIOL210 or (BIOL2310 or BIOL228) or (BIOL2210 or BIOL229) or (ENVS266 or ENVS2266))"
+        "prereqs": "130cp at 1000 level minimum including ((BIOL2410 or BIOL227) or BIOL210 or (BIOL2310 or BIOL228) or (BIOL2210 or BIOL229) or (ENVS266 or ENVS2266))"
     },
     "BIOL3420": {
-        "prereqs": "130cp at 1000 level or above including (BIOL2410 or BIOL227)"
+        "prereqs": "130cp at 1000 level minimum including (BIOL2410 or BIOL227)"
     },
     "BIOL3440": {
-        "prereqs": "130cp at 1000 level or above including (BIOL2410 or BIOL227) or (BIOL2310 or BIOL228) or (ENVS3239 or ENVS339)"
+        "prereqs": "130cp at 1000 level minimum including (BIOL2410 or BIOL227) or (BIOL2310 or BIOL228) or (ENVS3239 or ENVS339)"
     },
     "BIOL3510": {
-        "prereqs": "130cp at 1000 level or above including BIOL262 or BIOL208 or (BIOL2310 or BIOL228) or (BIOL2210 or BIOL229)"
+        "prereqs": "130cp at 1000 level minimum including BIOL262 or BIOL208 or (BIOL2310 or BIOL228) or (BIOL2210 or BIOL229)"
     },
     "BIOL3520": {
-        "prereqs": "150cp including (BIOL2310 or BIOL2510 or BIOL2520 or BIOL263) and (30cp from BIOL or ENVS or GEOS units at 2000 level or above)"
+        "prereqs": "150cp including (BIOL2310 or BIOL2510 or BIOL2520 or BIOL263) and (30cp from BIOL or ENVS or GEOS units at 2000 level minimum)"
     },
     "BIOL3630": {
         "prereqs": "Permission by special approval"
@@ -1089,7 +1089,7 @@
         "prereqs": "130cp (including 40cp in BIOL units)"
     },
     "BIOL3661": {
-        "prereqs": "Admission to BMedScs and 120cp at 1000 level or above including BIOL1620 or BIOL1610 or BIOL116"
+        "prereqs": "Admission to BMedScs and 120cp at 1000 level minimum including BIOL1620 or BIOL1610 or BIOL116"
     },
     "BIOL6110": {
         "prereqs": "Admission to MBiotech or GradDipBiotech or MConsBiol or GradDipConsBiol or GradCertConsBiol or MSc"
@@ -1191,16 +1191,16 @@
         "prereqs": "(BIOL1110 or BIOL115) and ((BIOL1310 or BIOL114) or (BIOL1210 or BIOL108) or (BIOL1610 or BIOL116) or (BIOL1620))"
     },
     "BIOX2210": {
-        "prereqs": "(40cp at 1000 level or above) including (BIOL1310 or BIOL114) or (BIOL1110 or BIOL115)"
+        "prereqs": "(40cp at 1000 level minimum) including (BIOL1310 or BIOL114) or (BIOL1110 or BIOL115)"
     },
     "BIOX2310": {
-        "prereqs": "50cp at 1000 level or above including (BIOL1310 or BIOL114)"
+        "prereqs": "50cp at 1000 level minimum including (BIOL1310 or BIOL114)"
     },
     "BIOX2320": {
         "prereqs": "None"
     },
     "BIOX2610": {
-        "prereqs": "40cp at 1000 level or above including (((STAT1170 or STAT170(P)) or (STAT1250 or STAT150) or (STAT1371 or STAT171) or FOSE1015) and (10cp(P) in BBE or BIOL units))"
+        "prereqs": "40cp at 1000 level minimum including (((STAT1170 or STAT170>= 50) or (STAT1250 or STAT150) or (STAT1371 or STAT171) or FOSE1015) and (10cp>= 50 in BBE or BIOL units))"
     },
     "BMOL1001": {
         "prereqs": "Admission to BClinSc"
@@ -1212,16 +1212,16 @@
         "prereqs": "CHEM1001 or CBMS107 or CBMS103"
     },
     "BMOL3201": {
-        "prereqs": "130cp at 1000 level or above including BMOL2201 or CBMS201 or CBMS223"
+        "prereqs": "130cp at 1000 level minimum including BMOL2201 or CBMS201 or CBMS223"
     },
     "BMOL3202": {
-        "prereqs": "130cp at 1000 level or above including CHEM2201 or CBMS200 or BMOL2201 or CBMS201"
+        "prereqs": "130cp at 1000 level minimum including CHEM2201 or CBMS200 or BMOL2201 or CBMS201"
     },
     "BMOL3401": {
-        "prereqs": "130cp at 1000 level or above including BMOL2401 or CBMS215 or CBMS202"
+        "prereqs": "130cp at 1000 level minimum including BMOL2401 or CBMS215 or CBMS202"
     },
     "BMOL3402": {
-        "prereqs": "130cp at 1000 level or above including BMOL2201 or CBMS201 or CBMS223"
+        "prereqs": "130cp at 1000 level minimum including BMOL2201 or CBMS201 or CBMS223"
     },
     "BMOL6201": {
         "prereqs": "Admission to GradDipBiotech or GradCertLabAQMgt or GradDipLabAQMgt or MBiotech or MBioBus or MLabAQMgt or MRadiopharmSc or MSc or MScInnovChemBioSc"
@@ -1245,7 +1245,7 @@
         "prereqs": "(STAT150 or STAT1250 or STAT170 or STAT1170 or STAT171 or STAT1371) and (COMP115 or COMP1000 or ISYS114 or COMP1350)"
     },
     "BUSA3015": {
-        "prereqs": "130cp at 1000 level or above including (STAT150 or STAT1250 or STAT170 or STAT1170 or MKTG216 or MGMT2016)"
+        "prereqs": "130cp at 1000 level minimum including (STAT150 or STAT1250 or STAT170 or STAT1170 or MKTG216 or MGMT2016)"
     },
     "BUSA3020": {
         "prereqs": "(STAT270 or STAT2170) and (MGMT220 or BUSA2020)"
@@ -1338,7 +1338,7 @@
         "prereqs": "None"
     },
     "CHEM1002": {
-        "prereqs": "CHEM1001 or CBMS107 or CBMS103 or HSC Chemistry Band 5 and above"
+        "prereqs": "CHEM1001 or CBMS107 or CBMS103 or HSC Chemistry Band 5 minimum"
     },
     "CHEM2201": {
         "prereqs": "(CHEM1001 or CBMS107 or CBMS103) and (CHEM1002 or CBMS108 or CBMS101 or CBMS102)"
@@ -1353,10 +1353,10 @@
         "prereqs": "CHEM2201 or CBMS200 or CBMS208"
     },
     "CHEM3601": {
-        "prereqs": "20cp in CBMS or BMOL or CHEM units at 2000 level or above including (CHEM2601 or CBMS203 or CBMS204)"
+        "prereqs": "20cp in CBMS or BMOL or CHEM units at 2000 level minimum including (CHEM2601 or CBMS203 or CBMS204)"
     },
     "CHEM3801": {
-        "prereqs": "(CHEM2601 or CBMS203 or CBMS204) and 10cp in CBMS or BMOL or CHEM units at 2000 level or above"
+        "prereqs": "(CHEM2601 or CBMS203 or CBMS204) and 10cp in CBMS or BMOL or CHEM units at 2000 level minimum"
     },
     "CHEM6201": {
         "prereqs": "Admission to GradDipBiotech or GradCertLabAQMgt or GradDipLabAQMgt or MBiotech or MBioBus or MLabAQMgt or MRadiopharmSc or MSc or MScInnovChemBioSc"
@@ -1395,10 +1395,10 @@
         "prereqs": "CHIN2010 or CHN232"
     },
     "CHIN2052": {
-        "prereqs": "80cp at 1000 level or above and permission by special approval"
+        "prereqs": "80cp at 1000 level minimum and permission by special approval"
     },
     "CHIN2053": {
-        "prereqs": "80cp at 100 level or above and permission by special approval"
+        "prereqs": "80cp at 100 level minimum and permission by special approval"
     },
     "CHIN2086": {
         "prereqs": "CHIN2052 or CHN252 or CHIN2053 or CHN253"
@@ -1533,7 +1533,7 @@
         "prereqs": "CIVL1001"
     },
     "CIVL3101": {
-        "prereqs": "130cp at 1000 level or above including MECH2002 or MECH202"
+        "prereqs": "130cp at 1000 level minimum including MECH2002 or MECH202"
     },
     "CIVL4090": {
         "prereqs": "(CIVL3305 or CIVL3301) and (CIVL3201 or CIVL3101)"
@@ -1560,7 +1560,7 @@
         "prereqs": "COGS1000 or COGS100"
     },
     "COGS2010": {
-        "prereqs": "60cp at 1000 level or above"
+        "prereqs": "60cp at 1000 level minimum"
     },
     "COGS2020": {
         "prereqs": "STAT1170 or STAT170"
@@ -1572,7 +1572,7 @@
         "prereqs": "COGS2000 or COGS202"
     },
     "COGS2050": {
-        "prereqs": "60cp at 1000-level or above"
+        "prereqs": "60cp at 1000-level minimum"
     },
     "COGS2250": {
         "prereqs": "Admission to BCogBrainSc and (COGS2000 or COGS202) and COGS2020"
@@ -1650,7 +1650,7 @@
         "prereqs": "(COMP1010 or COMP125) and 10cp from (MATH132-MATH136 or DMTH137 or MATH1007-MATH1025 or (STAT150 or STAT1250) or (STAT170 or STAT1170) or (STAT171 or STAT1371) or (STAT175 or STAT1175))"
     },
     "COMP2050": {
-        "prereqs": "60cp at 1000 level or above including COMP1010 or COMP125"
+        "prereqs": "60cp at 1000 level minimum including COMP1010 or COMP125"
     },
     "COMP2100": {
         "prereqs": "COMP1010 or COMP125"
@@ -1686,43 +1686,43 @@
         "prereqs": "COMP1350 or ISYS114"
     },
     "COMP3000": {
-        "prereqs": "130cp at 1000 level or above including COMP2010 or COMP225 or COMP2000 or COMP229"
+        "prereqs": "130cp at 1000 level minimum including COMP2010 or COMP225 or COMP2000 or COMP229"
     },
     "COMP3010": {
-        "prereqs": "130cp at 1000 level or above including (COMP2010 or COMP225) and (MATH2907 or DMTH237)"
+        "prereqs": "130cp at 1000 level minimum including (COMP2010 or COMP225) and (MATH2907 or DMTH237)"
     },
     "COMP3100": {
-        "prereqs": "130cp at 1000 level or above including (COMP2100 or COMP202) and (COMP2250 or COMP247)"
+        "prereqs": "130cp at 1000 level minimum including (COMP2100 or COMP202) and (COMP2250 or COMP247)"
     },
     "COMP3120": {
-        "prereqs": "130cp at 1000 level or above including COMP2110 or COMP249"
+        "prereqs": "130cp at 1000 level minimum including COMP2110 or COMP249"
     },
     "COMP3130": {
         "prereqs": "COMP229 or COMP2000 or COMP249 or COMP2110"
     },
     "COMP3150": {
-        "prereqs": "130cp at 1000 level or above including COMP2150 or COMP260"
+        "prereqs": "130cp at 1000 level minimum including COMP2150 or COMP260"
     },
     "COMP3151": {
         "prereqs": "COMP3150 or COMP352"
     },
     "COMP3160": {
-        "prereqs": "130cp at 1000 level or above including COMP2000 or COMP229 or COMP2010 or COMP225 or COMP2110 or COMP249 or COMP2160"
+        "prereqs": "130cp at 1000 level minimum including COMP2000 or COMP229 or COMP2010 or COMP225 or COMP2110 or COMP249 or COMP2160"
     },
     "COMP3170": {
-        "prereqs": "130cp at 1000 level or above including COMP2000 or COMP229 or COMP2010 or COMP225 or COMP2160"
+        "prereqs": "130cp at 1000 level minimum including COMP2000 or COMP229 or COMP2010 or COMP225 or COMP2160"
     },
     "COMP3180": {
         "prereqs": "COMP2150 and COMP2160"
     },
     "COMP3210": {
-        "prereqs": "130cp at 1000 level or above including COMP2200 or COMP257"
+        "prereqs": "130cp at 1000 level minimum including COMP2200 or COMP257"
     },
     "COMP3220": {
-        "prereqs": "130cp at 1000 level or above including COMP2110 or COMP249 or COMP2200 or COMP257"
+        "prereqs": "130cp at 1000 level minimum including COMP2110 or COMP249 or COMP2200 or COMP257"
     },
     "COMP3250": {
-        "prereqs": "130cp at 1000 level or above including ((COMP1010 or COMP125) and (COMP2250 or COMP247)) and ((DMTH137 or MATH1007 or MATH2907 or DMTH237 or ELEC2040 or ELEC240))"
+        "prereqs": "130cp at 1000 level minimum including ((COMP1010 or COMP125) and (COMP2250 or COMP247)) and ((DMTH137 or MATH1007 or MATH2907 or DMTH237 or ELEC2040 or ELEC240))"
     },
     "COMP3260": {
         "prereqs": "COMP2250 or COMP247"
@@ -1734,31 +1734,31 @@
         "prereqs": "COMP2300 and (MATH1007 or DMTH137)"
     },
     "COMP3320": {
-        "prereqs": "(130cp at 1000 level or above and (COMP1300 or COMP107) and (COMP1350 or ISYS114) and (COMP343 or COMP2300))"
+        "prereqs": "(130cp at 1000 level minimum and (COMP1300 or COMP107) and (COMP1350 or ISYS114) and (COMP343 or COMP2300))"
     },
     "COMP3760": {
-        "prereqs": "130cp at 1000 level or above including (COMP2350 or ISYS224) or (COMP2750 or ISYS254) or (COMP2050 or COMP255)"
+        "prereqs": "130cp at 1000 level minimum including (COMP2350 or ISYS224) or (COMP2750 or ISYS254) or (COMP2050 or COMP255)"
     },
     "COMP3770": {
-        "prereqs": "130cp at 1000 level or above including 20cp in COMP or ISYS or ACCG or STAT or BUS or BBA or MGMT units at 2000 level"
+        "prereqs": "130cp at 1000 level minimum including 20cp in COMP or ISYS or ACCG or STAT or BUS or BBA or MGMT units at 2000 level"
     },
     "COMP3780": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "COMP3850": {
-        "prereqs": "130cp at 1000 level or above including ((COMP2250 or COMP247) or (COMP2110 or COMP249) or (COMP2050 or COMP255) or (COMP2200 or COMP257) or (COMP2750 or ISYS254))"
+        "prereqs": "130cp at 1000 level minimum including ((COMP2250 or COMP247) or (COMP2110 or COMP249) or (COMP2050 or COMP255) or (COMP2200 or COMP257) or (COMP2750 or ISYS254))"
     },
     "COMP3900": {
-        "prereqs": "130cp at 1000 level or above including COMP2900 and admission to BAdvIT"
+        "prereqs": "130cp at 1000 level minimum including COMP2900 and admission to BAdvIT"
     },
     "COMP4000": {
         "prereqs": "(COMP3000 or COMP332) and (COMP3010 or COMP333)"
     },
     "COMP4050": {
-        "prereqs": "200cp at 1000 level or above including (COMP2050 or COMP255) and (COMP3010 or COMP333)"
+        "prereqs": "200cp at 1000 level minimum including (COMP2050 or COMP255) and (COMP3010 or COMP333)"
     },
     "COMP4060": {
-        "prereqs": "200cp at 1000 level or above including (COMP2050 or COMP255) and (COMP3010 or COMP333)"
+        "prereqs": "200cp at 1000 level minimum including (COMP2050 or COMP255) and (COMP3010 or COMP333)"
     },
     "COMP4092": {
         "prereqs": "(COMP332 or COMP3000) and (COMP333 or COMP3010) and (COMP335 or COMP3100)"
@@ -1968,49 +1968,49 @@
         "prereqs": "None"
     },
     "ECHE2100": {
-        "prereqs": "80cp at 1000 level or above including ((ECH113 or ECHE1130 or ABEC120) and (ECHE120 or ECHE1200))"
+        "prereqs": "80cp at 1000 level minimum including ((ECH113 or ECHE1130 or ABEC120) and (ECHE120 or ECHE1200))"
     },
     "ECHE2180": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "ECHE2200": {
-        "prereqs": "40cp at 1000 level or above including (ECH113 or ECHE1130)"
+        "prereqs": "40cp at 1000 level minimum including (ECH113 or ECHE1130)"
     },
     "ECHE2310": {
-        "prereqs": "(ECHP122 or ECHP1220 or EDST201 or EDST2010) or ((40cp at 1000 level or above) and admission to BTeach(ECS))"
+        "prereqs": "(ECHP122 or ECHP1220 or EDST201 or EDST2010) or ((40cp at 1000 level minimum) and admission to BTeach(ECS))"
     },
     "ECHE2320": {
-        "prereqs": "ECH113 or ECHE1130 or (40cp at 1000 level or above) and admission to BTeach(ECS)"
+        "prereqs": "ECH113 or ECHE1130 or (40cp at 1000 level minimum) and admission to BTeach(ECS)"
     },
     "ECHE2340": {
         "prereqs": "ECH232 or ECHE2320"
     },
     "ECHE3100": {
-        "prereqs": "130cp at 1000 level or above including (ECH113 or ECHE1130 or ABEC120) and (ECH130 or ECHE1300)"
+        "prereqs": "130cp at 1000 level minimum including (ECH113 or ECHE1130 or ABEC120) and (ECH130 or ECHE1300)"
     },
     "ECHE3110": {
-        "prereqs": "130cp at 1000 level or above including (ECHE220 or ECHE2200) and (ECHE118 or ECHE1180 or ABEC113)"
+        "prereqs": "130cp at 1000 level minimum including (ECHE220 or ECHE2200) and (ECHE118 or ECHE1180 or ABEC113)"
     },
     "ECHE3150": {
-        "prereqs": "(130cp at 1000 level or above including ECH120 or ECHE120 or ECHE1200 or ACSH100 or ACOM1001 or ECHE2200) or (130cp at 1000 level or above and admission to BTeach(ECS))"
+        "prereqs": "(130cp at 1000 level minimum including ECH120 or ECHE120 or ECHE1200 or ACSH100 or ACOM1001 or ECHE2200) or (130cp at 1000 level minimum and admission to BTeach(ECS))"
     },
     "ECHE3190": {
-        "prereqs": "(130cp at 1000 level or above) including (ECH131 or ECHE1310 or ECH129)"
+        "prereqs": "(130cp at 1000 level minimum) including (ECH131 or ECHE1310 or ECH129)"
     },
     "ECHE3260": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "ECHE3300": {
         "prereqs": "(ECH130 or ECHE1300) and (ECHE340 or ECHE3400)"
     },
     "ECHE3330": {
-        "prereqs": "(130cp at 1000 level or above) including [(ECH218 or ECHE2180) or (ECH216 and admission to BTeach(0-5)) or admission to BTeach(ECS)]"
+        "prereqs": "(130cp at 1000 level minimum) including [(ECH218 or ECHE2180) or (ECH216 and admission to BTeach(0-5)) or admission to BTeach(ECS)]"
     },
     "ECHE3400": {
-        "prereqs": "130cp at 1000 level or above including (ECH130 or ECHE1300) and (ECHP223 or ECHP2230)"
+        "prereqs": "130cp at 1000 level minimum including (ECH130 or ECHE1300) and (ECHP223 or ECHP2230)"
     },
     "ECHE4000": {
-        "prereqs": "130cp at 1000 level or above including (ECH218 or ECHE2180 or ECH228)"
+        "prereqs": "130cp at 1000 level minimum including (ECH218 or ECHE2180 or ECH228)"
     },
     "ECHE4200": {
         "prereqs": "ECHP324 or ECHP327 or ECHP3270 or ECHP325 or ECHP3250 or ECHP499 or EDST3020"
@@ -2019,7 +2019,7 @@
         "prereqs": "130cp including ECH335 or ECHE2340 or ECHE234"
     },
     "ECHE4330": {
-        "prereqs": "130cp at 1000 level or above including (ECH231 or ECHE2310 or ECH214)"
+        "prereqs": "130cp at 1000 level minimum including (ECH231 or ECHE2310 or ECH214)"
     },
     "ECHE4350": {
         "prereqs": "ECH315 or ECHE3150"
@@ -2031,7 +2031,7 @@
         "prereqs": "130cp including (ECH228 or ECH218 or ECHE2180 or EDUC262 or EDUC2620 or PSY235 or PSYU2235)"
     },
     "ECHE4540": {
-        "prereqs": "160cp at 1000 level or above"
+        "prereqs": "160cp at 1000 level minimum"
     },
     "ECHE6000": {
         "prereqs": "Admission to MTeach(0-5) or GradCertEChild"
@@ -2142,31 +2142,31 @@
         "prereqs": "None"
     },
     "ECON2003": {
-        "prereqs": "50cp at 1000 level or above including ECON111 or ECON1021"
+        "prereqs": "50cp at 1000 level minimum including ECON111 or ECON1021"
     },
     "ECON2004": {
-        "prereqs": "50cp at 1000 level or above including ECON110 or ECON1021"
+        "prereqs": "50cp at 1000 level minimum including ECON110 or ECON1021"
     },
     "ECON2015": {
-        "prereqs": "50cp at 1000 level or above including ECON111 or ECON1020"
+        "prereqs": "50cp at 1000 level minimum including ECON111 or ECON1020"
     },
     "ECON2032": {
         "prereqs": "ECON241 or ECON2041 or STAT272 or STAT2372"
     },
     "ECON2035": {
-        "prereqs": "50cp at 1000 level or above including ECON110 or ECON111 or ECON1020"
+        "prereqs": "50cp at 1000 level minimum including ECON110 or ECON111 or ECON1020"
     },
     "ECON2041": {
-        "prereqs": "50cp at 1000 level or above including ((STAT150 or STAT1250 or STAT170 or STAT1170 or STAT171 or STAT1371) and (ECON110 or ECON111 or ECON1020))"
+        "prereqs": "50cp at 1000 level minimum including ((STAT150 or STAT1250 or STAT170 or STAT1170 or STAT171 or STAT1371) and (ECON110 or ECON111 or ECON1020))"
     },
     "ECON2044": {
-        "prereqs": "50cp at 1000 level or above including ECON111 or ECON1020"
+        "prereqs": "50cp at 1000 level minimum including ECON111 or ECON1020"
     },
     "ECON2050": {
-        "prereqs": "50cp at 1000 level or above including ECON110 or ECON111 or ECON1020"
+        "prereqs": "50cp at 1000 level minimum including ECON110 or ECON111 or ECON1020"
     },
     "ECON3000": {
-        "prereqs": "130cp at 1000 level or above including ((ECON110 or ECON111 or ECON1020) and 20cp at 2000 level or above)"
+        "prereqs": "130cp at 1000 level minimum including ((ECON110 or ECON111 or ECON1020) and 20cp at 2000 level minimum)"
     },
     "ECON3009": {
         "prereqs": "20cp at 2000 level including ECON203 or ECON2003"
@@ -2175,31 +2175,31 @@
         "prereqs": "20cp at 2000 level including ECON204 or ECON2004"
     },
     "ECON3018": {
-        "prereqs": "130cp at 1000 level or above including ((ECON110 or ECON111 or ECON1020) and 20cp at 2000 level or above)"
+        "prereqs": "130cp at 1000 level minimum including ((ECON110 or ECON111 or ECON1020) and 20cp at 2000 level minimum)"
     },
     "ECON3020": {
-        "prereqs": "130cp at 1000 level or above including ((ECON110 or ECON111 or ECON1020) and (20cp at 2000 level or above))"
+        "prereqs": "130cp at 1000 level minimum including ((ECON110 or ECON111 or ECON1020) and (20cp at 2000 level minimum))"
     },
     "ECON3034": {
-        "prereqs": "90cp at 1000 level or above including ECON241 or ECON2041 or STAT272 or STAT2372"
+        "prereqs": "90cp at 1000 level minimum including ECON241 or ECON2041 or STAT272 or STAT2372"
     },
     "ECON3036": {
-        "prereqs": "130cp at 1000 level or above including ((ECON110 or ECON111 or ECON1020) and 20cp at 2000 level or above)"
+        "prereqs": "130cp at 1000 level minimum including ((ECON110 or ECON111 or ECON1020) and 20cp at 2000 level minimum)"
     },
     "ECON3056": {
-        "prereqs": "130cp at 1000 level or above including ((ECON110 or ECON111 or ECON1020) and 20cp at 2000 level or above)"
+        "prereqs": "130cp at 1000 level minimum including ((ECON110 or ECON111 or ECON1020) and 20cp at 2000 level minimum)"
     },
     "ECON3059": {
-        "prereqs": "130cp at 1000 level or above including ((ECON110 or ECON111 or ECON1020) and 20cp at 2000 level or above)"
+        "prereqs": "130cp at 1000 level minimum including ((ECON110 or ECON111 or ECON1020) and 20cp at 2000 level minimum)"
     },
     "ECON3060": {
-        "prereqs": "20cp at 2000 level or above including ECON203 or ECON2003 or ECON204 or ECON2004 or AFIN250 or AFIN2050"
+        "prereqs": "20cp at 2000 level minimum including ECON203 or ECON2003 or ECON204 or ECON2004 or AFIN250 or AFIN2050"
     },
     "ECON3081": {
-        "prereqs": "130cp at 1000 level or above including ((ECON203 or ECON2003) and (ECON204 or ECON2004))"
+        "prereqs": "130cp at 1000 level minimum including ((ECON203 or ECON2003) and (ECON204 or ECON2004))"
     },
     "ECON3098": {
-        "prereqs": "130cp at 1000 level or above including ((ECON110 or ECON111 or ECON1020) and 20cp at 2000 level or above)"
+        "prereqs": "130cp at 1000 level minimum including ((ECON110 or ECON111 or ECON1020) and 20cp at 2000 level minimum)"
     },
     "ECON6032": {
         "prereqs": "Admission to MAppEcon"
@@ -2301,34 +2301,34 @@
         "prereqs": "ECHE1130 or ECH113"
     },
     "EDST2140": {
-        "prereqs": "40cp at 1000 level or above including ECHE1130 or ECH113"
+        "prereqs": "40cp at 1000 level minimum including ECHE1130 or ECH113"
     },
     "EDST2999": {
         "prereqs": "None"
     },
     "EDST3000": {
-        "prereqs": "160cp at 1000 level or above including (EDST2000 or EDST200) and (EDST2100 or EDST210) and (EDST3110 or EDST311) and EDST2999"
+        "prereqs": "160cp at 1000 level minimum including (EDST2000 or EDST200) and (EDST2100 or EDST210) and (EDST3110 or EDST311) and EDST2999"
     },
     "EDST3010": {
-        "prereqs": "130cp at 1000 level or above including EDST2999 and (EDST200 or EDST2000)"
+        "prereqs": "130cp at 1000 level minimum including EDST2999 and (EDST200 or EDST2000)"
     },
     "EDST3020": {
         "prereqs": "(EDST2000 or EDST200 or EDST2010 or EDST201 or ECHP2220 or ECHP222) and (ECHE220 or ECHE2200)"
     },
     "EDST3100": {
-        "prereqs": "160cp at 1000 level or above including EDST2100 or EDST210"
+        "prereqs": "160cp at 1000 level minimum including EDST2100 or EDST210"
     },
     "EDST3110": {
-        "prereqs": "120cp at 1000 level or above including (EDST2000 or EDST200) and (EDST2110 or EDST211)"
+        "prereqs": "120cp at 1000 level minimum including (EDST2000 or EDST200) and (EDST2110 or EDST211)"
     },
     "EDST3140": {
-        "prereqs": "EDST200 or EDST2000 and ((130cp at 1000 level or above) or (80cp at 1000 level or above) and admission to BScBEd(Sec))"
+        "prereqs": "EDST200 or EDST2000 and ((130cp at 1000 level minimum) or (80cp at 1000 level minimum) and admission to BScBEd(Sec))"
     },
     "EDST3160": {
         "prereqs": "(ECH315 OR ECHE3150 and admission to (BTeach(ECE))"
     },
     "EDST3170": {
-        "prereqs": "Admission to BABEd(Prim) or BEd(Prim)BPsych or BABEd(Sec) or BScBEd(Sec) or BComBEd(Sec) or BTeach(ECE) and 80cp at 1000 level or above"
+        "prereqs": "Admission to BABEd(Prim) or BEd(Prim)BPsych or BABEd(Sec) or BScBEd(Sec) or BComBEd(Sec) or BTeach(ECE) and 80cp at 1000 level minimum"
     },
     "EDST4010": {
         "prereqs": "EDST3010 or EDST301"
@@ -2379,7 +2379,7 @@
         "prereqs": "Admission to MEd or GradCertEdS or MEdLead or MHEd or GradCertHEd or MEChild or GradCertEChild or MTeach(0-5) or GradCertClinEdSim or MIndigenousEd or GradDipIndigenousEd or GradDipChildLit or MChildLit or MDisabilityStud or MTeach(Sec) or MInc&SpecEd"
     },
     "EDST8040": {
-        "prereqs": "80cp from ECHE or EDCN or EDST or SPED units at 8000 level or above"
+        "prereqs": "80cp from ECHE or EDCN or EDST or SPED units at 8000 level minimum"
     },
     "EDST8060": {
         "prereqs": "Permission by special approval"
@@ -2535,10 +2535,10 @@
         "prereqs": "Admission to MTeach (Birth to five)"
     },
     "EDTE2480": {
-        "prereqs": "80cp at 1000 level or above including (EDUC107 or EDUC1070) or ((EDUC105 or EDUC1050) and (EDUC106 or EDUC1060))"
+        "prereqs": "80cp at 1000 level minimum including (EDUC107 or EDUC1070) or ((EDUC105 or EDUC1050) and (EDUC106 or EDUC1060))"
     },
     "EDTE2510": {
-        "prereqs": "(80cp at 1000 level or above) including (EDUC107 or EDUC1070) or ((EDUC105 or EDUC1050) and (EDUC106 or EDUC1060))"
+        "prereqs": "(80cp at 1000 level minimum) including (EDUC107 or EDUC1070) or ((EDUC105 or EDUC1050) and (EDUC106 or EDUC1060))"
     },
     "EDTE2520": {
         "prereqs": "EDTE2510 or EDTE251"
@@ -2547,7 +2547,7 @@
         "prereqs": "(Admission to BEd(Prim) and (EDUC258 or EDUC2580) and (EDUC260 or EDUC2600) and (EDUC267 or EDUC2670)) or (130cp including (EDUC258 or EDUC2580) and (EDUC260 or EDUC2600) and (EDUC267 or EDUC2670) and (EDTE353 or EDTE3530))"
     },
     "EDTE3020": {
-        "prereqs": "Admission to BEd(Sec) or ((130cp at 1000 level or above) including (EDUC105 or EDUC1050) and (EDUC106 or EDUC1060) and (EDUC267 or EDUC2670))"
+        "prereqs": "Admission to BEd(Sec) or ((130cp at 1000 level minimum) including (EDUC105 or EDUC1050) and (EDUC106 or EDUC1060) and (EDUC267 or EDUC2670))"
     },
     "EDTE3530": {
         "prereqs": "(EDUC258 or EDUC2580) and (EDUC260 or EDUC2600) and (EDUC267 or EDUC2670)"
@@ -2556,7 +2556,7 @@
         "prereqs": "EDTE353 or EDTE3530"
     },
     "EDTE3870": {
-        "prereqs": "Admission to BEd(Sec) or ((130cp at 1000 level or above) including (EDUC1050 or EDUC105) and (EDUC106 or EDUC1060) and (EDUC267 or EDUC2670))"
+        "prereqs": "Admission to BEd(Sec) or ((130cp at 1000 level minimum) including (EDUC1050 or EDUC105) and (EDUC106 or EDUC1060) and (EDUC267 or EDUC2670))"
     },
     "EDTE3880": {
         "prereqs": "EDTE3870 or TEP387"
@@ -2580,7 +2580,7 @@
         "prereqs": "130cp and (EDTE3880 or TEP388) or (EDST3140 and EDST3010)"
     },
     "EDTE4210": {
-        "prereqs": "130cp at 1000 level or above including ((EDTE3870 or TEP387) or (EDST3140 and EDST3010))"
+        "prereqs": "130cp at 1000 level minimum including ((EDTE3870 or TEP387) or (EDST3140 and EDST3010))"
     },
     "EDTE4220": {
         "prereqs": "EDTE4210 and (TEP401 or EDTE4010(S) or EDST3010)"
@@ -2628,7 +2628,7 @@
         "prereqs": "(EDTE410 or EDTE4100)"
     },
     "EDTE4420": {
-        "prereqs": "20cp in LING units including 10cp from LING units at 2000 level or above"
+        "prereqs": "20cp in LING units including 10cp from LING units at 2000 level minimum"
     },
     "EDTE4550": {
         "prereqs": "(EDTE354 or EDTE3540) or (admission to BEd(Prim) and (EDTE301 or EDTE3010))"
@@ -2646,40 +2646,40 @@
         "prereqs": "None"
     },
     "EDUC2580": {
-        "prereqs": "40cp at 1000 level or above including ((EDUC1050 or EDUC105) or (EDUC1060 or EDUC106) or (EDUC1070 or EDUC107))"
+        "prereqs": "40cp at 1000 level minimum including ((EDUC1050 or EDUC105) or (EDUC1060 or EDUC106) or (EDUC1070 or EDUC107))"
     },
     "EDUC2600": {
-        "prereqs": "40cp at 1000 level or above including (EDUC1050 or EDUC105 or EDUC1060 or EDUC106) or (admission to BEd(ECE)(0-12) and (EDUC1060 or EDUC106 or ECH126))"
+        "prereqs": "40cp at 1000 level minimum including (EDUC1050 or EDUC105 or EDUC1060 or EDUC106) or (admission to BEd(ECE)(0-12) and (EDUC1060 or EDUC106 or ECH126))"
     },
     "EDUC2610": {
         "prereqs": "80cp or (20cp of EDUC or EDST units)"
     },
     "EDUC2620": {
-        "prereqs": "40cp at 1000 level or above including (EDUC1050 or EDUC105 or EDUC1070 or EDUC107 or EDST1010 or EDST101)"
+        "prereqs": "40cp at 1000 level minimum including (EDUC1050 or EDUC105 or EDUC1070 or EDUC107 or EDST1010 or EDST101)"
     },
     "EDUC2670": {
-        "prereqs": "80cp at 1000 level or above including (EDTE251 or EDTE2510 or EDUC105 or EDUC1050 or EDUC106 or EDUC1060 or EDUC107 or EDUC1070)"
+        "prereqs": "80cp at 1000 level minimum including (EDTE251 or EDTE2510 or EDUC105 or EDUC1050 or EDUC106 or EDUC1060 or EDUC107 or EDUC1070)"
     },
     "EDUC2920": {
-        "prereqs": "80cp at 1000 level or above including EDUC1070 or EDUC107"
+        "prereqs": "80cp at 1000 level minimum including EDUC1070 or EDUC107"
     },
     "EDUC3620": {
-        "prereqs": "130cp at 1000 or above including 20cp of EDUC or EDST units at 2000 level"
+        "prereqs": "130cp at 1000 minimum including 20cp of EDUC or EDST units at 2000 level"
     },
     "EDUC3650": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "EDUC3710": {
-        "prereqs": "130cp at 1000 level or above including (EDUC2600 or EDUC260)"
+        "prereqs": "130cp at 1000 level minimum including (EDUC2600 or EDUC260)"
     },
     "EDUC3730": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "EDUC3830": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "EDUC3880": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "EDUC3990": {
         "prereqs": "None"
@@ -2760,10 +2760,10 @@
         "prereqs": "((ELEC2040 or ELEC240) or (MTRN2060 or ELEC260)) and (MATH2055 or MATH235) and (ELEC2070 or ELEC270)"
     },
     "ELEC3042": {
-        "prereqs": "(130cp at 1000 level or above including ELEC2042 or ELEC242 or ELEC241 or MTRN2060 or ELEC260)"
+        "prereqs": "(130cp at 1000 level minimum including ELEC2042 or ELEC242 or ELEC241 or MTRN2060 or ELEC260)"
     },
     "ELEC3076": {
-        "prereqs": "((ELEC2005 or ELEC2075 or ELEC275) and 130cp at 1000 level or above) or admission to MEngElecEng"
+        "prereqs": "((ELEC2005 or ELEC2075 or ELEC275) and 130cp at 1000 level minimum) or admission to MEngElecEng"
     },
     "ELEC4092": {
         "prereqs": "(ELEC324 or ELEC3024) and ((ELEC342 or ELEC3042) or ((ELCT3005 or ELEC395) and (ELCT3006 or ELEC396))"
@@ -2778,7 +2778,7 @@
         "prereqs": "ELEC3042 or ELEC342 or Admission to MEngElecEng"
     },
     "ELEC8040": {
-        "prereqs": "Admission to MEngElecEng and 30cp at 3000 level or above"
+        "prereqs": "Admission to MEngElecEng and 30cp at 3000 level minimum"
     },
     "ELEC8150": {
         "prereqs": "Admission to MEngElecEng"
@@ -2787,7 +2787,7 @@
         "prereqs": "(ELEC3043 or ELEC343 or ELEC643) or ( ELEC3042 or ELEC342) or Admission to MEngElecEng"
     },
     "ELEC8276": {
-        "prereqs": "Admission to MEngElecEng and 30cp at 3000-level or above"
+        "prereqs": "Admission to MEngElecEng and 30cp at 3000-level minimum"
     },
     "ELEC8844": {
         "prereqs": "Admission to MEngElecEng"
@@ -2796,7 +2796,7 @@
         "prereqs": "Admission to MEngElecEng"
     },
     "ELEC8870": {
-        "prereqs": "Admission to MEngElecEng and 30cp at 3000 level or above"
+        "prereqs": "Admission to MEngElecEng and 30cp at 3000 level minimum"
     },
     "ENGG1000": {
         "prereqs": "None"
@@ -2823,13 +2823,13 @@
         "prereqs": "Permission by special approval"
     },
     "ENGG4099": {
-        "prereqs": "130cp at 1000 level or above including ENGG2000"
+        "prereqs": "130cp at 1000 level minimum including ENGG2000"
     },
     "ENGG4104": {
         "prereqs": "Admission to MEngMgt or ((ENGG3000 or ENGG300) and ENGG3050)"
     },
     "ENGG4201": {
-        "prereqs": "Completion of 200CP at 1000 level or above or Admission in MEngElecEng"
+        "prereqs": "Completion of 200CP at 1000 level minimum or Admission in MEngElecEng"
     },
     "ENGG8000": {
         "prereqs": "Admission to MEngElecEng or MEngEnvSafetyEng or MEngMechEng or MEngNetTeleEng or MEngMgt"
@@ -2841,7 +2841,7 @@
         "prereqs": "ENGG805 or ENGG8090"
     },
     "ENGG8102": {
-        "prereqs": "60cp at 4000 level or above"
+        "prereqs": "60cp at 4000 level minimum"
     },
     "ENGG8103": {
         "prereqs": "Admission to MEngMgt or MEngElecEng or MEngNetTeleEng"
@@ -2877,7 +2877,7 @@
         "prereqs": "None"
     },
     "ENGL2010": {
-        "prereqs": "ENGL1001 or ENGL120 or 40cps at 1000 level or above"
+        "prereqs": "ENGL1001 or ENGL120 or 40cps at 1000 level minimum"
     },
     "ENGL2020": {
         "prereqs": "ENGL1001 or ENGL120"
@@ -2898,22 +2898,22 @@
         "prereqs": "20cp at 2000 level including ENGL2033 or ENGL233"
     },
     "ENGL3010": {
-        "prereqs": "130cps at 1000 level or above"
+        "prereqs": "130cps at 1000 level minimum"
     },
     "ENGL3020": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "ENGL3031": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "ENGL3035": {
         "prereqs": "20cp at 2000 level including ENGL2033 or ENGL233"
     },
     "ENGL3040": {
-        "prereqs": "80cp at 1000 level or above"
+        "prereqs": "80cp at 1000 level minimum"
     },
     "ENGL3051": {
-        "prereqs": "ENGL1001 or ENGL1002 or ENGL120; and 20cp in ENGL units at 2000 level or above"
+        "prereqs": "ENGL1001 or ENGL1002 or ENGL120; and 20cp in ENGL units at 2000 level minimum"
     },
     "ENGL3060": {
         "prereqs": "20cp at 2000 level and ENGL3051 or ENGL3050"
@@ -2991,22 +2991,22 @@
         "prereqs": "20cp at 2000 level including ENGX2033 or ENGX233"
     },
     "ENGX3010": {
-        "prereqs": "130cps at 1000 level or above"
+        "prereqs": "130cps at 1000 level minimum"
     },
     "ENGX3020": {
-        "prereqs": "130 cp at 1000 level or above"
+        "prereqs": "130 cp at 1000 level minimum"
     },
     "ENGX3031": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "ENGX3035": {
         "prereqs": "20 cp at 2000 level including ENGX2033 or ENGX233"
     },
     "ENGX3040": {
-        "prereqs": "80 credit points at 1000 level or above"
+        "prereqs": "80 credit points at 1000 level minimum"
     },
     "ENGX3051": {
-        "prereqs": "ENGX1001 or ENGX1002 or ENGX120; and 20cp in ENGX units at 2000 level or above"
+        "prereqs": "ENGX1001 or ENGX1002 or ENGX120; and 20cp in ENGX units at 2000 level minimum"
     },
     "ENGX8010": {
         "prereqs": "Admission to M CrWriting (OUA)"
@@ -3048,43 +3048,43 @@
         "prereqs": "None"
     },
     "ENVS2115": {
-        "prereqs": "60cp at 1000 level or above"
+        "prereqs": "60cp at 1000 level minimum"
     },
     "ENVS2237": {
-        "prereqs": "60cp at 1000 level or above"
+        "prereqs": "60cp at 1000 level minimum"
     },
     "ENVS2266": {
         "prereqs": "ENVE117 or ENVS117 or ENVS1017 or GEOS117 or GEOS112 or GEOS1110 or EESC1150"
     },
     "ENVS2364": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "ENVS2467": {
         "prereqs": "GEOS114 or ENV118 or ENVS1018 or GEOS118 or ENVS117 or ENVS1017"
     },
     "ENVS3102": {
-        "prereqs": "(130cp at 1000 level or above) including (GEOS216 or ENVE216 or ENVS216 or ENVS2116 or EESC2160)"
+        "prereqs": "(130cp at 1000 level minimum) including (GEOS216 or ENVE216 or ENVS216 or ENVS2116 or EESC2160)"
     },
     "ENVS3238": {
-        "prereqs": "(130cp at 1000 level or above) including (ENVE266 or ENVS266 or ENVS2266 or GEOS266)"
+        "prereqs": "(130cp at 1000 level minimum) including (ENVE266 or ENVS266 or ENVS2266 or GEOS266)"
     },
     "ENVS3240": {
-        "prereqs": "(130cp at 1000 level or above) including (ENVS2115(Cr) or ENVS266 or ENVS2266 or ENVE214(Cr) or ENVE266 or GEOS214(Cr) or GEOS266)"
+        "prereqs": "(130cp at 1000 level minimum) including (ENVS2115>= 65 or ENVS266 or ENVS2266 or ENVE214>= 65 or ENVE266 or GEOS214>= 65 or GEOS266)"
     },
     "ENVS3241": {
-        "prereqs": "(130cp at 1000 level or above) and permission by special approval"
+        "prereqs": "(130cp at 1000 level minimum) and permission by special approval"
     },
     "ENVS3383": {
-        "prereqs": "(130cp at 1000 level or above) including (ENV264 or ENVS264 or ENVS2364 or GEOS264)"
+        "prereqs": "(130cp at 1000 level minimum) including (ENV264 or ENVS264 or ENVS2364 or GEOS264)"
     },
     "ENVS3439": {
-        "prereqs": "130cp at 1000 level or above including ENVE266 or ENVS266 or ENVS2266 or GEOS266 or ENV267 or ENVS2467 or ENVE237 or ENVS2237"
+        "prereqs": "130cp at 1000 level minimum including ENVE266 or ENVS266 or ENVS2266 or GEOS266 or ENV267 or ENVS2467 or ENVE237 or ENVS2237"
     },
     "ENVS3462": {
-        "prereqs": "130cp at 1000 level or above including (ENV267 or ENVS2467 or ENVS214 or ENVS2115)"
+        "prereqs": "130cp at 1000 level minimum including (ENV267 or ENVS2467 or ENVS214 or ENVS2115)"
     },
     "ENVS3463": {
-        "prereqs": "(130cp at 1000 level or above) and (Admission to BEnv or by Special Approval)"
+        "prereqs": "(130cp at 1000 level minimum) and (Admission to BEnv or by Special Approval)"
     },
     "ENVS6115": {
         "prereqs": "Admission to MEnv or GradDipEnv or GradCertEnv or MSusDev or GradDipSusDev or GradCertSusDev or MScInnovationEnvSc or MScInnovationGeologyGeophys or MEngEnvSafetyEng"
@@ -3189,7 +3189,7 @@
         "prereqs": "Admission to MRes"
     },
     "FOHS3050": {
-        "prereqs": "60cp at 2000 level or above"
+        "prereqs": "60cp at 2000 level minimum"
     },
     "FOHS7000": {
         "prereqs": "Admission to MRes"
@@ -3225,7 +3225,7 @@
         "prereqs": "Bachelor of Advanced Science and Permission by Special Approval"
     },
     "FOSE3000": {
-        "prereqs": "Admission to (BSc or BAdvSc) and 80cp at 2000 level or above"
+        "prereqs": "Admission to (BSc or BAdvSc) and 80cp at 2000 level minimum"
     },
     "FOSE3005": {
         "prereqs": "(FOSE2005 or FOSC201) and 50cp at 2000 level"
@@ -3246,7 +3246,7 @@
         "prereqs": "None"
     },
     "FOSX3000": {
-        "prereqs": "Admission to BSc and 80cp at 2000 level or above"
+        "prereqs": "Admission to BSc and 80cp at 2000 level minimum"
     },
     "FREN1000": {
         "prereqs": "None"
@@ -3255,10 +3255,10 @@
         "prereqs": "None"
     },
     "FREN1020": {
-        "prereqs": "(FRN122 or FREN1010) or HSC beginners Band 4 and above or equivalent"
+        "prereqs": "(FRN122 or FREN1010) or HSC beginners Band 4 minimum or equivalent"
     },
     "FREN1210": {
-        "prereqs": "HSC French Continuers Band 4 and above or French Extension band E3 and above"
+        "prereqs": "HSC French Continuers Band 4 minimum or French Extension band E3 minimum"
     },
     "FREN1220": {
         "prereqs": "FREN1210"
@@ -3288,25 +3288,25 @@
         "prereqs": "None"
     },
     "GEND2020": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "GEND2030": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "GEND3010": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "GEND3030": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "GENX1000": {
         "prereqs": "None"
     },
     "GENX2020": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "GENX3010": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "GEOP1010": {
         "prereqs": "None"
@@ -3321,19 +3321,19 @@
         "prereqs": "None"
     },
     "GEOP2010": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "GEOP2040": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "GEOP2050": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "GEOP2060": {
         "prereqs": "(GEOP1010 or GEOP111) and (GEOP2010 or GEOP201)"
     },
     "GEOP2070": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "GEOP2080": {
         "prereqs": "GEOP1040"
@@ -3363,7 +3363,7 @@
         "prereqs": "Admission to BPlan and (GEOP2080 or GEOP212) and (GEOP3080 or GEOP370) and permission by special approval"
     },
     "GEOP4090": {
-        "prereqs": "Admission to BPlan and (130cp at 1000 level or above) including ENVG370 or GEOP370 or GEOP3080"
+        "prereqs": "Admission to BPlan and (130cp at 1000 level minimum) including ENVG370 or GEOP370 or GEOP3080"
     },
     "GEOP6050": {
         "prereqs": "Admission to MEnv or MEnvPlan or MPlan or GradDipEnv or GradCertEnv or MSusDev or GradDipSusDev or GradCertSusDev"
@@ -3405,16 +3405,16 @@
         "prereqs": "Admission to MRes"
     },
     "GEOS2130": {
-        "prereqs": "(GEOS112 or GEOS125 or GEOS126 or GEOS1110 or GEOS1120 or GEOS1130) and (60cp at 1000 level or above)"
+        "prereqs": "(GEOS112 or GEOS125 or GEOS126 or GEOS1110 or GEOS1120 or GEOS1130) and (60cp at 1000 level minimum)"
     },
     "GEOS2311": {
         "prereqs": "10cp from GEOS units at 1000 level"
     },
     "GEOS3130": {
-        "prereqs": "(GEOS206 or GEOS2130) and 120cp at 1000 level or above"
+        "prereqs": "(GEOS206 or GEOS2130) and 120cp at 1000 level minimum"
     },
     "GEOS3136": {
-        "prereqs": "120cp at 1000 level or above"
+        "prereqs": "120cp at 1000 level minimum"
     },
     "GEOS3315": {
         "prereqs": "10cp in GEOS units at 2000 level and 10cp in GEOS or MATH or PHYS units at 2000 level"
@@ -3552,13 +3552,13 @@
         "prereqs": "GMN104 or GRMN1010"
     },
     "GRMN1210": {
-        "prereqs": "HSC German Extension band E3 and above or Continuers band 4 and above"
+        "prereqs": "HSC German Extension band E3 minimum or Continuers band 4 minimum"
     },
     "GRMN1220": {
         "prereqs": "GRMN1210 or GMN287"
     },
     "GRMN2010": {
-        "prereqs": "GRMN1020 or HSC German Extension band E3 and above or Continuers band 4 and above"
+        "prereqs": "GRMN1020 or HSC German Extension band E3 minimum or Continuers band 4 minimum"
     },
     "GRMN2020": {
         "prereqs": "GRMN2010"
@@ -3576,7 +3576,7 @@
         "prereqs": "GRMN3010 or GMN310"
     },
     "HLTH2000": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "HLTH2110": {
         "prereqs": "Admission to BChiroSc and CHIR1101 or CHIR113 or ANAT1001 or HLTH108 or BIOL1210 or BIOL108"
@@ -3585,22 +3585,22 @@
         "prereqs": "20cp from ANAT1001 or HLTH108 or BIOL1110 or BIOL115 or BIOL1210 or BIOL108"
     },
     "HLTH3050": {
-        "prereqs": "(120cp at 1000 level or above including HLTH2000 or HLTH200) or (130cp and admission to BHumanSc or BPsychBHumanSc or BPsych(Hons)BHumanSc) or (30cp in EDUC or ECHE units at 3000 level) or (130cp including 80cp of PSYU units and admission to BSc) and permission by special approval."
+        "prereqs": "(120cp at 1000 level minimum including HLTH2000 or HLTH200) or (130cp and admission to BHumanSc or BPsychBHumanSc or BPsych(Hons)BHumanSc) or (30cp in EDUC or ECHE units at 3000 level) or (130cp including 80cp of PSYU units and admission to BSc) and permission by special approval."
     },
     "HLTH3100": {
-        "prereqs": "130cp at 1000 level or above including HLTH200 or HLTH2000) or 130cp and admission to BHumanSc"
+        "prereqs": "130cp at 1000 level minimum including HLTH200 or HLTH2000) or 130cp and admission to BHumanSc"
     },
     "HLTH3140": {
-        "prereqs": "130cp at 1000 level or above including 40cp at 2000 level"
+        "prereqs": "130cp at 1000 level minimum including 40cp at 2000 level"
     },
     "HLTH3302": {
-        "prereqs": "130cp at 1000 level or above including HLTH2301 or HLTH215"
+        "prereqs": "130cp at 1000 level minimum including HLTH2301 or HLTH215"
     },
     "HLTH3303": {
-        "prereqs": "130cp at 1000 level or above including HLTH2301 or HLTH215"
+        "prereqs": "130cp at 1000 level minimum including HLTH2301 or HLTH215"
     },
     "HLTH3500": {
-        "prereqs": "(130cp at 1000 level or above including HLTH200 or HLTH2000) or (130cp and admission to BHumanSc)"
+        "prereqs": "(130cp at 1000 level minimum including HLTH200 or HLTH2000) or (130cp and admission to BHumanSc)"
     },
     "HLTH7900": {
         "prereqs": "Admission to MRes"
@@ -3705,7 +3705,7 @@
         "prereqs": "Permission by special approval"
     },
     "INTS2020": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "INTS2090": {
         "prereqs": "40cp and permission by special approval"
@@ -3759,7 +3759,7 @@
         "prereqs": "ITL102 or ITAL1010"
     },
     "ITAL1210": {
-        "prereqs": "HSC Italian Continuers band 4 and above or Italian Extension band E3 and above"
+        "prereqs": "HSC Italian Continuers band 4 minimum or Italian Extension band E3 minimum"
     },
     "ITAL1220": {
         "prereqs": "ITAL1210"
@@ -3786,7 +3786,7 @@
         "prereqs": "None"
     },
     "JPNS1020": {
-        "prereqs": "JPS101 or JPNS1010, or HSC Japanese Beginners Band 4 and above"
+        "prereqs": "JPS101 or JPNS1010, or HSC Japanese Beginners Band 4 minimum"
     },
     "JPNS1210": {
         "prereqs": "HSC Japanese Continuers or HSC Japanese Extension"
@@ -3801,7 +3801,7 @@
         "prereqs": "JPNS2010 or JPS201"
     },
     "JPNS2022": {
-        "prereqs": "80cp at 1000 level or above"
+        "prereqs": "80cp at 1000 level minimum"
     },
     "JPNS2210": {
         "prereqs": "JPNS1220"
@@ -3813,16 +3813,16 @@
         "prereqs": "JPNS2020 or JPS202"
     },
     "JPNS3015": {
-        "prereqs": "50cp at 2000 level or above"
+        "prereqs": "50cp at 2000 level minimum"
     },
     "JPNS3020": {
         "prereqs": "JPNS3010 or JPS301"
     },
     "JPNS3021": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "JPNS3050": {
-        "prereqs": "50cp at 2000 level or above"
+        "prereqs": "50cp at 2000 level minimum"
     },
     "JPNX1010": {
         "prereqs": "None"
@@ -3852,7 +3852,7 @@
         "prereqs": "60cp including LAWS1010 or LEX101 or LEX102 or PICT101 or PICT103 or PICT1030 or LAW109 or LAWS1300"
     },
     "LAWS2060": {
-        "prereqs": "60cp at 1000 level or above including LAWS1010 or LEX101 or LEX102 or LAWS1000 or LAW115"
+        "prereqs": "60cp at 1000 level minimum including LAWS1010 or LEX101 or LEX102 or LAWS1000 or LAW115"
     },
     "LAWS2100": {
         "prereqs": "60cp including LAWS1000 or LAW115"
@@ -3993,7 +3993,7 @@
         "prereqs": "130cp in LAWS units and permission by special approval"
     },
     "LAWS5920": {
-        "prereqs": "100cp in LAWS units at 1000 level or above and a LAWS WAM of 75 or above"
+        "prereqs": "100cp in LAWS units at 1000 level minimum and a LAWS WAM of 75 minimum"
     },
     "LAWS5930": {
         "prereqs": "LAWS5920"
@@ -4002,7 +4002,7 @@
         "prereqs": "LAWS5910"
     },
     "LAWS8000": {
-        "prereqs": "Admission to JD and 80cp in LAWS or LAW units at 6000 level or above and Permission by Special Approval"
+        "prereqs": "Admission to JD and 80cp in LAWS or LAW units at 6000 level minimum and Permission by Special Approval"
     },
     "LAWS8001": {
         "prereqs": "Admission to GradCertLaw or JD"
@@ -4038,55 +4038,55 @@
         "prereqs": "Admission to LLM or MIntTrdeComLaw or MIntLawGovPP) or (Admission to JD or GradCertLaw and corequisite Laws600 or LAWS8001)"
     },
     "LAWS8019": {
-        "prereqs": "Admission to JD and 160cp in LAW or LAWS units at 6000 level or above"
+        "prereqs": "Admission to JD and 160cp in LAW or LAWS units at 6000 level minimum"
     },
     "LAWS8020": {
-        "prereqs": "(Admission to JD and 80cp in LAW or LAWS units at 6000 level or above or (admission to LLM or MInTrdeComLaw))"
+        "prereqs": "(Admission to JD and 80cp in LAW or LAWS units at 6000 level minimum or (admission to LLM or MInTrdeComLaw))"
     },
     "LAWS8021": {
         "prereqs": "(Admission to JD and 80cp in LAWS units) or (admission to LLM)"
     },
     "LAWS8022": {
-        "prereqs": "(Admission to JD and 80cp in LAW or LAWS units at 6000 level or above) or (admission to LLM)"
+        "prereqs": "(Admission to JD and 80cp in LAW or LAWS units at 6000 level minimum) or (admission to LLM)"
     },
     "LAWS8023": {
-        "prereqs": "(Admission to JD and 80cp in LAWS or LAW units at 6000 level or above including LAWS803 or LAWS8030) or (admission to LLM or MInTrdeComLaw)"
+        "prereqs": "(Admission to JD and 80cp in LAWS or LAW units at 6000 level minimum including LAWS803 or LAWS8030) or (admission to LLM or MInTrdeComLaw)"
     },
     "LAWS8024": {
-        "prereqs": "(Admission to JD and 80cp in LAW or LAWS units at 6000 level or above) or (admission to LLM or MIntTrdeComLaw or LLB(Hons))"
+        "prereqs": "(Admission to JD and 80cp in LAW or LAWS units at 6000 level minimum) or (admission to LLM or MIntTrdeComLaw or LLB(Hons))"
     },
     "LAWS8025": {
-        "prereqs": "(Admission to JD and 80cp in LAW or LAWS units at 6000 level or above)"
+        "prereqs": "(Admission to JD and 80cp in LAW or LAWS units at 6000 level minimum)"
     },
     "LAWS8026": {
-        "prereqs": "(Admission to JD and 80cp in LAWS or LAW units at 6000 level or above) or (admission to LLM)"
+        "prereqs": "(Admission to JD and 80cp in LAWS or LAW units at 6000 level minimum) or (admission to LLM)"
     },
     "LAWS8027": {
         "prereqs": "(LAWS803 or LAWS8030) and (LAWS806 or LAWS8006)"
     },
     "LAWS8029": {
-        "prereqs": "(Admission to JD and 80cp of LAWS or LAW units at 6000 level or above) or (admission to LLM)"
+        "prereqs": "(Admission to JD and 80cp of LAWS or LAW units at 6000 level minimum) or (admission to LLM)"
     },
     "LAWS8030": {
         "prereqs": "Admission to GradCertLaw or GradDipLaw or Admission to JD"
     },
     "LAWS8036": {
-        "prereqs": "(Admission to JD and 80cp in LAWS or LAW units at 6000 level or above) or (admission to LLM or MITCL)"
+        "prereqs": "(Admission to JD and 80cp in LAWS or LAW units at 6000 level minimum) or (admission to LLM or MITCL)"
     },
     "LAWS8037": {
-        "prereqs": "Admission to JD and 80cp in LAWS or LAW units at 6000 level or above or (admission to LLM)"
+        "prereqs": "Admission to JD and 80cp in LAWS or LAW units at 6000 level minimum or (admission to LLM)"
     },
     "LAWS8040": {
         "prereqs": "(LAWS803 or LAWS8030)"
     },
     "LAWS8050": {
-        "prereqs": "Admission to LLM or MIntTrdeComLaw or (admission to JD and 80cp in LAW or LAWS units at 6000 level or above)"
+        "prereqs": "Admission to LLM or MIntTrdeComLaw or (admission to JD and 80cp in LAW or LAWS units at 6000 level minimum)"
     },
     "LAWS8051": {
-        "prereqs": "(Admission to JD and 80cp in LAWS or LAW units at 6000 level or above) or (admission to LLM)"
+        "prereqs": "(Admission to JD and 80cp in LAWS or LAW units at 6000 level minimum) or (admission to LLM)"
     },
     "LAWS8052": {
-        "prereqs": "(Admission to JD and 80cp in LAWS or LAW units at 6000 level or above) or (admission to LLM or MIntTrdeComLaw)"
+        "prereqs": "(Admission to JD and 80cp in LAWS or LAW units at 6000 level minimum) or (admission to LLM or MIntTrdeComLaw)"
     },
     "LAWS8055": {
         "prereqs": "(Admission to JD and 80cp in LAWS or LAW units above 6000 level) or (admission to LLM or MSusDev or M Env)"
@@ -4095,13 +4095,13 @@
         "prereqs": "Admission to JD or LLM or MIntTrdeComLaw or MSusDev"
     },
     "LAWS8061": {
-        "prereqs": "(Admission to JD and 80cp in LAW or LAWS units at 6000 level or above) or (admission to LLM or GradCertEnvPlan or MPlan)"
+        "prereqs": "(Admission to JD and 80cp in LAW or LAWS units at 6000 level minimum) or (admission to LLM or GradCertEnvPlan or MPlan)"
     },
     "LAWS8066": {
-        "prereqs": "(Admission to JD and 80cp in LAW or LAWS unit at 6000 level or above) or (admission to LLM)"
+        "prereqs": "(Admission to JD and 80cp in LAW or LAWS unit at 6000 level minimum) or (admission to LLM)"
     },
     "LAWS8068": {
-        "prereqs": "Admission to LLM or MIntTrdeComLaw or (admission to JD and 80cp at 6000 level or above)"
+        "prereqs": "Admission to LLM or MIntTrdeComLaw or (admission to JD and 80cp at 6000 level minimum)"
     },
     "LAWS8070": {
         "prereqs": "(LAWS803 or LAWS8030) and (LAWS805 or LAWS8005)"
@@ -4110,25 +4110,25 @@
         "prereqs": "LAWS807 or LAWS8070"
     },
     "LAWS8087": {
-        "prereqs": "(Admission to JD and 80cp in LAWS or LAW units at 6000 level or above) or (Admission to LLM)"
+        "prereqs": "(Admission to JD and 80cp in LAWS or LAW units at 6000 level minimum) or (Admission to LLM)"
     },
     "LAWS8089": {
-        "prereqs": "(Admission to JD and 80cp in LAW or LAWS units at 6000 level or above) or (admission to LLM or MIntTrdeComLaw)"
+        "prereqs": "(Admission to JD and 80cp in LAW or LAWS units at 6000 level minimum) or (admission to LLM or MIntTrdeComLaw)"
     },
     "LAWS8092": {
-        "prereqs": "(Admission to JD and 80cp in LAWS or LAW units at 6000 level or above) or (admission to LLM) or (admission to MIntTrdeComLaw)"
+        "prereqs": "(Admission to JD and 80cp in LAWS or LAW units at 6000 level minimum) or (admission to LLM) or (admission to MIntTrdeComLaw)"
     },
     "LAWS8094": {
-        "prereqs": "(Admission to JD and 80cp in LAWS or LAW units at 6000 level or above) or (admission to LLM)"
+        "prereqs": "(Admission to JD and 80cp in LAWS or LAW units at 6000 level minimum) or (admission to LLM)"
     },
     "LAWS8097": {
-        "prereqs": "(Admission to JD and 80cp in LAW or LAWS units at 6000 level or above) or (admission to LLM)"
+        "prereqs": "(Admission to JD and 80cp in LAW or LAWS units at 6000 level minimum) or (admission to LLM)"
     },
     "LAWS8098": {
-        "prereqs": "Admission to LLM or MIntTrdeComLaw or (admission to JD and 80cp in LAW or LAWS units at 6000 level or above)"
+        "prereqs": "Admission to LLM or MIntTrdeComLaw or (admission to JD and 80cp in LAW or LAWS units at 6000 level minimum)"
     },
     "LAWS8099": {
-        "prereqs": "120cp in LAW or LAWS units at 6000 level or above and permission by special approval"
+        "prereqs": "120cp in LAW or LAWS units at 6000 level minimum and permission by special approval"
     },
     "LAWS8990": {
         "prereqs": "Admission to MRes"
@@ -4146,7 +4146,7 @@
         "prereqs": "None"
     },
     "LING2213": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "LING2214": {
         "prereqs": "LING110 or LING111 or LING1111 or PSY104 or PSYC104 or PSYU1104 or PSYX104 or PSYX1104 or PSYU1101 or PSY105 or PSYC105 or PSYU1105 or PSYX105 or PSYX1105 or PSYU1102"
@@ -4158,40 +4158,40 @@
         "prereqs": "10cp from LING units at 1000 level"
     },
     "LING2219": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "LING2220": {
         "prereqs": "LING110 or LING111 or LING1111"
     },
     "LING2293": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "LING3300": {
         "prereqs": "40cp from LING2210 - LING2230"
     },
     "LING3381": {
-        "prereqs": "40cps at 2000 level or above"
+        "prereqs": "40cps at 2000 level minimum"
     },
     "LING3383": {
-        "prereqs": "50cp at 2000 level or above including 10cp of LING units at 2000 level"
+        "prereqs": "50cp at 2000 level minimum including 10cp of LING units at 2000 level"
     },
     "LING3384": {
-        "prereqs": "20cp in LING units at 2000 level or above including (LING220 or LING2220)"
+        "prereqs": "20cp in LING units at 2000 level minimum including (LING220 or LING2220)"
     },
     "LING3385": {
-        "prereqs": "50cp at 2000 level or above including 10cp from LING units at 2000 level"
+        "prereqs": "50cp at 2000 level minimum including 10cp from LING units at 2000 level"
     },
     "LING3386": {
-        "prereqs": "50cp at 2000 level or above including 10cp of LING units at 2000 level"
+        "prereqs": "50cp at 2000 level minimum including 10cp of LING units at 2000 level"
     },
     "LING3388": {
-        "prereqs": "(Admission to Bachelor of Linguistics and Language Sciences OR admission to Bachelor of Speech and Hearing Sciences) AND 50cp at 2000 level or above"
+        "prereqs": "(Admission to Bachelor of Linguistics and Language Sciences OR admission to Bachelor of Speech and Hearing Sciences) AND 50cp at 2000 level minimum"
     },
     "LING3390": {
-        "prereqs": "50cp at 2000 level or above including (LING2217 or LING217)"
+        "prereqs": "50cp at 2000 level minimum including (LING2217 or LING217)"
     },
     "LING3391": {
-        "prereqs": "50cp at 2000 level or above including 10cp of LING units at 2000 level"
+        "prereqs": "50cp at 2000 level minimum including 10cp of LING units at 2000 level"
     },
     "LING7385": {
         "prereqs": "Admission to MRes"
@@ -4269,16 +4269,16 @@
         "prereqs": "None"
     },
     "MATH1010": {
-        "prereqs": "(HSC Advanced Mathematics Band 4 and above or Extension 1 Band E2 and above or Extension 2) or MATH130 or MATH1000 or WFMA003 or WFMA0003 or WMAT123 or WMAT1000"
+        "prereqs": "(HSC Advanced Mathematics Band 4 minimum or Extension 1 Band E2 minimum or Extension 2) or MATH130 or MATH1000 or WFMA003 or WFMA0003 or WMAT123 or WMAT1000"
     },
     "MATH1015": {
-        "prereqs": "(HSC Mathematics Extension 1 Band E3 and above or HSC Mathematics Extension 2) or admission to BMathSci or BAdvSc in Advanced Mathematics or BActStud or BActStudBSc or BAppFinBActStud or BActStudBProfPrac or BActStudProfPrac(Hons)"
+        "prereqs": "(HSC Mathematics Extension 1 Band E3 minimum or HSC Mathematics Extension 2) or admission to BMathSci or BAdvSc in Advanced Mathematics or BActStud or BActStudBSc or BAppFinBActStud or BActStudBProfPrac or BActStudProfPrac(Hons)"
     },
     "MATH1020": {
         "prereqs": "MATH1010 or MATH1015 or MATH132 or MATH135"
     },
     "MATH1025": {
-        "prereqs": "MATH1010(HD) or MATH1015 or MATH135(HD) or MATH132"
+        "prereqs": "MATH1010>= 85 or MATH1015 or MATH135>= 85 or MATH132"
     },
     "MATH2010": {
         "prereqs": "MATH1020 or MATH1025 or MATH133 or MATH136 or WMAT1020 or WMAT136"
@@ -4365,10 +4365,10 @@
         "prereqs": "MECH1001 or ENGG150 or ENGG1050"
     },
     "MECH3001": {
-        "prereqs": "(MECH2002 or MECH202 and (20cp at 2000 level or above)) or Admission to MEngMechEng"
+        "prereqs": "(MECH2002 or MECH202 and (20cp at 2000 level minimum)) or Admission to MEngMechEng"
     },
     "MECH3002": {
-        "prereqs": "(MECH2002 or MECH202 and (20cp at 2000 level or above)) or admission to MEngMechEng"
+        "prereqs": "(MECH2002 or MECH202 and (20cp at 2000 level minimum)) or admission to MEngMechEng"
     },
     "MECH3003": {
         "prereqs": "((MECH2001 or MECH201) and (MECH2003 or MECH203) and (MECH2004 or MECH204)) or admission to MEngMechEng"
@@ -4395,16 +4395,16 @@
         "prereqs": "Admission to BClinSc"
     },
     "MEDI2004": {
-        "prereqs": "30cp at 1000 level or above including (BMOL1001 or CBMS104 or CBMS107 or CHEM1001)"
+        "prereqs": "30cp at 1000 level minimum including (BMOL1001 or CBMS104 or CBMS107 or CHEM1001)"
     },
     "MEDI2005": {
-        "prereqs": "(50cp at 1000 level or above) and admission to BClinSc"
+        "prereqs": "(50cp at 1000 level minimum) and admission to BClinSc"
     },
     "MEDI2100": {
-        "prereqs": "30cp at 1000 level or above including ANAT1001 or HLTH108"
+        "prereqs": "30cp at 1000 level minimum including ANAT1001 or HLTH108"
     },
     "MEDI2101": {
-        "prereqs": "(30cp at 1000 level or above including ANAT1001 or HLTH108) and admission to BClinSc"
+        "prereqs": "(30cp at 1000 level minimum including ANAT1001 or HLTH108) and admission to BClinSc"
     },
     "MEDI2102": {
         "prereqs": "Admission to BClinSc and (HLTH108 or ANAT1001) and (MEDI209 or MEDI219 or MEDI2200)"
@@ -4419,7 +4419,7 @@
         "prereqs": "STAT170 or STAT1170"
     },
     "MEDI2300": {
-        "prereqs": "40cp at 1000 level or above including HLTH108 or ANAT1001"
+        "prereqs": "40cp at 1000 level minimum including HLTH108 or ANAT1001"
     },
     "MEDI2301": {
         "prereqs": "COGS100 or COGS1000 or HLTH108 or ANAT1001 or BIOL115 or BIOL1110"
@@ -4431,13 +4431,13 @@
         "prereqs": "(CMBS104 or BMOL1001) and (PHYS149 or PHYS1210)"
     },
     "MEDI2900": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "MEDI3100": {
         "prereqs": "130cp including (HLTH108 or ANAT1001) and 20cp from (MEDI204 or MEDI2300 or MEDI203 or MEDI2100 or HLTH213 or ANAT2003 or BIOL247 or BIOL2220)"
     },
     "MEDI3200": {
-        "prereqs": "140cp at 1000 level or above including [(CBMS104 or BMOL1001) and (MEDI219 or MEDI2200)] or [(CBMS107 or CHEM1001) and (BIOL206 or BIOL2110) and (CBMS202 or BMOL2401) and (MEDI2201)]"
+        "prereqs": "140cp at 1000 level minimum including [(CBMS104 or BMOL1001) and (MEDI219 or MEDI2200)] or [(CBMS107 or CHEM1001) and (BIOL206 or BIOL2110) and (CBMS202 or BMOL2401) and (MEDI2201)]"
     },
     "MEDI3300": {
         "prereqs": "(MEDI204 or MEDI2300) or (BIOL257 or BIOL2230) or (COGS2000 or COGS202)"
@@ -4449,10 +4449,10 @@
         "prereqs": "Admission to BClinSc and (MEDI206 or MEDI2400)"
     },
     "MEDI3401": {
-        "prereqs": "140cp at 1000 level or above including ((MEDI103 or MEDI1400) and (MEDI206 or MEDI2400))"
+        "prereqs": "140cp at 1000 level minimum including ((MEDI103 or MEDI1400) and (MEDI206 or MEDI2400))"
     },
     "MEDI3900": {
-        "prereqs": "(130cp at 1000 level or above) and permission by special approval"
+        "prereqs": "(130cp at 1000 level minimum) and permission by special approval"
     },
     "MEDI3901": {
         "prereqs": "(MEDI307 or MEDI3900) and permission by special approval"
@@ -4566,31 +4566,31 @@
         "prereqs": "None"
     },
     "MGMT1020": {
-        "prereqs": "30cp at 1000 level or above"
+        "prereqs": "30cp at 1000 level minimum"
     },
     "MGMT2002": {
-        "prereqs": "70cp at 1000 level or above including BUS201 or MGMT1005"
+        "prereqs": "70cp at 1000 level minimum including BUS201 or MGMT1005"
     },
     "MGMT2010": {
         "prereqs": "MGMT1002 or BBA102"
     },
     "MGMT2016": {
-        "prereqs": "70cp at 1000 level or above"
+        "prereqs": "70cp at 1000 level minimum"
     },
     "MGMT2018": {
         "prereqs": "MGMT1002 or BBA102"
     },
     "MGMT2022": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "MGMT2025": {
         "prereqs": "MGMT1020 or BBA220"
     },
     "MGMT2030": {
-        "prereqs": "50cp at 1000 level or above"
+        "prereqs": "50cp at 1000 level minimum"
     },
     "MGMT2031": {
-        "prereqs": "50cp at 1000 level or above"
+        "prereqs": "50cp at 1000 level minimum"
     },
     "MGMT2040": {
         "prereqs": "HRM107 or MGMT1007"
@@ -4599,31 +4599,31 @@
         "prereqs": "HRM107 or MGMT1007"
     },
     "MGMT2080": {
-        "prereqs": "70cp at 1000 level or above including BBA102 or MGMT1002"
+        "prereqs": "70cp at 1000 level minimum including BBA102 or MGMT1002"
     },
     "MGMT2901": {
-        "prereqs": "Admission to BBusLeadCom and 50cp at 1000 level or above including BBA102 or MGMT1002"
+        "prereqs": "Admission to BBusLeadCom and 50cp at 1000 level minimum including BBA102 or MGMT1002"
     },
     "MGMT2902": {
         "prereqs": "MGMT201 or MGMT2901"
     },
     "MGMT3000": {
-        "prereqs": "130cp at 1000 level or above including (20cp in BBA or BUS or HRM or MGMT or MKTG units at 2000 level or above)"
+        "prereqs": "130cp at 1000 level minimum including (20cp in BBA or BUS or HRM or MGMT or MKTG units at 2000 level minimum)"
     },
     "MGMT3001": {
-        "prereqs": "20cp at 2000 level or above including BUS202 or MGMT2002"
+        "prereqs": "20cp at 2000 level minimum including BUS202 or MGMT2002"
     },
     "MGMT3002": {
         "prereqs": "(HRM201 or MGMT2040) and (HRM250 or MGMT2050)"
     },
     "MGMT3003": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "MGMT3007": {
         "prereqs": "(HRM201 or MGMT2040) and (HRM250 or MGMT2050)"
     },
     "MGMT3011": {
-        "prereqs": "140cp at 1000 level or above including (BBA350 or MGMT305 or MGMT3050 or MGMT3905)"
+        "prereqs": "140cp at 1000 level minimum including (BBA350 or MGMT305 or MGMT3050 or MGMT3905)"
     },
     "MGMT3015": {
         "prereqs": "(HRM201 or MGMT2040) and (HRM250 or MGMT2050)"
@@ -4632,34 +4632,34 @@
         "prereqs": "((HRM201 or MGMT2040) and (HRM250 or MGMT2050)) or ((BBA310 or MGMT2010) and MGMT2018)"
     },
     "MGMT3028": {
-        "prereqs": "130cp at 1000 level or above including (HRM201 or MGMT2040) and (HRM250 or MGMT2050)"
+        "prereqs": "130cp at 1000 level minimum including (HRM201 or MGMT2040) and (HRM250 or MGMT2050)"
     },
     "MGMT3050": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "MGMT3051": {
-        "prereqs": "150cp at 1000 level or above including (HRM317 or MGMT3017)"
+        "prereqs": "150cp at 1000 level minimum including (HRM317 or MGMT3017)"
     },
     "MGMT3060": {
-        "prereqs": "(Admission to BBA or BBABA or BBABA-Psych or BBABCom-ProfAccg or BBABPsych(Hons) or BBALLB) and 140cp at 1000 level or above including ((BUS201 or MGMT1005) and (BBA350 or MGMT3050) and (10cp in LAWS units at 2000 level or BUSL250 or BUSL251 or ACCG2051))"
+        "prereqs": "(Admission to BBA or BBABA or BBABA-Psych or BBABCom-ProfAccg or BBABPsych(Hons) or BBALLB) and 140cp at 1000 level minimum including ((BUS201 or MGMT1005) and (BBA350 or MGMT3050) and (10cp in LAWS units at 2000 level or BUSL250 or BUSL251 or ACCG2051))"
     },
     "MGMT3901": {
         "prereqs": "Admission to BBusLeadCom and (MGMT303 or MGMT3903) and (MGMT306 or MGMT3906)"
     },
     "MGMT3902": {
-        "prereqs": "Admission to BBusLeadCom and 140cp at 1000 level or above including MGMT2902 or MGMT202"
+        "prereqs": "Admission to BBusLeadCom and 140cp at 1000 level minimum including MGMT2902 or MGMT202"
     },
     "MGMT3903": {
-        "prereqs": "Admission to BBusLeadCom and 150cp at 1000 level or above including MGMT304 or MGMT3904"
+        "prereqs": "Admission to BBusLeadCom and 150cp at 1000 level minimum including MGMT304 or MGMT3904"
     },
     "MGMT3904": {
-        "prereqs": "130cp at 1000 level or above including MGMT1020 or MGMT2080 or MGMT2901 or BBA220 or BBA280 or MGMT201"
+        "prereqs": "130cp at 1000 level minimum including MGMT1020 or MGMT2080 or MGMT2901 or BBA220 or BBA280 or MGMT201"
     },
     "MGMT3905": {
-        "prereqs": "Admission to BBusLeadCom and 140cp at 1000 level or above including MGMT2902 or MGMT202"
+        "prereqs": "Admission to BBusLeadCom and 140cp at 1000 level minimum including MGMT2902 or MGMT202"
     },
     "MGMT3906": {
-        "prereqs": "Admission to BBusLeadCom and 150cp at 1000 level or above including MGMT304 or MGMT3904"
+        "prereqs": "Admission to BBusLeadCom and 150cp at 1000 level minimum including MGMT304 or MGMT3904"
     },
     "MGMT6008": {
         "prereqs": "Admission to MEngMgt or MEngEnvSafetyEng"
@@ -4704,7 +4704,7 @@
         "prereqs": "BUS651 or MGMT6051 or MKTG696 or MKTG6096"
     },
     "MGMT8027": {
-        "prereqs": "(BUS651 or MGMT6051 or ECON649 or ECON6049 or MKTG696 or MKTG6096) or (admission to MMgmt or GradDipBusPsy or MSc or MScInnovationBioConsMgmt or MScInnovationChemBiomolecularSc or MScInnovationEnvSc or MScInnovationGeologyGeophys or MScInnovationIT or MScInnovationStat or MEng or MEngElecEng or MEngEnvSafetyEng or MEngMechEng or MEngNetTeleEng or MBiotech and 10cp at 6000 level or above)"
+        "prereqs": "(BUS651 or MGMT6051 or ECON649 or ECON6049 or MKTG696 or MKTG6096) or (admission to MMgmt or GradDipBusPsy or MSc or MScInnovationBioConsMgmt or MScInnovationChemBiomolecularSc or MScInnovationEnvSc or MScInnovationGeologyGeophys or MScInnovationIT or MScInnovationStat or MEng or MEngElecEng or MEngEnvSafetyEng or MEngMechEng or MEngNetTeleEng or MBiotech and 10cp at 6000 level minimum)"
     },
     "MGMT8028": {
         "prereqs": "(80cp including MGNT604 or BUSA6004 or MGNT605) or admission to MEngMgt"
@@ -4743,7 +4743,7 @@
         "prereqs": "MGK101 or MGRK1010"
     },
     "MGRK1210": {
-        "prereqs": "HSC Greek Continuers band 4 and above or Greek Extension band E3 and above"
+        "prereqs": "HSC Greek Continuers band 4 minimum or Greek Extension band E3 minimum"
     },
     "MGRK1220": {
         "prereqs": "MGRK1210"
@@ -4773,46 +4773,46 @@
         "prereqs": "None"
     },
     "MHIS2000": {
-        "prereqs": "40cp at 1000 level or above OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
+        "prereqs": "40cp at 1000 level minimum OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
     },
     "MHIS2001": {
-        "prereqs": "40cp at 1000 level or above OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
+        "prereqs": "40cp at 1000 level minimum OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
     },
     "MHIS2003": {
-        "prereqs": "40cp at 1000 level or above OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
+        "prereqs": "40cp at 1000 level minimum OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
     },
     "MHIS2004": {
-        "prereqs": "40cp at 1000 level or above OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
+        "prereqs": "40cp at 1000 level minimum OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
     },
     "MHIS2007": {
-        "prereqs": "40cp at 1000 level or above OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
+        "prereqs": "40cp at 1000 level minimum OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
     },
     "MHIS2011": {
-        "prereqs": "40cp at 1000 level or above OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
+        "prereqs": "40cp at 1000 level minimum OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
     },
     "MHIS2020": {
-        "prereqs": "40cp at 1000 level or above OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
+        "prereqs": "40cp at 1000 level minimum OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
     },
     "MHIS2050": {
-        "prereqs": "40cp at 1000 level or above OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
+        "prereqs": "40cp at 1000 level minimum OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
     },
     "MHIS3000": {
-        "prereqs": "130cp at 1000 level or above OR (20cp in HIST or MHIS or POL or POIR or MHIX or POIX units at 2000 level)"
+        "prereqs": "130cp at 1000 level minimum OR (20cp in HIST or MHIS or POL or POIR or MHIX or POIX units at 2000 level)"
     },
     "MHIS3022": {
-        "prereqs": "130cp at 1000 level or above OR (20cp in HIST or MHIS or POL or POIR or MHIX or POIX units at 2000 level)"
+        "prereqs": "130cp at 1000 level minimum OR (20cp in HIST or MHIS or POL or POIR or MHIX or POIX units at 2000 level)"
     },
     "MHIS3027": {
-        "prereqs": "130cp at 1000 level or above OR (20cp in HIST or MHIS or POL or POIR or MHIX or POIX units at 2000 level)"
+        "prereqs": "130cp at 1000 level minimum OR (20cp in HIST or MHIS or POL or POIR or MHIX or POIX units at 2000 level)"
     },
     "MHIS3030": {
-        "prereqs": "130cp at 1000 level or above OR (20cp in HIST or MHIS or POL or POIR or MHIX or POIX units at 2000 level)"
+        "prereqs": "130cp at 1000 level minimum OR (20cp in HIST or MHIS or POL or POIR or MHIX or POIX units at 2000 level)"
     },
     "MHIS3040": {
-        "prereqs": "130cp at 1000 level or above OR (20cp in HIST or MHIS or POL or POIR or MHIX or POIX units at 2000 level)"
+        "prereqs": "130cp at 1000 level minimum OR (20cp in HIST or MHIS or POL or POIR or MHIX or POIX units at 2000 level)"
     },
     "MHIS3065": {
-        "prereqs": "130cp at 1000 level or above OR (20cp in HIST or MHIS or POL or POIR or MHIX or POIX units at 2000 level)"
+        "prereqs": "130cp at 1000 level minimum OR (20cp in HIST or MHIS or POL or POIR or MHIX or POIX units at 2000 level)"
     },
     "MHIS7000": {
         "prereqs": "Admission to MRes"
@@ -4827,31 +4827,31 @@
         "prereqs": "None"
     },
     "MHIX2000": {
-        "prereqs": "40cp at 1000 level or above OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
+        "prereqs": "40cp at 1000 level minimum OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
     },
     "MHIX2007": {
-        "prereqs": "40cp at 1000 level or above OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
+        "prereqs": "40cp at 1000 level minimum OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
     },
     "MHIX2011": {
-        "prereqs": "40cp at 1000 level or above OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
+        "prereqs": "40cp at 1000 level minimum OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
     },
     "MHIX2020": {
-        "prereqs": "40cp at 1000 level or above OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
+        "prereqs": "40cp at 1000 level minimum OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
     },
     "MHIX2050": {
-        "prereqs": "40cp at 1000 level or above OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
+        "prereqs": "40cp at 1000 level minimum OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
     },
     "MHIX3000": {
-        "prereqs": "130cp at 1000 level or above OR (20cp in HIST or MHIS or POL or POIR or MHIX or POIX units at 2000 level)"
+        "prereqs": "130cp at 1000 level minimum OR (20cp in HIST or MHIS or POL or POIR or MHIX or POIX units at 2000 level)"
     },
     "MHIX3027": {
-        "prereqs": "130cp at 1000 level or above OR (20cp in HIST or MHIS or POL or POIR or MHIX or POIX units at 2000 level)"
+        "prereqs": "130cp at 1000 level minimum OR (20cp in HIST or MHIS or POL or POIR or MHIX or POIX units at 2000 level)"
     },
     "MHIX3030": {
-        "prereqs": "130cp at 1000 level or above OR (20cp in HIST or MHIS or POL or POIR or MHIX or POIX units at 2000 level)"
+        "prereqs": "130cp at 1000 level minimum OR (20cp in HIST or MHIS or POL or POIR or MHIX or POIX units at 2000 level)"
     },
     "MHIX3040": {
-        "prereqs": "130cp at 1000 level or above OR (20cp in HIST or MHIS or POL or POIR or MHIX or POIX units at 2000 level)"
+        "prereqs": "130cp at 1000 level minimum OR (20cp in HIST or MHIS or POL or POIR or MHIX or POIX units at 2000 level)"
     },
     "MHPG8990": {
         "prereqs": "Admission to MRes"
@@ -4863,58 +4863,58 @@
         "prereqs": "None"
     },
     "MKTG2002": {
-        "prereqs": "40cp at 1000 level or above including MKTG1001 or MKTG101"
+        "prereqs": "40cp at 1000 level minimum including MKTG1001 or MKTG101"
     },
     "MKTG2004": {
-        "prereqs": "40cp at 1000 level or above including MKTG1001 or MKTG101"
+        "prereqs": "40cp at 1000 level minimum including MKTG1001 or MKTG101"
     },
     "MKTG2006": {
-        "prereqs": "Admission to BMktgMedia and 50cp at 1000 level or above including ((MKTG101 or MKTG1001) and (MKTG1003 or MKTG203))"
+        "prereqs": "Admission to BMktgMedia and 50cp at 1000 level minimum including ((MKTG101 or MKTG1001) and (MKTG1003 or MKTG203))"
     },
     "MKTG2008": {
-        "prereqs": "40cp at 1000 level or above including MKTG1001 or MKTG101"
+        "prereqs": "40cp at 1000 level minimum including MKTG1001 or MKTG101"
     },
     "MKTG2017": {
-        "prereqs": "40cp at 1000 level or above including MKTG1001 or MKTG101"
+        "prereqs": "40cp at 1000 level minimum including MKTG1001 or MKTG101"
     },
     "MKTG3001": {
-        "prereqs": "40cp at 2000 level or above including MKTG2002 or MKTG202"
+        "prereqs": "40cp at 2000 level minimum including MKTG2002 or MKTG202"
     },
     "MKTG3002": {
-        "prereqs": "40cp at 2000 level or above including MKTG2002 or MKTG202"
+        "prereqs": "40cp at 2000 level minimum including MKTG2002 or MKTG202"
     },
     "MKTG3003": {
-        "prereqs": "40cp at 2000 level or above including MKTG2002 or MKTG202"
+        "prereqs": "40cp at 2000 level minimum including MKTG2002 or MKTG202"
     },
     "MKTG3004": {
-        "prereqs": "130cp at 1000 level or above including MKTG202 or MKTG2002"
+        "prereqs": "130cp at 1000 level minimum including MKTG202 or MKTG2002"
     },
     "MKTG3006": {
-        "prereqs": "40cp at 2000 level or above including MKTG2002 or MKTG202"
+        "prereqs": "40cp at 2000 level minimum including MKTG2002 or MKTG202"
     },
     "MKTG3007": {
-        "prereqs": "40cp at 2000 level or above including MKTG2002 or MKTG202"
+        "prereqs": "40cp at 2000 level minimum including MKTG2002 or MKTG202"
     },
     "MKTG3008": {
-        "prereqs": "40cp at 2000 level or above including MKTG2002 or MKTG202"
+        "prereqs": "40cp at 2000 level minimum including MKTG2002 or MKTG202"
     },
     "MKTG3009": {
-        "prereqs": "40cp at 2000 level or above including MKTG2002 or MKTG202"
+        "prereqs": "40cp at 2000 level minimum including MKTG2002 or MKTG202"
     },
     "MKTG3010": {
-        "prereqs": "40cp at 2000 level or above including MKTG2002 or MKTG202"
+        "prereqs": "40cp at 2000 level minimum including MKTG2002 or MKTG202"
     },
     "MKTG3011": {
-        "prereqs": "40cp at 2000 level or above including MKTG2002 or MKTG202"
+        "prereqs": "40cp at 2000 level minimum including MKTG2002 or MKTG202"
     },
     "MKTG3012": {
-        "prereqs": "40cp at 2000 level or above including (MKTG2002 or MKTG202 or ACCG2002 or FOBE202)"
+        "prereqs": "40cp at 2000 level minimum including (MKTG2002 or MKTG202 or ACCG2002 or FOBE202)"
     },
     "MKTG3013": {
-        "prereqs": "40cp at 2000 level or above including MKTG2002 or MKTG202"
+        "prereqs": "40cp at 2000 level minimum including MKTG2002 or MKTG202"
     },
     "MKTG3014": {
-        "prereqs": "40cp at 2000 level or above including MKTG2002 or MKTG202"
+        "prereqs": "40cp at 2000 level minimum including MKTG2002 or MKTG202"
     },
     "MKTG6096": {
         "prereqs": "Admission to MCom or MBioBus or MIntBus or MMgmt"
@@ -5121,175 +5121,175 @@
         "prereqs": "None"
     },
     "MMCC2000": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "MMCC2011": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "MMCC2012": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "MMCC2013": {
-        "prereqs": "40cp at 1000 level or above including (MAS 212 or MMCC2012)"
+        "prereqs": "40cp at 1000 level minimum including (MAS 212 or MMCC2012)"
     },
     "MMCC2014": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "MMCC2015": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "MMCC2016": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "MMCC2020": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "MMCC2023": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "MMCC2030": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "MMCC2033": {
-        "prereqs": "40cp at 1000 level or above including (MUS 202 or MMCC2020)"
+        "prereqs": "40cp at 1000 level minimum including (MUS 202 or MMCC2020)"
     },
     "MMCC2041": {
         "prereqs": "(MAS240 or MMCC2140) or (COMP249 or COMP2110)"
     },
     "MMCC2057": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "MMCC2060": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "MMCC2061": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "MMCC2063": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "MMCC2065": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "MMCC2070": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "MMCC2077": {
-        "prereqs": "Pre-requisite 40cp at 1000 level or above"
+        "prereqs": "Pre-requisite 40cp at 1000 level minimum"
     },
     "MMCC2080": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "MMCC2090": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "MMCC2100": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "MMCC2110": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "MMCC2120": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "MMCC2125": {
-        "prereqs": "Pre-requisite 40cp at 1000 level or above"
+        "prereqs": "Pre-requisite 40cp at 1000 level minimum"
     },
     "MMCC2126": {
-        "prereqs": "Pre-requisite 40cp at 1000 level or above"
+        "prereqs": "Pre-requisite 40cp at 1000 level minimum"
     },
     "MMCC2130": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "MMCC2140": {
         "prereqs": "40cp including ((20cp in MMCC or MAS units at 1000 level) or (COMP111 or COMP1150))"
     },
     "MMCC2160": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "MMCC3000": {
-        "prereqs": "130cp at 1000 level or above including MUS203 or MMCC2033"
+        "prereqs": "130cp at 1000 level minimum including MUS203 or MMCC2033"
     },
     "MMCC3005": {
-        "prereqs": "Pre-requisite 130cp at 1000 level or above"
+        "prereqs": "Pre-requisite 130cp at 1000 level minimum"
     },
     "MMCC3011": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "MMCC3012": {
-        "prereqs": "130cp at 1000 level or above including MAS213 or MMCC2013"
+        "prereqs": "130cp at 1000 level minimum including MAS213 or MMCC2013"
     },
     "MMCC3013": {
-        "prereqs": "130cp at 1000 level or above including MAS213 or MMCC2013"
+        "prereqs": "130cp at 1000 level minimum including MAS213 or MMCC2013"
     },
     "MMCC3016": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "MMCC3020": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "MMCC3023": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "MMCC3025": {
-        "prereqs": "Pre-requisite 130cp at 1000 level or above"
+        "prereqs": "Pre-requisite 130cp at 1000 level minimum"
     },
     "MMCC3029": {
-        "prereqs": "130cp at 1000 level or above including MAS240 or MMCC2140"
+        "prereqs": "130cp at 1000 level minimum including MAS240 or MMCC2140"
     },
     "MMCC3031": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "MMCC3032": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "MMCC3035": {
-        "prereqs": "Pre-requisite 130cp at 1000 level or above"
+        "prereqs": "Pre-requisite 130cp at 1000 level minimum"
     },
     "MMCC3037": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "MMCC3043": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "MMCC3045": {
-        "prereqs": "130cp at 1000 level or above including MAS241 or MMCC2041"
+        "prereqs": "130cp at 1000 level minimum including MAS241 or MMCC2041"
     },
     "MMCC3046": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "MMCC3055": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "MMCC3060": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "MMCC3080": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "MMCC3090": {
-        "prereqs": "130cp at 1000 level or above and permission by special approval"
+        "prereqs": "130cp at 1000 level minimum and permission by special approval"
     },
     "MMCC3110": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "MMCC3121": {
-        "prereqs": "130cp at 1000 level or above and Permission by Special Approval"
+        "prereqs": "130cp at 1000 level minimum and Permission by Special Approval"
     },
     "MMCC3130": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "MMCC3140": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "MMCC3150": {
-        "prereqs": "130cp at 1000 level or above and Permission by Special approval"
+        "prereqs": "130cp at 1000 level minimum and Permission by Special approval"
     },
     "MMCC3160": {
-        "prereqs": "130cp at 1000 level or above and Permission by Special approval"
+        "prereqs": "130cp at 1000 level minimum and Permission by Special approval"
     },
     "MMCC3199": {
-        "prereqs": "Admission to BMktgMedia and 130cp at 1000 level or above"
+        "prereqs": "Admission to BMktgMedia and 130cp at 1000 level minimum"
     },
     "MMCC6000": {
         "prereqs": "Admission to MCrInd or MMediaComm"
@@ -5361,7 +5361,7 @@
         "prereqs": "Admission to MRes"
     },
     "MOLS3002": {
-        "prereqs": "120cp at 1000 level or above and permission by special approval"
+        "prereqs": "120cp at 1000 level minimum and permission by special approval"
     },
     "MOLS3003": {
         "prereqs": "None"
@@ -5436,13 +5436,13 @@
         "prereqs": "Admission to GradDipBiotech or GradCertLabAQMgt or GradDipLabAQMgt or MBiotech or MBioBus or MLabAQMgt or MRadiopharmSc or MSc or MScInnovationChemBiomolecularSc and (CHEM6801 or CBMS606)"
     },
     "MOLS8902": {
-        "prereqs": "(Admission to MRadiopharmSc or MBiotech or MScience Innovation in Chemistry and Biomolecular Sciences) and (40cp at 8000 level or above) and permission by special approval"
+        "prereqs": "(Admission to MRadiopharmSc or MBiotech or MScience Innovation in Chemistry and Biomolecular Sciences) and (40cp at 8000 level minimum) and permission by special approval"
     },
     "MOLS8990": {
         "prereqs": "Admission to MRes"
     },
     "MPHR8990": {
-        "prereqs": "(HSYP8101(D) or HSYP8003(D)) AND 30cp in HSYP units at 8000 level with a WAM of 75+"
+        "prereqs": "(HSYP8101>= 75 or HSYP8003>= 75) AND 30cp in HSYP units at 8000 level with a WAM of 75+"
     },
     "MPRO6002": {
         "prereqs": "None"
@@ -5454,13 +5454,13 @@
         "prereqs": "Permission by special approval"
     },
     "MQBS3000": {
-        "prereqs": "130cp at 1000 level or above and permission by special approval"
+        "prereqs": "130cp at 1000 level minimum and permission by special approval"
     },
     "MQBS3010": {
-        "prereqs": "Admission to BCom and 130cp at 1000 level or above including 10cp at 3000 level"
+        "prereqs": "Admission to BCom and 130cp at 1000 level minimum including 10cp at 3000 level"
     },
     "MQBS3030": {
-        "prereqs": "120cp at 1000 level or above and permission by special approval"
+        "prereqs": "120cp at 1000 level minimum and permission by special approval"
     },
     "MQBS7005": {
         "prereqs": "Admission to MRes"
@@ -5517,7 +5517,7 @@
         "prereqs": "((PHYS1510 or PHYS140) or ((PHYS1020 or PHYS106) and (PHYS1010 or PHYS107))) and (MATH1020 or MATH1025 or MATH136 or MATH133)"
     },
     "MTRN3026": {
-        "prereqs": "(MTRN2060 or ELEC260) and 130cp at 1000 level or above"
+        "prereqs": "(MTRN2060 or ELEC260) and 130cp at 1000 level minimum"
     },
     "MTRN4066": {
         "prereqs": "(MTRN3026 or ELEC326) and (ELEC3024 or ELEC324)"
@@ -5541,40 +5541,40 @@
         "prereqs": "None"
     },
     "PHIL2010": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "PHIL2020": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "PHIL2026": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "PHIL2056": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "PHIL2060": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "PHIL2062": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "PHIL3041": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "PHIL3051": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "PHIL3052": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "PHIL3056": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "PHIL3057": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "PHIL3063": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "PHIL7000": {
         "prereqs": "Admission to MRes"
@@ -5595,40 +5595,40 @@
         "prereqs": "None"
     },
     "PHIX2010": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "PHIX2020": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "PHIX2026": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "PHIX2056": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "PHIX2060": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "PHIX2062": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "PHIX3041": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "PHIX3051": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "PHIX3052": {
         "prereqs": "None"
     },
     "PHIX3056": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "PHIX3057": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "PHIX3063": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "PHTY2000": {
         "prereqs": "((PSYC104 or PSYU1104 or PSYU1101) and (PSYC105 or PSYU1105 or PSYU1102)) or Admission to BClinSc"
@@ -5637,10 +5637,10 @@
         "prereqs": "120cp including (HLTH108 or ANAT1001) and ((HLTH109 or ANAT1002) or (MEDI203 or MEDI2100 or MEDI211 or MEDI2101)) and (BIOL247 or BIOL2220)"
     },
     "PHTY3001": {
-        "prereqs": "110cp at 1000 level or above including ((HLTH108 or ANAT1001) and ((HLTH109 or ANAT1002) or (MEDI203 or MEDI2100)))"
+        "prereqs": "110cp at 1000 level minimum including ((HLTH108 or ANAT1001) and ((HLTH109 or ANAT1002) or (MEDI203 or MEDI2100)))"
     },
     "PHTY3002": {
-        "prereqs": "120cp at 1000 level or above including ((HLTH108 or ANAT1001) and ((HLTH109 or ANAT1002) or (MEDI203 or MEDI2100)) and (PHTY302 or PHTY3001))"
+        "prereqs": "120cp at 1000 level minimum including ((HLTH108 or ANAT1001) and ((HLTH109 or ANAT1002) or (MEDI203 or MEDI2100)) and (PHTY302 or PHTY3001))"
     },
     "PHTY8100": {
         "prereqs": "Admission to DPT"
@@ -5715,16 +5715,16 @@
         "prereqs": "None"
     },
     "PHYS1010": {
-        "prereqs": "(HSC Advanced Mathematics Band 4 and above or Extension 1 Band E2 and above or Extension 2) or MATH1000 or MATH130 or WFMA003 or WFMA0003"
+        "prereqs": "(HSC Advanced Mathematics Band 4 minimum or Extension 1 Band E2 minimum or Extension 2) or MATH1000 or MATH130 or WFMA003 or WFMA0003"
     },
     "PHYS1020": {
         "prereqs": "PHYS1010 or PHYS107"
     },
     "PHYS1210": {
-        "prereqs": "(HSC Mathematics Standard 2 Band 5 and above or Advanced Mathematics Band 3 and above or Extension 1 or Extension 2)"
+        "prereqs": "(HSC Mathematics Standard 2 Band 5 minimum or Advanced Mathematics Band 3 minimum or Extension 1 or Extension 2)"
     },
     "PHYS1510": {
-        "prereqs": "(HSC Advanced Mathematics Band 4 and above or Extension 1 Band E2 and above or Extension 2) or MATH1000 or MATH130 or WFMA003 or WFMA0003"
+        "prereqs": "(HSC Advanced Mathematics Band 4 minimum or Extension 1 Band E2 minimum or Extension 2) or MATH1000 or MATH130 or WFMA003 or WFMA0003"
     },
     "PHYS1520": {
         "prereqs": "PHYS140 or PHYS1510"
@@ -5739,7 +5739,7 @@
         "prereqs": "(PHYS201 or PHYS2010) and (MATH235 or MATH2010 or MATH2055)"
     },
     "PHYS2910": {
-        "prereqs": "(PHYS107(D) or PHYS1010(D)) and (PHYS106(D) or PHYS1020(D))"
+        "prereqs": "(PHYS107>= 75 or PHYS1010>= 75) and (PHYS106>= 75 or PHYS1020>= 75)"
     },
     "PHYS3010": {
         "prereqs": "(PHYS201 or PHYS2010) and (PHYS202 or PHYS2020) and (MATH235 or MATH2010) and (MATH236 or MATH232 or MATH2020 or MATH2110)"
@@ -5757,7 +5757,7 @@
         "prereqs": "10cps from 3000 level PHYS or ASTR units"
     },
     "PHYS3910": {
-        "prereqs": "(PHYS188 or PHYS1910) and (PHYS201(D) or PHYS2010(D)) and (PHYS202(D) or PHYS2020(D))"
+        "prereqs": "(PHYS188 or PHYS1910) and (PHYS201>= 75 or PHYS2010>= 75) and (PHYS202>= 75 or PHYS2020>= 75)"
     },
     "PHYS7900": {
         "prereqs": "Admission to MRes"
@@ -5823,46 +5823,46 @@
         "prereqs": "None"
     },
     "PICT2001": {
-        "prereqs": "50cp at 1000 level or above"
+        "prereqs": "50cp at 1000 level minimum"
     },
     "PICT2010": {
-        "prereqs": "50cp at 1000 level or above"
+        "prereqs": "50cp at 1000 level minimum"
     },
     "PICT2012": {
-        "prereqs": "50cp at 1000 level or above"
+        "prereqs": "50cp at 1000 level minimum"
     },
     "PICT2013": {
-        "prereqs": "50cp at 1000 level or above"
+        "prereqs": "50cp at 1000 level minimum"
     },
     "PICT2015": {
-        "prereqs": "50cp at 1000 level or above"
+        "prereqs": "50cp at 1000 level minimum"
     },
     "PICT2020": {
-        "prereqs": "50cp at 1000 level or above"
+        "prereqs": "50cp at 1000 level minimum"
     },
     "PICT3001": {
-        "prereqs": "50cp at 2000 level or above"
+        "prereqs": "50cp at 2000 level minimum"
     },
     "PICT3011": {
-        "prereqs": "50cp at 2000 level or above"
+        "prereqs": "50cp at 2000 level minimum"
     },
     "PICT3012": {
-        "prereqs": "50cp at 2000 level or above"
+        "prereqs": "50cp at 2000 level minimum"
     },
     "PICT3013": {
-        "prereqs": "50cp at 2000 level or above"
+        "prereqs": "50cp at 2000 level minimum"
     },
     "PICT3014": {
-        "prereqs": "50cp at 2000 level or above"
+        "prereqs": "50cp at 2000 level minimum"
     },
     "PICT3015": {
-        "prereqs": "50cp at 2000 level or above"
+        "prereqs": "50cp at 2000 level minimum"
     },
     "PICT3020": {
-        "prereqs": "[Admission to the Bachelor of Security Studies AND 50cp at 2000 level or above] OR [PICT1030 AND SOCI1030 AND LAWS2050 and 50cp at 2000 level including PICT2010 OR PICT2020]"
+        "prereqs": "[Admission to the Bachelor of Security Studies AND 50cp at 2000 level minimum] OR [PICT1030 AND SOCI1030 AND LAWS2050 and 50cp at 2000 level including PICT2010 OR PICT2020]"
     },
     "PICT8000": {
-        "prereqs": "50cp at 2000 level or above and admission to BSecStudMCTerrorism or BSecStudMCrim or BSecStudMCyberSecAnalysis or BSecStudMIntell or BSecStudMSecStrategicStud"
+        "prereqs": "50cp at 2000 level minimum and admission to BSecStudMCTerrorism or BSecStudMCrim or BSecStudMCyberSecAnalysis or BSecStudMIntell or BSecStudMSecStrategicStud"
     },
     "PICT8001": {
         "prereqs": "Admission to MIntell or MSecStrategicStud or MCyberSecAnalysis or MCrim or MCTerrorism"
@@ -5922,7 +5922,7 @@
         "prereqs": "Admission to MPICT or MCPICT or GradDipPICT or GradDipCPICT or PGCertPICT or MPICTMIntSecSt or MCPICTMIntSecSt or MIntSecStud or GradDipIntSecStud or GradCertIntell or MCTerrorism or MCyberSec or GradDipSecStudCr or GradCertSecStudCr or MIntell or MSecStrategicStud or MCrim or MSecStrategicStudMCrim or MSecStrategicStudMIntell or MSecStrategicStudMCyberSec or MSecStrategicStudMCTerrorism or MIntellMCrim or MIntellMCyberSec or MIntellMCTerrorism or MCyberSecMCTerrorism or MCyberSecMCrim or MCTerrorismMCrim or Master of Cyber Security Analysis or ((Admission to BSecStudMCTerrorism or BSecStudMCrim or BSecStudMCyberSecAnalysis or BSecStudMIntell or BSecStudMSecStrategicStud) and (50 cp at 2000 level))"
     },
     "PICT8061": {
-        "prereqs": "Admission to MSecStrategicStud or MIntell or MCrim or MCyberSec or MCTerrorism or GradCertSecStudCr or GradDipSecStudCr or MPICT or GradDipPICT or MPICTMIntSecSt or MIntSecStud or GradDipIntSecStud or MIntRel or GradDipIntRel or MIntBusMIntRel or MTransInterMIntRel or MCPICT or MCPICTMISS or GradDipCPICT or GradCertCPICT or MSecStrategicStudMCrim or MSecStrategicStudMIntell or MSecStrategicStudMCyberSec or MSecStrategicStudMCTerrorism or MIntellMCrim or MIntellMCyberSec or MIntellMCTerrorism or MCyberSecMCTerrorism or MCyberSecMCrim or MCTerrorismMCrim or Master of Cyber Security Analysis or admission to BSecStudMCTerrorism or BSecStudMCrim or BSecStudMCyberSecAnalysis or BSecStudMIntell or BSecStudMSecStrategicStud or (10cp at 6000 level or above)"
+        "prereqs": "Admission to MSecStrategicStud or MIntell or MCrim or MCyberSec or MCTerrorism or GradCertSecStudCr or GradDipSecStudCr or MPICT or GradDipPICT or MPICTMIntSecSt or MIntSecStud or GradDipIntSecStud or MIntRel or GradDipIntRel or MIntBusMIntRel or MTransInterMIntRel or MCPICT or MCPICTMISS or GradDipCPICT or GradCertCPICT or MSecStrategicStudMCrim or MSecStrategicStudMIntell or MSecStrategicStudMCyberSec or MSecStrategicStudMCTerrorism or MIntellMCrim or MIntellMCyberSec or MIntellMCTerrorism or MCyberSecMCTerrorism or MCyberSecMCrim or MCTerrorismMCrim or Master of Cyber Security Analysis or admission to BSecStudMCTerrorism or BSecStudMCrim or BSecStudMCyberSecAnalysis or BSecStudMIntell or BSecStudMSecStrategicStud or (10cp at 6000 level minimum)"
     },
     "PICT8062": {
         "prereqs": "Admission to MSecStrategicStud or MIntell or MCrim or MCyberSec or MCTerrorism or GradCertSecStudCr or GradDipSecStudCr or MPICT or GradDipPICT or MPICTMIntSecSt or MIntSecStud or GradDipIntSecStud or MIntRel or GradDipIntRel or MIntBusMIntRel or MTransInterMIntRel or MCPICT or MCPICTMISS or GradDipCPICT or GradCertCPICT or GradCertISS or MSecStrategicStudMCrim or MSecStrategicStudMIntell or MSecStrategicStudMCyberSec or MSecStrategicStudMCTerrorism or MIntellMCrim or MIntellMCyberSec or MIntellMCTerrorism or MCyberSecMCTerrorism or MCyberSecMCrim or MCTerrorismMCrim or Master of Cyber Security Analysis or admission to BSecStudMCTerrorism or BSecStudMCrim or BSecStudMCyberSecAnalysis or BSecStudMIntell or BSecStudMSecStrategicStud or (10cps at 6000 level or 10cps at 8000 level)"
@@ -5934,13 +5934,13 @@
         "prereqs": "Admission to MPICT or MCPICT or GradDipPICT or GradDipCPICT or PGCertPICT or MPICTMIntSecSt or MCPICTMIntSecSt or MIntSecStud or GradDipIntSecStud or GradCertIntell or MCTerrorism or MCyberSec or GradDipSecStudCr or GradCertSecStudCr or MIntell or MSecStrategicStud or MCrim or MSecStrategicStudMCrim or MSecStrategicStudMIntell or MSecStrategicStudMCyberSec or MSecStrategicStudMCTerrorism or MIntellMCrim or MIntellMCyberSec or MIntellMCTerrorism or MCyberSecMCTerrorism or MCyberSecMCrim or MCTerrorismMCrim or Master of Cyber Security Analysis or ((Admission to BSecStudMCTerrorism or BSecStudMCrim or BSecStudMCyberSecAnalysis or BSecStudMIntell or BSecStudMSecStrategicStud) and (10cp at 6000 level or 10cp at 8000 level))"
     },
     "PICT8089": {
-        "prereqs": "Admission to MCrim or MSecStrategicStudMCrim or MIntellMCrim or MCyberSecMCrim or MCTerrorismMCrim or (40cp in PICT units at 8000 level or above including (PICT888 or PICT8088)) or admission to BSecStudMCrim"
+        "prereqs": "Admission to MCrim or MSecStrategicStudMCrim or MIntellMCrim or MCyberSecMCrim or MCTerrorismMCrim or (40cp in PICT units at 8000 level minimum including (PICT888 or PICT8088)) or admission to BSecStudMCrim"
     },
     "PICT8921": {
         "prereqs": "Admission to MPICT or MCPICT or GradDipPICT or GradDipCPICT or MPICTMIntSecSt or MCPICTMIntSecSt or MIntSecStud or GradDipIntSecStud or GradCertIntSecStud or MSecStrategicStud or MSecStrategicStudMCrim or MSecStrategicStudMIntell or MSecStrategicStudMCyberSec or MSecStrategicStudMCTerrorism or admission to BSecStudMSecStrategicStud"
     },
     "PICT8950": {
-        "prereqs": "(Admission to MPICT or GradDipPICT or MPICTMIntSecSt or MIntSecStud or GradDipIntSecStud or MCPICT or MCPICTMISS or GradDipCPICT or GradCertCPICT) and (40cp in PICT units at 8000 level or above including (PICT8050 or PICT850) or (PICT8012 or PICT812))"
+        "prereqs": "(Admission to MPICT or GradDipPICT or MPICTMIntSecSt or MIntSecStud or GradDipIntSecStud or MCPICT or MCPICTMISS or GradDipCPICT or GradCertCPICT) and (40cp in PICT units at 8000 level minimum including (PICT8050 or PICT850) or (PICT8012 or PICT812))"
     },
     "PICT8951": {
         "prereqs": "Admission to MSecStrategicStud or MSecStrategicStudMCrim or MSecStrategicStudMIntell or MSecStrategicStudMCyberSec or MSecStrategicStudMCTerrorism or admission to BSecStudMSecStrategicStud"
@@ -5991,43 +5991,43 @@
         "prereqs": "None"
     },
     "PICX2001": {
-        "prereqs": "50cp at 1000 level or above"
+        "prereqs": "50cp at 1000 level minimum"
     },
     "PICX2010": {
-        "prereqs": "50cp at 1000 level or above"
+        "prereqs": "50cp at 1000 level minimum"
     },
     "PICX2012": {
-        "prereqs": "50cp at 1000 level or above"
+        "prereqs": "50cp at 1000 level minimum"
     },
     "PICX2013": {
-        "prereqs": "50cp at 1000 level or above"
+        "prereqs": "50cp at 1000 level minimum"
     },
     "PICX2015": {
-        "prereqs": "50cp at 1000 level or above"
+        "prereqs": "50cp at 1000 level minimum"
     },
     "PICX2020": {
-        "prereqs": "50cp at 1000 level or above"
+        "prereqs": "50cp at 1000 level minimum"
     },
     "PICX3001": {
-        "prereqs": "50cp at 2000 level or above"
+        "prereqs": "50cp at 2000 level minimum"
     },
     "PICX3011": {
-        "prereqs": "50cp at 2000 level or above"
+        "prereqs": "50cp at 2000 level minimum"
     },
     "PICX3012": {
-        "prereqs": "50cp at 2000 level or above"
+        "prereqs": "50cp at 2000 level minimum"
     },
     "PICX3013": {
-        "prereqs": "50cp at 2000 level or above"
+        "prereqs": "50cp at 2000 level minimum"
     },
     "PICX3014": {
-        "prereqs": "50cp at 2000 level or above"
+        "prereqs": "50cp at 2000 level minimum"
     },
     "PICX3015": {
-        "prereqs": "50cp at 2000 level or above"
+        "prereqs": "50cp at 2000 level minimum"
     },
     "PICX3020": {
-        "prereqs": "50cp at 2000 level or above and admission to BSecStud or BSecStudLLB or BBusAnalyticsBSecStud or admission to BSecStudMCTerrorism or BSecStudMCrim or BSecStudMCyberSecAnalysis or BSecStudMIntell or BSecStudMSecStrategicStud or/and permission by special approval"
+        "prereqs": "50cp at 2000 level minimum and admission to BSecStud or BSecStudLLB or BBusAnalyticsBSecStud or admission to BSecStudMCTerrorism or BSecStudMCrim or BSecStudMCyberSecAnalysis or BSecStudMIntell or BSecStudMSecStrategicStud or/and permission by special approval"
     },
     "PICX8012": {
         "prereqs": "Admission to MSecStragegicStud or MCrim or MIntell or MCTerrorism or MCyberSec or GradDipSecStudCr or GradCertSecStudCr or MIntPubDip or MPICT or MIntSecStud or GradDipIntSecStud or MPICTMIntSecSt or MCPICT or MCPICTMIntSecSt or MSecStrategicStudMCrim or MSecStrategicStudMIntell or MSecStrategicStudMCyberSec or MSecStrategicStudMCTerrorism or MIntellMCrim or MIntellMCyberSec or MIntellMCTerrorism or MCyberSecMCTerrorism or MCyberSecMCrim or MCTerrorismMCrim or Master of Cyber Security Analysis or 10cps at 6000 level or 10cps 8000 level"
@@ -6093,7 +6093,7 @@
         "prereqs": "Admission to MPICT or MCPICT or GradDipPICT or GradDipCPICT or MPICTMIntSecSt or MCPICTMIntSecSt or MIntSecStud or GradDipIntSecStud or GradCertIntSecStud or MSecStrategicStud or MSecStrategicStudMCrim or MSecStrategicStudMIntell or MSecStrategicStudMCyberSec or MSecStrategicStudMCTerrorism"
     },
     "PICX8950": {
-        "prereqs": "Admission to MPICT or GradDipPICT or MPICTMIntSecSt or MIntSecStud or GradDipIntSecStud and 40cp from PICX units at 8000 level or above including PICX850 or PICX812"
+        "prereqs": "Admission to MPICT or GradDipPICT or MPICTMIntSecSt or MIntSecStud or GradDipIntSecStud and 40cp from PICX units at 8000 level minimum including PICX850 or PICX812"
     },
     "PICX8951": {
         "prereqs": "Admission to MSecStrategicStud"
@@ -6150,40 +6150,40 @@
         "prereqs": "None"
     },
     "POIR2010": {
-        "prereqs": "40cp at 1000 level or above OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
+        "prereqs": "40cp at 1000 level minimum OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
     },
     "POIR2030": {
-        "prereqs": "40cp at 1000 level or above OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
+        "prereqs": "40cp at 1000 level minimum OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
     },
     "POIR2060": {
-        "prereqs": "40cp at 1000 level or above OR (10cp in HIST or MHIS or POIR or MHIX or POIX or POL units)"
+        "prereqs": "40cp at 1000 level minimum OR (10cp in HIST or MHIS or POIR or MHIX or POIX or POL units)"
     },
     "POIR2070": {
-        "prereqs": "40cp at 1000 level or above OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
+        "prereqs": "40cp at 1000 level minimum OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
     },
     "POIR2580": {
-        "prereqs": "40cp at 1000 level or above OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
+        "prereqs": "40cp at 1000 level minimum OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
     },
     "POIR2780": {
-        "prereqs": "40cp at 1000 level or above OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
+        "prereqs": "40cp at 1000 level minimum OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
     },
     "POIR3030": {
-        "prereqs": "130cp at 1000 level or above OR (20cp in HIST or MHIS or POL or POIR or MHIX or POIX units at 2000 level)"
+        "prereqs": "130cp at 1000 level minimum OR (20cp in HIST or MHIS or POL or POIR or MHIX or POIX units at 2000 level)"
     },
     "POIR3050": {
-        "prereqs": "130cp at 1000 level or above OR (20cp in HIST or MHIS or POL or POIR or MHIX or POIX units at 2000 level)"
+        "prereqs": "130cp at 1000 level minimum OR (20cp in HIST or MHIS or POL or POIR or MHIX or POIX units at 2000 level)"
     },
     "POIR3060": {
-        "prereqs": "130cp at 1000 level or above OR (20cp in HIST or MHIS or POL or POIR or MHIX or POIX units at 2000 level)"
+        "prereqs": "130cp at 1000 level minimum OR (20cp in HIST or MHIS or POL or POIR or MHIX or POIX units at 2000 level)"
     },
     "POIR3220": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "POIR3920": {
-        "prereqs": "130cp at 1000 level or above OR (20cp in HIST or MHIS or POL or POIR or MHIX or POIX units at 2000 level)"
+        "prereqs": "130cp at 1000 level minimum OR (20cp in HIST or MHIS or POL or POIR or MHIX or POIX units at 2000 level)"
     },
     "POIR3970": {
-        "prereqs": "130cp at 1000 level or above OR (20cp in HIST or MHIS or POL or POIR or MHIX or POIX units at 2000 level)"
+        "prereqs": "130cp at 1000 level minimum OR (20cp in HIST or MHIS or POL or POIR or MHIX or POIX units at 2000 level)"
     },
     "POIR7000": {
         "prereqs": "Admission to MRes"
@@ -6192,7 +6192,7 @@
         "prereqs": "Admission to MRes"
     },
     "POIR8000": {
-        "prereqs": "(Admission to MPPP or MPH and 40cp at 8000 level or above) or (admission to MPPPMDevStud or MPPPMPASR or MPPPMIntRel or MPSP or MPLAN)"
+        "prereqs": "(Admission to MPPP or MPH and 40cp at 8000 level minimum) or (admission to MPPPMDevStud or MPPPMPASR or MPPPMIntRel or MPSP or MPLAN)"
     },
     "POIR8040": {
         "prereqs": "Admission to MPPP or MIntRel or MPICTMIntSecSt or MCPICTMIntSecSt or MPICT or MCPICT or MIntSecStud or GradDipIntSecStud or MIntPubDip or MIntCommMIntRel or MIntBusMIntRel or MTransInterMIntRel or MPPPMIntRel"
@@ -6231,40 +6231,40 @@
         "prereqs": "None"
     },
     "POIX2010": {
-        "prereqs": "40cp at 1000 level or above OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
+        "prereqs": "40cp at 1000 level minimum OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
     },
     "POIX2030": {
-        "prereqs": "40cp at 1000 level or above OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
+        "prereqs": "40cp at 1000 level minimum OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
     },
     "POIX2060": {
-        "prereqs": "40cp at 1000 level or above OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
+        "prereqs": "40cp at 1000 level minimum OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
     },
     "POIX2070": {
-        "prereqs": "40cp at 1000 level or above OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
+        "prereqs": "40cp at 1000 level minimum OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
     },
     "POIX2580": {
-        "prereqs": "40cp at 1000 level or above OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
+        "prereqs": "40cp at 1000 level minimum OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
     },
     "POIX2780": {
-        "prereqs": "40cp at 1000 level or above OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
+        "prereqs": "40cp at 1000 level minimum OR (10cp in HIST or MHIS or POL or POIR or MHIX or POIX units)"
     },
     "POIX3030": {
-        "prereqs": "130cp at 1000 level or above OR (20cp in HIST or MHIS or POL or POIR or MHIX or POIX units at 2000 level)"
+        "prereqs": "130cp at 1000 level minimum OR (20cp in HIST or MHIS or POL or POIR or MHIX or POIX units at 2000 level)"
     },
     "POIX3050": {
-        "prereqs": "130cp at 1000 level or above OR (20cp in MHIX or POIX units at 2000 level)"
+        "prereqs": "130cp at 1000 level minimum OR (20cp in MHIX or POIX units at 2000 level)"
     },
     "POIX3060": {
-        "prereqs": "130cp at 1000 level or above OR (20cp in HIST or MHIS or POL or POIR or MHIX or POIX units at 2000 level)"
+        "prereqs": "130cp at 1000 level minimum OR (20cp in HIST or MHIS or POL or POIR or MHIX or POIX units at 2000 level)"
     },
     "POIX3220": {
         "prereqs": "POL278 or POL2780 or POIX278 or POIX2780"
     },
     "POIX3920": {
-        "prereqs": "130cp at 1000 level or above OR (20cp in HIST or MHIS or POL or POIR or MHIX or POIX units at 2000 level)"
+        "prereqs": "130cp at 1000 level minimum OR (20cp in HIST or MHIS or POL or POIR or MHIX or POIX units at 2000 level)"
     },
     "POIX3970": {
-        "prereqs": "130cp at 1000 level or above OR (20cp in POL or POIR or POIX units at 2000 level)."
+        "prereqs": "130cp at 1000 level minimum OR (20cp in POL or POIR or POIX units at 2000 level)."
     },
     "POIX8000": {
         "prereqs": "40cp at 8000 level and admission to MPSP (OUA)"
@@ -6279,10 +6279,10 @@
         "prereqs": "(Admission to BProfPrac or BActStudProfPrac(Hons)) or permission by special approval"
     },
     "PROF3000": {
-        "prereqs": "20cp at 2000 level or above including PROF2000"
+        "prereqs": "20cp at 2000 level minimum including PROF2000"
     },
     "PROF4000": {
-        "prereqs": "60cp at 2000 level or above including PROF3000"
+        "prereqs": "60cp at 2000 level minimum including PROF3000"
     },
     "PSYB8961": {
         "prereqs": "Admission to GradCertBusPsy or GradDipBusPsy"
@@ -6615,13 +6615,13 @@
         "prereqs": "PSYU2234 or PSYX2234 or PSY234 or PSYX234"
     },
     "PSYU3336": {
-        "prereqs": "20cp at 2000 level including PSY234(P) or PSYU2234(P)"
+        "prereqs": "20cp at 2000 level including PSY234>= 50 or PSYU2234>= 50"
     },
     "PSYU3337": {
         "prereqs": "20cp from PSY or PSYC or PSYU or PSYX units at 2000 level including PSY248 or PSYU2248 or PSYX248 or PSYX2248"
     },
     "PSYU3338": {
-        "prereqs": "130cp at 1000 level or above including ((PSYC104 or PSYU1104 or PSYX104 or PSYX1104 or PSYU1101 or PSYX1101) and (PSYC105 or PSYU1105 or PSYX105 or PSYX1105 or PSYU1102 or PSYX1102))"
+        "prereqs": "130cp at 1000 level minimum including ((PSYC104 or PSYU1104 or PSYX104 or PSYX1104 or PSYU1101 or PSYX1101) and (PSYC105 or PSYU1105 or PSYX105 or PSYX1105 or PSYU1102 or PSYX1102))"
     },
     "PSYU3339": {
         "prereqs": "20cp at 2000 level including (PSY235 or PSYU2235 or PSYX235 or PSYX2235)"
@@ -6630,10 +6630,10 @@
         "prereqs": "20cp at 2000 level including (PSY236 or PSYU2236 or PSYX236 or PSYX2236) or (PSY246 or PSYU2246 or PSYX246 or PSYX2246) or (PSY247 or PSYU2247 or PSYX247 or PSYX2247) or (BIOL257 or BIOL2230) or (HLTH214 or ANAT2004) or (MEDI204 or MEDI2300)"
     },
     "PSYU3349": {
-        "prereqs": "((Admission to BPsych(Hons) and 60cp in PSY or PSYU or PSYX units at 2000 level including (PSY248 or PSYU2248 or PSYX248 or PSYX2248)) OR ((60cp from PSY234 or PSYU2234 or PSYX234 or PSYX2234 or PSY235 or PSYU2235 or PSYX235 or PSYX2235 or PSY236 or PSYU2236 or PSYX236 or PSYX2236 or PSY246 or PSYU2246 or PSYX246 or PSYX2246 or PSY247 or PSYU2247 or PSYX247 or PSYX2247 or PSY248 or PSYU2248 or PSYX248 or PSYX2248) and (30p(Cr) from PSY234 or PSYU2234 or PSYX234 or PSYX2234 or PSY235 or PSYU2235 or PSYX235 or PSYX2235 or PSY236 or PSYU2236 or PSYX236 or PSYX2236 or PSY246 or PSYU2246 or PSYX246 or PSYX2246 or PSY247 or PSYU2247 or PSYX247 or PSYX2247 or PSY248 or PSYU2248 or PSYX248 or PSYX2248))"
+        "prereqs": "((Admission to BPsych(Hons) and 60cp in PSY or PSYU or PSYX units at 2000 level including (PSY248 or PSYU2248 or PSYX248 or PSYX2248)) OR ((60cp from PSY234 or PSYU2234 or PSYX234 or PSYX2234 or PSY235 or PSYU2235 or PSYX235 or PSYX2235 or PSY236 or PSYU2236 or PSYX236 or PSYX2236 or PSY246 or PSYU2246 or PSYX246 or PSYX2246 or PSY247 or PSYU2247 or PSYX247 or PSYX2247 or PSY248 or PSYU2248 or PSYX248 or PSYX2248) and (30p>= 65 from PSY234 or PSYU2234 or PSYX234 or PSYX2234 or PSY235 or PSYU2235 or PSYX235 or PSYX2235 or PSY236 or PSYU2236 or PSYX236 or PSYX2236 or PSY246 or PSYU2246 or PSYX246 or PSYX2246 or PSY247 or PSYU2247 or PSYX247 or PSYX2247 or PSY248 or PSYU2248 or PSYX248 or PSYX2248))"
     },
     "PSYU3351": {
-        "prereqs": "((Admission to BPsych(Hons) and 60cp in PSY or PSYU or PSYX units at 2000 level including (PSY248 or PSYU2248 or PSYX248 or PSYX2248)) OR ((60cp from PSY234 or PSYU2234 or PSYX234 or PSYX2234 or PSY235 or PSYU2235 or PSYX235 or PSYX2235 or PSY236 or PSYU2236 or PSYX236 or PSYX2236 or PSY246 or PSYU2246 or PSYX246 or PSYX2246 or PSY247 or PSYU2247 or PSYX247 or PSYX2247 or PSY248 or PSYU2248 or PSYX248 or PSYX2248) and (30p(Cr) from PSY234 or PSYU2234 or PSYX234 or PSYX2234 or PSY235 or PSYU2235 or PSYX235 or PSYX2235 or PSY236 or PSYU2236 or PSYX236 or PSYX2236 or PSY246 or PSYU2246 or PSYX246 or PSYX2246 or PSY247 or PSYU2247 or PSYX247 or PSYX2247 or PSY248 or PSYU2248 or PSYX248 or PSYX2248))"
+        "prereqs": "((Admission to BPsych(Hons) and 60cp in PSY or PSYU or PSYX units at 2000 level including (PSY248 or PSYU2248 or PSYX248 or PSYX2248)) OR ((60cp from PSY234 or PSYU2234 or PSYX234 or PSYX2234 or PSY235 or PSYU2235 or PSYX235 or PSYX2235 or PSY236 or PSYU2236 or PSYX236 or PSYX2236 or PSY246 or PSYU2246 or PSYX246 or PSYX2246 or PSY247 or PSYU2247 or PSYX247 or PSYX2247 or PSY248 or PSYU2248 or PSYX248 or PSYX2248) and (30p>= 65 from PSY234 or PSYU2234 or PSYX234 or PSYX2234 or PSY235 or PSYU2235 or PSYX235 or PSYX2235 or PSY236 or PSYU2236 or PSYX236 or PSYX2236 or PSY246 or PSYU2246 or PSYX246 or PSYX2246 or PSY247 or PSYU2247 or PSYX247 or PSYX2247 or PSY248 or PSYU2248 or PSYX248 or PSYX2248))"
     },
     "PSYU3352": {
         "prereqs": "(PSY248 or PSYU2248 or PSYX248 or PSYX2248) and (PSY236 or PSYU2236 or PSYX236 or PSYX2236)"
@@ -6690,7 +6690,7 @@
         "prereqs": "20cp from (PSYX or PSYU or PSY units at 2000 level) including PSYX248 or PSYX2248 or PSY248 or PSYU2248"
     },
     "PSYX3338": {
-        "prereqs": "130cp at 1000 level or above including ((PSYC104 or PSYU1104 or PSYX104 or PSYX1104 or PSYU1101 or PSYX1101) and (PSYC105 or PSYU1105 or PSYX105 or PSYX1105 or PSYU1102 or PSYX1102))"
+        "prereqs": "130cp at 1000 level minimum including ((PSYC104 or PSYU1104 or PSYX104 or PSYX1104 or PSYU1101 or PSYX1101) and (PSYC105 or PSYU1105 or PSYX105 or PSYX1105 or PSYU1102 or PSYX1102))"
     },
     "PSYX3399": {
         "prereqs": "60cp from PSY or PSYU or PSYX units at 2000 level and 20cp from PSY or PSYC or PSYU or PSYX units at 3000 level and admission to BPsych (OUA)"
@@ -6732,7 +6732,7 @@
         "prereqs": "SLAS1010 or SPN101, or SLAX1010"
     },
     "SLAS1210": {
-        "prereqs": "HSC Spanish Continuers Band 4 and above or Spanish Extension Band E3 and above"
+        "prereqs": "HSC Spanish Continuers Band 4 minimum or Spanish Extension Band E3 minimum"
     },
     "SLAS1220": {
         "prereqs": "SLAS1210"
@@ -6768,43 +6768,43 @@
         "prereqs": "None"
     },
     "SOCI2000": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "SOCI2010": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "SOCI2030": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "SOCI2040": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "SOCI2070": {
         "prereqs": "40 credit points at 1000 level"
     },
     "SOCI3015": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "SOCI3025": {
-        "prereqs": "130cp at 1000 level or above including (10cp from SOC or SOCI or SSC or SSCI or GEN or GEND units at 2000 level)"
+        "prereqs": "130cp at 1000 level minimum including (10cp from SOC or SOCI or SSC or SSCI or GEN or GEND units at 2000 level)"
     },
     "SOCI3040": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "SOCI3050": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "SOCI3070": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "SOCI3080": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "SOCI3085": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "SOCI3090": {
-        "prereqs": "130cp at 1000 level or above including (10cp in SOC or SOCI units at 2000 level or above)"
+        "prereqs": "130cp at 1000 level minimum including (10cp in SOC or SOCI units at 2000 level minimum)"
     },
     "SOCI7000": {
         "prereqs": "Admission to MRes"
@@ -6837,25 +6837,25 @@
         "prereqs": "None"
     },
     "SOCX2000": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "SOCX2010": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "SOCX2040": {
-        "prereqs": "40cp at 1000 level or above"
+        "prereqs": "40cp at 1000 level minimum"
     },
     "SOCX3015": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "SOCX3025": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "SOCX3040": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "SOCX3090": {
-        "prereqs": "130cp at 1000 level or above"
+        "prereqs": "130cp at 1000 level minimum"
     },
     "SOCX8015": {
         "prereqs": "Admission to MPSP or MPASR or GradCertPASR or GradDipPASR (OUA)"
@@ -6930,25 +6930,25 @@
         "prereqs": "Admission to MDisabilityStud or GradDipAuslEngInt"
     },
     "SPHL2212": {
-        "prereqs": "10cp in LING or SPHL at 1000 level or above"
+        "prereqs": "10cp in LING or SPHL at 1000 level minimum"
     },
     "SPHL2216": {
         "prereqs": "LING217 or LING2217"
     },
     "SPHL3300": {
-        "prereqs": "50cp at 2000 level or above including 20cp from (LING210-220 or LING2210-2240 OR PSY238 or PSYU2238)"
+        "prereqs": "50cp at 2000 level minimum including 20cp from (LING210-220 or LING2210-2240 OR PSY238 or PSYU2238)"
     },
     "SPHL3308": {
-        "prereqs": "(50cp at 2000 level or above including SPHL2216 or SPHL299 or SPH399) OR (Admission to DipSpCom and LING2217 or LING217)"
+        "prereqs": "(50cp at 2000 level minimum including SPHL2216 or SPHL299 or SPH399) OR (Admission to DipSpCom and LING2217 or LING217)"
     },
     "SPHL3310": {
-        "prereqs": "50cp at 2000 level or above including LING2217 or LING217"
+        "prereqs": "50cp at 2000 level minimum including LING2217 or LING217"
     },
     "SPHL3311": {
         "prereqs": "20cp in LING or SPHL 2000 level including (LING220 or LING2220 or LING214 or LING2214 or LING217 or LING2217 or PSY238 or PSYU2238) or admission to BMedScs"
     },
     "SPHL3312": {
-        "prereqs": "50cp at 2000 level or above including LING2217 or LING217"
+        "prereqs": "50cp at 2000 level minimum including LING2217 or LING217"
     },
     "SPTH8810": {
         "prereqs": "Admission to MSpchLngPath"
@@ -7023,7 +7023,7 @@
         "prereqs": "(SSCI1000 or SSCI100) and (SSCI2010 or SSCI201) and (SSCI2020 or SSCI202)"
     },
     "SSCI3090": {
-        "prereqs": "(130cp at 1000 level or above) including (SSCI2010 and SSCI2020) OR (SOC224 and SSC200 or SSCI200)."
+        "prereqs": "(130cp at 1000 level minimum) including (SSCI2010 and SSCI2020) OR (SOC224 and SSC200 or SSCI200)."
     },
     "STAT1103": {
         "prereqs": "None"
@@ -7044,10 +7044,10 @@
         "prereqs": "STAT170 or STAT1170 or STAT150 or STAT1250 or STAT171 or STAT1371"
     },
     "STAT2170": {
-        "prereqs": "FOSE1015 or STAT170(P) or STAT1170 or STAT171 or STAT1371 or STAT150 or STAT1250"
+        "prereqs": "FOSE1015 or STAT170>= 50 or STAT1170 or STAT171 or STAT1371 or STAT150 or STAT1250"
     },
     "STAT2173": {
-        "prereqs": "(FOSE1015 or STAT170(P) or STAT1170(P) or STAT171 or STAT1371 or STAT150 or STAT1250) and ((HSC Mathematics Band 2 or Extension 1 or Extension 2) or (10cp from FOSE1005 or MATH1000 or MATH1010-MATH1025 or MATH111-MATH339))"
+        "prereqs": "(FOSE1015 or STAT170>= 50 or STAT1170>= 50 or STAT171 or STAT1371 or STAT150 or STAT1250) and ((HSC Mathematics Band 2 or Extension 1 or Extension 2) or (10cp from FOSE1005 or MATH1000 or MATH1010-MATH1025 or MATH111-MATH339))"
     },
     "STAT2371": {
         "prereqs": "STAT272 or STAT2372"
@@ -7056,19 +7056,19 @@
         "prereqs": "(STAT171 or STAT1371) and (MATH1020 or MATH1025 or MATH133 or MATH135)"
     },
     "STAT2579": {
-        "prereqs": "FOSE1015 or STAT170(P) or STAT1170 or STAT171 or STAT1371 or STAT150 or STAT1250"
+        "prereqs": "FOSE1015 or STAT170>= 50 or STAT1170 or STAT171 or STAT1371 or STAT150 or STAT1250"
     },
     "STAT3102": {
-        "prereqs": "20cp at 2000 level including ((STAT270 or STAT2170) or (STAT271 or STAT2371) or (BIOL235(P) or BIOL2610) or (PSY222 or (PSY248(P) or PSYU2248))"
+        "prereqs": "20cp at 2000 level including ((STAT270 or STAT2170) or (STAT271 or STAT2371) or (BIOL235>= 50 or BIOL2610) or (PSY222 or (PSY248>= 50 or PSYU2248))"
     },
     "STAT3110": {
         "prereqs": "(20cp at 2000 level including (STAT272 or STAT2372 or STAT273 or STAT2173)) or [(STAT270 or STAT2170) and (COMP257 or COMP2200) and (admission to BIT or BAdvIT)]"
     },
     "STAT3128": {
-        "prereqs": "20cp at 2000 level including STAT270 or STAT2170 or STAT271 or STAT2371 or BIOL235(P) or BIOL2610 or PSY222 or PSY248(P) or PSYU2248"
+        "prereqs": "20cp at 2000 level including STAT270 or STAT2170 or STAT271 or STAT2371 or BIOL235>= 50 or BIOL2610 or PSY222 or PSY248>= 50 or PSYU2248"
     },
     "STAT3175": {
-        "prereqs": "20cp at 2000 level including (STAT270 or STAT2170 or STAT271 or STAT2371 or BIOL235(P) or BIOL2610(P) or PSY222 or PSY248(P) or PSYU2248(P)) and (10cp from FOSE1005 or MATH1000 or MATH1010-MATH1025 or MATH111-MATH339)"
+        "prereqs": "20cp at 2000 level including (STAT270 or STAT2170 or STAT271 or STAT2371 or BIOL235>= 50 or BIOL2610>= 50 or PSY222 or PSY248>= 50 or PSYU2248>= 50) and (10cp from FOSE1005 or MATH1000 or MATH1010-MATH1025 or MATH111-MATH339)"
     },
     "STAT6102": {
         "prereqs": "STAT6170 or STAT670"
@@ -7122,10 +7122,10 @@
         "prereqs": "Admission to MRes"
     },
     "STAT8111": {
-        "prereqs": "((Admission to MAppStat or MScInnovationStat or GradCertAppStat or GradDipAppStat or MDataSc) and ((STAT806 or STAT810 or STAT6110) and STAT6175)) or (admission to MMarScMgt or MConsBiol or GradDipConsBiol and (STAT830(Cr) or STAT8830(Cr))) or (Admission to MBusAnalytics and BUSA8000 and ECON8040))or (Admission to MActPrac and (STAT806 or STAT810 or STAT8310))"
+        "prereqs": "((Admission to MAppStat or MScInnovationStat or GradCertAppStat or GradDipAppStat or MDataSc) and ((STAT806 or STAT810 or STAT6110) and STAT6175)) or (admission to MMarScMgt or MConsBiol or GradDipConsBiol and (STAT830>= 65 or STAT8830>= 65)) or (Admission to MBusAnalytics and BUSA8000 and ECON8040))or (Admission to MActPrac and (STAT806 or STAT810 or STAT8310))"
     },
     "STAT8121": {
-        "prereqs": "((Admission to MAppStat or MSc or MScInnovationStat or GradCertAppStat or GradDipAppStat or MDataSc) and (STAT680 or STAT6180)) or (admission to MLabAQMgt or GradDipLabAQMgt or MMarScMgt or GradDipMarScMgt or MConsBiol or GradDipConsBiol and (STAT830(Cr) or STAT8830)) or (Admission to MBusAnalytics and ECON8040) or (Admission to MActPrac and (STAT806 or STAT810 or STAT8310))"
+        "prereqs": "((Admission to MAppStat or MSc or MScInnovationStat or GradCertAppStat or GradDipAppStat or MDataSc) and (STAT680 or STAT6180)) or (admission to MLabAQMgt or GradDipLabAQMgt or MMarScMgt or GradDipMarScMgt or MConsBiol or GradDipConsBiol and (STAT830>= 65 or STAT8830)) or (Admission to MBusAnalytics and ECON8040) or (Admission to MActPrac and (STAT806 or STAT810 or STAT8310))"
     },
     "STAT8122": {
         "prereqs": "((Admission to MAppStat or MSc or MScInnovation or GradCertAppStat or GradDipAppStat or MActPrac) and (STAT6110 or STAT806 or STAT810 or STAT8310)) or (Admission to BMathScMAppStat and permission by special approval)"
@@ -7209,13 +7209,13 @@
         "prereqs": "None"
     },
     "TELE3001": {
-        "prereqs": "((ELEC2040 or ELEC240 or MATH235 or MATH2055) and 130cp at 1000 level or above) or Admission to MEngNetTeleEng"
+        "prereqs": "((ELEC2040 or ELEC240 or MATH235 or MATH2055) and 130cp at 1000 level minimum) or Admission to MEngNetTeleEng"
     },
     "TELE3021": {
         "prereqs": "((ELEC2040 or ELEC240) and (MATH235 or MATH2055)and (TELE3001 or STAT394)) or admission to MEngElecEng or MEngNetTeleEng"
     },
     "TELE3350": {
-        "prereqs": "130cp at 1000 level or above or (COMP2250 or COMP247) or Admission to MEngNetTeleEng or MEngElecEng"
+        "prereqs": "130cp at 1000 level minimum or (COMP2250 or COMP247) or Admission to MEngNetTeleEng or MEngElecEng"
     },
     "TELE4081": {
         "prereqs": "(Admission to MEngNetTeleEng) or (Admission to MEngElecEng) or (TELE3350)"
@@ -7224,13 +7224,13 @@
         "prereqs": "200cp and (ELEC345 or TELE3350) and (ELEC321 or TELE3021) and (COMP347 or COMP3250)"
     },
     "TELE4093": {
-        "prereqs": "20cp at 4000 level or above"
+        "prereqs": "20cp at 4000 level minimum"
     },
     "TELE8081": {
         "prereqs": "Admission to MEngNetTeleEng"
     },
     "TELE8083": {
-        "prereqs": "(Admission to MEngNetTeleEng or Admission to MEngElecEng) and 30CP at 3000-level or above"
+        "prereqs": "(Admission to MEngNetTeleEng or Admission to MEngElecEng) and 30CP at 3000-level minimum"
     },
     "TELE8087": {
         "prereqs": "Admission to MEngElecEng"
@@ -7425,7 +7425,7 @@
         "prereqs": "None"
     },
     "WMAT1010": {
-        "prereqs": "(HSC Mathematics Band 3 and above or HSC Mathematics Advanced Band 3 and above or HSC Mathematics Extension 1 Band E2 and above or HSC Mathematics Extension 2) or WMAT1000 or WFMA003 or WFMA0003 or WMAT123 (HD) or MATH1000"
+        "prereqs": "(HSC Mathematics Band 3 minimum or HSC Mathematics Advanced Band 3 minimum or HSC Mathematics Extension 1 Band E2 minimum or HSC Mathematics Extension 2) or WMAT1000 or WFMA003 or WFMA0003 or WMAT123 >= 85 or MATH1000"
     },
     "WMAT1020": {
         "prereqs": "WMAT1010 or WMAT135"
@@ -7458,7 +7458,7 @@
         "prereqs": "None"
     },
     "WPHY1510": {
-        "prereqs": "(HSC Mathematics Band 3 and above or Extension 1 Band E2 and above or Extension 2) or WMAT1000 or WMAT123 (HD) or WFMA003 or WFMA0003"
+        "prereqs": "(HSC Mathematics Band 3 minimum or Extension 1 Band E2 minimum or Extension 2) or WMAT1000 or WMAT123 >= 85 or WFMA003 or WFMA0003"
     },
     "WPHY1520": {
         "prereqs": "WPHY1510 or WPHY140"

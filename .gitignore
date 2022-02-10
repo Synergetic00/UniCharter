@@ -1,2 +1,3 @@
-*.DS_Store
-/bot/config.json
+.DS_Store
+__pycache__/
+.vscode/
