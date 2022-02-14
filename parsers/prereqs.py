@@ -11,7 +11,7 @@ def splitPrereqs(prereq, tokens):
     output = []
     parsed = prereq
     parsed = parsed.replace('(or', 'or (') # fix a single error
-    parsed = re.sub(r' ?\(|\)| or | and ', '|', parsed)
+    parsed = re.sub(r' ?\(|\)| or | and | including', '|', parsed)
     parsed = parsed.split('|')
     output.append(parsed[0])
     for i in range(len(tokens)):
@@ -22,10 +22,14 @@ def splitPrereqs(prereq, tokens):
 
 highest = []
 
+def getParsedArr(prereqs):
+    tokens = re.findall(r'\)|\(| or | and | including', prereqs)
+    tokens = [token.strip() for token in tokens]
+    return splitPrereqs(prereqs, tokens)
+
 for entry in data.items():
     unitcode = entry[0]
     output[unitcode] = {}
-
     if 'prerequisite' in data[unitcode]:
         prereqs = entry[1]['prerequisite']
         # prevent parsing errors
@@ -35,17 +39,28 @@ for entry in data.items():
         prereqs = prereqs.replace('(Cr)', '>= 65')
         prereqs = prereqs.replace('(D)', '>= 75')
         prereqs = prereqs.replace('(HD)', '>= 85')
+        prereqs = prereqs.replace('(Hons)', ' - Honours ')
+        prereqs = prereqs.replace('(Prim)', ' - Primary ')
+        prereqs = prereqs.replace('(Sec)', ' - Secondary ')
+        prereqs = re.sub(r'  +', ' ', prereqs)
     else:
         output[unitcode]['prereqs'] = 'None'
         continue # don't go futher, nothing to analyse
-    tokens = re.findall(r'\)|\(| or | and ', prereqs)
-    tokens = [token.strip() for token in tokens]
-    arr = splitPrereqs(prereqs, tokens)
+    arr = getParsedArr(prereqs)
+    depth = 0
+    for element in arr:
+        if element == '(':
+            depth += 1
+        elif element == ')':
+            depth -= 1
+        else:
+            print(depth, element)
+    print()
     highest.append([len(arr), unitcode, arr])
     output[unitcode]['prereqs'] = prereqs
 
-sorted = sorted(highest, key=lambda x:x[0])
-print(sorted[-1][2])
+# sorted = sorted(highest, key=lambda x:x[0])
+# print(sorted[-1][2])
     
 with open('data/prereqs.json', 'w') as outfile:
     json.dump(output, outfile, indent=4, sort_keys=True)

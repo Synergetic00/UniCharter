@@ -252,7 +252,7 @@
         "prereqs": "None"
     },
     "ACST1052": {
-        "prereqs": "Admission to BActStud or BActStudBSc or BAppFinBActStud or BActStudBProfPrac or BActStudProfPrac(Hons)"
+        "prereqs": "Admission to BActStud or BActStudBSc or BAppFinBActStud or BActStudBProfPrac or BActStudProfPrac - Honours "
     },
     "ACST2001": {
         "prereqs": "50cp at 1000 level minimum including [(ACST101 or ACST1001) and (STAT150 or STAT1250 or STAT170 or STAT1170 or STAT171 or STAT1371)]"
@@ -261,10 +261,10 @@
         "prereqs": "(ACST101>= 65 or ACST1001>= 65 or WACT101>= 65 or WACT1001>= 65 or ACST152 or ACST1052) and (MATH133 or MATH1025)"
     },
     "ACST2052": {
-        "prereqs": "(Admission to BActStud or BActStudBSc or BAppFinBActStud or BActStudBProfPrac or BActStudBProfPrac(Hons)) and 40cp at 1000 level minimum"
+        "prereqs": "(Admission to BActStud or BActStudBSc or BAppFinBActStud or BActStudBProfPrac or BActStudBProfPrac - Honours ) and 40cp at 1000 level minimum"
     },
     "ACST2055": {
-        "prereqs": "(Admission to BActStud or BActStudBSc or BAppFinBActStud or BActStudBProfPrac or BActStudBProfPrac(Hons)) and (ACST152 or ACST1052) and (ACST202 or ACST2002) and (STAT272 or STAT2372)"
+        "prereqs": "(Admission to BActStud or BActStudBSc or BAppFinBActStud or BActStudBProfPrac or BActStudBProfPrac - Honours ) and (ACST152 or ACST1052) and (ACST202 or ACST2002) and (STAT272 or STAT2372)"
     },
     "ACST3006": {
         "prereqs": "(ACST202 or ACST2002) and (STAT272 or STAT2372)"
@@ -987,7 +987,7 @@
         "prereqs": "50cp at 2000 level minimum and permission by special approval"
     },
     "ARTS3500": {
-        "prereqs": "170cp at 1000 level minimum and (admission to BArts or BABEd(Prim) or BABEd(Sec))"
+        "prereqs": "170cp at 1000 level minimum and (admission to BArts or BABEd - Primary or BABEd - Secondary )"
     },
     "ARTX1000": {
         "prereqs": "None"
@@ -2286,16 +2286,16 @@
         "prereqs": "None"
     },
     "EDST2000": {
-        "prereqs": "80cp including (EDST100 or EDST1000) and (EDST1010 or EDST101) and (admission to BABEd(Prim) or BA-PsychBEd(Prim) or BABEd(Sec) or BScBEd(Sec) or BEd(Prim) or BEd(Sec))"
+        "prereqs": "80cp including (EDST100 or EDST1000) and (EDST1010 or EDST101) and (admission to BABEd - Primary or BA-PsychBEd - Primary or BABEd - Secondary or BScBEd - Secondary or BEd - Primary or BEd - Secondary )"
     },
     "EDST2010": {
         "prereqs": "80cp including (ECH113 or ECHE1130) and admission to BTeach(ECE)"
     },
     "EDST2100": {
-        "prereqs": "80cp including (EDST100 or EDST1000) and admission to (BABEd(Prim) or BA-PsychBEd(Prim) or BTeach(ECE) or BEd(Prim))"
+        "prereqs": "80cp including (EDST100 or EDST1000) and admission to (BABEd - Primary or BA-PsychBEd - Primary or BTeach(ECE) or BEd - Primary )"
     },
     "EDST2110": {
-        "prereqs": "80cp including (EDST100 or EDST1000) and (EDST101 or EDST1010) and admission to (BABEd(Prim) or BA-PsychBEd(Prim))"
+        "prereqs": "80cp including (EDST100 or EDST1000) and (EDST101 or EDST1010) and admission to (BABEd - Primary or BA-PsychBEd - Primary )"
     },
     "EDST2120": {
         "prereqs": "ECHE1130 or ECH113"
@@ -2322,13 +2322,13 @@
         "prereqs": "120cp at 1000 level minimum including (EDST2000 or EDST200) and (EDST2110 or EDST211)"
     },
     "EDST3140": {
-        "prereqs": "EDST200 or EDST2000 and ((130cp at 1000 level minimum) or (80cp at 1000 level minimum) and admission to BScBEd(Sec))"
+        "prereqs": "EDST200 or EDST2000 and ((130cp at 1000 level minimum) or (80cp at 1000 level minimum) and admission to BScBEd - Secondary )"
     },
     "EDST3160": {
         "prereqs": "(ECH315 OR ECHE3150 and admission to (BTeach(ECE))"
     },
     "EDST3170": {
-        "prereqs": "Admission to BABEd(Prim) or BEd(Prim)BPsych or BABEd(Sec) or BScBEd(Sec) or BComBEd(Sec) or BTeach(ECE) and 80cp at 1000 level minimum"
+        "prereqs": "Admission to BABEd - Primary or BEd - Primary BPsych or BABEd - Secondary or BScBEd - Secondary or BComBEd - Secondary or BTeach(ECE) and 80cp at 1000 level minimum"
     },
     "EDST4010": {
         "prereqs": "EDST3010 or EDST301"
@@ -2376,7 +2376,7 @@
         "prereqs": "160cp and (EDST3000 or EDST300 or EDST3010 or EDST301 or EDST3020 or EDST302)"
     },
     "EDST8000": {
-        "prereqs": "Admission to MEd or GradCertEdS or MEdLead or MHEd or GradCertHEd or MEChild or GradCertEChild or MTeach(0-5) or GradCertClinEdSim or MIndigenousEd or GradDipIndigenousEd or GradDipChildLit or MChildLit or MDisabilityStud or MTeach(Sec) or MInc&SpecEd"
+        "prereqs": "Admission to MEd or GradCertEdS or MEdLead or MHEd or GradCertHEd or MEChild or GradCertEChild or MTeach(0-5) or GradCertClinEdSim or MIndigenousEd or GradDipIndigenousEd or GradDipChildLit or MChildLit or MDisabilityStud or MTeach - Secondary or MInc&SpecEd"
     },
     "EDST8040": {
         "prereqs": "80cp from ECHE or EDCN or EDST or SPED units at 8000 level minimum"
@@ -2385,10 +2385,10 @@
         "prereqs": "Permission by special approval"
     },
     "EDST8200": {
-        "prereqs": "Admission to MTeach(Prim) or MTeach(Sec)"
+        "prereqs": "Admission to MTeach - Primary or MTeach - Secondary "
     },
     "EDST8201": {
-        "prereqs": "Admission to MTeach(Prim) or MTeach(Sec) or MEd or MEdLead or MEChild or MInc&SpecEd"
+        "prereqs": "Admission to MTeach - Primary or MTeach - Secondary or MEd or MEdLead or MEChild or MInc&SpecEd"
     },
     "EDST8203": {
         "prereqs": "None"
@@ -2490,25 +2490,25 @@
         "prereqs": "Admission to MSpecEd or GradDipSpecEd or MInc&SpecEd or GradDipInc&SpecEd or GradCertInc&SpecEd or MEd or GradCertEd or GradDipEdStud or GradCertEdStud"
     },
     "EDST8300": {
-        "prereqs": "Admission to MTeach(Prim) or MTeach(Sec) or MEd or MEdLead or MEChild or GradCertEdStud or GradCertEd"
+        "prereqs": "Admission to MTeach - Primary or MTeach - Secondary or MEd or MEdLead or MEChild or GradCertEdStud or GradCertEd"
     },
     "EDST8301": {
-        "prereqs": "Admission to MTeach (Birth to five) or MTeach(Prim) or MTeach(Sec) or MEd or MEdLead or MEChild or GradCertEdStud"
+        "prereqs": "Admission to MTeach (Birth to five) or MTeach - Primary or MTeach - Secondary or MEd or MEdLead or MEChild or GradCertEdStud"
     },
     "EDST8302": {
-        "prereqs": "Admission to MTeach(Prim) or MTeach(Sec) or MEd or GradCertEd or MEdLead or MHEd or GradCertHEd or MEChild or GradCertEChild or MTeach(0-5) or GradCertClinEdSim or MIndigenousEd or GradDipIndigenousEd or GradDipChildLit or MChildLit"
+        "prereqs": "Admission to MTeach - Primary or MTeach - Secondary or MEd or GradCertEd or MEdLead or MHEd or GradCertHEd or MEChild or GradCertEChild or MTeach(0-5) or GradCertClinEdSim or MIndigenousEd or GradDipIndigenousEd or GradDipChildLit or MChildLit"
     },
     "EDST8303": {
-        "prereqs": "(Admission MTeach(Sec) and EDST8200) or (Admission to MEdLead or MEChild or GradCertEdStud)"
+        "prereqs": "(Admission MTeach - Secondary and EDST8200) or (Admission to MEdLead or MEChild or GradCertEdStud)"
     },
     "EDST8304": {
-        "prereqs": "Admission to MTeach(Sec) or GradCertEd"
+        "prereqs": "Admission to MTeach - Secondary or GradCertEd"
     },
     "EDST8310": {
         "prereqs": "Admission to MEd or GradCertEdS or MEdLead or MHEd or GradCertHEd or MEChild or GradCertEChild or MTeach(0-5) or GradCertClinEdSim or MIndigenousEd or GradDipIndigenousEd or GradDipChildLit or MChildLit"
     },
     "EDST8312": {
-        "prereqs": "Admission to MEd or MEdLead or MEChild or MTeach(Sec) or GradCertEdStud"
+        "prereqs": "Admission to MEd or MEdLead or MEChild or MTeach - Secondary or GradCertEdStud"
     },
     "EDST8420": {
         "prereqs": "Admission to MEd or PGDipEdS or GradCertEdS or MEdLead or GradCertHEd or MEChild or GradCertEChild or MTeach(0-5) or GradCertClinEdSim or MIndigenousEd or GradDipIndigenousEd or GradDipChildLit or MChildLit or MPH or MSocEntre"
@@ -2517,7 +2517,7 @@
         "prereqs": "Admission to MEd or GradCertEdS or MEdLead or MHEd or GradCertHEd or MEChild or GradCertEChild or MTeach(0-5) or GradCertClinEdSim or MIndigenousEd or GradDipIndigenousEd or GradDipChildLit or MChildLit"
     },
     "EDST8650": {
-        "prereqs": "Admission to MEd or GradCertEdS or MEdLead or MHEd or GradCertHEd or MEChild or GradCertEChild or MTeach(0-5) or GradCertClinEdSim or MIndigenousEd or GradDipIndigenousEd or GradDipChildLit or MChildLit or MTeach(Prim) or MTeach(Sec)"
+        "prereqs": "Admission to MEd or GradCertEdS or MEdLead or MHEd or GradCertHEd or MEChild or GradCertEChild or MTeach(0-5) or GradCertClinEdSim or MIndigenousEd or GradDipIndigenousEd or GradDipChildLit or MChildLit or MTeach - Primary or MTeach - Secondary "
     },
     "EDST8990": {
         "prereqs": "Admission to MRes"
@@ -2544,10 +2544,10 @@
         "prereqs": "EDTE2510 or EDTE251"
     },
     "EDTE3010": {
-        "prereqs": "(Admission to BEd(Prim) and (EDUC258 or EDUC2580) and (EDUC260 or EDUC2600) and (EDUC267 or EDUC2670)) or (130cp including (EDUC258 or EDUC2580) and (EDUC260 or EDUC2600) and (EDUC267 or EDUC2670) and (EDTE353 or EDTE3530))"
+        "prereqs": "(Admission to BEd - Primary and (EDUC258 or EDUC2580) and (EDUC260 or EDUC2600) and (EDUC267 or EDUC2670)) or (130cp including (EDUC258 or EDUC2580) and (EDUC260 or EDUC2600) and (EDUC267 or EDUC2670) and (EDTE353 or EDTE3530))"
     },
     "EDTE3020": {
-        "prereqs": "Admission to BEd(Sec) or ((130cp at 1000 level minimum) including (EDUC105 or EDUC1050) and (EDUC106 or EDUC1060) and (EDUC267 or EDUC2670))"
+        "prereqs": "Admission to BEd - Secondary or ((130cp at 1000 level minimum) including (EDUC105 or EDUC1050) and (EDUC106 or EDUC1060) and (EDUC267 or EDUC2670))"
     },
     "EDTE3530": {
         "prereqs": "(EDUC258 or EDUC2580) and (EDUC260 or EDUC2600) and (EDUC267 or EDUC2670)"
@@ -2556,7 +2556,7 @@
         "prereqs": "EDTE353 or EDTE3530"
     },
     "EDTE3870": {
-        "prereqs": "Admission to BEd(Sec) or ((130cp at 1000 level minimum) including (EDUC1050 or EDUC105) and (EDUC106 or EDUC1060) and (EDUC267 or EDUC2670))"
+        "prereqs": "Admission to BEd - Secondary or ((130cp at 1000 level minimum) including (EDUC1050 or EDUC105) and (EDUC106 or EDUC1060) and (EDUC267 or EDUC2670))"
     },
     "EDTE3880": {
         "prereqs": "EDTE3870 or TEP387"
@@ -2568,7 +2568,7 @@
         "prereqs": "TEP401(S) or EDTE4010"
     },
     "EDTE4030": {
-        "prereqs": "Admission to BEd(Prim) and EDTE3010 or EDTE301 or EDTE3540 or EDTE354"
+        "prereqs": "Admission to BEd - Primary and EDTE3010 or EDTE301 or EDTE3540 or EDTE354"
     },
     "EDTE4040": {
         "prereqs": "(EDTE403 or EDTE4030(S)) and (EDTE455 or EDTE4550)"
@@ -2631,7 +2631,7 @@
         "prereqs": "20cp in LING units including 10cp from LING units at 2000 level minimum"
     },
     "EDTE4550": {
-        "prereqs": "(EDTE354 or EDTE3540) or (admission to BEd(Prim) and (EDTE301 or EDTE3010))"
+        "prereqs": "(EDTE354 or EDTE3540) or (admission to BEd - Primary and (EDTE301 or EDTE3010))"
     },
     "EDTE4560": {
         "prereqs": "(EDTE403 or EDTE4030) and (EDTE455 or EDTE4550)"
@@ -3585,7 +3585,7 @@
         "prereqs": "20cp from ANAT1001 or HLTH108 or BIOL1110 or BIOL115 or BIOL1210 or BIOL108"
     },
     "HLTH3050": {
-        "prereqs": "(120cp at 1000 level minimum including HLTH2000 or HLTH200) or (130cp and admission to BHumanSc or BPsychBHumanSc or BPsych(Hons)BHumanSc) or (30cp in EDUC or ECHE units at 3000 level) or (130cp including 80cp of PSYU units and admission to BSc) and permission by special approval."
+        "prereqs": "(120cp at 1000 level minimum including HLTH2000 or HLTH200) or (130cp and admission to BHumanSc or BPsychBHumanSc or BPsych - Honours BHumanSc) or (30cp in EDUC or ECHE units at 3000 level) or (130cp including 80cp of PSYU units and admission to BSc) and permission by special approval."
     },
     "HLTH3100": {
         "prereqs": "130cp at 1000 level minimum including HLTH200 or HLTH2000) or 130cp and admission to BHumanSc"
@@ -4053,7 +4053,7 @@
         "prereqs": "(Admission to JD and 80cp in LAWS or LAW units at 6000 level minimum including LAWS803 or LAWS8030) or (admission to LLM or MInTrdeComLaw)"
     },
     "LAWS8024": {
-        "prereqs": "(Admission to JD and 80cp in LAW or LAWS units at 6000 level minimum) or (admission to LLM or MIntTrdeComLaw or LLB(Hons))"
+        "prereqs": "(Admission to JD and 80cp in LAW or LAWS units at 6000 level minimum) or (admission to LLM or MIntTrdeComLaw or LLB - Honours )"
     },
     "LAWS8025": {
         "prereqs": "(Admission to JD and 80cp in LAW or LAWS units at 6000 level minimum)"
@@ -4272,7 +4272,7 @@
         "prereqs": "(HSC Advanced Mathematics Band 4 minimum or Extension 1 Band E2 minimum or Extension 2) or MATH130 or MATH1000 or WFMA003 or WFMA0003 or WMAT123 or WMAT1000"
     },
     "MATH1015": {
-        "prereqs": "(HSC Mathematics Extension 1 Band E3 minimum or HSC Mathematics Extension 2) or admission to BMathSci or BAdvSc in Advanced Mathematics or BActStud or BActStudBSc or BAppFinBActStud or BActStudBProfPrac or BActStudProfPrac(Hons)"
+        "prereqs": "(HSC Mathematics Extension 1 Band E3 minimum or HSC Mathematics Extension 2) or admission to BMathSci or BAdvSc in Advanced Mathematics or BActStud or BActStudBSc or BAppFinBActStud or BActStudBProfPrac or BActStudProfPrac - Honours "
     },
     "MATH1020": {
         "prereqs": "MATH1010 or MATH1015 or MATH132 or MATH135"
@@ -4641,7 +4641,7 @@
         "prereqs": "150cp at 1000 level minimum including (HRM317 or MGMT3017)"
     },
     "MGMT3060": {
-        "prereqs": "(Admission to BBA or BBABA or BBABA-Psych or BBABCom-ProfAccg or BBABPsych(Hons) or BBALLB) and 140cp at 1000 level minimum including ((BUS201 or MGMT1005) and (BBA350 or MGMT3050) and (10cp in LAWS units at 2000 level or BUSL250 or BUSL251 or ACCG2051))"
+        "prereqs": "(Admission to BBA or BBABA or BBABA-Psych or BBABCom-ProfAccg or BBABPsych - Honours or BBALLB) and 140cp at 1000 level minimum including ((BUS201 or MGMT1005) and (BBA350 or MGMT3050) and (10cp in LAWS units at 2000 level or BUSL250 or BUSL251 or ACCG2051))"
     },
     "MGMT3901": {
         "prereqs": "Admission to BBusLeadCom and (MGMT303 or MGMT3903) and (MGMT306 or MGMT3906)"
@@ -6273,10 +6273,10 @@
         "prereqs": "Admission to MPSP"
     },
     "PROF1000": {
-        "prereqs": "(Admission to BProfPrac or BActStudProfPrac(Hons)) or permission by special approval"
+        "prereqs": "(Admission to BProfPrac or BActStudProfPrac - Honours ) or permission by special approval"
     },
     "PROF2000": {
-        "prereqs": "(Admission to BProfPrac or BActStudProfPrac(Hons)) or permission by special approval"
+        "prereqs": "(Admission to BProfPrac or BActStudProfPrac - Honours ) or permission by special approval"
     },
     "PROF3000": {
         "prereqs": "20cp at 2000 level minimum including PROF2000"
@@ -6594,7 +6594,7 @@
         "prereqs": "((PSYC104 or PSYU1104 or PSYX104 or PSYX1104) and (PSYC105 or PSYU1105 or PSYX105 or PSYX1105)) OR ((PSYU1101 or PSYX1101) and (PSYU1102 or PSYX1102) and (STAT1103 or STAX1103))"
     },
     "PSYU2235": {
-        "prereqs": "((PSYC104 or PSYU1104 or PSYX104 or PSYX1104 or PSYU1101 or PSYX1101) and (PSYC105 or PSYU1105 or PSYX105 or PSYX1105 or PSYU1102 or PSYX1102)) or ((PSYC104 or PSYU1104 or PSYX104 or PSYC1104 or PSYU1101 or PSYX1101) and admission to (BPsychLLB or LLBBPsych(Hons) or BEd(Prim)BPsych or BSpHScBPsych or BSpHScBPsych(Hons) or DipSphComm)"
+        "prereqs": "((PSYC104 or PSYU1104 or PSYX104 or PSYX1104 or PSYU1101 or PSYX1101) and (PSYC105 or PSYU1105 or PSYX105 or PSYX1105 or PSYU1102 or PSYX1102)) or ((PSYC104 or PSYU1104 or PSYX104 or PSYC1104 or PSYU1101 or PSYX1101) and admission to (BPsychLLB or LLBBPsych - Honours or BEd - Primary BPsych or BSpHScBPsych or BSpHScBPsych - Honours or DipSphComm)"
     },
     "PSYU2236": {
         "prereqs": "((PSYC104 or PSYU1104 or PSYX104 or PSYX1104) and (PSYC105 or PSYU1105 or PSYX105 or PSYX1105)) or (PSYU1101 or PSYX1101) and (PSYU1102 or PSYX1102) and (STAT1103 or STAX1103)) or ((COGS100 or COGS1000) or (MEDI204 or MEDI2300) or (BIOL204 or BIOL2230) and (STAT170 or STAT1170))"
@@ -6630,10 +6630,10 @@
         "prereqs": "20cp at 2000 level including (PSY236 or PSYU2236 or PSYX236 or PSYX2236) or (PSY246 or PSYU2246 or PSYX246 or PSYX2246) or (PSY247 or PSYU2247 or PSYX247 or PSYX2247) or (BIOL257 or BIOL2230) or (HLTH214 or ANAT2004) or (MEDI204 or MEDI2300)"
     },
     "PSYU3349": {
-        "prereqs": "((Admission to BPsych(Hons) and 60cp in PSY or PSYU or PSYX units at 2000 level including (PSY248 or PSYU2248 or PSYX248 or PSYX2248)) OR ((60cp from PSY234 or PSYU2234 or PSYX234 or PSYX2234 or PSY235 or PSYU2235 or PSYX235 or PSYX2235 or PSY236 or PSYU2236 or PSYX236 or PSYX2236 or PSY246 or PSYU2246 or PSYX246 or PSYX2246 or PSY247 or PSYU2247 or PSYX247 or PSYX2247 or PSY248 or PSYU2248 or PSYX248 or PSYX2248) and (30p>= 65 from PSY234 or PSYU2234 or PSYX234 or PSYX2234 or PSY235 or PSYU2235 or PSYX235 or PSYX2235 or PSY236 or PSYU2236 or PSYX236 or PSYX2236 or PSY246 or PSYU2246 or PSYX246 or PSYX2246 or PSY247 or PSYU2247 or PSYX247 or PSYX2247 or PSY248 or PSYU2248 or PSYX248 or PSYX2248))"
+        "prereqs": "((Admission to BPsych - Honours and 60cp in PSY or PSYU or PSYX units at 2000 level including (PSY248 or PSYU2248 or PSYX248 or PSYX2248)) OR ((60cp from PSY234 or PSYU2234 or PSYX234 or PSYX2234 or PSY235 or PSYU2235 or PSYX235 or PSYX2235 or PSY236 or PSYU2236 or PSYX236 or PSYX2236 or PSY246 or PSYU2246 or PSYX246 or PSYX2246 or PSY247 or PSYU2247 or PSYX247 or PSYX2247 or PSY248 or PSYU2248 or PSYX248 or PSYX2248) and (30p>= 65 from PSY234 or PSYU2234 or PSYX234 or PSYX2234 or PSY235 or PSYU2235 or PSYX235 or PSYX2235 or PSY236 or PSYU2236 or PSYX236 or PSYX2236 or PSY246 or PSYU2246 or PSYX246 or PSYX2246 or PSY247 or PSYU2247 or PSYX247 or PSYX2247 or PSY248 or PSYU2248 or PSYX248 or PSYX2248))"
     },
     "PSYU3351": {
-        "prereqs": "((Admission to BPsych(Hons) and 60cp in PSY or PSYU or PSYX units at 2000 level including (PSY248 or PSYU2248 or PSYX248 or PSYX2248)) OR ((60cp from PSY234 or PSYU2234 or PSYX234 or PSYX2234 or PSY235 or PSYU2235 or PSYX235 or PSYX2235 or PSY236 or PSYU2236 or PSYX236 or PSYX2236 or PSY246 or PSYU2246 or PSYX246 or PSYX2246 or PSY247 or PSYU2247 or PSYX247 or PSYX2247 or PSY248 or PSYU2248 or PSYX248 or PSYX2248) and (30p>= 65 from PSY234 or PSYU2234 or PSYX234 or PSYX2234 or PSY235 or PSYU2235 or PSYX235 or PSYX2235 or PSY236 or PSYU2236 or PSYX236 or PSYX2236 or PSY246 or PSYU2246 or PSYX246 or PSYX2246 or PSY247 or PSYU2247 or PSYX247 or PSYX2247 or PSY248 or PSYU2248 or PSYX248 or PSYX2248))"
+        "prereqs": "((Admission to BPsych - Honours and 60cp in PSY or PSYU or PSYX units at 2000 level including (PSY248 or PSYU2248 or PSYX248 or PSYX2248)) OR ((60cp from PSY234 or PSYU2234 or PSYX234 or PSYX2234 or PSY235 or PSYU2235 or PSYX235 or PSYX2235 or PSY236 or PSYU2236 or PSYX236 or PSYX2236 or PSY246 or PSYU2246 or PSYX246 or PSYX2246 or PSY247 or PSYU2247 or PSYX247 or PSYX2247 or PSY248 or PSYU2248 or PSYX248 or PSYX2248) and (30p>= 65 from PSY234 or PSYU2234 or PSYX234 or PSYX2234 or PSY235 or PSYU2235 or PSYX235 or PSYX2235 or PSY236 or PSYU2236 or PSYX236 or PSYX2236 or PSY246 or PSYU2246 or PSYX246 or PSYX2246 or PSY247 or PSYU2247 or PSYX247 or PSYX2247 or PSY248 or PSYU2248 or PSYX248 or PSYX2248))"
     },
     "PSYU3352": {
         "prereqs": "(PSY248 or PSYU2248 or PSYX248 or PSYX2248) and (PSY236 or PSYU2236 or PSYX236 or PSYX2236)"
@@ -6663,7 +6663,7 @@
         "prereqs": "((PSYC104 or PSYU1104 or PSYX104 or PSYX1104) and (PSYC105 or PSYU1105 or PSYX105 or PSYX1105)) OR ((PSYU1101 or PSYX1101) and (PSYU1102 or PSYX1102) and (STAT1103 or STAX1103))"
     },
     "PSYX2235": {
-        "prereqs": "((PSYC104 or PSYU1104 or PSYX104 or PSYX1104 or PSYU1101 or PSYX1101) and (PSYC105 or PSYU1105 or PSYX105 or PSYX1105 or PSYU1102 or PSYX1102)) or ((PSYC104 or PSYU1104 or PSYX104 or PSYC1104 or PSYU1101 or PSYX1101) and admission to (BPsychLLB or LLBBPsych(Hons) or BEd(Prim)BPsych or BSpHScBPsych or BSpHScBPsych(Hons) or DipSphComm)"
+        "prereqs": "((PSYC104 or PSYU1104 or PSYX104 or PSYX1104 or PSYU1101 or PSYX1101) and (PSYC105 or PSYU1105 or PSYX105 or PSYX1105 or PSYU1102 or PSYX1102)) or ((PSYC104 or PSYU1104 or PSYX104 or PSYC1104 or PSYU1101 or PSYX1101) and admission to (BPsychLLB or LLBBPsych - Honours or BEd - Primary BPsych or BSpHScBPsych or BSpHScBPsych - Honours or DipSphComm)"
     },
     "PSYX2236": {
         "prereqs": "((PSYC104 or PSYU1104 or PSYX104 or PSYX1104) and (PSYC105 or PSYU1105 or PSYX105 or PSYX1105)) or (PSYU1101 or PSYX1101) and (PSYU1102 or PSYX1102) and (STAT1103 or STAX1103)) or ((COGS100 or COGS1000) or (MEDI204 or MEDI2300) or (BIOL204 or BIOL2230) and (STAT170 or STAT1170))"
@@ -7035,7 +7035,7 @@
         "prereqs": "None"
     },
     "STAT1371": {
-        "prereqs": "(HSC Mathematics Extension 1 or Extension 2) or (10cp from MATH1000 or MATH1010-MATH1025 or MATH130-MATH136) or admission to BActStud or BActStudBSc or BAppFinBActStud or BActStudBProfPrac or BActStudProfPrac(Hons) or BMathSc"
+        "prereqs": "(HSC Mathematics Extension 1 or Extension 2) or (10cp from MATH1000 or MATH1010-MATH1025 or MATH130-MATH136) or admission to BActStud or BActStudBSc or BAppFinBActStud or BActStudBProfPrac or BActStudProfPrac - Honours or BMathSc"
     },
     "STAT1378": {
         "prereqs": "STAT1371 or STAT171 or STAT1170 or STAT170 or FOSE1015 or FOSX1015"
