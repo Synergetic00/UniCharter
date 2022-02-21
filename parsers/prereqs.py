@@ -63,21 +63,33 @@ for entry in data.items():
     # highest.append([len(arr), unitcode, arr])
     # output[unitcode]['prereqs'] = prereqs
 
+# from ast import literal_eval
+import json
+
 def getDepthParsedArr(arr):
-    output = []
-    depth = 0
-    for element in arr:
-        if element == '(':
-            current = []
-            depth += 1
-        elif element == ')':
-            print(current)
-            current = []
-            depth -= 1
-        else:
-            current.append(element)
-            print(depth, element)
+    strconv = str(arr)
+    strconv = strconv.replace('\'(\'','[')
+    strconv = strconv.replace('\')\'',']')
+    strconv = strconv.replace('\'', '"')
+    strconv = strconv.replace('[, [', '[[')
+    strconv = strconv.replace('[, "', '["')
+    strconv = strconv.replace(', ]', ']')
+    output = json.loads(strconv)
     return output
+    # output = []
+    # depth = 0
+    # for element in arr:
+    #     if element == '(':
+    #         current = []
+    #         depth += 1
+    #     elif element == ')':
+    #         print(current)
+    #         current = []
+    #         depth -= 1
+    #     else:
+    #         current.append(element)
+    #         print(depth, element)
+    # return output
 
 arr = getParsedArr('((ELEC2040 or ELEC240) and (MATH235 or MATH2055)and (TELE3001 or STAT394)) or admission to MEngElecEng or MEngNetTeleEng')
 print(getDepthParsedArr(arr))
