@@ -20,51 +20,11 @@ def splitPrereqs(prereq, tokens):
     output = list(filter(None, output))
     return output
 
-highest = []
-
 def getParsedArr(prereqs):
-    tokens = re.findall(r'\)|\(| or | and | including', prereqs)
+    lowered = str(prereqs).lower()
+    tokens = re.findall(r'\)|\(| or | and | including', lowered)
     tokens = [token.strip() for token in tokens]
     return splitPrereqs(prereqs, tokens)
-
-for entry in data.items():
-    unitcode = entry[0]
-    output[unitcode] = {}
-    if 'prerequisite' in data[unitcode]:
-        prereqs = entry[1]['prerequisite']
-        # prevent parsing errors
-        prereqs = prereqs.replace('and above', 'minimum')
-        prereqs = prereqs.replace('or above', 'minimum')
-        prereqs = prereqs.replace('(P)', '>= 50')
-        prereqs = prereqs.replace('(Cr)', '>= 65')
-        prereqs = prereqs.replace('(D)', '>= 75')
-        prereqs = prereqs.replace('(HD)', '>= 85')
-        prereqs = prereqs.replace('(Hons)', ' - Honours ')
-        prereqs = prereqs.replace('(Prim)', ' - Primary ')
-        prereqs = prereqs.replace('(Sec)', ' - Secondary ')
-        prereqs = re.sub(r'  +', ' ', prereqs)
-    else:
-        output[unitcode]['prereqs'] = 'None'
-        continue # don't go futher, nothing to analyse
-    output[unitcode]['prereqs'] = prereqs
-    # arr = getParsedArr(prereqs)
-    # depth = 0
-    # result = []
-    # current = []
-    # for element in arr:
-    #     if element == '(':
-    #         depth += 1
-    #     elif element == ')':
-    #         depth -= 1
-    #     else:
-    #         current.append(element)
-    #         print(depth, element)
-    # print(result)
-    # highest.append([len(arr), unitcode, arr])
-    # output[unitcode]['prereqs'] = prereqs
-
-# from ast import literal_eval
-import json
 
 def getDepthParsedArr(arr):
     strconv = str(arr)
@@ -74,28 +34,49 @@ def getDepthParsedArr(arr):
     strconv = strconv.replace('[, [', '[[')
     strconv = strconv.replace('[, "', '["')
     strconv = strconv.replace(', ]', ']')
-    output = json.loads(strconv)
+    strconv = strconv.replace('[, [', '[[')
+    # print(strconv)
+    output = list(json.loads(strconv))
     return output
-    # output = []
-    # depth = 0
-    # for element in arr:
-    #     if element == '(':
-    #         current = []
-    #         depth += 1
-    #     elif element == ')':
-    #         print(current)
-    #         current = []
-    #         depth -= 1
-    #     else:
-    #         current.append(element)
-    #         print(depth, element)
-    # return output
 
-arr = getParsedArr('((ELEC2040 or ELEC240) and (MATH235 or MATH2055)and (TELE3001 or STAT394)) or admission to MEngElecEng or MEngNetTeleEng')
-print(getDepthParsedArr(arr))
+for entry in data.items():
+    unitcode = entry[0]
+    output[unitcode] = {}
+    if 'prerequisite' in data[unitcode]:
+        prereqs = entry[1]['prerequisite']
+        # prevent parsing errors
+        prereqs = prereqs.replace('and above', 'minimum')
+        prereqs = prereqs.replace('or above', 'minimum')
+        prereqs = prereqs.replace('(P)', ' >= 50')
+        prereqs = prereqs.replace('(Cr)', ' >= 65')
+        prereqs = prereqs.replace('(D)', ' >= 75')
+        prereqs = prereqs.replace('(HD)', ' >= 85')
+        prereqs = prereqs.replace('(S)', ' - S')
+        prereqs = prereqs.replace('(Hons)', ' - Honours ')
+        prereqs = prereqs.replace('(Prim)', ' - Primary ')
+        prereqs = prereqs.replace('(Sec)', ' - Secondary ')
+        prereqs = prereqs.replace('(0-12)', ' - BirthTo12 ')
+        prereqs = prereqs.replace('(ECE)', ' - EarlyChildhood ')
+        prereqs = prereqs.replace('OR', 'or')
+        prereqs = prereqs.replace('AND', 'and')
+        # single parsing errors
+        prereqs = prereqs.replace('(TEP401', '((TEP401')
+        prereqs = prereqs.replace('(((TEP401', '((TEP401')
+        prereqs = prereqs.replace('(BTeach - EarlyChildhood )', '(BTeach - EarlyChildhood))') # EDST3160
+        prereqs = prereqs.replace('(BIOL8770 or BIOL877) or BIOL8870 or BIOL887)', '(BIOL8770 or BIOL877) or (BIOL8870 or BIOL887)') # BIOL8710
+        prereqs = prereqs.replace('(ANTH150 or ANTH1050) or (40cp at 1000 level minimum', '(ANTH150 or ANTH1050) or 40cp at 1000 level minimum') # ANTH2003
+        prereqs = re.sub(r'  +', ' ', prereqs)
+    else:
+        output[unitcode]['prereqs'] = 'None'
+        continue # don't go futher, nothing to analyse
+    output[unitcode]['prereqs'] = prereqs
+    # print(unitcode)
+    try:
+        arr = getParsedArr(prereqs)
+        depthArr = getDepthParsedArr(arr)
+    except:
+        print('Error: ' + unitcode)
+    # output[unitcode]['prereqs'] = depthArr
 
-# sorted = sorted(highest, key=lambda x:x[0])
-# print(sorted[-1][2])
-    
 with open('data/prereqs.json', 'w') as outfile:
     json.dump(output, outfile, indent=4, sort_keys=True)
