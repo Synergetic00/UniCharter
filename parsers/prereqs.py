@@ -46,18 +46,41 @@ for entry in data.items():
     else:
         output[unitcode]['prereqs'] = 'None'
         continue # don't go futher, nothing to analyse
-    arr = getParsedArr(prereqs)
+    output[unitcode]['prereqs'] = prereqs
+    # arr = getParsedArr(prereqs)
+    # depth = 0
+    # result = []
+    # current = []
+    # for element in arr:
+    #     if element == '(':
+    #         depth += 1
+    #     elif element == ')':
+    #         depth -= 1
+    #     else:
+    #         current.append(element)
+    #         print(depth, element)
+    # print(result)
+    # highest.append([len(arr), unitcode, arr])
+    # output[unitcode]['prereqs'] = prereqs
+
+def getDepthParsedArr(arr):
+    output = []
     depth = 0
     for element in arr:
         if element == '(':
+            current = []
             depth += 1
         elif element == ')':
+            print(current)
+            current = []
             depth -= 1
         else:
+            current.append(element)
             print(depth, element)
-    print()
-    highest.append([len(arr), unitcode, arr])
-    output[unitcode]['prereqs'] = prereqs
+    return output
+
+arr = getParsedArr('((ELEC2040 or ELEC240) and (MATH235 or MATH2055)and (TELE3001 or STAT394)) or admission to MEngElecEng or MEngNetTeleEng')
+print(getDepthParsedArr(arr))
 
 # sorted = sorted(highest, key=lambda x:x[0])
 # print(sorted[-1][2])
