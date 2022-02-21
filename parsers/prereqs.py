@@ -60,11 +60,27 @@ for entry in data.items():
         prereqs = prereqs.replace('OR', 'or')
         prereqs = prereqs.replace('AND', 'and')
         # single parsing errors
-        prereqs = prereqs.replace('(TEP401', '((TEP401')
-        prereqs = prereqs.replace('(((TEP401', '((TEP401')
-        prereqs = prereqs.replace('(BTeach - EarlyChildhood )', '(BTeach - EarlyChildhood))') # EDST3160
-        prereqs = prereqs.replace('(BIOL8770 or BIOL877) or BIOL8870 or BIOL887)', '(BIOL8770 or BIOL877) or (BIOL8870 or BIOL887)') # BIOL8710
         prereqs = prereqs.replace('(ANTH150 or ANTH1050) or (40cp at 1000 level minimum', '(ANTH150 or ANTH1050) or 40cp at 1000 level minimum') # ANTH2003
+        prereqs = prereqs.replace('(BIOL8770 or BIOL877) or BIOL8870 or BIOL887)', '(BIOL8770 or BIOL877) or (BIOL8870 or BIOL887)') # BIOL8710
+        prereqs = prereqs.replace('(BTeach - EarlyChildhood )', '(BTeach - EarlyChildhood))') # EDST3160
+        prereqs = prereqs.replace('(TEP401 or EDTE4010 - S)', '((TEP401 or EDTE4010 - S)') # EDTE4260
+        prereqs = prereqs.replace('(((TEP401 or EDTE4010 - S)', '((TEP401 or EDTE4010 - S)')
+        prereqs = prereqs.replace('((ELCT3005 or ELEC395)', '(ELCT3005 or ELEC395)') # ELEC4092
+        prereqs = prereqs.replace('130cp at 1000 level minimum including HLTH200 or HLTH2000) or 130cp and admission to BHumanSc', '(130cp at 1000 level minimum including HLTH200 or HLTH2000) or (130cp and admission to BHumanSc)') # HLTH3100
+        # LAWS5023 - (MMCC2014 or MAS214) or (BUSL250 and BUSL301), (MMCC2014 or MAS214) or BUSL250 and BUSL301)
+        # LAWS5036
+        # LAWS8018
+        # PSYU2235
+        # PSYU2236
+        # PSYU3349
+        # PSYU3351
+        # PSYU3399
+        # PSYX2235
+        # PSYX2236
+        # SPED8901
+        # STAT3102
+        # STAT8111
+        prereqs = prereqs.replace('(((TEP401', '((TEP401')
         prereqs = re.sub(r'  +', ' ', prereqs)
     else:
         output[unitcode]['prereqs'] = 'None'

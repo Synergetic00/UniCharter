@@ -2583,7 +2583,7 @@
         "prereqs": "130cp at 1000 level minimum including ((EDTE3870 or TEP387) or (EDST3140 and EDST3010))"
     },
     "EDTE4220": {
-        "prereqs": "EDTE4210 and ((TEP401 or EDTE4010 - S or EDST3010)"
+        "prereqs": "EDTE4210 and (TEP401 or EDTE4010 - S or EDST3010)"
     },
     "EDTE4230": {
         "prereqs": "130cp and (EDTE3870 or TEP387) or (EDST3140 and EDST3010)"
