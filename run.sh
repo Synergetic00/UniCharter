@@ -1,4 +1,4 @@
-FORCE_UPDATE=false
+FORCE_UPDATE=true
 
 pyrun() {
     if [ "$(uname)" == "Darwin" ]; then

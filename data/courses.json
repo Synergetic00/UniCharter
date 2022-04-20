@@ -6280,20 +6280,20 @@
         "offered_by_an_external_provider": "false",
         "offerings": {
             "o0": {
-                "location": "North Ryde",
+                "location": "Off-campus",
                 "period": "Session 2"
             },
             "o1": {
                 "location": "Off-campus",
-                "period": "Session 2"
+                "period": "Session 1"
             },
             "o2": {
-                "location": "Off-campus",
+                "location": "North Ryde",
                 "period": "Session 1"
             },
             "o3": {
                 "location": "North Ryde",
-                "period": "Session 1"
+                "period": "Session 2"
             }
         },
         "outcomes": {
@@ -8044,11 +8044,11 @@
         "offerings": {
             "o0": {
                 "location": "North Ryde",
-                "period": "Session 2"
+                "period": "Session 1"
             },
             "o1": {
                 "location": "North Ryde",
-                "period": "Session 1"
+                "period": "Session 2"
             }
         },
         "title": "Master of Research (Science and Engineering)",
@@ -9317,7 +9317,7 @@
         },
         "overview": "The aim of this course is to provide access to select units in the field of Engineering that constitute foundational study for individuals impacted by the COVID-19 emergency. Successful completion of the Certificate provides candidates with a possible articulation pathway to further study in Higher Education.",
         "title": "Undergraduate Certificate of Engineering",
-        "type": "Diploma",
+        "type": "Undergraduate Certificate",
         "volume": "Equivalent to 0.5 years",
         "work_based_training_component": "false"
     },
@@ -9364,7 +9364,7 @@
         },
         "overview": "The aim of this course is to provide access to select units in the field of Information Technology that constitute foundational study for individuals impacted by the COVID-19 emergency. Successful completion of the Certificate provides candidates with a possible articulation pathway to further study in Higher Education.",
         "title": "Undergraduate Certificate of Information Technology",
-        "type": "Diploma",
+        "type": "Undergraduate Certificate",
         "volume": "Equivalent to 0.5 years",
         "work_based_training_component": "false"
     },
@@ -9411,7 +9411,7 @@
         },
         "overview": "The aim of this course is to provide access to select units in the field of Business Analytics that constitute foundational study for individuals impacted by the COVID-19 emergency. Successful completion of the Certificate provides candidates with a possible articulation pathway to further study in Higher Education.",
         "title": "Undergraduate Certificate of Business Analytics",
-        "type": "Diploma",
+        "type": "Undergraduate Certificate",
         "volume": "Equivalent to 0.5 years",
         "work_based_training_component": "false"
     },
@@ -9892,7 +9892,7 @@
         },
         "overview": "The aim of this course is to provide access to select units in the field of Game Design that constitute foundational study. Successful completion of the Certificate provides candidates with a possible articulation pathway to further study in Higher Education, including Diploma and Bachelor Degree options.",
         "title": "Undergraduate Certificate of Game Design",
-        "type": "Diploma",
+        "type": "Undergraduate Certificate",
         "volume": "Equivalent to 0.5 years",
         "work_based_training_component": "false"
     },
@@ -9939,7 +9939,7 @@
         },
         "overview": "The aim of this course is to provide access to select units in the field of Cyber Security that constitute foundational study. Successful completion of the Certificate provides candidates with a possible articulation pathway to further study in Higher Education, including Diploma and Bachelor Degree options.",
         "title": "Undergraduate Certificate of Cyber Security",
-        "type": "Diploma",
+        "type": "Undergraduate Certificate",
         "volume": "Equivalent to 0.5 years",
         "work_based_training_component": "false"
     },
@@ -9986,7 +9986,7 @@
         },
         "overview": "The aim of this course is to provide access to select units in the field of Accounting that constitute foundational study. Successful completion of the Certificate provides candidates with a possible articulation pathway to further study in Higher Education, including Diploma and Bachelor Degree options.",
         "title": "Undergraduate Certificate of Accounting",
-        "type": "Diploma",
+        "type": "Undergraduate Certificate",
         "volume": "Equivalent to 0.5 years",
         "work_based_training_component": "false"
     },
@@ -10032,7 +10032,7 @@
         },
         "overview": "The aim of this course is to provide access to select units in the field of Finance that constitute foundational study. Successful completion of the Certificate provides candidates with a possible articulation pathway to further study in Higher Education, including Diploma and Bachelor Degree options.",
         "title": "Undergraduate Certificate of Finance",
-        "type": "Diploma",
+        "type": "Undergraduate Certificate",
         "volume": "Equivalent to 0.5 years",
         "work_based_training_component": "false"
     },
@@ -10071,7 +10071,7 @@
         },
         "overview": "The aim of this course is to provide access to select units in the field of Actuarial Studies that constitute foundational study. Successful completion of the Certificate provides candidates with a possible articulation pathway to further study in Higher Education, including Diploma and Bachelor Degree options.",
         "title": "Undergraduate Certificate of Actuarial Studies",
-        "type": "Diploma",
+        "type": "Undergraduate Certificate",
         "volume": "Equivalent to 0.5 years",
         "work_based_training_component": "false"
     },
@@ -10118,7 +10118,7 @@
         },
         "overview": "The aim of this course is to provide access to select units in the field of Business that constitute foundational study. Successful completion of the Certificate provides candidates with a possible articulation pathway to further study in Higher Education, including Diploma and Bachelor Degree options.",
         "title": "Undergraduate Certificate of Business",
-        "type": "Diploma",
+        "type": "Undergraduate Certificate",
         "volume": "Equivalent to 0.5 years",
         "work_based_training_component": "false"
     },
@@ -10165,7 +10165,7 @@
         },
         "overview": "The aim of this course is to provide access to select units in the field of Marketing that constitute foundational study. Successful completion of the Certificate provides candidates with a possible articulation pathway to further study in Higher Education, including Diploma and Bachelor Degree options.",
         "title": "Undergraduate Certificate of Marketing",
-        "type": "Diploma",
+        "type": "Undergraduate Certificate",
         "volume": "Equivalent to 0.5 years",
         "work_based_training_component": "false"
     },
@@ -10212,7 +10212,7 @@
         },
         "overview": "The aim of this course is to provide access to select units in the field of Media that constitute foundational study. Successful completion of the Certificate provides candidates with a possible articulation pathway to further study in Higher Education, including Diploma and Bachelor Degree options.",
         "title": "Undergraduate Certificate of Media",
-        "type": "Diploma",
+        "type": "Undergraduate Certificate",
         "volume": "Equivalent to 0.5 years",
         "work_based_training_component": "false"
     },
@@ -10258,7 +10258,7 @@
         },
         "overview": "The aim of this course is to provide access to select units in the field of Humanities that constitute foundational study. Successful completion of the Certificate provides candidates with a possible articulation pathway to further study in Higher Education, including Diploma and Bachelor Degree options.",
         "title": "Undergraduate Certificate of Humanities",
-        "type": "Diploma",
+        "type": "Undergraduate Certificate",
         "volume": "Equivalent to 0.5 years",
         "work_based_training_component": "false"
     },
